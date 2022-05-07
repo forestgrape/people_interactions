@@ -1,8 +1,13 @@
 
 # Invasion of Russia into the Ukraine
 
+
+
 * [Board](#board)
-  * [Situation per 7.5.22](#situation-per-7522)
+  * [Military, diplomatic, economical and scientific Perspectives](#military-diplomatic-economical-and-scientific-perspectives)
+  * [Diplomacy and Compromises from All Parties are likely the best Way out](#diplomacy-and-compromises-from-all-parties-are-likely-the-best-way-out)
+  * [Keeping Civilians out](#keeping-civilians-out)
+  * [Cease-Fire](#cease-fire)
 * [Notes](#notes)
 * [New Content and Updates](#new-content-and-updates)
 * [Paths to Peace](#paths-to-peace)
@@ -25,7 +30,8 @@
 
 
 ## Board
-### Negotiation Positions and military and economic/scientific Perspectives, 7.5.22
+### Military, diplomatic, economical and scientific Perspectives
+7.5.22
 After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and central and western European countries) are likely more important for Russia than some territory.
