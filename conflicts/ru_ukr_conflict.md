@@ -25,7 +25,7 @@
 
 
 ## Board
-### Situation per 7.5.22
+### Negotiation Positions and military and economic/scientific Perspectives, 7.5.22
 After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and central and western European countries) are likely more important for Russia than some territory.
@@ -34,6 +34,31 @@ Broad Russian advances are less likely since the Ukrainian defenses are strong (
 From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent exodus of skilled workers respectively of the young generation which will significantly blow their scientific and economic capabilities (and thereby also the military capabilities) for the coming decades. A soon peace likely would stop or even reverse the exodus since most emigrants are not yet settled.
 
 
+
+### Diplomacy and Compromises from All Parties are likely the best Way out
+> 7.3.2022 [in consideration]
+
+<!--
+[in consideration/thinking]
+> 'best' in the sense of - given the current situation - an optimal/least bad outcome for all the people. 
+> An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
+-->
+
+
+### Keeping Civilians out
+> 7.3.2022 (18./26.3. formulations adapted)
+> Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
+> 
+> Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open. 
+
+
+### Cease-Fire
+> 24.2.2022 (formulations 7./16./26.3. adapted)
+> A ceasefire and stop of all military actions are important to empower diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
+> <br>
+> There seems to be a consensus in belief that *the people of the Ukraine are innocent*.
+> <br>
+> *We all - everyone - are endowed with the same human rights*.
 
 
 ## Notes
