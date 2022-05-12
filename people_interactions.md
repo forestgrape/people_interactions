@@ -46,7 +46,7 @@ When viewing countries as organizations, the above claims read: With many intera
 
 
 ## Relevance
-* International Relations: How to design and whether or not to cut them on conflicts.
+* International Relations: How to design and promote. Whether or not to cut ties on conflicts.
 
 
 
