@@ -1,5 +1,7 @@
 # Considerations on People and Team Interactions
 
+> 12.5.: clarifications
+
 > This page contains mostly just thoughts which often need more consideration. Mistakes, errata and getting things partly or entirely wrong is possible. Feedback and improvement suggestions are welcome!
 
 > Many points are statements per se but neither well founded by literature nor by statistics.
