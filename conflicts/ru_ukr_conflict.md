@@ -13,12 +13,11 @@
 * [Paths to Peace](#paths-to-peace)
   * [Refs Paths to Peace](#refs-paths-to-peace)
   * [Refs State of Peace Talks as of early May](#refs-state-of-peace-talks-as-of-early-may)
-* [Significance of Peace](#significance-of-peace)
+* [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
   * [Refs Significance of Peace](#refs-significance-of-peace)
+  * [Refs on the Effects of War](#refs-on-the-effects-of-war)
 * [Historical and Political Background](#historical-and-political-background)
   * [Refs Background](#refs-background)
-* [Effects of War](#effects-of-war)
-  * [Refs on the Effects of War](#refs-on-the-effects-of-war)
 * [International Law](#international-law)
   * [UN Charter](#un-charter)
 * [Resources](#resources)
@@ -30,46 +29,53 @@
 
 
 ## Board
+
 ### Military, diplomatic, economical and scientific Perspectives
 7.5.22
-After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
+After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
 
-From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this possibility and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than some territory.
-Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions and they fight for and in their homeland which is a huge boost). An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. // The bloody battle can be spared for computer/console titles.
+From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
+Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions and to ambush advancing units and they fight for and in their homeland which is a huge boost). An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. // Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. 
+> This bloody battle can be spared for computer/console titles.
  
-From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (with time people tend to settle) exodus of skilled workers respectively of the young generation which will significantly blow their scientific and economic capabilities (and thereby also the military capabilities) for the coming decades.
+From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is expected - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time.
 
 
 
 
 ### Diplomacy and Compromises from All Parties are likely the best Way out
-> 7.3.2022 [in consideration]
-
-<!--
+<!-->> 7.3.2022 -->
 [in consideration/thinking]
-> 'best' in the sense of - given the current situation - an optimal/least bad outcome for all the people. 
+> 'best' in the sense of - given the current situation - an optimal/least bad outcome for *all* the people.
 > An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
--->
+
 
 
 ### Keeping Civilians out
-> 7.3.2022 (18./26.3. formulations adapted)
-> Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
+
+Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
 > 
-> Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open. 
+Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open. 
+
+> 7.3.2022 (originally posted on the cov page, 18./26.3. formulations adapted)
 
 
 ### Cease-Fire
-> 24.2.2022 (formulations 7./16./26.3. adapted)
-> A ceasefire and stop of all military actions are important to empower diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
-> <br>
+
+A ceasefire and stop of all military actions are important to bolster diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
+<br>
 > There seems to be a consensus in belief that *the people of the Ukraine are innocent*.
 > <br>
-> *We all - everyone - are endowed with the same human rights*.
+*We all - everyone - are endowed with the same human rights*.
+
+
+> 24.2.2022 (originally posted on the cov page, formulations 7./16./26.3. adapted)
+
+
 
 
 ## Notes
-* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable paths to peace. For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (subjective impressions are transparent in the [appendix](#appendix)).
+* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable paths to peace. For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (a subjective viewpoint is transparent in the [appendix](#appendix)).
 
 * The United Nations and the Red Cross are considered important.
 
@@ -162,12 +168,37 @@ https://www.bbc.com/news/world-europe-61359228
 
 
 
-## Significance of Peace
+## Significance of Peace and Effects of War
+[in consideration]
+<!--
+* Prevent losses and suffering. War is brutal and human rights are violated.
+* War can divide people.
+* War can have risks associated such as Nuclear Risks.
+-->
+
 ### Refs Significance of Peace
 
 #### Des Browne 1403
 Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks
 <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
+
+
+
+### Refs on the Effects of War
+
+#### Freedland
+*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*
+https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu
+
+
+#### TheMoscowTimes 060522
+*Nearly 4M Russians Left Russia in Early 2022 – FSB* 
+<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
+
+
+
+
+
 
 ## Historical and Political Background
 
@@ -184,18 +215,7 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 
 
 
-## Effects of War
 
-### Refs on the Effects of War
-
-#### Freedland
-*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*
-https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu
-
-
-#### TheMoscowTimes 060522
-*Nearly 4M Russians Left Russia in Early 2022 – FSB* 
-<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
 
 
 ## International Law
@@ -207,13 +227,16 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 ## Resources
+Sites frequently consulted for articles and news.
+
 * TheMoscowTimes <https://www.themoscowtimes.com>
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
 * Reuters <https://www.reuters.com/>
 * Ministry of Defence <https://twitter.com/DefenceHQ/>
 * Guardian <https://www.theguardian.com/international>
 * BBC <https://www.bbc.com>
-* https://www.un.org/en/about-us/un-charter/chapter-1
+* CNN 
+* KievIndependent
 
 
 
