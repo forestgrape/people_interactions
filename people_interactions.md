@@ -29,7 +29,7 @@ It is suggested, that friendly interactions are promoted, when
 * many members are included in the decision process
 * membership is open
 * there are many voluntary interactions
-  > Voluntary is assumed in the following and not especially written for a better reading flow
+  > Voluntary interactions are assumed in the following and not especially written for a better reading flow. Non voluntary are explicitly stated as such.
 * the teams are connected
 
 
@@ -37,18 +37,20 @@ When viewing countries as organizations, the above claims read: With many intera
 * With many people being involved in the decision process, the chance for friendly interactions is higher. As with many people it is more likely some are friends with the opposite party.
 * When forming unions of countries, organizations with open membership and fluent borders are best at ensuring peace.
   > The United Nations is an open organization and in agreement it has a good track record at providing peace.
+
 * Inside countries when the society is 'fair' and fluent (not fractioned into different classes), there is few space for class struggles.
   > Revolutions happened mainly in situations where a segregated and a small class controlled most of the wealth.
-* Between countries, when there are lots of interactions especially at the leadership level, the chances for friendship is higher and thus the chances for tensions, hostile actions and especially war are lower.
-  > When the decision makers are friends, hostile actions are rare.
+* Between countries, when there are lots of interactions especially at the 'decision making'/leadership level, the chances for friendship is higher and thus the chances for tensions, hostile actions and especially war are lower.
 
-  > => Meetings of parliament members are considered helpful. Parliaments member often are in office for quite long and additionally they are quite many so a parliament can have friend around the world.
+  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament members are considered helpful. Parliaments member often are in office for quite long and additionally they are quite members, so a parliament can have friend around the world and especially with all neighboring countries. A broad group of decision makers is considered helpful, as this makes it more likely that some are friends.
+
+  > Borders between seem to some extent necessary to enable a local/own responsible and solidary societies. // Though the system should be fair such that every society/country can develop as it wants.
 
 
 
 
 ## Relevance
-* International Relations: How to design and promote. Whether or not to cut ties on conflicts.
+International Relations: How to design and promote. Whether or not to cut ties in conflicts.
 
 
 
@@ -124,16 +126,26 @@ In ancient times the central units where tribes and later monarchies/feudal syst
 => In ancient times, the people were often only part of only one team holding power namely the feudal lord and the ruling monarch. Violent conflicts were frequent at those times.
 
 ### Modern World
-In modern times one is usually part of different teams/organizations which hold power and property:
-* Countries: The population living in a certain area belongs to a country. The decision structure in countries is usually highly organized and hierarchically. In democracies the top members are determined by elections. In direct democracies the decision process itself is also subject to votes. Countries are often subdivided in administrative districts enabling decentralization. Regarding peace and war, countries are the most important organizational unit since the military command is usually per country. 
-  > Often the larger the population part that takes part in a country's decision process, the less likely the country will start a war. Wars are started rarely with the supported of a large share of the population. [todo statistics]
+In modern times one is usually part of different teams/organizations which hold power and property: The country of living, company(ies) associated (work, ownership), social organizations and religion.
 
-  > Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant in sudden unforeseen situations mistakes can happen. // There are exceptions: In Switzerland the decision power is equally distributed across 7 members of the Bundesrat. In some countries there were/are Politburos which take important decisions [to check decision making and country specific power]. Possibly this makes decisions more stable and less influenced by situation specific moods (we all are humans).
+#### Countries
+The population living in a certain area belongs to a country. The decision structure in countries is usually highly organized and hierarchically. In democracies the top members are determined by elections. In direct democracies the decision process itself is also subject to votes. Countries are often subdivided in administrative districts enabling decentralization. Regarding peace and war, countries are the most important organizational unit since the military command is usually per country. 
+> Often the larger the population part that takes part in a country's decision process, the less likely the country will start a war. Wars are started rarely with the supported of a large share of the population. [todo statistics]
 
-* Companies: The structure in companies is usually hierarchically. Mostly the top governing members are directly or indirectly elected by the owners. The employees only in very rare cases have any rights to be part in the decision making.
-* Social organizations: E.g. sport clubs, political parties.
-* Churches: Religions are highly divers reaching from explanations of schools of life to concrete laws and how to behave to various forms of ideologies.
+Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant in sudden unforeseen situations mistakes can happen. 
+* It is considered important that as much as possible parliaments are involved. 
+* Countries where no single leader can take important decisions: In Switzerland the decision power is equally distributed across 7 members of the Bundesrat. Politburos take important decisions [to check decision making and the specific power in the different countries]. 
+  > Having multiple persons deciding, likely makes the decision process more stable and less influenced by situation specific moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. <!--// with age the number of neuronal connections increase. The speed is faster at young age. to cite -->
 
-> In the beginning of the 21th century people are often parts of several teams with power: The company associated (work, ownership), social organizations and the country of living.
+#### Companies
+* Companies: The structure in companies is usually hierarchically as follows: A board of directors is elected by the owners=shareholders. The board takes strategic decisions and elects a chairman which has mainly executive functions and implement the strategy. The employees only in very rare cases have any rights to be part in the decision making.
+
+#### Social Organizations
+Social organizations: E.g. sport clubs, political parties, scouts.
+
+#### Religions
+Religions are highly divers reaching from explanations of schools of life to concrete laws and how to behave to various forms of ideologies.
+
+
 
 
