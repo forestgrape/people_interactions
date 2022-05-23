@@ -3,16 +3,16 @@
 
 
 
+* [New Content and Updates](#new-content-and-updates)
 * [Board](#board)
   * [Military, diplomatic, economical and scientific Perspectives](#military-diplomatic-economical-and-scientific-perspectives)
   * [Diplomacy and Compromises from All Parties are likely the best Way out](#diplomacy-and-compromises-from-all-parties-are-likely-the-best-way-out)
   * [Keeping Civilians out](#keeping-civilians-out)
   * [Cease-Fire](#cease-fire)
 * [Notes](#notes)
-* [New Content and Updates](#new-content-and-updates)
 * [Paths to Peace](#paths-to-peace)
   * [Refs Paths to Peace](#refs-paths-to-peace)
-  * [Refs State of Peace Talks as of early May](#refs-state-of-peace-talks-as-of-early-may)
+  * [Refs State of Peace Talks as mid to late May](#refs-state-of-peace-talks-as-mid-to-late-may)
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
   * [Refs Significance of Peace](#refs-significance-of-peace)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
@@ -21,9 +21,16 @@
 * [International Law](#international-law)
   * [UN Charter](#un-charter)
 * [Resources](#resources)
+  * [Resources Ukraine](#resources-ukraine)
+  * [Resources Russia](#resources-russia)
+  * [Resources International](#resources-international)
 * [Appendix](#appendix)
 
 
+
+
+## New Content and Updates
+* 23.5.22: Updated notes on ceasefire, namely that term that no side gains advantages likely are necessary for both to agree. Updates regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may). Formulations across the page.
 
 
 
@@ -31,15 +38,14 @@
 ## Board
 
 ### Military, diplomatic, economical and scientific Perspectives
-7.5.22
+7.5.22 (23.5. added that using light weapons effectively is not a matter of course)
 After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
-Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions and to ambush advancing units and they fight for and in their homeland which is a huge boost). An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. // Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. 
+Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers turned out to be able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost). An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. // Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. 
 > This bloody battle can be spared for computer/console titles.
  
 From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is expected - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time.
-
 
 
 
@@ -55,43 +61,44 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
 > 
-Paths to escape, to reach a safe and in any way, including ethically, reasonable place should be open. 
+Paths to escape, to reach a safe and in any way - including ethically - reasonable place should be open. 
 
-> 7.3.2022 (originally posted on the cov page, 18./26.3. formulations adapted)
-
+<!--
+7.3.2022 (originally posted on the cov page, 18./26.3. formulations adapted)
+-->
 
 ### Cease-Fire
 
-A ceasefire and stop of all military actions are important to bolster diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation.
-<br>
+A ceasefire and stop of all military actions are important to bolster diplomacy and to prevent further escalation and losses. Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
+
+> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant (tactical) advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance is considered important - then can be found through negotiations.
+
+
 > There seems to be a consensus in belief that *the people of the Ukraine are innocent*.
 > <br>
-*We all - everyone - are endowed with the same human rights*.
+> *We all - everyone - are endowed with the same human rights*.
 
 
-> 24.2.2022 (originally posted on the cov page, formulations 7./16./26.3. adapted)
+(originally posted on the cov page 24.2., formulations 7./16./26.3. adapted)
 
 
 
 
 ## Notes
-* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable paths to peace. For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (a subjective viewpoint is transparent in the [appendix](#appendix)).
+* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable paths to peace. For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (a personal viewpoint is transparent in the [appendix](#appendix)).
 
 * The United Nations and the Red Cross are considered important.
 
 * The resources used are mainly Swiss German news sites and UK based news sites (bbc.com and the guardian.co.uk). Sometimes news agencies are visited such as reuters or tass. Overall the resources are biased towards news from Switzerland and the UK. As both countries have and value press freedom and the articles are read critically, it is hoped to achieve a coverage which is not overly biased.
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
-     > On the page about coronaviruses, sometimes the writing was heated and confrontational (written when stressed or joined the heated atmosphere) which was bad mistake and even counterproductive. Sorry.
+     > On the page about coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and even counterproductive. Sorry.
 
 * Likely: mistakes happen here and not all content is up to the task. 
 
 * Feedback is welcome - especially pointing out mistakes and improvement suggestions.
 
 
-
-## New Content and Updates
-[in work]
 
 
 
@@ -101,12 +108,17 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 Subjects officially in negotiation:
 * A neutral status for the Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]).
 * Autonomy (of varying degrees) for Donbas
+* Increasing the Security by Limiting Military:
+  * Reducing the number of offensive weapons such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers) and (combat)drones.
+  * Limit the number of troupes in exercises.
+  * Limit tests and exercises involving offensive weapons.
 
 
 Subjects where the negotiation positions seem fare apart or which are not officially in negotiation:
 * redesign of European security architecture (e.g. OSZE)
-* status of Crimea - possibly by (local) referendum
-* lessening sanctions on deal
+* status of Crimea - possibly by (local) referendum. 
+
+* lessening/lifting sanctions on a peace treaty.
 
 Considerations for European and the World security:
 * redesign of country groups to allow non exclusive membership (i.e. a country between two organizations can be member on both. Allow fluid borders i.e. part membership) 
@@ -132,10 +144,14 @@ Anatol Lieven *Opinion "It’s time to ask: what would a Ukraine Russia peace de
 *What Is the Path for a Negotiated Peace in Ukraine?*
 <https://www.commondreams.org/views/2022/03/04/what-path-negotiated-peace-ukraine>
 
+
+<!-- for another article
+Lieven 1703
 > Selected Statements:
 > * Control over Crimea unlikely given back to Ukraine for any Russian government
 > * Agreement for Donbas
-> * many influential Russians agree on the points above
+> * Many Russians agree on the points above
+-->
 
 <!--
 #### Kelemen 0803
@@ -151,11 +167,43 @@ Eric Levitz FOREIGN INTERESTS MAR. 17, 2022 *The Emerging Path to Peace in Ukrai
 -->
 
 
+### Refs State of Peace Talks as mid to late May
+
+
+#### Tass-220522
+*Russia ready to continue talks with Ukraine - Russian presidential aide*
+<https://tass.com/politics/1454379>
+
+#### Tass-230522
+*Russia ready to resume talks with Ukraine if Kiev’s stance constructive — senior diplomat*
+https://tass.com/politics/1454577
+
+#### Tass-230522
+*Russia reviews Italy’s proposals on settlement in Ukraine, senior diplomat says*
+https://tass.com/politics/1454603
+
+#### Guardian-210522
+Lorenzo Tondo, *Only diplomacy can end Ukraine war, says Volodymyr Zelenskiy* Country’s president emphasises need for talks to resume with Russia after previous negotiations stalled
+<https://www.theguardian.com/world/2022/may/21/only-diplomacy-can-end-ukraine-war-volodymyr-zelenskiy>
+
+#### Ukrinform-230522
+*Ukraine rules out agreeing to a ceasefire with Russia and will not accept any deal with Moscow that involved ceding Ukrainian territory.*
+<https://www.ukrinform.net/rubric-polytics/3489618-presidents-office-ukraine-rules-out-ceasefire-or-territorial-concessions-to-russia.html>
+
+> The Ukraine is worried that Russia could use a ceasefire to reorganize and then attack more fiercely. This is considered a legitimate concern here. Possibly this concern could be addressed by freezing unit and material movement - the overall terms for a ceasefire such that no side gets a significant advantage.
+
+#### Kievindependent-200522
+Ukraine confirms Italy proposed plan to end war.
+<https://kyivindependent.com/news-feed/ukraine-confirms-italy-proposed-plan-to-end-war/>
+
+
+<!--
 ### Refs State of Peace Talks as of early May
 
 #### Alarabiya 030522
 Putin says Russia ready for talks with Ukraine
 https://english.alarabiya.net/News/world/2022/05/03/Putin-says-Russia-ready-for-talks-with-Ukraine
+
 
 #### Newsweek-060522
 Zelensky Spells Out Key Condition for Peace Talks With Putin
@@ -164,8 +212,8 @@ https://www.newsweek.com/zelensky-spells-out-key-condition-peace-talks-putin-rus
 
 #### BBC-070522
 Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
-https://www.bbc.com/news/world-europe-61359228
-
+<https://www.bbc.com/news/world-europe-61359228>
+-->
 
 
 ## Significance of Peace and Effects of War
@@ -226,17 +274,34 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 
-## Resources
-Sites frequently consulted for articles and news.
 
+
+
+
+## Resources
+Sites regularly consulted for articles and news.
+
+### Resources Ukraine
+* KievIndependent <https://kyivindependent.com/>
+* Ukrinform - Ukrainian multimedia platform for broadcasting - <https://www.ukrinform.net>
+
+### Resources Russia
 * TheMoscowTimes <https://www.themoscowtimes.com>
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
-* Reuters <https://www.reuters.com/>
-* Ministry of Defence <https://twitter.com/DefenceHQ/>
+* interfax, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
+
+
+### Resources International
+
 * Guardian <https://www.theguardian.com/international>
 * BBC <https://www.bbc.com>
-* CNN 
-* KievIndependent
+* Ministry of Defence <https://twitter.com/DefenceHQ/>
+
+* CNN <https://edition.cnn.com/>
+* Institute for the Study of War. <https://www.understandingwar.org/>
+
+
+* Reuters <https://www.reuters.com/>
 
 
 
@@ -245,7 +310,7 @@ Sites frequently consulted for articles and news.
 > ### Opinion on the Conflict
 > The subjective opinion/judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
-> * The invasion is *not* in agreement with international laws regarding interactions between states. Yes, other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws too but one break does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *not* seen as a justification for an invasion/a military confrontation/a war. // Possibly it once was considered by the Russian government that limited military actions could be enough to force a government change in Kiev. Such a forceful externally induced government is also not considered legal by article 2 paragraph 4 of the [UN Charter](#un-charter).
-> * Brutality including bombing of specified civilian areas or if civilians are hindered escaping is considered heartless. // So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death has its own history and people associated and thus is a tragedy on its own.
+> * The invasion is *not* in agreement with international laws regarding interactions between states. That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *not* seen as a justification for an invasion/a military confrontation/a war. // Possibly it once was considered by the Russian government that limited military actions could be enough to force a government change in Kiev. Such a forceful externally induced government is also not considered legal by article 2 paragraph 4 of the [UN Charter](#un-charter).
+> * Brutality including bombing of specified civilian areas or hospitals or if civilians are hindered escaping is considered heartless. // So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death has its own history and people associated and thus is a tragedy on its own.
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
