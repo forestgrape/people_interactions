@@ -12,7 +12,7 @@
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
   * [Refs Paths to Peace](#refs-paths-to-peace)
-  * [Refs State of Peace Talks as mid to late May](#refs-state-of-peace-talks-as-mid-to-late-may)
+  * [Refs State of Peace Talks](#refs-state-of-peace-talks)
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
   * [Refs Significance of Peace](#refs-significance-of-peace)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
@@ -25,6 +25,7 @@
   * [Resources Russia](#resources-russia)
   * [Resources International](#resources-international)
 * [Appendix](#appendix)
+  * [Opinion on the Conflict](#opinion-on-the-conflict)
 
 
 
@@ -85,7 +86,7 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 
 
 ## Notes
-* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable paths to peace. For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (a personal viewpoint is transparent in the [appendix](#appendix)).
+* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (a personal viewpoint is transparent in the [appendix](#appendix)).
 
 * The United Nations and the Red Cross are considered important.
 
@@ -114,9 +115,11 @@ Subjects officially in negotiation:
   * Limit tests and exercises involving offensive weapons.
 
 
-Subjects where the negotiation positions seem fare apart or which are not officially in negotiation:
+Subjects where the negotiation positions seem fare apart or where no official negotiations are disclosed:
 * redesign of European security architecture (e.g. OSZE)
-* status of Crimea - possibly by (local) referendum. 
+* status of Crimea
+
+
 
 * lessening/lifting sanctions on a peace treaty.
 
@@ -145,6 +148,8 @@ Anatol Lieven *Opinion "It’s time to ask: what would a Ukraine Russia peace de
 <https://www.commondreams.org/views/2022/03/04/what-path-negotiated-peace-ukraine>
 
 
+
+
 <!-- for another article
 Lieven 1703
 > Selected Statements:
@@ -167,34 +172,46 @@ Eric Levitz FOREIGN INTERESTS MAR. 17, 2022 *The Emerging Path to Peace in Ukrai
 -->
 
 
-### Refs State of Peace Talks as mid to late May
+### Refs State of Peace Talks
 
+> These references are continuously updated.
 
-#### Tass-220522
+#### Refs Russian Side
+##### Tass-220522
 *Russia ready to continue talks with Ukraine - Russian presidential aide*
 <https://tass.com/politics/1454379>
 
-#### Tass-230522
+##### Tass-230522
 *Russia ready to resume talks with Ukraine if Kiev’s stance constructive — senior diplomat*
 https://tass.com/politics/1454577
 
-#### Tass-230522
-*Russia reviews Italy’s proposals on settlement in Ukraine, senior diplomat says*
-https://tass.com/politics/1454603
+#### Refs Ukrainian Side
 
-#### Guardian-210522
+##### Guardian-210522
 Lorenzo Tondo, *Only diplomacy can end Ukraine war, says Volodymyr Zelenskiy* Country’s president emphasises need for talks to resume with Russia after previous negotiations stalled
 <https://www.theguardian.com/world/2022/may/21/only-diplomacy-can-end-ukraine-war-volodymyr-zelenskiy>
 
-#### Ukrinform-230522
+##### Ukrinform-230522
 *Ukraine rules out agreeing to a ceasefire with Russia and will not accept any deal with Moscow that involved ceding Ukrainian territory.*
 <https://www.ukrinform.net/rubric-polytics/3489618-presidents-office-ukraine-rules-out-ceasefire-or-territorial-concessions-to-russia.html>
 
-> The Ukraine is worried that Russia could use a ceasefire to reorganize and then attack more fiercely. This is considered a legitimate concern here. Possibly this concern could be addressed by freezing unit and material movement - the overall terms for a ceasefire such that no side gets a significant advantage.
+> Worries are stated that Russia could use a ceasefire to reorganize and then attack more fiercely. This concern could possibly be addressed by suitable terms.
 
-#### Kievindependent-200522
+
+
+#### Refs Italian Peace Plan
+
+##### WSJ 200522
+*Italy Circulates 4-Point Peace Plan*
+<https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-05-20/card/italy-circulates-4-point-peace-plan-h2o9EfwULf6P1mwDbjdn>
+
+##### Kievindependent 200522
 Ukraine confirms Italy proposed plan to end war.
 <https://kyivindependent.com/news-feed/ukraine-confirms-italy-proposed-plan-to-end-war/>
+
+##### Tass 230522
+*Russia reviews Italy’s proposals on settlement in Ukraine, senior diplomat says*
+https://tass.com/politics/1454603
 
 
 <!--
@@ -307,7 +324,8 @@ Sites regularly consulted for articles and news.
 
 
 ## Appendix
-> ### Opinion on the Conflict
+
+### Opinion on the Conflict
 > The subjective opinion/judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
 > * The invasion is *not* in agreement with international laws regarding interactions between states. That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *not* seen as a justification for an invasion/a military confrontation/a war. // Possibly it once was considered by the Russian government that limited military actions could be enough to force a government change in Kiev. Such a forceful externally induced government is also not considered legal by article 2 paragraph 4 of the [UN Charter](#un-charter).
