@@ -130,7 +130,8 @@ Subjects where the negotiation positions seem fare apart or where no official ne
 
     ### Trading Crimea
     > A possibility that the Ukraine 'sells' Crimea to Russia. Handing over land at a fair price possibly would be accepted by both countries (governments and populations). Possibly 5 trillion UAH ~= 10 trillion Rubel ~= 170 billion $. 
-    > Possibly (part of) the price could be paid with natural resources over the next years. 
+    > * Possibly (part of) the price could be paid with natural resources over the next years. 
+    > * Possibly some/all of the economic rights such as farming or natural resources could also remain at the Ukraine i.e. mainly the security/military rights would be traded.
     <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
     
     
