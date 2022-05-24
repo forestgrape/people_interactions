@@ -36,8 +36,10 @@
 
 ## New Content and Updates
 ### 24.5.22 Trading Crimea?
-An option would be that the Ukraine sells Crimea to Russia if Russia, the Ukraine and the Crimean population agree. Considerations in [Trading Crimea](#trading-crimea).
-> Trading territory is not considered ideal here, but possibly better than an unilateral referendum or a conquest.
+> Considering the option of a trade for Crimea: [Trading Crimea](#trading-crimea).
+> 
+>> Trading territory is not considered ideal here, but better than an unilateral referendum (even if correct) and better than military force.
+
 ### 23.5.22 Notes on Ceasefire and State of Negotiations
 Updated notes on ceasefire, namely that term that no side gains advantages likely are necessary for both to agree. Updates regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may). Formulations across the page.
 
@@ -129,16 +131,16 @@ Subjects where the negotiation positions seem fare apart or where no official ne
 * status of Crimea
 
     ### Trading Crimea
-    > A possibility that the Ukraine 'sells' Crimea to Russia. Handing over land at a fair price possibly would be accepted by both countries (governments and populations). Possibly 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. 
+    > Thoughts about the status of Crimea: An option could be that some rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. -->
     > * Possibly (part of) the price could be paid with natural resources over the next years. 
-    > * Possibly some/all of the economic rights such as farming or natural resources could also remain at the Ukraine i.e. mainly the security/military rights would be traded.
+    > * Possibly only security/military rights could be (officially) handed over to Russia while some/all of the economic rights such as farming or natural resources remain at the Ukrainian.
     <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
-    
-    
-
-    > An alternative would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is possibly even not easy for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
-    
-    > Thoughts about [trading territory](#trade-in-territory) in the appendix.
+    >
+    >
+    > Another option would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
+    >>  To keep that in mind that giving up territory may not be easy.
+    >
+    > General thoughts about [trading territory](#trade-in-territory) in the appendix.
 
 
 
