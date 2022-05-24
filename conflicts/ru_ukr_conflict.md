@@ -4,6 +4,8 @@
 
 
 * [New Content and Updates](#new-content-and-updates)
+  * [24.5.22 Trading Crimea?](#24522-trading-crimea)
+  * [23.5.22 Notes on Ceasefire and State of Negotiations](#23522-notes-on-ceasefire-and-state-of-negotiations)
 * [Board](#board)
   * [Military, diplomatic, economical and scientific Perspectives](#military-diplomatic-economical-and-scientific-perspectives)
   * [Diplomacy and Compromises from All Parties are likely the best Way out](#diplomacy-and-compromises-from-all-parties-are-likely-the-best-way-out)
@@ -16,6 +18,7 @@
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
   * [Refs Significance of Peace](#refs-significance-of-peace)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
+  * [Refs Warfare in the Ukraine](#refs-warfare-in-the-ukraine)
 * [Historical and Political Background](#historical-and-political-background)
   * [Refs Background](#refs-background)
 * [International Law](#international-law)
@@ -26,12 +29,17 @@
   * [Resources International](#resources-international)
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
+  * [Trade in Territory](#trade-in-territory)
 
 
 
 
 ## New Content and Updates
-* 23.5.22: Updated notes on ceasefire, namely that term that no side gains advantages likely are necessary for both to agree. Updates regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may). Formulations across the page.
+### 24.5.22 Trading Crimea?
+An option would be that the Ukraine sells Crimea to Russia if Russia, the Ukraine and the Crimean population agree. Considerations in [Trading Crimea](#trading-crimea).
+> Trading territory is not considered ideal here, but possibly better than an unilateral referendum or a conquest.
+### 23.5.22 Notes on Ceasefire and State of Negotiations
+Updated notes on ceasefire, namely that term that no side gains advantages likely are necessary for both to agree. Updates regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may). Formulations across the page.
 
 
 
@@ -106,6 +114,7 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 
 ## Paths to Peace
 
+
 Subjects officially in negotiation:
 * A neutral status for the Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]).
 * Autonomy (of varying degrees) for Donbas
@@ -118,6 +127,17 @@ Subjects officially in negotiation:
 Subjects where the negotiation positions seem fare apart or where no official negotiations are disclosed:
 * redesign of European security architecture (e.g. OSZE)
 * status of Crimea
+
+    ### Trading Crimea
+    > A possibility that the Ukraine 'sells' Crimea to Russia. Handing over land at a fair price possibly would be accepted by both countries (governments and populations). Possibly 5 trillion UAH ~= 10 trillion Rubel ~= 170 billion $. 
+    > Possibly (part of) the price could be paid with natural resources over the next years. 
+    <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
+    
+    
+
+    > An alternative would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is possibly even not easy for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
+    
+    > Thoughts about [trading territory](#trade-in-territory) in the appendix.
 
 
 
@@ -260,6 +280,10 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 *Nearly 4M Russians Left Russia in Early 2022 – FSB* 
 <https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
 
+### Refs Warfare in the Ukraine
+*Ukraine destruction: how the Guardian documented Russia’s use of illegal weapons*
+<https://www.theguardian.com/world/2022/may/24/ukraine-destruction-how-the-guardian-documented-russia-use-of-weapons>
+
 
 
 
@@ -328,7 +352,27 @@ Sites regularly consulted for articles and news.
 ### Opinion on the Conflict
 > The subjective opinion/judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
-> * The invasion is *not* in agreement with international laws regarding interactions between states. That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *not* seen as a justification for an invasion/a military confrontation/a war. // Possibly it once was considered by the Russian government that limited military actions could be enough to force a government change in Kiev. Such a forceful externally induced government is also not considered legal by article 2 paragraph 4 of the [UN Charter](#un-charter).
+> * The invasion is *not* in agreement the UN charter (namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
 > * Brutality including bombing of specified civilian areas or hospitals or if civilians are hindered escaping is considered heartless. // So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death has its own history and people associated and thus is a tragedy on its own.
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
+
+
+
+
+
+### Trade in Territory
+> Considerations on territorial changes without causing instability or conflicts.
+
+Until the 19th century, land changing ownership by deals between countries or regions/cities buying themselves out from larger empires was practiced and accepted.
+
+In todays world that a region wants to split but not both sides agree is a common challenge. Accepting territorial changes by a unilateral referendum or by internal or external military force could set a (another) precedent which could cause (increase) instability around the world.
+
+The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (by referendum possibly with a 2/3 majority). Buying/selling land also may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries there territory exchange is another option (when the local populations agree).
+
+> When private person can own, buy and sell land, why not countries or communities? 
+
+> However, in general, here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over changing territories.
+
+#### Refs Self Determination
+Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
