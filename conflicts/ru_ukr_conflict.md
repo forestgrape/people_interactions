@@ -59,9 +59,9 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 ### Diplomacy and Compromises from All Parties are likely the best Way out
-<!-->> 7.3.2022 -->
+<!-- 7.3.2022 -->
 [in consideration/thinking]
-> 'best' in the sense of - given the current situation - an optimal/least bad outcome for *all* the people.
+> 'best' in the sense of - given the current situation - an optimal/least bad outcome considering *all* the people.
 > An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
 
 
@@ -129,7 +129,7 @@ Subjects where the negotiation positions seem fare apart or where no official ne
 * status of Crimea
 
     ### Trading Crimea
-    > A possibility that the Ukraine 'sells' Crimea to Russia. Handing over land at a fair price possibly would be accepted by both countries (governments and populations). Possibly 5 trillion UAH ~= 10 trillion Rubel ~= 170 billion $. 
+    > A possibility that the Ukraine 'sells' Crimea to Russia. Handing over land at a fair price possibly would be accepted by both countries (governments and populations). Possibly 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. 
     > * Possibly (part of) the price could be paid with natural resources over the next years. 
     > * Possibly some/all of the economic rights such as farming or natural resources could also remain at the Ukraine i.e. mainly the security/military rights would be traded.
     <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
