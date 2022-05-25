@@ -38,7 +38,7 @@
 ### 24.5.22 Trading Crimea?
 > Considering the option of a trade for Crimea: [Trading Crimea](#trading-crimea).
 > 
->> Trading territory is not considered ideal here, but better than an unilateral referendum (even if correct) and better than military force.
+>> Trading territory is not considered ideal here, but better than an unilateral referendum and much better than military force.
 
 ### 23.5.22 Notes on Ceasefire and State of Negotiations
 Updated notes on ceasefire, namely that term that no side gains advantages likely are necessary for both to agree. Updates regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may). Formulations across the page.
@@ -342,6 +342,9 @@ Sites regularly consulted for articles and news.
 * Ministry of Defence <https://twitter.com/DefenceHQ/>
 
 * CNN <https://edition.cnn.com/>
+* <https://www.washingtonpost.com>
+
+
 * Institute for the Study of War. <https://www.understandingwar.org/>
 
 
@@ -356,7 +359,7 @@ Sites regularly consulted for articles and news.
 > The subjective opinion/judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
 > * The invasion is *not* in agreement the UN charter (namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
-> * Brutality including bombing of specified civilian areas or hospitals or if civilians are hindered escaping is considered heartless. // So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death has its own history and people associated and thus is a tragedy on its own.
+> * Brutality including bombing of specified civilian areas or hospitals or if civilians are hindered escaping is considered heartless. // So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death has its own and people associated and thus is a tragedy on its own.
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
 
@@ -365,17 +368,18 @@ Sites regularly consulted for articles and news.
 
 
 ### Trade in Territory
-> Considerations on territorial changes without causing instability or conflicts.
+> Considerations on territorial changes in a structure way.
 
 Until the 19th century, land changing ownership by deals between countries or regions/cities buying themselves out from larger empires was practiced and accepted.
 
 In todays world that a region wants to split but not both sides agree is a common challenge. Accepting territorial changes by a unilateral referendum or by internal or external military force could set a (another) precedent which could cause (increase) instability around the world.
 
-The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (by referendum possibly with a 2/3 majority). Buying/selling land also may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries there territory exchange is another option (when the local populations agree).
+The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with a 2/3 majority). Buying/selling land also may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries there territory exchange is another option (when the local populations agree).
 
 > When private person can own, buy and sell land, why not countries or communities? 
 
-> However, in general, here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over changing territories.
+> #### Preferred Path for Self Determination
+> Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over changing territories.
 
 #### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
