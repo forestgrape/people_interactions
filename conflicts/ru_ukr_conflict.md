@@ -374,7 +374,7 @@ Until the 19th century, land changing ownership by deals between countries or re
 
 In todays world that a region wants to split but not both sides agree is a common challenge. Accepting territorial changes by a unilateral referendum or by internal or external military force could set a (another) precedent which could cause (increase) instability around the world.
 
-The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with a 2/3 majority). Buying/selling land also may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries there territory exchange is another option (when the local populations agree).
+The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with a 2/3 majority). Buying/selling land also may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries a territory exchange is another option (when the local populations agree).
 
 > When private person can own, buy and sell land, why not countries or communities? 
 
