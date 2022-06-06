@@ -20,6 +20,8 @@
 ## Tweet Summary
 This page contains thoughts/considerations how we team up to larger groups. How we interact as individuals and as part of groups. Countries are considered as groups and settings for peaceful interactions are searched.
 
+> Ideally we act as ONE team with the goal to tackle together the many challenges we face to improve the life of every-body step by step.
+
 
 ## Summary 
 *A group* is used to denote a specific subset of a population of people. Teams are defined as groups with a common goal. Organizations are defined as organized teams. There are different forms of organizations possible. For most organizations forms the decision process is hierarchical.
