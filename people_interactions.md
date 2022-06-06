@@ -54,6 +54,10 @@ When viewing countries as organizations, the above claims read: With many intera
 ## Relevance
 International Relations: How to design and promote. Whether or not to cut ties in conflicts.
 
+> 6.6.22: 
+> * Here the opinion is, to keep open communication channels even/especially in conflicts.
+> * The more interactions there are, the more likely any two people in the world have common friends.
+
 
 
 ## Groups, Teams and Organizations
