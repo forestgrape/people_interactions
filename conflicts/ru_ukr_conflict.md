@@ -7,7 +7,7 @@
   * [24.5.22 Trading Crimea?](#24522-trading-crimea)
   * [23.5.22 Notes on Ceasefire and State of Negotiations](#23522-notes-on-ceasefire-and-state-of-negotiations)
 * [Board](#board)
-  * [Military, diplomatic, economical and scientific Perspectives](#military-diplomatic-economical-and-scientific-perspectives)
+  * [Situations Assessment per early May](#situations-assessment-per-early-may)
   * [Diplomacy and Compromises from All Parties are likely the best Way out](#diplomacy-and-compromises-from-all-parties-are-likely-the-best-way-out)
   * [Keeping Civilians out](#keeping-civilians-out)
   * [Cease-Fire](#cease-fire)
@@ -41,15 +41,16 @@
 >> Trading territory is not considered ideal here, but better than an unilateral referendum and much better than military force.
 
 ### 23.5.22 Notes on Ceasefire and State of Negotiations
-Updated notes on ceasefire, namely that term that no side gains advantages likely are necessary for both to agree. Updates regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may). Formulations across the page.
+Updated notes on ceasefire: Terms that no side gains advantages likely are necessary for both to agree on a ceasefire. Updated regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may).
 
 
 
 
 ## Board
 
-### Military, diplomatic, economical and scientific Perspectives
-7.5.22 (23.5. added that using light weapons effectively is not a matter of course)
+### Situations Assessment per early May
+Considerations on military, diplomatic, economical and scientific Perspectives
+
 After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
@@ -356,10 +357,12 @@ Sites regularly consulted for articles and news.
 ## Appendix
 
 ### Opinion on the Conflict
-> The subjective opinion/judgement is: 
+> The opinion/personal judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
-> * The invasion is *not* in agreement the UN charter (namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
-> * Brutality including bombing of specified civilian areas or hospitals or if civilians are hindered escaping is considered heartless. // So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death has its own and people associated and thus is a tragedy on its own.
+> * The invasion is *not* in agreement with the UN charter (namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
+> * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless.
+> 
+>> So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
 
@@ -368,18 +371,18 @@ Sites regularly consulted for articles and news.
 
 
 ### Trade in Territory
-> Considerations on territorial changes in a structure way.
+> Considerations on territorial changes in a structured way.
 
 Until the 19th century, land changing ownership by deals between countries or regions/cities buying themselves out from larger empires was practiced and accepted.
 
-In todays world that a region wants to split but not both sides agree is a common challenge. Accepting territorial changes by a unilateral referendum or by internal or external military force could set a (another) precedent which could cause (increase) instability around the world.
+In todays world, that a region wants to secede but not both sides agree is a common challenge. Accepting territorial changes by unilateral referenda or by internal or external military force could set a (another) precedent which could cause (increase) instability around the world.
 
-The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with a 2/3 majority). Buying/selling land also may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries a territory exchange is another option (when the local populations agree).
+The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with a 2/3 majority). Buying/selling land may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries a territory exchange is another option (when the local populations agree).
 
 > When private person can own, buy and sell land, why not countries or communities? 
 
 > #### Preferred Path for Self Determination
-> Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over changing territories.
+> Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession.
 
 #### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
