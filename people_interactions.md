@@ -20,6 +20,8 @@
 ## Tweet Summary
 This page contains thoughts/considerations how we team up to larger groups. How we interact as individuals and as part of groups. Countries are considered as groups and settings for peaceful interactions are searched.
 
+> Ideally we act as ONE team with the goal to tackle together the many challenges we face to improve the life of every-body step by step.
+
 
 ## Summary 
 *A group* is used to denote a specific subset of a population of people. Teams are defined as groups with a common goal. Organizations are defined as organized teams. There are different forms of organizations possible. For most organizations forms the decision process is hierarchical.
@@ -51,6 +53,10 @@ When viewing countries as organizations, the above claims read: With many intera
 
 ## Relevance
 International Relations: How to design and promote. Whether or not to cut ties in conflicts.
+
+> 6.6.22: 
+> * Here the opinion is, to keep open communication channels even/especially in conflicts.
+> * The more interactions there are, the more likely any two people in the world have common friends.
 
 
 
