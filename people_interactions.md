@@ -20,7 +20,7 @@
 ## Tweet Summary
 This page contains thoughts/considerations how we team up to larger groups. How we interact as individuals and as part of groups. Countries are considered as groups and settings for peaceful interactions are searched.
 
-> Ideally we act as ONE team with the goal to tackle together the many challenges we face to improve the life of every-body step by step.
+> Ideally we act as ONE team with the goal to tackle together the many challenges we face to improve the life of every-body step by step. <!--Doing AL ('artificial life') right is important. [Before] we know we [may] turn out to be life creators ... -->
 
 
 ## Summary 
