@@ -20,7 +20,6 @@
 ## Tweet Summary
 This page contains thoughts/considerations how we team up to larger groups. How we interact as individuals and as part of groups. Countries are considered as groups and settings for peaceful interactions are searched.
 
-> Ideally we act as ONE team with the goal to tackle together the many challenges we face to improve the life of every-body step by step. <!--Doing AL ('artificial life') right is important. [Before] we know we [may] turn out to be life creators ... -->
 
 
 ## Summary 
@@ -44,9 +43,10 @@ When viewing countries as organizations, the above claims read: With many intera
   > Revolutions happened mainly in situations where a segregated and a small class controlled most of the wealth.
 * Between countries, when there are lots of interactions especially at the 'decision making'/leadership level, the chances for friendship is higher and thus the chances for tensions, hostile actions and especially war are lower.
 
-  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament members are considered helpful. Parliaments member often are in office for quite long and additionally they are many members, so a parliament can have friend around the world and especially with all neighboring countries. To have friendships between leadership groups is higher when the groups are larger.
+  > Borders between states seem to some extent necessary to enable a local/own governance & responsibility and solidary societies (at least with the current inequalities and taxation schemes). // Though the system should be such that every region/society/country has a fair chance to develop as it wants.
 
-  > Borders between seem to some extent necessary to enable a local/own responsible and solidary societies (at least with the current inequalities and taxation schemes). // Though the system should be such that every region/society/country has a fair chance to develop as it wants.
+
+  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament members are considered helpful. Parliaments member often are in office for quite long and additionally they are many members, so a parliament can have friend around the world and especially with all neighboring countries. To have friendships between leadership groups is higher when the groups are larger.
 
 
 
@@ -54,9 +54,22 @@ When viewing countries as organizations, the above claims read: With many intera
 ## Relevance
 International Relations: How to design and promote. Whether or not to cut ties in conflicts.
 
-> 6.6.22: 
+
+
+
+> ## Opinion on Interactions
+> *Opinion on Pairwise Interactions*
+> * Interactions are advocated, as they form the basis of friendship building and the more interactions there are, the more likely any two people in the world have common friends.
 > * Here the opinion is, to keep open communication channels even/especially in conflicts.
-> * The more interactions there are, the more likely any two people in the world have common friends.
+>
+> *Opinion on Teams*
+> Ideally we act as ONE team or as teams cooperating friendly or at least as teams competing fair & peacefully - with the goal to tackle together the many challenges we face to improve the life of every-body step by step while keeping the world in a good state.
+>
+>> As an important task is considered getting AI (Artificial Intelligence) and AL (Artificial Life) right. Life here, denotes a thing with environment interactions which is able to produce rough copies of itself. [Before] we know we [may] turn out to be life creators: 
+>> * An instance of an Artificial Intelligence in the Internet is possibly able to transform to AIL (Artificial Intelligent Life) if it is capable enough and has survival instincts.
+>> * With synthetically assembling RNA/DNA sequences, life forms which are not possible (or at least very unlikely) to arise naturally can be created. Such life forms are considered artificial life here. Just modifying single nucleotides or rearranging/combining existing life forms is considered here as at the border between artificial life and modified natural life, as such life forms can arise naturally.  <!--// Self amplifying RNAs (RNA which encodes proteins to replicate itself) could possibly give rise to such life forms if they infect immortal cell lines. // While containing synthetic RNAs the Covid vaccines from Moderna and Biontech are *not* self amplifying i.e. these RNA do not encode proteins to replicate themselves.-->
+
+
 
 
 
@@ -130,6 +143,8 @@ Teams can compete or cooperate in various ways or have no connection. Here consi
 
 * Early Medieval Age
   Feudal Systems: The nobility governs land provided by the monarch and in turn pays tribute and provides military services. The majority of people lived as peasants with few rights and limited ownership. Slavery(-like) living settings were common in many regions.
+
+<!--late middle ages-->
 
 => In ancient times, the people were often only part of only one team holding power namely the feudal lord and the ruling monarch. Violent conflicts were frequent at those times.
 
