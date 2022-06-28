@@ -4,15 +4,16 @@
 
 
 * [New Content and Updates](#new-content-and-updates)
-  * [24.5.22 Trading Crimea?](#24522-trading-crimea)
-  * [23.5.22 Notes on Ceasefire and State of Negotiations](#23522-notes-on-ceasefire-and-state-of-negotiations)
 * [Board](#board)
-  * [Situations Assessment per early May](#situations-assessment-per-early-may)
-  * [Diplomacy and Compromises from All Parties are likely the best Way out](#diplomacy-and-compromises-from-all-parties-are-likely-the-best-way-out)
+  * [Situation Assessment per early May](#situation-assessment-per-early-may)
+  * [Diplomacy and Compromises](#diplomacy-and-compromises)
   * [Keeping Civilians out](#keeping-civilians-out)
   * [Cease-Fire](#cease-fire)
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
+  * [Security for Ukraine](#security-for-ukraine)
+  * [Security in Europe and the World](#security-in-europe-and-the-world)
+  * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Refs Paths to Peace](#refs-paths-to-peace)
   * [Refs State of Peace Talks](#refs-state-of-peace-talks)
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
@@ -27,6 +28,7 @@
   * [Resources Ukraine](#resources-ukraine)
   * [Resources Russia](#resources-russia)
   * [Resources International](#resources-international)
+  * [Resources on the Military Situation](#resources-on-the-military-situation)
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
   * [Trade in Territory](#trade-in-territory)
@@ -35,20 +37,21 @@
 
 
 ## New Content and Updates
-### 24.5.22 Trading Crimea?
-> Considering the option of a trade for Crimea: [Trading Crimea](#trading-crimea).
-> 
->> Trading territory is not considered ideal here, but better than an unilateral referendum and much better than military force.
+* 24.5.:Speculations on the status of Crimea? 
+  <!--One possibility could be a [Trading Crimea](#trading-crimea).
+  > 
+  >> Trading territory is not considered ideal here, but better than an unilateral referendum and much better than military force.-->
 
-### 23.5.22 Notes on Ceasefire and State of Negotiations
-Updated notes on ceasefire: Terms that no side gains advantages likely are necessary for both to agree on a ceasefire. Updated regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may).
+* 23.5.22: Notes on Ceasefire and State of Negotiations
+  Updated notes on ceasefire: Terms that no side gains advantages likely are necessary for both to agree on a ceasefire. 
+* 23.5.22: Updated regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may).
 
 
 
 
 ## Board
 
-### Situations Assessment per early May
+### Situation Assessment per early May
 Considerations on military, diplomatic, economical and scientific Perspectives
 
 After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
@@ -61,12 +64,13 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 
-### Diplomacy and Compromises from All Parties are likely the best Way out
-<!-- 7.3.2022 -->
+### Diplomacy and Compromises
+Diplomacy and Compromises from All Parties are likely the best Way out
 [in consideration/thinking]
-> 'best' in the sense of - given the current situation - an optimal/least bad outcome considering *all* the people.
-> An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
+* 'best' in the sense of - given the current situation - an optimal/least bad outcome considering *all* the people.
+* An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
 
+<!-- originally posted on the cov page-->
 
 
 ### Keeping Civilians out
@@ -76,8 +80,10 @@ Keeping civilians out of warfare should be a common interest for *all* parties 1
 Paths to escape, to reach a safe and in any way - including ethically - reasonable place should be open. 
 
 <!--
-7.3.2022 (originally posted on the cov page, 18./26.3. formulations adapted)
+ (originally posted on the cov page)
 -->
+
+
 
 ### Cease-Fire
 
@@ -91,26 +97,24 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 > *We all - everyone - are endowed with the same human rights*.
 
 
-(originally posted on the cov page 24.2., formulations 7./16./26.3. adapted)
+<!--(originally posted on the cov page -->
 
 
 
 
 ## Notes
-* The focus is on human rights for individuals - many of which are violated in a war - and to search for all sides practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (a personal viewpoint is transparent in the [appendix](#appendix)).
+* The focus is on human rights for individuals - many of which are violated in a war - and to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (personal viewpoint transparent in the [appendix](#appendix)).
 
-* The United Nations and the Red Cross are considered important.
+* Global Organizations such as the United Nations and the Red Cross are considered important.
 
-* The resources used are mainly Swiss German news sites and UK based news sites (bbc.com and the guardian.co.uk). Sometimes news agencies are visited such as reuters or tass. Overall the resources are biased towards news from Switzerland and the UK. As both countries have and value press freedom and the articles are read critically, it is hoped to achieve a coverage which is not overly biased.
+* Information sources are listed in  [resources](#resources). Frequently consulted are The Guardian, MoscowTimes, Tass
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
-     > On the page about coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and even counterproductive. Sorry.
+     > On the page about coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and possibly even counterproductive. Sorry.
 
-* Likely: mistakes happen here and not all content is up to the task. 
+* Likely/near sure: Mistakes happen here and not all content is up to the task. 
 
 * Feedback is welcome - especially pointing out mistakes and improvement suggestions.
-
-
 
 
 
@@ -118,37 +122,44 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 ## Paths to Peace
 
 
-Subjects officially in negotiation:
-* A neutral status for the Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]).
-* Autonomy (of varying degrees) for Donbas
+### Security in Europe and the World
+
 * Increasing the Security by Limiting Military:
-  * Reducing the number of offensive weapons such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers) and (combat)drones.
+  * Reducing the number of offensive weapons such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers) and long-range (combat)drones.
   * Limit the number of troupes in exercises.
   * Limit tests and exercises involving offensive weapons.
+* redesign of security architectures and partnerships/cooperations/trust-building programs (e.g. OSZE in Europe and extending partnership for peace)
 
 
-Subjects where the negotiation positions seem fare apart or where no official negotiations are disclosed:
-* redesign of European security architecture (e.g. OSZE)
-* status of Crimea
+### Security for Ukraine
+* A neutral status for the Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]). // officially in negotiation
+* general security considerations for Europe and the world which apply also to the Ukraine as the largest country entirely within Europe.
 
-    ### Trading Crimea
-    > Thoughts about the status of Crimea: An option could be that some rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. -->
-    > * Possibly (part of) the price could be paid with natural resources over the next years. 
-    > * Possibly only security/military rights could be (officially) handed over to Russia while some/all of the economic rights such as farming or natural resources remain at the Ukrainian.
-    <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
-    >
-    >
-    > Another option would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
-    >>  To keep that in mind that giving up territory may not be easy.
-    >
-    > General thoughts about [trading territory](#trade-in-territory) in the appendix.
+
+### Security for Russia
+As Russia is a global power and the largest country in Europe and the world, the security of Russia is only discussed in this context: [Security of Europe and the World](#security-in-europe-and-the-world).
 
 
 
-* lessening/lifting sanctions on a peace treaty.
+### Governance and Territorial Situations
+* Autonomy (of varying degrees) for Donbas // part of the Minsk agreement, currently unclear if the Minsk agreement is still a viable path
+* status of Crimea: [Speculations on Crimea](#speculations-on-crimea)  <!--//according to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger in Russia than in the Ukraine-->
 
-Considerations for European and the World security:
-* redesign of country groups to allow non exclusive membership (i.e. a country between two organizations can be member on both. Allow fluid borders i.e. part membership) 
+#### Speculations on Crimea
+> Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
+> * Possibly (part of) the price could be paid with natural resources over the next years. 
+> * Possibly only security/military rights could be traded while some/all of the economic rights such as farming or natural resources remain at/handed back to the Ukraine. <!-- Russia has enough other (and better) gas fields-->
+
+>
+>
+> Another option would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
+>>  To keep that in mind that giving up territory may not be easy.
+>
+> General thoughts about [trading territory](#trade-in-territory) in the appendix.
+
+
+
+
 
 
 
@@ -324,7 +335,11 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 ## Resources
-Sites regularly consulted for articles and news.
+Sites regularly consulted for articles and news. It is attempted to read a fairly broad array of resources critically.
+
+<!-- As of June 2022 **not the case**
+> Sometimes reading of resources is biased towards news sites from Switzerland and the UK. As both countries have and value press freedom and the articles are read critically, it is hoped to achieve a coverage which is not overly biased.
+> -->
 
 ### Resources Ukraine
 * KievIndependent <https://kyivindependent.com/>
@@ -334,22 +349,37 @@ Sites regularly consulted for articles and news.
 * TheMoscowTimes <https://www.themoscowtimes.com>
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
 * interfax, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
+<!--
+* Russia Today <https://>
+  > Often writing follows the Kremlin narrative and guidelines.  -->
 
 
 ### Resources International
 
 * Guardian <https://www.theguardian.com/international>
 * BBC <https://www.bbc.com>
-* Ministry of Defence <https://twitter.com/DefenceHQ/>
 
 * CNN <https://edition.cnn.com/>
 * <https://www.washingtonpost.com>
 
+* <https://www.aljazeera.com>
 
+* Reuters <https://www.reuters.com/>
+
+* NZZ <https://www.nzz.ch>
+* 20min <https://www.20min.ch>
+* Blick <https://blick.ch>
+
+
+
+### Resources on the Military Situation
 * Institute for the Study of War. <https://www.understandingwar.org/>
 
 
-* Reuters <https://www.reuters.com/>
+### Resources Official Channels
+* Ministry of Defence <https://twitter.com/DefenceHQ/>
+
+
 
 
 
@@ -371,18 +401,25 @@ Sites regularly consulted for articles and news.
 
 
 ### Trade in Territory
+> Unfinished and in work.
+> 
 > Considerations on territorial changes in a structured way.
 
 Until the 19th century, land changing ownership by deals between countries or regions/cities buying themselves out from larger empires was practiced and accepted.
 
-In todays world, that a region wants to secede but not both sides agree is a common challenge. Accepting territorial changes by unilateral referenda or by internal or external military force could set a (another) precedent which could cause (increase) instability around the world.
+In todays world, that a region wants to secede but not both sides agree is a common challenge. 
 
-The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with a 2/3 majority). Buying/selling land may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries a territory exchange is another option (when the local populations agree).
+> Territorial changes by unilateral referenda or by internal or external military force often causes instability and yielded many wars throughout history. Accepting unilateral territorial changes could set a 2022 precedent causing (increased) instability in the world.
+
+The possibility of buying out at a 'fair' price could be an option when all parties agree - the involved countries and the local population (possibly with 60% or even a 2/3 majority). Buying/selling land may cause instability too, that's to consider. However if the prices are fair, stability is possibly retained. Between countries a territory exchange is another option (when the local populations agree).
 
 > When private person can own, buy and sell land, why not countries or communities? 
 
 > #### Preferred Path for Self Determination
-> Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession.
+> Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession. 
+> Some reasons are: 
+> * The world moves closer together - driven by improvements in communication and transportation. 
+> * Multicultural countries are considered an enrichment and to be more efficient as the best of different cultures can be combined. Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
 
 #### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
