@@ -15,6 +15,7 @@
   * [Security for Ukraine](#security-for-ukraine)
   * [Security for Russia](#security-for-russia)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
+  * [Strengthening Minority Rights in the Ukraine](#strengthening-minority-rights-in-the-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
   * [Refs State of Peace Talks](#refs-state-of-peace-talks)
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
@@ -161,6 +162,14 @@ As Russia is a global power and the largest country in Europe and the world, the
 > General thoughts about [trading territory](#trade-in-territory) in the appendix.
 
 
+### Strengthening Minority Rights in the Ukraine
+[in work]
+
+> From a Swiss point of view, the current language situation, namely that regional languages are not set equal to Ukrainian is considered, let's say very very strange(<https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
+
+#### Language Situation in the Ukraine
+* Wikipedia on the language policy in the Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
+* Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
 
 
 
@@ -341,7 +350,6 @@ https://www.ukrinform.net/rubric-ato/3519258-death-toll-from-missile-attack-on-a
 Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. http://www.jstor.org/stable/resrep19569.3
 
 > Recommended read, [Bugayova's writing](#bugoyova) is insightful enriched with many noteworthy cites from political leaders in Russia especially from Vladimir Putin. 
-
 
 
 
