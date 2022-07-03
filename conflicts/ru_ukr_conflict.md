@@ -60,7 +60,7 @@ Considerations on military, diplomatic, economical and scientific Perspectives
 After more than 2 months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities which the Russian forces could try.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
-Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers turned out to be able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost). An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. // Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. 
+Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost). An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. // Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. 
 > This bloody battle can be spared for computer/console titles.
  
 From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is expected - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time.
@@ -85,7 +85,6 @@ Paths to escape, to reach a safe and in any way - including ethically - reasonab
 <!--
  (originally posted on the cov page)
 -->
-
 
 
 ### Cease-Fire
@@ -309,13 +308,15 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 ### Refs Warfare in June-July
 
+Intense warfare along the frontline, very intense along the eastern frontline in the Donbas. Warfare (mainly rockets) still across many areas of the Ukraine.
+
 #### Dailymail on Attack in Kremenchuk
 *CCTV captures the moment Russian missiles slammed into mall and factory killing at least 18 with shockwaves from huge fireball sending terrified Ukrainians diving for cover in nearby park*
 https://www.dailymail.co.uk/news/article-10959915/Kremenchuk-shopping-centre-strike-death-toll-rises-18-hope-survivors-fades.html
 
 > The images give some impression how live in war time is, even when not at the frontline and not hit directly.
 
-> Hard to judge from the outside whether the factory or the mall or both were the target. Tough it is considered strange that such an attack was carried out in daytime especially as the given target was an ammunition storage according to the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does careful planning when possible. This could indicate that the Russian military command is under pressure.
+> Hard to judge from the outside whether the factory or the mall or both were the target. Tough it is considered strange that such an attack was carried out in daytime especially as the claimed target was an ammunition storage according to the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does careful planning when possible. This could indicate that the Russian military command is under pressure.
 
 #### Guardian on Attack in Kremenchuk
 Evidence contradicts Russian claims about Kremenchuk mall attack
@@ -397,7 +398,7 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 ### Resources on the Military Situation
 * Institute for the Study of War. <https://www.understandingwar.org/>
-
+* 'Jomini of the West' on Twitter: <https://twitter.com/JominiW>
 
 ### Resources Official Channels
 * UK Ministry of Defence <https://twitter.com/DefenceHQ/>
@@ -414,7 +415,7 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
 > * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started not in agreement with international law, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
 > * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless. 
-    >> So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
+    >> So fare *no systematic* targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
 
