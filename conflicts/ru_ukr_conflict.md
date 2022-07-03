@@ -11,15 +11,17 @@
   * [Cease-Fire](#cease-fire)
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
-  * [Security for Ukraine](#security-for-ukraine)
   * [Security in Europe and the World](#security-in-europe-and-the-world)
+  * [Security for Ukraine](#security-for-ukraine)
+  * [Security for Russia](#security-for-russia)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Refs Paths to Peace](#refs-paths-to-peace)
   * [Refs State of Peace Talks](#refs-state-of-peace-talks)
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
   * [Refs Significance of Peace](#refs-significance-of-peace)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
-  * [Refs Warfare in the Ukraine](#refs-warfare-in-the-ukraine)
+  * [Refs Warfare](#refs-warfare)
+  * [Refs Warfare in June-July](#refs-warfare-in-june-july)
 * [Historical and Political Background](#historical-and-political-background)
   * [Refs Background](#refs-background)
 * [International Law](#international-law)
@@ -29,6 +31,7 @@
   * [Resources Russia](#resources-russia)
   * [Resources International](#resources-international)
   * [Resources on the Military Situation](#resources-on-the-military-situation)
+  * [Resources Official Channels](#resources-official-channels)
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
   * [Trade in Territory](#trade-in-territory)
@@ -124,36 +127,37 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 
 ### Security in Europe and the World
 
-* Increasing the Security by Limiting Military:
+* Increasing the Security by Limiting (Offensive) Military:
   * Reducing the number of offensive weapons such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers) and long-range (combat)drones.
-  * Limit the number of troupes in exercises.
-  * Limit tests and exercises involving offensive weapons.
+  * Limits on exercises: 
+    * the number of troupes in exercises.
+    * Limit tests and exercises involving offensive weapons.
 * redesign of security architectures and partnerships/cooperations/trust-building programs (e.g. OSZE in Europe and extending partnership for peace)
 
 
 ### Security for Ukraine
 * A neutral status for the Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]). // officially in negotiation
-* general security considerations for Europe and the world which apply also to the Ukraine as the largest country entirely within Europe.
+* General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to the Ukraine as the largest country entirely within Europe.
 
 
 ### Security for Russia
-As Russia is a global power and the largest country in Europe and the world, the security of Russia is only discussed in this context: [Security of Europe and the World](#security-in-europe-and-the-world).
+As Russia is a global power and the largest country in Europe and the world, the security of Russia is only discussed in the context of [Security of Europe and the World](#security-in-europe-and-the-world).
 
 
 
 ### Governance and Territorial Situations
 * Autonomy (of varying degrees) for Donbas // part of the Minsk agreement, currently unclear if the Minsk agreement is still a viable path
-* status of Crimea: [Speculations on Crimea](#speculations-on-crimea)  <!--//according to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger in Russia than in the Ukraine-->
+* status of Crimea: [Speculations on Crimea](#speculations-on-crimea)
+* status of Kherson: Control likely crucial for the Ukraine.
 
 #### Speculations on Crimea
 > Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
 > * Possibly (part of) the price could be paid with natural resources over the next years. 
-> * Possibly only security/military rights could be traded while some/all of the economic rights such as farming or natural resources remain at/handed back to the Ukraine. <!-- Russia has enough other (and better) gas fields-->
+> * Possibly only security/military rights could be traded while some/all of the economic rights such as farming or natural resources remain at/handed back to the Ukraine. // Russia has enough other (and better) gas fields.
+> * According to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger for Russians than for Ukrainians.
 
->
->
 > Another option would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
->>  To keep that in mind that giving up territory may not be easy.
+>>  To keep that in mind that giving up territory is usually not easy.
 >
 > General thoughts about [trading territory](#trade-in-territory) in the appendix.
 
@@ -165,12 +169,11 @@ As Russia is a global power and the largest country in Europe and the world, the
 
 ### Refs Paths to Peace
 
-<!--
-#### Rifkind 0902
-Gabrielle Rifkind, 09022022
-*I’m a conflict mediator. This is a way out of the Ukraine crisis*
-<https://www.theguardian.com/commentisfree/2022/feb/09/conflict-mediator-ukraine-vladimir-putin>
--->
+
+#### Powell 2306 Guardian
+Jonathan Powell, Opinion, *Putin is not yet ready to end the Ukraine war. When he is, we must be prepared* <https://www.theguardian.com/commentisfree/2022/jun/23/putin-not-ready-end-ukraine-war-prepared>
+
+
 
 #### Lieven 0403-Guardian
 Anatol Lieven *Opinion "It’s time to ask: what would a Ukraine Russia peace deal look like?"* 
@@ -270,11 +273,11 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 
 ## Significance of Peace and Effects of War
 [in consideration]
-<!--
+
 * Prevent losses and suffering. War is brutal and human rights are violated.
 * War can divide people.
-* War can have risks associated such as Nuclear Risks.
--->
+* War can have risks associated and escalate.
+
 
 ### Refs Significance of Peace
 
@@ -295,13 +298,37 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 *Nearly 4M Russians Left Russia in Early 2022 – FSB* 
 <https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
 
-### Refs Warfare in the Ukraine
+
+
+### Refs Warfare 
+
+#### Guardian on Illegal Weapons
 *Ukraine destruction: how the Guardian documented Russia’s use of illegal weapons*
 <https://www.theguardian.com/world/2022/may/24/ukraine-destruction-how-the-guardian-documented-russia-use-of-weapons>
 
 
+### Refs Warfare in June-July
+
+#### Dailymail on Attack in Kremenchuk
+*CCTV captures the moment Russian missiles slammed into mall and factory killing at least 18 with shockwaves from huge fireball sending terrified Ukrainians diving for cover in nearby park*
+https://www.dailymail.co.uk/news/article-10959915/Kremenchuk-shopping-centre-strike-death-toll-rises-18-hope-survivors-fades.html
+
+> The images give some impression how live in war time is, even when not at the frontline and not hit directly.
+
+> Hard to judge from the outside whether the factory or the mall or both were the target. Tough it is considered strange that such an attack was carried out in daytime especially as the given target was an ammunition storage according to the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does careful planning when possible. This could indicate that the Russian military command is under pressure.
+
+#### Guardian on Attack in Kremenchuk
+Evidence contradicts Russian claims about Kremenchuk mall attack
+<https://www.theguardian.com/world/2022/jun/29/evidence-contradicts-russian-claims-about-kremenchuk-mall-attack>
 
 
+#### Ukrinform on Missiles at Odesa
+*Enemy continuously fires Oniks missiles at Odesa Region*
+https://www.ukrinform.net/rubric-ato/3517459-enemy-continuously-fires-oniks-missiles-at-odesa-region.html
+
+#### Ukrinform on Missiles at Odesa on 0107
+*Death toll from missile attack on apartment building in Odesa region rises to 14*
+https://www.ukrinform.net/rubric-ato/3519258-death-toll-from-missile-attack-on-apartment-building-in-odesa-region-rises-to-14.html#
 
 
 ## Historical and Political Background
@@ -311,7 +338,6 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 #### Bugoyova
 Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. http://www.jstor.org/stable/resrep19569.3
-
 
 > Recommended read, [Bugayova's writing](#bugoyova) is insightful enriched with many noteworthy cites from political leaders in Russia especially from Vladimir Putin. 
 
@@ -326,10 +352,6 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 ### UN Charter
 https://www.un.org/en/about-us/un-charter/chapter-1
 Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
-
-
-
-
 
 
 
@@ -356,7 +378,8 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 ### Resources International
 
-* Guardian <https://www.theguardian.com/international>
+* Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information)
+
 * BBC <https://www.bbc.com>
 
 * CNN <https://edition.cnn.com/>
@@ -364,11 +387,11 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 * <https://www.aljazeera.com>
 
+* Newspapers from Switzerland (all in German, sometimes read as printed version, on availability): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare), 20min <https://www.20min.ch> (news-tickers), Blick <https://www.blick.ch>, Tagesanzeiger <https://www.tagesanzeiger.ch>, SRF <https://www.srf.ch>, Luzerner Zeitung
+
 * Reuters <https://www.reuters.com/>
 
-* NZZ <https://www.nzz.ch>
-* 20min <https://www.20min.ch>
-* Blick <https://blick.ch>
+
 
 
 
@@ -377,7 +400,7 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 
 ### Resources Official Channels
-* Ministry of Defence <https://twitter.com/DefenceHQ/>
+* UK Ministry of Defence <https://twitter.com/DefenceHQ/>
 
 
 
@@ -389,10 +412,9 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 ### Opinion on the Conflict
 > The opinion/personal judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
-> * The invasion is *not* in agreement with the UN charter (namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started with violations of international laws does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
-> * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless.
-> 
->> So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
+> * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter). That other military conflicts (including military conflicts in 90s and 00s) were started not in agreement with international law, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
+> * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless. 
+    >> So fare *no* systematic targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
 
@@ -401,9 +423,10 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 
 ### Trade in Territory
-> Unfinished and in work.
-> 
-> Considerations on territorial changes in a structured way.
+'Considerations on territorial changes in a structured way.'
+
+> Unfinished and in consideration/work.
+
 
 Until the 19th century, land changing ownership by deals between countries or regions/cities buying themselves out from larger empires was practiced and accepted.
 
@@ -415,11 +438,18 @@ The possibility of buying out at a 'fair' price could be an option when all part
 
 > When private person can own, buy and sell land, why not countries or communities? 
 
+
+
 > #### Preferred Path for Self Determination
 > Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession. 
-> Some reasons are: 
-> * The world moves closer together - driven by improvements in communication and transportation. 
-> * Multicultural countries are considered an enrichment and to be more efficient as the best of different cultures can be combined. Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
+> Reasons are: 
+> * The world moves closer together:
+>   * Driven by improvements in communication and transportation, the cooperation between states increases and borders are becoming less strict. 
+>   * Technologies become so powerful effects on the whole world are possible - overall for many challenges and risks in todays world, need a world wide cooperation to tackle them efficiently, so governance not always stops at borders.
+> * Multicultural countries have many benefits:
+>   * More efficient as the strengths of different cultures can be combined. 
+>   * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
+> * Peace.
 
 #### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
