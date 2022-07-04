@@ -11,9 +11,9 @@
   * [Cease-Fire](#cease-fire)
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
-  * [Security in Europe and the World](#security-in-europe-and-the-world)
   * [Security for Ukraine](#security-for-ukraine)
   * [Security for Russia](#security-for-russia)
+  * [Security in Europe and the World](#security-in-europe-and-the-world)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Strengthening Minority Rights in the Ukraine](#strengthening-minority-rights-in-the-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
@@ -125,14 +125,7 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 ## Paths to Peace
 
 
-### Security in Europe and the World
 
-* Increasing the Security by Limiting (Offensive) Military:
-  * Reducing the number of offensive weapons such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers) and long-range (combat)drones.
-  * Limits on exercises: 
-    * the number of troupes in exercises.
-    * Limit tests and exercises involving offensive weapons.
-* redesign of security architectures and partnerships/cooperations/trust-building programs (e.g. OSZE in Europe and extending partnership for peace)
 
 
 ### Security for Ukraine
@@ -141,7 +134,17 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 
 
 ### Security for Russia
-As Russia is a global power and the largest country in Europe and the world, the security of Russia is only discussed in the context of [Security of Europe and the World](#security-in-europe-and-the-world).
+As Russia is a global power and the largest country of Europe, of Asia and the world, the security of Russia is only discussed in the context of [Security of Europe and the World](#security-in-europe-and-the-world).
+
+
+### Security in Europe and the World
+
+* Increasing the Security by Limiting (Offensive) Military:
+  * Reducing the number of offensive weapons such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers) and long-range (combat)drones.
+  * Limits on exercises: 
+    * the number of troupes in exercises.
+    * Limit tests and exercises involving offensive weapons.
+* redesign of security architectures and partnerships/cooperations/trust-building programs (e.g. OSZE in Europe and extending partnership for peace)
 
 
 
