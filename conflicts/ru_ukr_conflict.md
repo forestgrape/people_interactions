@@ -168,7 +168,7 @@ As Russia is a global power and the largest country of Europe, of Asia and the w
 ### Strengthening Minority Rights in the Ukraine
 [in work]
 
-> From a Swiss point of view, the current language situation in the Ukraine is considered, let's say very strange (Switzerland is a multilingual country: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
+> From a Swiss point of view, the current language situation in the Ukraine is considered, let's say very strange (Switzerland is a multilingual country: Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
 
 #### Language Situation in the Ukraine
 * Wikipedia on the language policy in the Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
