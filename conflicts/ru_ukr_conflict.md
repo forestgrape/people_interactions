@@ -328,7 +328,7 @@ https://www.dailymail.co.uk/news/article-10959915/Kremenchuk-shopping-centre-str
 
 > The images give some impression how live in war time is, even when not at the frontline and not hit directly.
 
-> Hard to judge from the outside whether the factory or the mall or both were the target. Tough it is considered strange that such an attack was carried out in daytime especially as the claimed target was an ammunition storage according to the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does careful planning when possible. This could indicate that the Russian military command is under pressure.
+> Hard to judge from the outside whether the factory or the mall or both were the target. Unclear why the attack was carried out in daytime when the claimed target was an ammunition storage according to the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does detailed planning when possible. This could indicate that the Russian military command is under pressure.
 
 #### Guardian on Attack in Kremenchuk
 Evidence contradicts Russian claims about Kremenchuk mall attack
