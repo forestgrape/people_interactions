@@ -168,7 +168,7 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 ### Strengthening Minority Rights in the Ukraine
 [in work]
 
-> Likely a ceasefire is required to discuss this topic.
+> Likely a ceasefire is a requirement to discuss this topic officially.
 
 > From a Swiss point of view, the current language situation in the Ukraine is considered - let's say - odd (Switzerland is a multilingual country: Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
 
