@@ -21,7 +21,7 @@
 * [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
   * [Refs Significance of Peace](#refs-significance-of-peace)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
-  * [Refs Warfare](#refs-warfare)
+  * [Refs Warfare Documentation](#refs-warfare-documentation)
   * [Refs Warfare in June-July](#refs-warfare-in-june-july)
 * [Historical and Political Background](#historical-and-political-background)
   * [Refs Background](#refs-background)
@@ -316,9 +316,15 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 
 
-### Refs Warfare 
+### Refs Warfare Documentation
 
-> Each war is brutal in its own ways. Documentation and legislation (laws of war) likely have contributed that the brutality of wars has been decreasing in the past decades. The notes below are mainly a personal documentation of some aspects of brutality of this war. As important as what is on the list is what is not on the list. Once there is a peace treaty the list will be deleted.
+Each war is brutal in its own ways. Documentation and legislation (laws of war) likely have contributed that the brutality of wars tended to decrease over the past decades. // War is still extremely brutal, especially for the individuals affected.
+
+> The articles below document some aspects of brutality of this war. It is not complete. It is not verified. As judgement is not an [objective here](#notes), the items will and can be removed here once peace is reached.
+
+> For warfare, as important what occurs is what does not occur.
+
+
 
 #### Guardian on Illegal Weapons
 *Ukraine destruction: how the Guardian documented Russia’s use of illegal weapons*
@@ -390,9 +396,10 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 * TheMoscowTimes <https://www.themoscowtimes.com>
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
 * interfax, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
-<!--
-* Russia Today <https://>
-  > Often writing follows the Kremlin narrative and guidelines.  -->
+
+* Russia Today <https://www.rt.com>
+  > Usually the writing follows the Russian government guidelines. The articles can be propaganda/telling the Russian government narrative/ be one-sided.
+  >> Critical reading, checking information, reading alternatives and making up its own opinion is considered an essential skill in the 'information age'. For many media. For nearly all advertisement.
 
 
 ### Resources International
