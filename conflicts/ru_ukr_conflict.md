@@ -320,7 +320,7 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 Each war is brutal in its own ways. Documentation and legislation (laws of war) likely have contributed that the brutality of wars tended to decrease over the past decades. // War is still extremely brutal, especially for the individuals affected.
 
-> The articles below document some aspects of brutality of this war. It is not complete. It is not verified. As judgement is not an [objective here](#notes), the items will and can be removed here once peace is reached.
+> The articles below document some aspects of brutality of this war. It is not complete. It is not verified. As judgement is not an [objective here](#notes) here, the items will/can be removed here (!) once peace is reached.
 
 > For warfare, as important what occurs is what does not occur.
 
