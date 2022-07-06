@@ -317,13 +317,9 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 ### Refs Warfare Documentation
 
-> Each war is brutal in its own ways. 
+> Each war is brutal in its own ways. What occurs is important, what not occurs is important. <!--(Unbiased) Documentation and legislation (laws of war) possibly contribute to reduce the brutality of warfare.-->
 
-> Documentation and legislation (laws of war) possibly contribute to reduce the brutality of warfare.
->
-> For warfare, it is also important what does not occur.
-
-> The articles and notes below document some aspects of brutality of this war. It is not complete. It is not verified. 
+> The articles and notes below document some aspects of warfare. It is not complete. It is not verified. Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into those places - well not possible but still attempted.
 > 
 > As judgement is not an [objective here](#notes) here, the items !here! can be removed once peace is reached.
 
