@@ -170,12 +170,14 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 > Likely a ceasefire is a requirement to discuss this topic officially.
 
-> Here, out of a Swiss perspective, the current language legislation in the Ukraine is considered - let's say - odd. 
->> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly an alemannic dialect, collectively referred as Swiss German). Additionally Romansh is a national language spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
-
 #### Language Situation in the Ukraine
 * Wikipedia on the language policy in the Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
 * Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
+
+> Here, out of a Swiss perspective, the current language legislation in the Ukraine is considered - let's say - odd. 
+>> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly an alemannic dialect, collectively referred as Swiss German). Additionally Romansh is a national language spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
+
+
 
 
 
@@ -315,6 +317,8 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 
 ### Refs Warfare 
+
+> Each war is brutal in its own ways. Documentation and legislation (laws of war) likely have contributed that the brutality of wars has been decreasing in the past decades. The notes below are mainly a personal documentation of some aspects of brutality of this war. As important as what is on the list is what is not on the list. Once there is a peace treaty the list will be deleted.
 
 #### Guardian on Illegal Weapons
 *Ukraine destruction: how the Guardian documented Russia’s use of illegal weapons*
