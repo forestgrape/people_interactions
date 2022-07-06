@@ -22,7 +22,6 @@
   * [Refs Significance of Peace](#refs-significance-of-peace)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
   * [Refs Warfare Documentation](#refs-warfare-documentation)
-  * [Refs Warfare in June-July](#refs-warfare-in-june-july)
 * [Historical and Political Background](#historical-and-political-background)
   * [Refs Background](#refs-background)
 * [International Law](#international-law)
@@ -318,11 +317,16 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 ### Refs Warfare Documentation
 
-Each war is brutal in its own ways. Documentation and legislation (laws of war) likely have contributed that the brutality of wars tended to decrease over the past decades. // War is still extremely brutal, especially for the individuals affected.
+> Each war is brutal in its own ways. 
 
-> The articles below document some aspects of brutality of this war. It is not complete. It is not verified. As judgement is not an [objective here](#notes) here, the items will/can be removed here (!) once peace is reached.
+> Documentation and legislation (laws of war) possibly contribute to reduce the brutality of warfare.
+>
+> For warfare, it is also important what does not occur.
 
-> For warfare, as important what occurs is what does not occur.
+> The articles and notes below document some aspects of brutality of this war. It is not complete. It is not verified. 
+> 
+> As judgement is not an [objective here](#notes) here, the items !here! can be removed once peace is reached.
+
 
 
 
@@ -331,7 +335,7 @@ Each war is brutal in its own ways. Documentation and legislation (laws of war) 
 <https://www.theguardian.com/world/2022/may/24/ukraine-destruction-how-the-guardian-documented-russia-use-of-weapons>
 
 
-### Refs Warfare in June-July
+// Warfare in June-July
 
 Intense warfare along the frontline, very intense along the eastern frontline in the Donbas. Warfare (mainly rockets) still across many areas of the Ukraine.
 
