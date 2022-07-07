@@ -416,7 +416,10 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 // Russian Government run news
 * Russia Today <https://www.rt.com>
-  > Note: Used to spread 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>] and therefore is banned in many countries including the Ukraine and the members of the European Union. "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
+  > Note: 
+  > * Blocked in many countries as it used to spread 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>]
+  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
+  > * The author list is quite broad and articles often describe the viewpoint in/of Russia on a certain topic.
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media. For nearly all advertisement.
 
 
