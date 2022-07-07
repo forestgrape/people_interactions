@@ -317,11 +317,15 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 
 ### Refs Warfare Documentation
 
-> Each war is brutal in its own ways. What occurs is important, what not occurs is important. <!--(Unbiased) Documentation and legislation (laws of war) possibly contribute to reduce the brutality of warfare.-->
+> Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
 
-> The articles and notes below document some aspects of warfare. It is not complete. It is not verified. Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into those places - well not possible but still attempted.
+> The articles and notes below document some aspects of warfare, with a focus on civilians. It is not complete. It is not verified. Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into those places - well not possible but still attempted. 
 > 
+>> Many eyes looking, documenting, knowing and putting oneself into others positions possibly helps to reduce/limit the brutality of warfare and even possibly to achieve peace.
+
+<!--
 > As judgement is not an [objective here](#notes) here, the items !here! can be removed once peace is reached.
+--> 
 
 
 
@@ -398,8 +402,8 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 * interfax, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
 
 * Russia Today <https://www.rt.com>
-  > Usually the writing follows the Russian government guidelines. The articles can be propaganda/telling the Russian government narrative/ be one-sided.
-  >> Critical reading, checking information, reading alternatives and making up its own opinion is considered an essential skill in the 'information age'. For many media. For nearly all advertisement.
+  > Note: It sometimes spreads 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>] and therefore is banned in many countries including the Ukraine and the members of the European Union. "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
+  >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media. For nearly all advertisement.
 
 
 ### Resources International
