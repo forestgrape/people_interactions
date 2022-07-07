@@ -404,6 +404,8 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 * Euromaidanpress https://euromaidanpress.com/category/ukraine/
   > "We collect, rely on, and promote non-partisan, non-religious, unbiased information in our fight against the Russian disinformation campaign." [<https://euromaidanpress.com/about/>]
 
+  > The Euromaidan and the surrounding events are currently *not* discussed on this page. // A discussion is complicated and delicate.
+
   
 
 ### Resources Russia
