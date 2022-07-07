@@ -393,16 +393,30 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 > -->
 
 ### Resources Ukraine
+// Newspapers
 * KievIndependent <https://kyivindependent.com/>
+* KievPost <https://www.kyivpost.com>
+
+// News agency
 * Ukrinform - Ukrainian multimedia platform for broadcasting - <https://www.ukrinform.net>
 
+// Support of Euromaidan
+* Euromaidanpress https://euromaidanpress.com/category/ukraine/
+  > "We collect, rely on, and promote non-partisan, non-religious, unbiased information in our fight against the Russian disinformation campaign." [<https://euromaidanpress.com/about/>]
+
+  
+
 ### Resources Russia
+// Newspapers
 * TheMoscowTimes <https://www.themoscowtimes.com>
+
+// News agencies
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
 * interfax, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
 
+// Russian Government run news
 * Russia Today <https://www.rt.com>
-  > Note: It sometimes spreads 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>] and therefore is banned in many countries including the Ukraine and the members of the European Union. "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
+  > Note: Used to spread 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>] and therefore is banned in many countries including the Ukraine and the members of the European Union. "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media. For nearly all advertisement.
 
 
