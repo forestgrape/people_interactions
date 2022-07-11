@@ -154,8 +154,8 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 #### Speculations on Crimea
 > Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
-> * Possibly (part of) the price could be paid with natural resources over the next years. 
-> * Possibly only security/military rights could be traded while some/all of the economic rights such as farming or natural resources remain at/handed back to the Ukraine. // Russia has enough other (and better) gas fields.
+> * Possibly (part of) the price could be paid with natural resources. <!-- Countless possible pay-schemes, some known from data plan jungles.-->
+> * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by the Ukraine. <!-- Russia has enough other (and better) gas fields.-->
 > * According to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger for Russians than for Ukrainians.
 
 > Another option would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
@@ -173,8 +173,8 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 * Wikipedia on the language policy in the Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
 * Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
 
-> Here, out of a Swiss perspective, the current language legislation in the Ukraine is considered - let's say - odd. 
->> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly an alemannic dialect, collectively referred as Swiss German). Additionally Romansh is a national language spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
+> Here, from a Swiss perspective, the current language situation in the Ukraine is considered - let's say - odd. 
+>> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly an alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
 
 
 
@@ -409,10 +409,8 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
   
 
 ### Resources Russia
-// Newspapers
+// Newspapers and news agencies
 * TheMoscowTimes <https://www.themoscowtimes.com>
-
-// News agencies
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
 * interfax, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
 
@@ -421,9 +419,11 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
   > Note: 
   > * Blocked in many countries as it used to spread 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>]
   > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
-  > * The author list is quite broad and articles often describe the viewpoint in/of Russia on a certain topic as long as its not in opposition to the government.
+  > * The author list is quite broad and quite a few articles describe the viewpoint in/of Russia on different topics, as long as its *not* in opposition to the government.
 
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media. For nearly all advertisement.
+
+
 
 
 ### Resources International
@@ -435,9 +435,9 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 * CNN <https://edition.cnn.com/>
 * <https://www.washingtonpost.com>
 
-* <https://www.aljazeera.com>
+* Al Jazeera English <https://www.aljazeera.com>
 
-* Newspapers from Switzerland (all in German, sometimes read as printed version, on availability): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare), 20min <https://www.20min.ch> (news-tickers), Blick <https://www.blick.ch>, Tagesanzeiger <https://www.tagesanzeiger.ch>, SRF <https://www.srf.ch>, Luzerner Zeitung
+* Newspapers from Switzerland (in German, sometimes read as printed version as available): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare), 20min <https://www.20min.ch> (news-tickers), Blick <https://www.blick.ch>, Tagesanzeiger <https://www.tagesanzeiger.ch>, SRF <https://www.srf.ch>, Luzerner Zeitung
 
 * Reuters <https://www.reuters.com/>
 
