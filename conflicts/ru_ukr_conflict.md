@@ -154,7 +154,7 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 #### Speculations on Crimea
 > Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
-> * Possibly (part of) the price could be paid with natural resources. // Listing the countless possible pay-schemes does not fit here. Already data plans offered are jungles.
+> * Possibly (part of) the price could be paid with natural resources. // Listing the countless possible schemes does not fit here. Already data plans offered are jungles.
 > * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by the Ukraine. <!-- Russia has enough other (and better) gas fields.-->
 > * According to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger for Russians than for Ukrainians.
 
