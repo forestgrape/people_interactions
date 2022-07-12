@@ -174,7 +174,7 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 * Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
 
 > Here, from a Swiss perspective, the current language situation/policy in the Ukraine is considered - let's say - odd. 
->> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly an alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica on Languages: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
+>> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
 
 
 
