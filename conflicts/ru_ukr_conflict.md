@@ -73,18 +73,12 @@ Diplomacy and Compromises from All Parties are likely the best Way out
 * 'best' in the sense of - given the current situation - an optimal/least bad outcome considering *all* the people.
 * An overall agreed fully just way out is likely very difficult to reach. 'Acceptable' just/unjust is possibly enough for peace, even long-term.
 
-<!-- originally posted on the cov page-->
-
-
 ### Keeping Civilians out
 
 Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
 > 
 Paths to escape, to reach a safe and in any way - including ethically - reasonable place should be open. 
 
-<!--
- (originally posted on the cov page)
--->
 
 
 ### Cease-Fire
@@ -98,8 +92,6 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 > <br>
 > *We all - everyone - are endowed with the same human rights*.
 
-
-<!--(originally posted on the cov page -->
 
 
 
