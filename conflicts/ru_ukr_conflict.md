@@ -409,7 +409,7 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 // Russian Government run news
 * Russia Today <https://www.rt.com>
   > Note: 
-  > * Blocked in many countries as it used to spread 'disinformation' [<https://en.wikipedia.org/wiki/RT_(TV_network)>]
+  > * Blocked in many countries as it used to spread 'disinformation' according to wikipedia [<https://en.wikipedia.org/wiki/RT_(TV_network)>]
   > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].
   > * The author list is quite broad and quite a few articles describe the viewpoint in/of Russia on different topics, as long as its *not* in opposition to the government.
 
@@ -435,12 +435,11 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 // China
 * Global Times <https://www.globaltimes.cn> // Owned by People's Daily
-  > <http://en.people.cn> People's Daily is the largest newspaper group in China. "Chinese leaders attach great importance to the development of People’s Daily Online. On February 19, 2016, Xi Jinping, Chinese president, general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission made an inspection tour of People’s Daily." (from the About Us section on People's Daily)
+* People's Daily <http://en.people.cn> is the largest newspaper group in China. In the 'About Us' section it is written: "Chinese leaders attach great importance to the development of People’s Daily Online. On February 19, 2016, Xi Jinping, Chinese president, general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission made an inspection tour of People’s Daily."
 
 // India
-* https://timesofindia.indiatimes.com/world/europe
-
-
+* <https://timesofindia.indiatimes.com/world/europe>
+* <https://indianexpress.com>
 
 
 ### Resources on the Military Situation
