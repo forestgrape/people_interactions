@@ -56,6 +56,10 @@ International jurisprudence is still not very formalized/specified and the conce
 > Here it is opted for a better basis and regulation of sanctions in international law - especially for sanction related to the international justice systems - so that they indeed work like a justice system i.e. predictable but not arbitrary penalties => preventive effects and more accepted as fair.
 
 > Here mainly sanctioning of countries is considered and not of (Juridical) persons. The latter is *not* supported here in general: Can having a certain nationality or being friend with somebody, be a reason to be sanctioned? In most legal systems, the formers are not reasons e.g. when a company does wrong it's employees are usually not punished unless they did wrong, similar for friends or relatives of 'wrong-doers' unless they did wrong themselves there is no punishment.
+> Exceptions:
+> * In specific events it can make sense however to take the state membership (nationality) into account e.g. when there is a risk of propaganda or tumults, though the intention is then not to sanction but to ensure a smooth event.
+> * In the case of war crimes, the opinion is that restrictions can be adequate but should be decided by an appropriate court in a fair process.
+> * If a company is involved into 
 
 
 
