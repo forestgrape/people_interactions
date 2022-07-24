@@ -63,7 +63,7 @@ International jurisprudence is still not very formalized/specified and the conce
 > Exceptions:
 > * In specific events it can make sense however to take the state membership (nationality) into account e.g. when there is a risk of propaganda or tumults, though the intention is then not to sanction but to ensure a smooth event.
 > * In the case of war crimes, the opinion is that restrictions can be adequate but should be decided by an appropriate court in a fair process.
-> * If a company is involved into 
+ 
 
 
 
