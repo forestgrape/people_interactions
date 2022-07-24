@@ -3,8 +3,6 @@
 # Considerations on International Jurisprudence and Sanctions
 
 > **Entire Page is in raw work and consideration. Changes and mistakes of any form are likely.**
-> 
-> References are not fully read and incorporated yet.
 
 > **Feedback, especially critics, is appreciated and welcome.**
 
@@ -23,12 +21,18 @@
 * [Appendix](#appendix)
   * [Justice System](#justice-system)
 * [References](#references)
+  * [Refs Sanctions Theory](#refs-sanctions-theory)
 
 
 
 ## Summary
 *Terminology, legal specifications and practice:* Sanctions are used to denote restrictions taken by a state or a group of state on another state. <!--In international law, sanctions are not well specified. to confirm--> Sanctions are often decided ad hoc by the executive.
-*Motivations/Goals:* Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly government). *Implementations:* Depending on the goal of a sanction, different implementations are possible such as economic, technological or travel restrictions.
+
+*Motivations/Goals:* 
+Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly government). 
+
+*Implementations:* 
+Depending on the goal of a sanction, different implementations are possible such as economic, technological or travel restrictions.
 
 > A more formalized and specified international justice system with predefined sanctions could increase predictability and so preventive effects play more and sanctions are less [perceived as] unfair.
 
@@ -36,7 +40,7 @@
 ## Notes
 > The notes below list goals and methods of sanctions. Mostly it is **a list without judgement and not all items are supported here** (a personal viewpoint in [Opinion on Sanctions](#opinion-on-sanctions).
 
-> This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for that special situation are not yet published (considerations will soon be published in the context of the [conflict](../conflicts/ru_ukr_conflict.md)).
+> This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict will soon be published on the [conflict page](../conflicts/ru_ukr_conflict.md).
 
 ## Opinion on Principles
 > * As in most justice systems, here a causal and direct connection is considered as necessary to sanction an entity. 
@@ -88,15 +92,19 @@ Encourage a wanted certain behavior e.g. promote [economic] freedom.
 
 
 ### Capability Control Goals
-* *Reduction of Military Capabilities:* Prevention to acquire certain capabilities. Prevention can target single goods or entire industries. E.g. export restrictions on technologies to produce nuclear weapons or long-range rockets. // may target many other industries
+* *Reduction of Military Capabilities:* Prevention to acquire certain capabilities. Prevention can target single goods or entire industries. E.g. export restrictions on technologies to produce nuclear weapons or long-range rockets. // can target other industries
 
 * *Reduction of the Capabilities to do War:* Sanctioning a state to reduce its ability to do war.
-   > Usually also includes the reduction of military capabilities. 
+
+
+> Long-term capability control is an extremely severe measure as most implementations reduce the welfare of the people of an entire state. 
+>> In general, this is not supported here.
+
 
 ### Political Goals
 * *Staying Neutral:* As staying neutral means supporting neither side in a conflict, in some asymmetric conflicts economic restrictions on invaders can be adequate. For example when only one country invades, warfare only takes place in the invaded country, which (usually) shoots its economy - on the other hand the economy of the invader continues running, thus continuing trade can mean supporting the invader.
 
-* *Politically motivated Restrictions:* E.g. sanctioning a country with an unfriendly government.
+* *Politically motivated Restrictions:* E.g. sanctioning a country with an unfriendly/disliked  government.
 
 
 
@@ -143,10 +151,12 @@ Negative return values and an educational process are key in criminal law. In cr
 
 
 ## References
-[in work]
-
+> In work and **not** fully/in detail read and incorporated [yet].
+### Refs Sanctions Theory
+#### Ruys
 Ruys, Tom. "Sanctions, retortions and countermeasures: concepts and international legal framework." Research Handbook on UN Sanctions and International Law. Edward Elgar Publishing, 2017. 19-51.
 
+#### Asada
 Asada, Masahiko. Economic sanctions in international law and practice. Taylor & Francis, 2020.
 
 
