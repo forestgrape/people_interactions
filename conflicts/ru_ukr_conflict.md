@@ -48,7 +48,7 @@
 
 
 ## New Content and Updates
-* 24.5.:Speculations on the status of Crimea? 
+* 24.5.:Speculations on the status of Crimea
   <!--One possibility could be a [Trading Crimea](#trading-crimea).
   > 
   >> Trading territory is not considered ideal here, but better than an unilateral referendum and much better than military force.-->
@@ -144,8 +144,12 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 
 ### Governance and Territorial Situations
-* Donbas: Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreement // currently unclear if the Minsk agreement is still a viable path. // Taking into account the opinion of the people of the since 2014 self governed area is considered nice, especially considering the Euromaidan.
+* Donbas: Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreement
+  > * currently unclear if the Minsk agreement is still a viable path. // > * Taking into account the opinion of the people of the since 2014 self governed area is considered nice, especially considering the Euromaidan. 
+  > * The impressions here are: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them, this has to be taken into account [by all].
+
 * Crimea: [Speculations on Crimea](#speculations-on-crimea)
+
 * Kherson oblast *west of Dnieper including the city Kherson*. 
   > * Significance: Full (political, economic and security) control likely crucial for the Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for the Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is likely psychologically important).
   > * Military Situation: Considering the military capabilities from the different parties, the Ukrainian forces are in a better position than the Russian forces.
@@ -441,8 +445,9 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 ## Resources
 Sites regularly consulted for articles and news. It is attempted to read a fairly broad array of resources critically.
 
-> Ownership, key people and the mission are often stated [in work as of 27.7.]. The resources for the ownership are the "About" pages and wikipedia.
->> The impression here is, that on important topics such as the Ukraine-Russia-EU/NATO conflict is, what to write and/or what not to write is sometimes set for media conglomerates. Some newspapers encourage different viewpoints and the journalists have much freedom to write their own opinion and some newspapers streamline the narratives. This seems the case both state owned, single-person owned and multiple shareholder owned newspapers. 
+Ownership, key people and the mission are often stated [in work as of 27.7.]. The resources for the ownership are the "About" pages and wikipedia.
+
+> The impression here is, that on important topics such as the Ukraine-Russia-EU/NATO conflict is, what to write and/or what not to write is sometimes/frequently uniform for media conglomerates. Some newspapers encourage different viewpoints and the journalists have much freedom to write their own opinion while other streamline the narratives. Both freedom and constraints seem to occur for different ownership structures: state owned, single-person owned and multiple shareholder owned newspapers.
 
 > Transparency is considered important including on
 > * the 'mission'
@@ -489,7 +494,7 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 
 ### Resources UK
-* Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information) // journalistic freedom quite large especially in the opinion section
+* Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information) // freedom to write seems large especially in the opinion section
 * BBC <https://www.bbc.com> // owned by the UK government
   
 // Government run
