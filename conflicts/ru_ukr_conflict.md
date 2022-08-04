@@ -145,8 +145,9 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 ### Governance and Territorial Situations
 * Donbas: Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreement
-  > * currently unclear if the Minsk agreement is still a viable path. // > * Taking into account the opinion of the people of the since 2014 self governed area is considered nice, especially considering the Euromaidan. 
-  > * The impressions here are: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them, this has to be taken into account [by all].
+  > * currently unclear if the Minsk agreement is still a viable path.
+  > * Taking into account the opinion of the people is considered nice, especially considering the events around Euromaidan. 
+  > * The impression here is: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them, this has to be taken into account.
 
 * Crimea: [Speculations on Crimea](#speculations-on-crimea)
 
@@ -164,12 +165,12 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 > * Possibly (part of) the price could be paid with natural resources. <!-- Listing the countless possible schemes does not fit here. Already data plans offered are jungles: by volume, absolute/relative throughput, limited/unlimited duration, different plans for the type of data. -->
 > * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by the Ukraine. <!-- Russia has enough other (and better) gas fields.-->
 > * Taking into account the opinion of the people of the Crimea is considered nice.
->> Reasons for the considerations above:
->> * According to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger for Russians than for Ukrainians, therefore there could be support for a deal (e.g. providing economic support) in both governments and populations.
+
+>> According to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger for Russians than for Ukrainians, therefore there could be support for a deal (involving economical and territorial rights and security) in both governments and populations.
 
 
-> Another option would be to exchange territory e.g. trading Kaliningrad Oblast (or some territory along the border) to Crimea // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
->>  To keep that in mind that giving up territory is usually not easy.
+> Another option would be to exchange territory e.g. trading some territory some Russian territory along the Russian-Ukrainian border (or some other territory) to Crimea <!-- another territory to consider is Kaliningrad Oblast, in some aspects the significance of Kaliningrad for Russia seems similar as the one of the Crimea for the Ukraine. Mainly put here as an example how difficult it can be to hand over territory.  -->. // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
+>>  To keep that in mind that handing over territorial rights is usually not easy.
 >
 > General thoughts about [trading territory](#trade-in-territory) in the appendix.
 
@@ -200,15 +201,17 @@ Jonathan Powell, Opinion, *Putin is not yet ready to end the Ukraine war. When h
 
 
 
-#### Lieven 0403-Guardian
-Anatol Lieven *Opinion "It’s time to ask: what would a Ukraine Russia peace deal look like?"* 
+#### Lieven 0403 Guardian
+Anatol Lieven, *Opinion "It’s time to ask: what would a Ukraine Russia peace deal look like?"* 
 <https://www.theguardian.com/commentisfree/2022/mar/04/what-would-ukraine-russia-peace-deal-look-like>
 
+> Short and 'mainstreamed' version of an [article published in CommonDreams](#lieven-0403-commondreams).
 
-
-#### Lieven 0403-CommonDreams
+#### Lieven 0403 CommonDreams
 *What Is the Path for a Negotiated Peace in Ukraine?*
 <https://www.commondreams.org/views/2022/03/04/what-path-negotiated-peace-ukraine>
+
+
 
 
 
@@ -356,7 +359,9 @@ https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_thos
 
 > Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
 
-> The articles and notes below document some aspects of warfare, with a focus on the effects on civilians. It is not complete. It is not verified. Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into those places - well not possible but still attempted. 
+The articles and notes below document some aspects of warfare, with a focus on the effects on civilians. It is not complete. It is not verified. 
+
+> Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into the position of the persons affected - well not possible but still attempted.
 
 
 <!--
@@ -409,6 +414,10 @@ In early July the UAF retreated from Lysychansk, stated as a tactical retreat to
 <https://kyivindependent.com/national/victims-burned-alive-in-deadly-russian-strike-on-vinnytsia-says-local-prosecutor>
 
 
+##### Ukrinform on shelling of Kharkiv
+*Three civilians killed, 23 injured in Russia’s shelling of Kharkiv*
+<https://www.ukrinform.net/rubric-ato/3533935-three-civilians-killed-23-injured-in-russias-shelling-of-kharkiv.html>
+
 
 
 ## Historical and Political Background
@@ -420,15 +429,23 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 
 > Recommended read, [Bugayova's writing](#bugoyova) is insightful enriched with many noteworthy cites from political leaders in Russia especially from Vladimir Putin. 
 
+<!--
+
 #### Lieven 2303
 The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
 Doug Henwood
 
-### Refs Background 90's
-<!--
-#### Lieven 96
-*A New Iron Curtain*
+> put here because of the background/history remarks (it is planned to cite George Kennan directly) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. right after the start of the war and possibly shocked. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
+
+>> With oral statements, one sometimes overshoots or formalizes are too general. Who hasn't done oral statements which possibly had some essence, but could be misinterpreted or didn't pass scrutinizing?
+
 -->
+
+### Refs Background 90's
+
+#### Lieven 96
+ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
+
 
 
 
@@ -501,14 +518,13 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 * UK Ministry of Defence <https://twitter.com/DefenceHQ/>
 
 ### Resources US
+* New York Times <https://www.nytimes.com>
 * CNN <https://edition.cnn.com/> // owned by Warner Bros. Discovery, Inc. (WBD) via CNN Global
 * <https://www.washingtonpost.com> // owned by Jeff Bezos via Nash Holdings (bought for 250mio $ in 2013)
 
 ### Resources Middle East
 * Al Jazeera English <https://www.aljazeera.com>
 
-### Resources Switzerland
-Newspapers from Switzerland (in German, sometimes read as printed version, as available): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare) (NZZ-Mediengruppe), Blick <https://www.blick.ch> (owned by a joint venture of Ringier AG and Axel Springer SE // Axel Springer SE also owns/is involved in DieWelt, Bild and more media, see <https://en.wikipedia.org/wiki/Axel_Springer_SE>), Tagesanzeiger <https://www.tagesanzeiger.ch> and 20min <https://www.20min.ch> (news-tickers) (both owned by TX Group AG which in turn is family owned), SRF <https://www.srf.ch>, Luzerner Zeitung (owned by CH Media AG)
 
 
 
@@ -520,9 +536,14 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 * Times of India <https://timesofindia.indiatimes.com/world/europe> // owned by The Times Group an Indian media conglomerate headquartered in Mumbai, Maharashtra which in turn is owned by the Sahu Jain family.
 * The Indian Express <https://indianexpress.com> // owned by the Indian Express Group which in turn is owned by Viveck Goenka
 
+
+### Resources Switzerland
+Newspapers from Switzerland (in German, sometimes read as printed version, as available): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare) (NZZ-Mediengruppe), Blick <https://www.blick.ch> (owned by a joint venture of Ringier AG and Axel Springer SE // Axel Springer SE also owns/is involved in DieWelt, Bild and more media, see <https://en.wikipedia.org/wiki/Axel_Springer_SE>), Tagesanzeiger <https://www.tagesanzeiger.ch> and 20min <https://www.20min.ch> (news-tickers) (both owned by TX Group AG which in turn is family owned), SRF <https://www.srf.ch>, Luzerner Zeitung (owned by CH Media AG)
+
+
 ### Resources on the Military Situation
 * Institute for the Study of War. <https://www.understandingwar.org/> // US based
-* 'Jomini of the West' on Twitter: <https://twitter.com/JominiW> // US based
+* 'Jomini of the West' on Twitter: <https://twitter.com/JominiW> // based in Maryland, US; Twitter description (as of 3107): "Polemologist writer and speaker on all things related to human conflict. #Fortuna Podcast; discussions on waging peace, surviving war, and the fate of Humankind"
 
 
 
