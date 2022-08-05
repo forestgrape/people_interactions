@@ -36,9 +36,9 @@
   * [Resources UK](#resources-uk)
   * [Resources US](#resources-us)
   * [Resources Middle East](#resources-middle-east)
-  * [Resources Switzerland](#resources-switzerland)
   * [Resources China](#resources-china)
   * [Resources India](#resources-india)
+  * [Resources Switzerland](#resources-switzerland)
   * [Resources on the Military Situation](#resources-on-the-military-situation)
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
@@ -429,17 +429,19 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 
 > Recommended read, [Bugayova's writing](#bugoyova) is insightful enriched with many noteworthy cites from political leaders in Russia especially from Vladimir Putin. 
 
-<!--
 
+<!--
 #### Lieven 2303
 The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
 Doug Henwood
 
-> put here because of the background/history remarks (it is planned to cite George Kennan directly) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. right after the start of the war and possibly shocked. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
+> put here because of the background/history remarks (it is planned to cite George Kennan directly) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the - for many shocking - invasion. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript.
 
->> With oral statements, one sometimes overshoots or formalizes are too general. Who hasn't done oral statements which possibly had some essence, but could be misinterpreted or didn't pass scrutinizing?
+>> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form?
 
+>> Comments here, are often like spoken word.
 -->
+
 
 ### Refs Background 90's
 
