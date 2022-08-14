@@ -19,8 +19,7 @@
   * [Refs Paths to Peace](#refs-paths-to-peace)
 * [State of Peace Negotiations](#state-of-peace-negotiations)
   * [Refs State of Peace Negotiations](#refs-state-of-peace-negotiations)
-* [Significance of Peace and Effects of War](#significance-of-peace-and-effects-of-war)
-  * [Refs Significance of Peace](#refs-significance-of-peace)
+  * [Refs Significance of Peace and Effects and Dangers of War](#refs-significance-of-peace-and-effects-and-dangers-of-war)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
 * [War Documentation](#war-documentation)
   * [Warfare Documentation](#warfare-documentation)
@@ -315,7 +314,7 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 -->
 
 
-## Significance of Peace and Effects of War
+### Refs Significance of Peace and Effects and Dangers of War
 [in consideration]
 
 * Prevent losses and suffering. War is brutal and human rights are violated.
@@ -323,9 +322,9 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 * War can have risks associated and escalate.
 
 
-### Refs Significance of Peace
 
-#### Des Browne 1403
+#### Refs Dangers of War
+##### Des Browne 1403
 Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks
 <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
 
@@ -347,6 +346,18 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html
 
 
+
+#### Koshiw on Psychological Effects in Borodyanka
+Isobel Koshiw in Borodyanka, 0307 2022,
+Medics battle relentless wave of trauma in Ukrainian town of Borodyanka
+This article is more than 1 month old
+Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing
+<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
+
+
+#### CNN on the Scars caused by War
+*Injured by war, the scars on Ukraine's wounded children are more than skin deep*
+<https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
 
 
 ## War Documentation
@@ -374,6 +385,11 @@ The articles and notes below document some aspects of warfare, with a focus on t
 ##### Guardian on Illegal Weapons
 *Ukraine destruction: how the Guardian documented Russia’s use of illegal weapons*
 <https://www.theguardian.com/world/2022/may/24/ukraine-destruction-how-the-guardian-documented-russia-use-of-weapons>
+
+#### Warfare in August
+##### Ukrinform on Attacks on Russian Attacks on 12 August
+Aggressor launches 11 missile strikes on Kramatorsk, 12.08.2022 09:32, Russian troops launched 11 strikes on Kramatorsk, Donetsk region, this night, hitting a private residential sector.
+https://www.ukrinform.net/rubric-ato/3548723-aggressor-launches-11-missile-strikes-on-kramatorsk.html
 
 
 #### Warfare in June
@@ -430,23 +446,36 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 > Recommended read, [Bugayova's writing](#bugoyova) is insightful enriched with many noteworthy cites from political leaders in Russia especially from Vladimir Putin. 
 
 
-<!--
+
 #### Lieven 2303
 The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
 Doug Henwood
 
-> put here because of the background/history remarks (it is planned to cite George Kennan directly) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the - for many shocking - invasion. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript.
+> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the - for many shocking - invasion. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript.
 
->> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form?
 
->> Comments here, are often like spoken word.
--->
+> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
+
+> Spoken word tends to be more direct and frank than written up to exaggeration. The directness can rub the wrong way but it can also help to get a clearer picture.
+
+>> Comments on this page, are often like spoken word.
+
+
+#### Carpenter 2802
+Ted Galen Carpenter, *Many predicted Nato expansion would lead to war. Those warnings were ignored*, 
+It has long been clear that Nato expansion would lead to tragedy. 
+Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 
 ### Refs Background 90's
 
 #### Lieven 96
 ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
+
+
+#### Kennan 97
+A Fateful Error
+By George F. Kennan Feb. 5, 1997, New York Times
 
 
 
@@ -466,12 +495,13 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 Ownership, key people and the mission are often stated [in work as of 27.7.]. The resources for the ownership are the "About" pages and wikipedia.
 
-> The impression here is, that on important topics such as the Ukraine-Russia-EU/NATO conflict is, what to write and/or what not to write is sometimes/frequently uniform for media conglomerates. Some newspapers encourage different viewpoints and the journalists have much freedom to write their own opinion while other streamline the narratives. Both freedom and constraints seem to occur for different ownership structures: state owned, single-person owned and multiple shareholder owned newspapers.
+> The impression here is, that on important topics such as the Ukraine-Russia-EU/NATO conflict is, what to write and/or what not to write is sometimes/frequently uniform for media conglomerates. Some newspapers encourage different viewpoints and the journalists have much freedom to write their own opinion while other streamline the narratives. Both freedom and constraints seem to occur for different ownership structures. State owned and single-person owned are most often associated to streamlined narratives while multiple shareholder owned news-sites tend to provide more freedom. Though single person owned and state owned sometimes also provide freedom to write.
 
 > Transparency is considered important including on
-> * the 'mission'
+> * the ownership including relations
+> * whether there is a 'mission' and if what it is
 > * whether narratives/guidelines are set for entire groups 
-> * the ownership including relations.
+> 
 
 
 ### Resources Ukraine
@@ -535,7 +565,7 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 * People's Daily <http://en.people.cn> // is the largest newspaper group in China and owned by the Communist Party. From the 'About Us' section: "Chinese leaders attach great importance to the development of People’s Daily Online. On February 19, 2016, Xi Jinping, Chinese president, general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission made an inspection tour of People’s Daily."
 
 ### Resources India
-* Times of India <https://timesofindia.indiatimes.com/world/europe> // owned by The Times Group an Indian media conglomerate headquartered in Mumbai, Maharashtra which in turn is owned by the Sahu Jain family.
+* Times of India <https://timesofindia.indiatimes.com/world/europe> // owned by The Times Group an Indian media conglomerate headquartered in Mumbai, which in turn is owned by the Sahu Jain family.
 * The Indian Express <https://indianexpress.com> // owned by the Indian Express Group which in turn is owned by Viveck Goenka
 
 
@@ -544,7 +574,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 ### Resources on the Military Situation
-* Institute for the Study of War. <https://www.understandingwar.org/> // US based
+* Institute for the Study of War. <https://www.understandingwar.org/> // based in Washington, US
 * 'Jomini of the West' on Twitter: <https://twitter.com/JominiW> // based in Maryland, US; Twitter description (as of 3107): "Polemologist writer and speaker on all things related to human conflict. #Fortuna Podcast; discussions on waging peace, surviving war, and the fate of Humankind"
 
 
