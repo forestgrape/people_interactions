@@ -19,8 +19,10 @@
   * [Refs Paths to Peace](#refs-paths-to-peace)
 * [State of Peace Negotiations](#state-of-peace-negotiations)
   * [Refs State of Peace Negotiations](#refs-state-of-peace-negotiations)
+* [Significance of Peace and Effects and Dangers of War](#significance-of-peace-and-effects-and-dangers-of-war)
   * [Refs Significance of Peace and Effects and Dangers of War](#refs-significance-of-peace-and-effects-and-dangers-of-war)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
+  * [Refs on Economic and Social Effects](#refs-on-economic-and-social-effects)
 * [War Documentation](#war-documentation)
   * [Warfare Documentation](#warfare-documentation)
 * [Historical and Political Background](#historical-and-political-background)
@@ -155,7 +157,9 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
   > * Military Situation: Considering the military capabilities from the different parties, the Ukrainian forces are in a better position than the Russian forces.
       * For example, movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
       * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS.
-      * The Dnieper crosses (two bridges and dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
+      * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
+        > As of 17.8. the road bridge alongside the dam is skillfully demolished limiting heavy traffic. // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
+
 * Kherson oblast *east of the Dnieper river*. Political and economical importance for the Ukraine. Possibly, no 'NATO weapons' of [geopolitical] importance for Russia.
 
 
@@ -314,6 +318,10 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 -->
 
 
+
+
+## Significance of Peace and Effects and Dangers of War
+
 ### Refs Significance of Peace and Effects and Dangers of War
 [in consideration]
 
@@ -337,14 +345,9 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu
 
 
-#### TheMoscowTimes 060522
-*Nearly 4M Russians Left Russia in Early 2022 – FSB* 
-<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
-
 #### Ukrainian PSYCHOTHERAPIST on Effects of War
 *«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*
 https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html
-
 
 
 #### Koshiw on Psychological Effects in Borodyanka
@@ -358,6 +361,17 @@ Psychologists are struggling to help stricken locals cope with PTSD while facing
 #### CNN on the Scars caused by War
 *Injured by war, the scars on Ukraine's wounded children are more than skin deep*
 <https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
+
+
+
+### Refs on Economic and Social Effects
+
+#### TheMoscowTimes 060522
+*Nearly 4M Russians Left Russia in Early 2022 – FSB* 
+<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
+
+#### Datskevych for KievIndependent 050522
+*Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
 
 
 ## War Documentation
@@ -491,7 +505,7 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 ## Resources
-Sites regularly consulted for articles and news. It is attempted to read a fairly broad array of resources critically.
+Sites regularly consulted for articles and news. It is attempted to read a fairly broad array of resources and to take into the different viewpoints.
 
 Ownership, key people and the mission are often stated [in work as of 27.7.]. The resources for the ownership are the "About" pages and wikipedia.
 
@@ -524,9 +538,10 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
   
 ### Resources Russia
 // Newspapers and news agencies
+
+* Interfax <https://interfax.com>, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
 * TheMoscowTimes <https://www.themoscowtimes.com>
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
-* Interfax <https://interfax.com>, specifically the Top Stories section: <https://interfax.com/newsroom/top-stories/>
 
 // Russian Government run news
 * Russia Today <https://www.rt.com>
@@ -574,7 +589,11 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 ### Resources on the Military Situation
-* Institute for the Study of War. <https://www.understandingwar.org/> // based in Washington, US
+* Institute for the Study of War. <https://www.understandingwar.org/> 
+  // based in Washington, US 
+    "Our Mission
+    The Institute for the Study of War advances an informed understanding of military affairs through reliable research, trusted analysis, and innovative education. We are committed to improving the nation’s ability to execute military operations and respond to emerging threats in order to achieve U.S. strategic objectives. ISW is a non-partisan, non-profit, public policy research organization." as stated on <https://www.understandingwar.org/who-we-are> as of 160822
+
 * 'Jomini of the West' on Twitter: <https://twitter.com/JominiW> // based in Maryland, US; Twitter description (as of 3107): "Polemologist writer and speaker on all things related to human conflict. #Fortuna Podcast; discussions on waging peace, surviving war, and the fate of Humankind"
 
 
@@ -593,7 +612,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 > * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless. 
     >> So fare *no systematic* targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
 > 
-> For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
+> For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides, for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
 
 
 
@@ -630,3 +649,12 @@ The possibility of buying out at a 'fair' price could be an option when all part
 
 #### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
+
+
+<!-- ### Consideration on Statehood and Autonomy
+
+in consideration
+td
+
+
+-->
