@@ -15,6 +15,7 @@
   * [Security for Russia](#security-for-russia)
   * [Security in Europe and the World](#security-in-europe-and-the-world)
   * [NATO Trust building](#nato-trust-building)
+  * [Fluent European Union Borders](#fluent-european-union-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Minority Rights in the Ukraine](#minority-rights-in-the-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
@@ -63,15 +64,15 @@
 
 ## New Content and Updates
 
+10.9. some updates and corrections online. Still in work and likely contain many [new] mistakes.
 
 > ### Gorbachev on War
 > "When I became General Secretary of the Soviet Communist Party, I traveled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
 
 
-8.9. Updates published online:
 * Notes on Sanctions: [Economic Measures to Encourage Adherence to International Rules](#sanctions-economic-measures).
 
-* Notes on NATO trust building: Reforming/Renaming/Re-Founding/Replacing [NATO](#nato-trust-building-and-nato-reformrefound)
+* Notes on NATO trust building: Reforming/Renaming/Re-Founding/Replacing [NATO trust building](#nato-trust-building)
 
 * [Nuclear Safety and Risks](#nuclear-risks-of-war) and the situation at the [Zaporizhia Nuclear Power Plant](#situation-at-the-zaporizhzhia-nuclear-plant).
 
@@ -234,12 +235,23 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 > ##### NATO in the Yugoslavian Wars
 > In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated a more a political and less military organization. 
 > 
-> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO then framed itself as North AdriatiC Human-rights Organization - what the 'Western' media (respectively the intelligence services released to the media) illuminated through the fog of war was accordingly. For others the NATO for more like a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization. Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. Though looking at the start and end state, the NATO seems not 'squeaky clean'.
-
-
+> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as North AdriatiC Human-rights Organization and what the 'Western' media (respectively the intelligence services released to the media) illuminated through the fog of war was accordingly. For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization. 
+> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. It seems possibly that the NATO what not 'squeaky clean' - 
+> 
+>> Though the situation was complex and difficult decisions were to made.
 > The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
 > * The Open Balkan Project seems a promising path for the future.
+
+
+### Fluent European Union Borders
+> in work
+
+> The goal is to have no hard borders but with favorable [trade] agreements with neighbors soft borders.
+
+
+
+
 
 
 
@@ -259,6 +271,7 @@ Significance: Full (political, economic and security) control likely crucial for
   * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS.
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
     > As of 29.8. all major bridges are reported to be demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
+
 
 #### Kherson oblast *east of the Dnieper river:* 
 Political and economical importance for the Ukraine. Possibly, no 'NATO weapons' of [geopolitical] importance for Russia.
@@ -681,19 +694,32 @@ Economic Measures to Encourage Adherence to International Rules.
 
 ### Sanctions on Russia
 
-> Reason - Sanctions on Russia are considered adequate to:
-> 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
-> 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
 
+> Subjective Reasons: Sanctions on Russia are considered adequate as:
+> * the invasion and offensive warfare is not supported here ([Opinion on conflict](#opinion-on-the-conflict))
+> * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
+>   * As the first also can have benefits respectively reduce risks (such as cleaner air and slower CO2 increase which can have risks such as rising sea levels or ocean acidification). 
+>   * While warfare has a variety of risks associated. 
+> 
+> Subjective Goals:
+> 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
+> 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
+
+#### Overview
 * *Sanction Target:* As a war is very expensive, the goal is to restrict the government income. 
 * *Situation:* 
   * The Russian state is largely financed by exports of petroleum products.
-  * Petroleum products are mobile and quite hard to track and further consumption in rich countries tends to be price insensitive.
-* *Goal:* Reduced the Russian state income by lowering petroleum prices by lowering consumption. If wanted (by 'Western' countries alone), the prices can be lowered as much as necessary e.g. down 60, 40, 20 or even 10 $.
+  * Petroleum products are: 
+    * mobile, 
+    * quite hard to track, 
+    * consumption in rich countries tends to be price insensitive.
+* *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
 * *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce, a crises fallback is rationing. 
-  > Here generally a market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly in Island (and possibly some other Nordic countries), in most countries the income distribution is much to skewed such that a 10 times price increase will ruin some while not bothering others much, therefore a purely market based approach likely is not that efficient and unfair.
+  > Here generally a market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 times price increase will ruin some while not bothering others much, therefore a purely market based approach likely is not that efficient and unfair.
 
-  * Reduce the consumption from individual car traffic (as electricity is currently produced by gas/petroleum products electric cars are to be included). Ideally some soft measures such as encouraging consumption by promotion, by increase the attractiveness of public transport (such as the 9 Euro ticket). If necessary stricter measures from decreased speed limits up to rationing fuel/car usage are thinkable.
+  #### Ground Transportation
+  * *Consumers:* Mainly private car and private and public airplane traffic. Reduce the consumption from individual traffic (when electricity is produced by gas/petroleum products electric cars are to be included). 
+  * *Measures:* Ideally some soft measures such as reduced consumption by promotion, by increase the attractiveness of public transport (such as the 9 Euro ticket). If necessary stricter measures from decreased speed limits up to rationing fuel/car usage are thinkable.
   <!--
     * Speed limits, rationing fuel, 
     * limit the usage of certain car types i.e. high fuel consumption cars unless usage has a rational necessity
@@ -701,11 +727,19 @@ Economic Measures to Encourage Adherence to International Rules.
     * tax car by weight (pointless 'weight race' as heavy cars mostly increase one owns security at the cost of decreasing the security of everybody else)
     * limit/rationing of car use in general
   -->
-  * Reduce the consumption of air traffic. 
-    * No short term and short duration air plane traffic. 
-    * More strict measures would be rationing/tax airplane traffic.
-  
-  * Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if wished).
+
+#### Air traffic
+* No short term and short duration air plane traffic. 
+* More strict measures would be rationing/tax airplane traffic.
+* Ban restrict private airplane for strictly necessary usage.
+
+
+#### Industry Consumption
+Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if agreed). 
+
+<!-- for example high fuel consumption car industry (unless a rational reasoning else difficult future anyways), reduce construction industry (often overstressed since Covid construction boom anyways) -->
+
+
 
 
 #### Ref and Background Infos for Sanctions on Russia
@@ -721,16 +755,24 @@ Julia Buckley, CNN • Updated 26th August 2022 <https://edition.cnn.com/travel/
 
 
 <!--
-### Sanctions on NATO Members
+### Sanctions on NATO and EU 
 
-> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general). Additionally even within states different parties, state organizations (such as the defense departments or secrecy services) and state and private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not (always) straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one].
+**in work and in consideration**
+
+Reasons:
+* When the cold war ended there was a discussion of a 'Common European home' [savranskaya-and-Blanton](#savranskaya-and-blanton-2017) the expansion *policy* which sidelines Russia of the EU and NATO is not in agreement with that.
+* violation of OSCE rules by NATO expansion
+
+> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general) and sometimes in concert with the EU. Additionally even within states different parties, state organizations (such as the defense departments or secrecy services) and state and private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one]. 
+> 
+> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes not to intervene seems [to have been] wrong when looking backwards and sometimes to intervene seems wrong. From the second world war onwards the US tended to intervene more. 
 
 
 
 [in work/consideration]
 // not easy to get the sanctions neutral
 
-// support of the Ukraine to defend itself is *not*  considered a reason for sanctions
+// support of the Ukraine to defend itself is *not*  considered a reason for sanctions.
 
 // in alphabetical order
 #### Sanctioning France
@@ -807,12 +849,9 @@ Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continu
 The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
 Doug Henwood
 
-> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many people. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript.
+> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many people. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. // Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
 
-> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
-
-> Spoken word tends to be more direct and frank than written up to exaggeration.
-
+>> Spoken word tends to be more direct and frank than written up to exaggeration.
 >> Comments on this page, are often like spoken word.
 
 
@@ -826,6 +865,15 @@ Doug Henwood
 
 #### Refs Background NATO Russia Relations
 
+#### Sushentsov, Wohlforth 20
+Andrey Sushentsov, William C. Wohlforth, The tragedy of US–Russian relations: NATO centrality and the revisionists’ spiral, International Politics (2020) 57:427–450 <https://doi.org/10.1057/s41311-020-00229-5>
+
+
+#### Savranskaya and Blanton 2017
+*NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
+
+
+
 #### Lieven 96
 ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
 
@@ -838,6 +886,7 @@ By George F. Kennan Feb. 5, 1997, New York Times
 #### Forsberg 05
 Tuomas Forsberg (2005) Russia's relationship with NATO: A qualitative change or old wine in new bottles?, Journal of Communist Studies and Transition Politics, 21:3, 332-353, <https://doi.org/10.1080/13523270500183488>
 
+<!--
 ##### Summary Forsberg 05
 Analysis of the NATO - Russia relation from 1991 to 2005. Selected statements:
 * "NATO and Russia have several times declared the Cold War ended. The first occasion the Cold War was buried between the former enemies was in 1991, when NATO changed its strategic assessment and the Soviet Union joined the newly established North Atlantic Co-operation Council (NAC-C). It was also buried in 1997 when NATO and Russia signed a Founding Act of their mutual relations and decided to establish a NATO–Russia Permanent Joint Council (PJC). The last time they attended a Cold War funeral was in May 2002, when the parties decided to set up a NATO–Russia Council (NRC) that replaced the old PJC."
@@ -846,10 +895,10 @@ How can we explain the new start in the NATO – Russia relationship? At least f
 * "Although Putin played a prominent role in the rapprochement between Russia and the West, restoring co-operation with NATO was supported by the majority of the foreign policy elite despite the trauma of the Kosovo war [28].
 * "NATO is still perceived more often as an aggressive rather than a defensive pact, even among the supporters of Putin. The figures in public opinion polls measuring attitudes towards NATO have been changing only little and remain more negative than in 1997 [49]. As some analysts have noted, Putin’s new strategic partnership with the West rests on shaky domestic foundations. Therefore ‘the present day formation and feature of Russia’s go-West course may not be sustainable[50]. Senior people at the Russian armed forces, in particular, have not abandoned their views on NATO as a threatening military bloc aimed against Russia. A Russian defence ministry document released in October 2003, for example, indicated that Moscow will rethink its nuclear strategy if NATO continues to exist in its present form, fails to remove its ‘anti-Russian’ components and maintains its current ‘offensive’ doctrine[51]. While Putin has largely refrained from critical comments, Defence Minister Ivanov has often taken a more reserved view with regard to co-operation with NATO. Thus, at the Munich security conference in 2004 he demanded that Russia should have monitoring facilities at NATO bases to verify that they would pose no threat to Russia[52]. In March, just before the enlargement of the Alliance to the Baltic States, Ivanov repeated that NATO’s offensive doctrine, with anti-Russian attitudes inside NATO, would force Russia to adopt tougher defence measures."
 * "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’."
+-->
 
 
-#### Savranskaya and Blanton 2017
-*NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
+
 
 
 
