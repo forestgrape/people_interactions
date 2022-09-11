@@ -204,7 +204,7 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
   * Limits on exercises: 
     * the number of troupes in exercises.
     * Limit tests and exercises involving offensive weapons.
-* Redesign of security architectures and designing/strengthening partnerships/cooperations/trust-building programs (e.g. the United Nations, the OSCE in Europe and extending partnership for peace like cooperations).
+* Redesign of security architectures and designing/strengthening partnerships/cooperations/trust-building programs (e.g. the United Nations, the OSCE in Europe and [NATO trust building](#nato-trust-building) for example extending partnership for peace like cooperations).
 
 
 
@@ -212,16 +212,65 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 ### NATO Trust building
 > *in work and unfinished*
 
-The increase the international trust into NATO there are options in a whole range: 
-* reforms to increase transparency and clearer statutes
-* a possible renaming 
-* a re-founding or replacement by a new (possibly reusing many of the structures but [with statutes] focussing more on defending 'principles of humanity') or existing (e.g. OSCE) organization.
+
+The increase the international trust into NATO there are different options ranging from reforms to a re-founding/replacement.
+
+#### NATO Reforms
+* Reforms to increase transparency and clearer statutes
+* possibly renaming to emphasize to reforms and to get rid of the burden associated with the name 'NATO'
+* increase cooperations to manage the challenges we face and NATO has expertise
+* increase the focus on task such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
+
+#### NATO Refound/Replacement
+A re-founding or replacement by a new (possibly reusing many of the structures but [with statutes] focussing more on defending 'principles of humanity') or existing (e.g. OSCE) organization.
 
 
-#### NATO Background
-The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal Stalinism, developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
 
+
+#### NATO Tasks and Background
+The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal Stalinism (NATO: Founding treaty <https://www.nato.int/cps/en/natohq/topics_67656.htm?>), developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
+
+
+> ##### Thoughts on Stalinism
 > Stalinism seems to have relied much to much on brutality and forced alliances, so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
+
+
+
+#### Refs NATO Counter Terrorism
+
+##### NATO Countering terrorism
+Countering terrorism, Last updated: 03 Aug. 2022 16:29
+<https://www.nato.int/cps/en/natohq/topics_77646.htm>
+
+##### NATO COUNTER-TERRORISM REFERENCE CURRICULUM
+<https://www.nato.int/nato_static_fl2014/assets/pdf/2020/6/pdf/200612-DEEP-CTRC.pdf>
+"""FOREWORD
+“With guns you can kill terrorists, with education you can kill terrorism.”
+— Malala Yousafzai, Pakistani activist for female education and Nobel Prize laureate
+
+NATO’s counter-terrorism efforts have been at the forefront of three consecutive NATO Summits, including the
+recent 2019 Leaders’ Meeting in London, with the clear political imperative for the Alliance to address a persistent
+global threat that knows no border, nationality or religion.
+
+NATO’s determination and solidarity in fighting the evolving challenge posed by terrorism has constantly increased
+since the Alliance invoked its collective defence clause for the first time in response to the terrorist attacks of
+11 September 2001 on the United States of America.
+
+NATO has gained much experience in countering terrorism from its missions and operations. However, NATO
+cannot defeat terrorism on its own. Fortunately, we do not stand alone. One of the strengths the Alliance can build
+on is our engagement with the global network of partner countries and other International Organizations who
+bring in a wealth of experience and knowledge. Many of these have contributed to the development of this reference curriculum, together with the Partnership for Peace Consortium of Defence Academies and Security Studies
+Institutes.
+
+Understanding the terrorist threat of today and tomorrow requires not only improved awareness but constant
+learning and investment in the education of future generations. We sincerely hope that this curriculum will serve
+the wider counter-terrorism community as an insightful reference document and that it can contribute to national
+educational processes of both interested Allies and partners, including through NATO’s Defence Education
+Enhancement Programme (DEEP).
+Dr. Antonio Missiroli, Dr. John Manza
+"""
+
+
 
 
 ##### NATO - Russia Tensions
@@ -490,9 +539,8 @@ Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power sta
 <https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
 
 
-#### KievPost on the Zaporizhzhia Nuclear Plant Back Online
-Ukraine Nuclear Plant Back Online as Inspection Prepared
-By AFP. Published Aug. 27 at 10:18 am, <https://www.kyivpost.com/russias-war/ukraine-nuclear-plant-back-online-as-inspection-prepared.html>
+#### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
+*Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
 
 
 #### KievPost on the Zaporizhzhia Nuclear Plant Shelling
@@ -653,6 +701,9 @@ In early July the UAF retreated from Lysychansk, stated as a tactical retreat to
 
 
 ### War Situation
+#### War Situation September
+*Armed Forces of Ukraine enter Kupyansk, liberation in two districts of Kharkiv region ongoing*, 11.09.2022 07:53 <https://www.ukrinform.net/rubric-ato/3568842-armed-forces-of-ukraine-enter-kupyansk-liberation-in-two-districts-of-kharkiv-region-ongoing.html>
+
 #### War Situation August
 Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022 13:20 <https://www.ukrinform.net/rubric-ato/3560178-almost-all-major-bridges-destroyed-in-kherson-region-by-himars-strikes.html>
 
@@ -831,7 +882,13 @@ Similarity: Similar tactics UK (in Falkland War) and the Ukraine in this war.
 ## Historical and Political Background
 
 ### Refs General Background
-[in work]
+
+
+
+#### Savranskaya and Blanton 2017
+*NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
+
+
 #### Bugoyova
 Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. <http://www.jstor.org/stable/resrep19569.3>
 
@@ -869,11 +926,6 @@ Doug Henwood
 Andrey Sushentsov, William C. Wohlforth, The tragedy of US–Russian relations: NATO centrality and the revisionists’ spiral, International Politics (2020) 57:427–450 <https://doi.org/10.1057/s41311-020-00229-5>
 
 
-#### Savranskaya and Blanton 2017
-*NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
-
-
-
 #### Lieven 96
 ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
 
@@ -886,7 +938,7 @@ By George F. Kennan Feb. 5, 1997, New York Times
 #### Forsberg 05
 Tuomas Forsberg (2005) Russia's relationship with NATO: A qualitative change or old wine in new bottles?, Journal of Communist Studies and Transition Politics, 21:3, 332-353, <https://doi.org/10.1080/13523270500183488>
 
-<!--
+
 ##### Summary Forsberg 05
 Analysis of the NATO - Russia relation from 1991 to 2005. Selected statements:
 * "NATO and Russia have several times declared the Cold War ended. The first occasion the Cold War was buried between the former enemies was in 1991, when NATO changed its strategic assessment and the Soviet Union joined the newly established North Atlantic Co-operation Council (NAC-C). It was also buried in 1997 when NATO and Russia signed a Founding Act of their mutual relations and decided to establish a NATO–Russia Permanent Joint Council (PJC). The last time they attended a Cold War funeral was in May 2002, when the parties decided to set up a NATO–Russia Council (NRC) that replaced the old PJC."
@@ -895,7 +947,7 @@ How can we explain the new start in the NATO – Russia relationship? At least f
 * "Although Putin played a prominent role in the rapprochement between Russia and the West, restoring co-operation with NATO was supported by the majority of the foreign policy elite despite the trauma of the Kosovo war [28].
 * "NATO is still perceived more often as an aggressive rather than a defensive pact, even among the supporters of Putin. The figures in public opinion polls measuring attitudes towards NATO have been changing only little and remain more negative than in 1997 [49]. As some analysts have noted, Putin’s new strategic partnership with the West rests on shaky domestic foundations. Therefore ‘the present day formation and feature of Russia’s go-West course may not be sustainable[50]. Senior people at the Russian armed forces, in particular, have not abandoned their views on NATO as a threatening military bloc aimed against Russia. A Russian defence ministry document released in October 2003, for example, indicated that Moscow will rethink its nuclear strategy if NATO continues to exist in its present form, fails to remove its ‘anti-Russian’ components and maintains its current ‘offensive’ doctrine[51]. While Putin has largely refrained from critical comments, Defence Minister Ivanov has often taken a more reserved view with regard to co-operation with NATO. Thus, at the Munich security conference in 2004 he demanded that Russia should have monitoring facilities at NATO bases to verify that they would pose no threat to Russia[52]. In March, just before the enlargement of the Alliance to the Baltic States, Ivanov repeated that NATO’s offensive doctrine, with anti-Russian attitudes inside NATO, would force Russia to adopt tougher defence measures."
 * "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’."
--->
+-
 
 
 
