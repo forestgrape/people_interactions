@@ -110,9 +110,11 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 > With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
 > * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
 > * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists. // Here the opinion is that regional autonomy is ideally specified in the UN charter. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.
-), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works but it also seems to show some disadvantages in competitiveness).
+), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works but there seems to be some disadvantages in competitiveness).
 
 > Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
+
+>> Here the focus is on non military and non tactical topics. <!--As a neutral page, tactics hardly is/can be/is appropriate to be discussed/commented unless not considered having a single sided advantage (e.g. considered advantageous for both). Though, situation analyses is a background here. -->
 
 
 #### Ceasefire Implementation Option
@@ -311,9 +313,9 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 #### Kherson oblast *west of Dnieper including the city Kherson*. 
 Significance: Full (political, economic and security) control likely crucial for the Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for the Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is likely psychologically important).
-* Military Situation: Considering the military capabilities from the different parties and the geography, the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
+* Military Situation: Considering the military capabilities from the different parties, the geography and the positioning (likely = possibly combined with observations - if available combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
-  * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS.
+  * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS. <!--the reasoning here is as follows: the very area the missiles can be launched is large, possible incoming angle is large, backtracing seems hard as maneuverable)-->
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
     > As of 29.8. all major bridges are reported to be (at least partly) demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
 
@@ -860,7 +862,7 @@ Background: Russia wanted to border to have further 20 km away from St. Petersbu
 > In a climate of tension (the Finnish possibly new about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers such as the 2nd largest cities not directly near foreign forces is understandably.
 
 #### Refs Winter War
-#### Beck, Ethan
+#### Beck
 Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where Disciplines Meet: Vol. 2 : No. 2 , Article 4., DOI: 10.15385/jch.2018.2.2.4 <https://digitalcommons.cedarville.edu/channels/vol2/iss2/4>
 
 
@@ -1188,14 +1190,17 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 ### Military
-[in work]
+> [in work] 
+
+> simplified and likely does often not [fully] reflect the situation on a real battlefield.
+
 In defense it is possible to use buildings and natural structures as protection. For offense there are no protected defense positions, so usually action in the 'open field/air' is required at some point and thus a possible exposure to enemy fire. Two solutions are to build equipment to avoid to be targeted (e.g. by short exposure and/or stealth) or sustain a lot of damage (e.g. by heavy armor). 
 Examples:
-* Fast moving equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense or defense. Though for offense some additional protection is usually wanted.
+* Fast moving equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense or defense. Though for offense some additional protection is usually wanted such as stealth or armor.
 * Heavily armored tanks are typical offensive equipment. They can sustain quite a lot of damage but are not that well suited to be hidden within buildings.
 
 
-Offensive equipment: heavily armored tanks or artillery, airplane bombers, offensively used rockets
+Offensive equipment: heavily armored tanks or artillery, airplane bombers, offensively used rockets (large numbers are required)
 
 
 
