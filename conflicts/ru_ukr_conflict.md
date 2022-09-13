@@ -1,7 +1,7 @@
 
-# Invasion of Russia into the Ukraine
+# Ukraine in Conflict and Russia's Invasion into the Ukraine
 
-> The goal of this page is to find a an acceptable peace which ends the invasion of Russia into the Ukraine. 
+> The goal of this page is to support finding lasting peace.
 
 * [New Content and Updates](#new-content-and-updates)
 * [Board](#board)
@@ -40,10 +40,10 @@
   * [Yugoslavian Wars](#yugoslavian-wars)
   * [Falkland War](#falkland-war)
 * [Historical and Political Background](#historical-and-political-background)
-  * [Refs General Background](#refs-general-background)
-  * [Background NATO Russia Relations](#background-nato-russia-relations)
   * [Background on Ukraine](#background-on-ukraine)
   * [Background on Russia](#background-on-russia)
+  * [Refs General Background](#refs-general-background)
+  * [NATO Russia Relations](#nato-russia-relations)
 * [International Law](#international-law)
   * [UN Charter](#un-charter)
 * [Resources](#resources)
@@ -54,9 +54,9 @@
   * [Resources Asia](#resources-asia)
   * [Resources Americas](#resources-americas)
   * [Resources on the Military Situation](#resources-on-the-military-situation)
-* [Summaries](#summaries)
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
+  * [Military](#military)
   * [Trade in Territory](#trade-in-territory)
 
 
@@ -64,16 +64,15 @@
 
 ## New Content and Updates
 
-10.9. some updates and corrections online. Still in work and likely contain many [new] mistakes.
+10.9. some updates online work.
 
 > ### Gorbachev on War
-> "When I became General Secretary of the Soviet Communist Party, I traveled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
+> "... When I became General Secretary of the Soviet Communist Party, I traveled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
 
 
 * Notes on Sanctions: [Economic Measures to Encourage Adherence to International Rules](#sanctions-economic-measures).
 
-* Notes on NATO trust building: Reforming/Renaming/Re-Founding/Replacing [NATO trust building](#nato-trust-building)
-
+* Notes on [NATO trust building](#nato-trust-building): Reforming/Renaming/Re-Founding/Replacing NATO
 * [Nuclear Safety and Risks](#nuclear-risks-of-war) and the situation at the [Zaporizhia Nuclear Power Plant](#situation-at-the-zaporizhzhia-nuclear-plant).
 
 
@@ -82,9 +81,7 @@
 
 
 * 24.5.:Speculations on the [status of Crimea](#speculations-on-crimea)
-  <!--One possibility could be a [Trading Crimea](#trading-crimea).
-  > 
-  >> Trading territory is not considered ideal here, but better than an unilateral referendum and much better than military force.-->
+
 
 * 23.5.22: Notes on Ceasefire and State of Negotiations
   Updated notes on ceasefire: Terms that no side gains advantages likely are necessary for both to agree on a ceasefire. 
@@ -143,8 +140,7 @@ Paths to escape, to reach a safe and in any way - including ethically - reasonab
 After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities and be associated to dangers of escalation.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
-Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost). 
-<!--outdated --An exception is to take control of the few unconquered bunkers in the Azovstal steelworks. However here too, an improvement in negotiation position is unclear as fully encircled bunkers come close to a (self-run) prison and thus seem better for negotiations than many new deaths on both sides. // Limited attacks could be both tryouts for a storming or a proof of will and capability to push the negotiation position. -->
+Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost).
 
 > Generally the opinion here is that bloody battles can be spared for computer/console titles.
  
@@ -216,23 +212,39 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 The increase the international trust into NATO there are different options ranging from reforms to a re-founding/replacement.
 
 #### NATO Reforms
-* Reforms to increase transparency and clearer statutes
+* Reforms to increase transparency and more purpose and actions defining statutes
 * possibly renaming to emphasize to reforms and to get rid of the burden associated with the name 'NATO'
 * increase cooperations to manage the challenges we face and NATO has expertise
 * increase the focus on task such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
 
 #### NATO Refound/Replacement
-A re-founding or replacement by a new (possibly reusing many of the structures but [with statutes] focussing more on defending 'principles of humanity') or existing (e.g. OSCE) organization.
+A re-founding by a new (possibly reusing many of the structures but [with statutes] focussing more on the defending 'principles of humanity') or a replacement/fusion into an existing (e.g. OSCE) organization.
 
 
 
 
 #### NATO Tasks and Background
-The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal Stalinism (NATO: Founding treaty <https://www.nato.int/cps/en/natohq/topics_67656.htm?>), developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
+The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal [Stalinism](#thoughts-on-aspects-of-stalinism) (NATO: Founding treaty <https://www.nato.int/cps/en/natohq/topics_67656.htm?>), developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
 
 
-> ##### Thoughts on Stalinism
+> ##### Thoughts on Aspects of Stalinism
 > Stalinism seems to have relied much to much on brutality and forced alliances, so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
+
+
+
+> ##### NATO in the Yugoslavian Wars
+> In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated a more a political and less military organization. 
+> 
+> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media (respectively the intelligence services released to the media) illuminated through the fog of war was accordingly. For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization. 
+> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze a foggy view of warfare, doing this - lets say - it seems possibly that the NATO was *not* 'squeaky clean'.
+> 
+>> Though the situation was complex and difficult decisions were to made.
+> The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
+> * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
+> * The Open Balkan Project seems a promising path for the future.
+
+
+
 
 
 
@@ -243,30 +255,20 @@ Countering terrorism, Last updated: 03 Aug. 2022 16:29
 <https://www.nato.int/cps/en/natohq/topics_77646.htm>
 
 ##### NATO COUNTER-TERRORISM REFERENCE CURRICULUM
-<https://www.nato.int/nato_static_fl2014/assets/pdf/2020/6/pdf/200612-DEEP-CTRC.pdf>
+*COUNTER-TERRORISM REFERENCE CURRICULUM*, <https://www.nato.int/nato_static_fl2014/assets/pdf/2020/6/pdf/200612-DEEP-CTRC.pdf>
 """FOREWORD
 “With guns you can kill terrorists, with education you can kill terrorism.”
 — Malala Yousafzai, Pakistani activist for female education and Nobel Prize laureate
 
 NATO’s counter-terrorism efforts have been at the forefront of three consecutive NATO Summits, including the
-recent 2019 Leaders’ Meeting in London, with the clear political imperative for the Alliance to address a persistent
-global threat that knows no border, nationality or religion.
+recent 2019 Leaders’ Meeting in London, with the clear political imperative for the Alliance to address a persistent global threat that knows no border, nationality or religion.
 
-NATO’s determination and solidarity in fighting the evolving challenge posed by terrorism has constantly increased
-since the Alliance invoked its collective defence clause for the first time in response to the terrorist attacks of
-11 September 2001 on the United States of America.
+NATO’s determination and solidarity in fighting the evolving challenge posed by terrorism has constantly increased since the Alliance invoked its collective defence clause for the first time in response to the terrorist attacks of 11 September 2001 on the United States of America.
 
-NATO has gained much experience in countering terrorism from its missions and operations. However, NATO
-cannot defeat terrorism on its own. Fortunately, we do not stand alone. One of the strengths the Alliance can build
-on is our engagement with the global network of partner countries and other International Organizations who
-bring in a wealth of experience and knowledge. Many of these have contributed to the development of this reference curriculum, together with the Partnership for Peace Consortium of Defence Academies and Security Studies
-Institutes.
+NATO has gained much experience in countering terrorism from its missions and operations. However, NATO cannot defeat terrorism on its own. Fortunately, we do not stand alone. One of the strengths the Alliance can build on is our engagement with the global network of partner countries and other International Organizations who bring in a wealth of experience and knowledge. Many of these have contributed to the development of this reference curriculum, together with the Partnership for Peace Consortium of Defence Academies and Security Studies Institutes.
 
-Understanding the terrorist threat of today and tomorrow requires not only improved awareness but constant
-learning and investment in the education of future generations. We sincerely hope that this curriculum will serve
-the wider counter-terrorism community as an insightful reference document and that it can contribute to national
-educational processes of both interested Allies and partners, including through NATO’s Defence Education
-Enhancement Programme (DEEP).
+Understanding the terrorist threat of today and tomorrow requires not only improved awareness but constant learning and investment in the education of future generations. We sincerely hope that this curriculum will serve the wider counter-terrorism community as an insightful reference document and that it can contribute to national educational processes of both interested Allies and partners, including through NATO’s Defence Education Enhancement Programme (DEEP).
+
 Dr. Antonio Missiroli, Dr. John Manza
 """
 
@@ -281,16 +283,10 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 * The NATO actions and interventions in the Yugoslavian Wars were [perceived] aggressive and in violation with international laws (including the UN charter).
 * The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there are constraint for countries to operate NATO and Russian military equipment alongside).
 
-> ##### NATO in the Yugoslavian Wars
-> In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated a more a political and less military organization. 
-> 
-> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as North AdriatiC Human-rights Organization and what the 'Western' media (respectively the intelligence services released to the media) illuminated through the fog of war was accordingly. For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization. 
-> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. It seems possibly that the NATO what not 'squeaky clean' - 
-> 
->> Though the situation was complex and difficult decisions were to made.
-> The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
-> * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
-> * The Open Balkan Project seems a promising path for the future.
+
+
+
+
 
 
 ### Fluent European Union Borders
@@ -319,7 +315,11 @@ Significance: Full (political, economic and security) control likely crucial for
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
   * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS.
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
-    > As of 29.8. all major bridges are reported to be demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
+    > As of 29.8. all major bridges are reported to be (at least partly) demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
+
+
+
+
 
 
 #### Kherson oblast *east of the Dnieper river:* 
@@ -745,16 +745,17 @@ Economic Measures to Encourage Adherence to International Rules.
 
 ### Sanctions on Russia
 
-
 > Subjective Reasons: Sanctions on Russia are considered adequate as:
 > * the invasion and offensive warfare is not supported here ([Opinion on conflict](#opinion-on-the-conflict))
 > * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
->   * As the first also can have benefits respectively reduce risks (such as cleaner air and slower CO2 increase which can have risks such as rising sea levels or ocean acidification). 
->   * While warfare has a variety of risks associated. 
-> 
-> Subjective Goals:
-> 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
-> 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
+>   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
+>   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between the Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
+
+
+#### Reasons for Sanctions
+
+1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
+2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
 
 #### Overview
 * *Sanction Target:* As a war is very expensive, the goal is to restrict the government income. 
@@ -801,43 +802,43 @@ Julia Buckley, CNN • Updated 26th August 2022 <https://edition.cnn.com/travel/
 
 
 
-
-
-
-
 <!--
-### Sanctions on NATO and EU 
+
+
+### Sanctions on Members of the NATO and EU 
 
 **in work and in consideration**
 
-Reasons:
-* When the cold war ended there was a discussion of a 'Common European home' [savranskaya-and-Blanton](#savranskaya-and-blanton-2017) the expansion *policy* which sidelines Russia of the EU and NATO is not in agreement with that.
-* violation of OSCE rules by NATO expansion
+#### Reasons for Sanctions
+* violation of OSCE rules by the manner of the NATO expansion
+* violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside and thereby decrease their ability to keep up people connections and thereby their security)
+* inaction regarding MINSK agreement implementation (Germany and France)
 
-> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general) and sometimes in concert with the EU. Additionally even within states different parties, state organizations (such as the defense departments or secrecy services) and state and private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one]. 
+> Subjective reason: When the cold war ended there was a discussion of a 'Common European home' (as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). The manner of the NATO/EU expansion *policy* which sidelines Russia is not in agreement with that.
+
+
+> #### On the 'Actors' of the 'West'
+> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general) and sometimes in concert with the EU. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in )  and state & private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one]. 
 > 
-> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes not to intervene seems [to have been] wrong when looking backwards and sometimes to intervene seems wrong. From the second world war onwards the US tended to intervene more. 
+> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes not to intervene seems [to have been] wrong when looking backwards and sometimes to intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is one should strengthen the UN to advocate human rights and prevent wars.
+
+> Support of the Ukraine to *defend* itself is *not*  considered a reason for sanctions.
+> > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated here, best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, nearly always peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not opposed: 
+>>    * preventing further almost sure or already ongoing offensive warfare i.e. when the territories are 'clearly' illegally occupied and they are prepared or already as springboard for [ongoing] offensive warfare by the opponent.
+>>    * preventing an ongoing of human right violations [on illegal occupied territories]
+>>
+>> but even in the exceptions above everything should be done to find a peaceful solution through diplomacy.
 
 
 
+
+
+#### Adequate Sanctions
 [in work/consideration]
 // not easy to get the sanctions neutral
 
-// support of the Ukraine to defend itself is *not*  considered a reason for sanctions.
 
-// in alphabetical order
-#### Sanctioning France
-Reason: violation of OSCE rules by NATO expansion, inaction regarding MINSK agreement implementation
-
-#### Sanctioning Germany
-Reason: violation of OSCE rules by NATO expansion, inaction regarding MINSK agreement implementation
-
-#### Sanctioning US 
-Reason: violation of OSCE rules by NATO expansion, 
 -->
-
-
-
 
 
 
@@ -855,6 +856,31 @@ The list below includes conflicts war which share at least one notable similarit
 
 
 ### Winter War
+Background: Russia wanted to border to have further 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded which would have been even closer to Viipuri (then Finland's second largest city) than the previous border to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) which was likely viewed by the Finns in turn as introducing a 'border mistake'. 
+> In a climate of tension (the Finnish possibly new about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers such as the 2nd largest cities not directly near foreign forces is understandably.
+
+#### Refs Winter War
+#### Beck, Ethan
+Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where Disciplines Meet: Vol. 2 : No. 2 , Article 4., DOI: 10.15385/jch.2018.2.2.4 <https://digitalcommons.cedarville.edu/channels/vol2/iss2/4>
+
+
+##### YLE on Putin's Opinion on the Winter War
+*Putin: Winter War aimed at correcting border "mistakes"*, 2013, <https://yle.fi/news/3-6539940>
+Selected statement: “We have very good relations with Finland today,” Putin noted. “And this must be done without any kind of confrontation – on the contrary, so that this bloody episode in our shared history will be an example as to why nothing similar should ever be allowed to happen again.”
+
+
+#### this is Finland on FINLAND’S EASTERN BORDER
+Salla Korpela, June 2008, TRACING FINLAND’S EASTERN BORDER, <https://finland.fi/life-society/tracing-finlands-eastern-border/>
+
+
+##### Wikipedia on the Background of the Winter War
+Background of the Winter War
+, <https://en.wikipedia.org/wiki/Background_of_the_Winter_War#cite_note-talvisodanpikkujattilainen-turtola14-39>, referred is the section: Soviet demands in late 1939 
+
+##### Refs on Molotov Bread Basket and Cocktail
+* <https://en.wikipedia.org/wiki/Molotov_cocktail>
+* <https://beachpackagingdesign.com/boxvox/molotov-metaphor-a-drink-to-go-with-the-food>
+
 
 
 ### Iraq War
@@ -881,9 +907,45 @@ Similarity: Similar tactics UK (in Falkland War) and the Ukraine in this war.
 
 ## Historical and Political Background
 
+### Background on Ukraine
+* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
+
+
+#### 2014 Revolution
+[in work]
+The 2014 is also known as Euromaidan revolution.
+
+
+
+
+
+
+
+
+
+
+
+### Background on Russia
+* "Along with all the complexes of a superior nation, Russia has the great inferiority complex of a small country.", Joseph Brodsky Less Than One, 1976 from [Miller, Lukyanov](#miller-lukyanov)
+
+
+
+
+#### Refs Background on Russia
+##### Miller, Lukyanov
+*Detachment Instead of Confrontation: Post-European Russia in Search of Self-Sufficiency*
+
+
+##### Gorbachev BBC Interview 2019
+The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019
+
+
+
+
+
+
+
 ### Refs General Background
-
-
 
 #### Savranskaya and Blanton 2017
 *NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
@@ -918,9 +980,14 @@ Doug Henwood
 
 
 
-### Background NATO Russia Relations
+### NATO Russia Relations
 
-#### Refs Background NATO Russia Relations
+
+#### Refs NATO Russia Cooperation
+NATO, 2013, NATO-Russia practical cooperation, <https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2013_12/20131127_131201-MediaBackgrounder-NRC_en.pdf>
+
+
+#### Refs NATO Russia Background
 
 #### Sushentsov, Wohlforth 20
 Andrey Sushentsov, William C. Wohlforth, The tragedy of US–Russian relations: NATO centrality and the revisionists’ spiral, International Politics (2020) 57:427–450 <https://doi.org/10.1057/s41311-020-00229-5>
@@ -963,22 +1030,6 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 
 
-### Background on Ukraine
-* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
-
-
-### Background on Russia
-* "Along with all the complexes of a superior nation, Russia has the great inferiority complex of a small country.", Joseph Brodsky Less Than One, 1976 from [Miller, Lukyanov]
-
-#### Refs Background on Russia
-##### Miller Lukyanov
-*Detachment Instead of Confrontation: Post-European Russia in Search of Self-Sufficiency*
-
-
-
-##### Gorbachev BBC Interview 2019
-The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019
-
 
 
 
@@ -988,8 +1039,9 @@ The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 
 
 
 ## International Law
+
 ### UN Charter
-https://www.un.org/en/about-us/un-charter/chapter-1
+<https://www.un.org/en/about-us/un-charter/chapter-1>
 Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
 
 
@@ -1006,7 +1058,7 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 > * the ownership including relations
 > * whether there is a 'mission' and if what it is
 > * whether narratives/guidelines are set for entire groups 
-> 
+
 
 
 ### Resources Ukraine
@@ -1045,7 +1097,7 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 
 // Official Website of the President of Russia
-* <en.kremlin.ru> // since July often unavailable from central Europe (according to wikipedia due to attacks)
+* <en.kremlin.ru> // since July often unavailable from central Europe (according to wikipedia due to IT attacks)
 
 
 
@@ -1072,7 +1124,7 @@ Newspapers from Germany, sometimes read as printed version and in German: Die Ze
 
 
 #### Resources Switzerland
-Newspapers from Switzerland (in German, sometimes read as printed version, as available): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare) (NZZ-Mediengruppe), Blick <https://www.blick.ch> (owned by a joint venture of Ringier AG and Axel Springer SE // Axel Springer SE also owns/is involved in DieWelt, Bild and more media, see <https://en.wikipedia.org/wiki/Axel_Springer_SE>), Tagesanzeiger <https://www.tagesanzeiger.ch> and 20min <https://www.20min.ch> (news-tickers) (both owned by TX Group AG which in turn is family owned), SRF <https://www.srf.ch>, Luzerner Zeitung (owned by CH Media AG)
+Newspapers from Switzerland (in German, sometimes read as printed version, as available): NZZ <https://www.nzz.ch> (analyses e.g. on electronic warfare and the significance of rivers) (NZZ-Mediengruppe), Blick <https://www.blick.ch> (owned by a joint venture of Ringier AG and Axel Springer SE // Axel Springer SE also owns/is involved in DieWelt, Bild and more media, see <https://en.wikipedia.org/wiki/Axel_Springer_SE>), Tagesanzeiger <https://www.tagesanzeiger.ch> and 20min <https://www.20min.ch> (news-tickers) (both owned by TX Group AG which in turn is family owned), SRF <https://www.srf.ch>, Luzerner Zeitung (owned by CH Media AG)
 
 
 
@@ -1117,7 +1169,6 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 
-## Summaries
 
 
 
@@ -1136,12 +1187,25 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 
+### Military
+[in work]
+In defense it is possible to use buildings and natural structures as protection. For offense there are no protected defense positions, so usually action in the 'open field/air' is required at some point and thus a possible exposure to enemy fire. Two solutions are to build equipment to avoid to be targeted (e.g. by short exposure and/or stealth) or sustain a lot of damage (e.g. by heavy armor). 
+Examples:
+* Fast moving equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense or defense. Though for offense some additional protection is usually wanted.
+* Heavily armored tanks are typical offensive equipment. They can sustain quite a lot of damage but are not that well suited to be hidden within buildings.
+
+
+Offensive equipment: heavily armored tanks or artillery, airplane bombers, offensively used rockets
+
+
+
 
 ### Trade in Territory
 'Considerations on territorial changes in a structured way.'
 
 > Unfinished and in consideration/work.
 
+> Trading territory is not considered ideal here, but better than an unilateral decisions (including unilateral referenda) and much better than military force.
 
 Until the 19th century, land changing ownership by deals between countries or regions/cities buying themselves out from larger empires was practiced and accepted.
 
@@ -1155,17 +1219,6 @@ The possibility of buying out at a 'fair' price could be an option when all part
 
 
 
-> #### Preferred Path for Self Determination
-> Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession. 
-> Reasons are: 
-> * The world moves closer together:
->   * Driven by improvements in communication and transportation, the cooperation between states increases and borders are becoming less strict. 
->   * Technologies become so powerful effects on the whole world are possible - overall for many challenges and risks in todays world, need a world wide cooperation to tackle them efficiently, so governance not always stops at borders.
-> * Multicultural countries have many benefits:
->   * More efficient as the strengths of different cultures can be combined. 
->   * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
-> * Peace.
-
 #### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
 
@@ -1177,3 +1230,16 @@ td
 
 
 -->
+
+
+#### Paths for Self Determination
+Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession. 
+Reasons are: 
+* The world moves closer together:
+  * Driven by improvements in communication and transportation, the cooperation between states increases. In support borders are becoming less strict. 
+  * Technologies are more and more so powerful, world-wide effects are possible - overall for many challenges and risks in todays world, need a world wide cooperation to tackle them efficiently, so governance not always stops at borders.
+* Multicultural countries have many benefits:
+ * More efficient as the strengths of different cultures can be combined. 
+ * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
+* *Peace.*
+
