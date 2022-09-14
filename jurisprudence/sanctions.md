@@ -26,7 +26,7 @@
 
 
 ## Summary
-*Terminology, legal specifications and practice:* Sanctions are used to denote restrictions taken by a state or a group of state on another state. <!--In international law, sanctions are not well specified. to confirm--> Sanctions are often decided ad hoc by the executive.
+*Terminology, legal specifications and practice:* The term sanctions is broadly used to denote restrictions taken by a state or a group of state on another state. In international law (including the UN Charter), sanctions are not well specified [to confirm]. In stricto sensu Sanctions are often decided ad hoc by the executive.
 
 *Motivations/Goals:* 
 Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly government). 
@@ -158,6 +158,17 @@ Ruys, Tom. "Sanctions, retortions and countermeasures: concepts and internationa
 
 #### Asada
 Asada, Masahiko. Economic sanctions in international law and practice. Taylor & Francis, 2020.
+
+Selected statements:
+Asada on the definition of sanctions:
+* *Definition of sanctions given by Asada:* """I. Definition of sanctions
+Sanctions stricto sensu under international law can be defined as coercive measures taken [in response to a violation of international law] in execution of a decision of a competent social organ, i.e., an organ legally empowered to act in the name of the society or community that is governed by the legal system. [8]
+In other words, sanctions stricto sensu do not include, in the first place, such measures that are taken in response to unfriendly or threatening, but still per se lawful, acts. UN enforcement measures (sanctions) are taken in response to a threat to the peace, breach of the peace, or act of aggression (Art. 39 of the UN Charter), which is usually an internationally wrongful act, but not always,9 and the legal characterization of such acts may sometimes be ambiguous.10 Thus, UN enforcement measures may not be regarded as sanctions stricto sensu."
+* *How the term *sanctions* is used by the UN security council, and within the US and the EU administration:*
+  * 'Sanction' by the UN security council: """That said, the term “sanctions” has widely been used in practice as something encompassing much more, not only in nonlegal but also in legal literature11 as well as in various official documents, both for UN enforcement measures and for autonomous measures. Although the Charter of the United Nations does not use the word “sanctions” anywhere, the Security Council resolutions themselves sometimes refer to the relevant measures as “sanctions.”[12] This applies even where they are taken in response to lawful, or not necessarily unlawful, acts.[13]"""
+  * 'Sanction' by the US legislation: """As for autonomous measures, the autonomous and other measures taken by the United States are called “sanctions” in the title of the relevant legislation. For instance, its legislation imposing certain measures on Iran is designated as the “Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010.”14 """
+  * 'Sanction' by the EU: """By contrast, within the framework of the EU, autonomous measures, as well as measures implementing UN resolutions, are all referred to as “restrictive measures” in its official documents. This is because Article 215 of the Treaty on the Functioning of the European Union (TFEU), which is the legal basis for the relevant EU regulations, refers to the measures for the interruption or reduction of economic and financial relations with third countries as “restrictive measures.” This does not, however, mean that the EU has never used the term “sanctions.” Rather, it sometimes uses this term in tandem with the term “restrictive measures,” as in the 2004 Council document entitled, “Basic Principles on the Use of Restrictive Measures (Sanctions).”15"""
+  * """Thus, “sanctions” has been used as a term broadly covering coercive measures taken against the will of a target State or entity. We will examine such broadly defined, but non-military, “sanctions” in this and other chapters in principle."""
 
 
 
