@@ -639,6 +639,12 @@ The articles and notes below document some aspects of warfare, with a focus on t
 
 
 
+#### Selected Warfare in September
+##### Ukrinform on Missiles on Hydraulic Structures
+*Kryvyi Rih struck with eight Russian missiles: Hydraulic structures damaged*, VIDEO14.09.2022 20:52
+https://www.ukrinform.net/rubric-ato/3571620-kryvyi-rih-struck-with-eight-russian-missiles-hydraulic-structures-damaged.html
+
+
 
 #### Warfare in August
 
@@ -771,8 +777,7 @@ Economic Measures to Encourage Adherence to International Rules.
     * consumption in rich countries tends to be price insensitive.
 
 * *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
-  > The Russia economy even without petroleum has a lot of potential both with human and natural resources, though a transition away from petroleum without the income of petroleum is a challenge when there is intense warfare the situation is even much more complicated.
-
+  > Although the Russia economy without petroleum has a lot of potential both with human and natural resources, a transition away from petroleum is a challenge. During a war is this hard. Without the income of petroleum and during a war this is very hard.
 * *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce i.e. a crises fallback is rationing. 
   > Here in general, market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 times price increase will ruin some, while not bothering others much, therefore a purely market based approach likely is not that efficient and unfair.
 
@@ -850,26 +855,34 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 #### Refs on Economic Measures on Russia
 
 ##### Sechin on Energy and Economy
-*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/>
+*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/> <!-- Points out the problem of rerouting deliveries upon embargo.-->
 
-##### OEC on Russian Trade
-<https://oec.world/en/profile/country/rus>
-
-<!-- described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)-->
-
-##### Worldstopexports on Russian Exports
-Treemap visualizing the export: <https://www.worldstopexports.com/russias-top-10-exports/>
-
-
-##### Wech, Vortexa on Russian Oil Flows
-David Wech, 05082022, *The latest trends in Russian oil flows*, <https://www.vortexa.com/insights/crude/the-latest-trends-in-russian-oil-flows/>
-
-> other analyses too on Vortexa
+##### Interfax on Effects of EU Embargo
+EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of oil, petroleum products - IEA
 
 ##### Interfax on Swift Alternative
 *Sberbank creating international system of settlements as alternative to SWIFT - Gref*, 17 Jun 2022 16:26, <https://interfax.com/newsroom/top-stories/80380/>
 
 > Keeping official/lawful paths for financial transactions is considered good here.
+
+
+#### Refs Russian Energy Exports
+
+##### Treemap on Russian Trade
+Treemap visualizing the export: <https://oec.world/en/profile/country/rus>
+
+<!-- described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)-->
+
+##### Worldstopexports on Russian Exports
+<https://www.worldstopexports.com/russias-top-10-exports/>
+
+
+##### Wech, Vortexa on Russian Oil Flows
+David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https://www.vortexa.com/insights/crude/the-latest-trends-in-russian-oil-flows/>
+
+> other analyses too on Vortexa
+
+
 
 
 ##### CREA on Fossil fuel Exports from Russia
