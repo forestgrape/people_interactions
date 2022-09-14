@@ -110,11 +110,11 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 > With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
 > * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
 > * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists. // Here the opinion is that regional autonomy is ideally specified in the UN charter. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.
-), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works but there seems to be some disadvantages in competitiveness).
+), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification (and the chance to play) seems to come at some cost in competitiveness.
 
 > Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
 
->> Here the focus is on non military and non tactical topics. <!--As a neutral page, tactics hardly is/can be/is appropriate to be discussed/commented unless not considered having a single sided advantage (e.g. considered advantageous for both). Though, situation analyses is a background here. -->
+>> Here the focus is on [searching paths to] peace and *not* on military topics.
 
 
 #### Ceasefire Implementation Option
@@ -747,40 +747,44 @@ Economic Measures to Encourage Adherence to International Rules.
 
 ### Sanctions on Russia
 
+
+#### Reasons for Sanctions
+
 > Subjective Reasons: Sanctions on Russia are considered adequate as:
 > * the invasion and offensive warfare is not supported here ([Opinion on conflict](#opinion-on-the-conflict))
 > * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
 >   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
 >   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between the Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 
-
-#### Reasons for Sanctions
-
 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
 
+
 #### Overview
-* *Sanction Target:* As a war is very expensive, the goal is to restrict the government income. 
+* *Sanction Target:* As a war is very expensive, the goal is to restrict the government income.
+ 
 * *Situation:* 
   * The Russian state is largely financed by exports of petroleum products.
   * Petroleum products are: 
     * mobile, 
     * quite hard to track, 
     * consumption in rich countries tends to be price insensitive.
-* *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
-* *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce, a crises fallback is rationing. 
-  > Here generally a market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 times price increase will ruin some while not bothering others much, therefore a purely market based approach likely is not that efficient and unfair.
 
-  #### Ground Transportation
-  * *Consumers:* Mainly private car and private and public airplane traffic. Reduce the consumption from individual traffic (when electricity is produced by gas/petroleum products electric cars are to be included). 
-  * *Measures:* Ideally some soft measures such as reduced consumption by promotion, by increase the attractiveness of public transport (such as the 9 Euro ticket). If necessary stricter measures from decreased speed limits up to rationing fuel/car usage are thinkable.
-  <!--
-    * Speed limits, rationing fuel, 
-    * limit the usage of certain car types i.e. high fuel consumption cars unless usage has a rational necessity
-    * increased taxes on fuel/car usage/road pricing 
-    * tax car by weight (pointless 'weight race' as heavy cars mostly increase one owns security at the cost of decreasing the security of everybody else)
-    * limit/rationing of car use in general
-  -->
+* *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
+  > The Russia economy even without petroleum has a lot of potential both with human and natural resources, though a transition away from petroleum without the income of petroleum is a challenge when there is intense warfare the situation is even much more complicated.
+
+* *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce i.e. a crises fallback is rationing. 
+  > Here in general, market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 times price increase will ruin some, while not bothering others much, therefore a purely market based approach likely is not that efficient and unfair.
+
+#### Ground Transportation
+* *Consumers:* Mainly private car and private and public airplane traffic. Reduce the consumption from individual traffic (when electricity is produced by gas/petroleum products electric cars are to be included). 
+* *Measures:* Ideally some soft measures such as reduced consumption by promotion, by increase the attractiveness of public transport (such as the [9 Euro ticket](#buckley-for-cnn-on-9-euro-ticket)). If necessary stricter measures from decreased speed limits up to rationing fuel/car usage are thinkable. Some possibilities are:
+  * Speed limits, rationing fuel, 
+  * limit the usage of certain car types i.e. high fuel consumption cars unless usage has a rational necessity
+  * increased taxes on fuel/car usage/road pricing 
+  * tax car by weight (pointless 'weight race' as heavy cars mostly increase one owns security at the cost of decreasing the security of everybody else) possibly combined with road pricing.
+
+
 
 #### Air traffic
 * No short term and short duration air plane traffic. 
@@ -789,18 +793,93 @@ Economic Measures to Encourage Adherence to International Rules.
 
 
 #### Industry Consumption
-Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if agreed). 
-
-<!-- for example high fuel consumption car industry (unless a rational reasoning else difficult future anyways), reduce construction industry (often overstressed since Covid construction boom anyways) -->
+Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if agreed). Postpone building projects.
 
 
 
 
-#### Ref and Background Infos for Sanctions on Russia
+#### Refs on Energy Usage
+##### Lee on Sustainable Energy & Power Electronics
+Sustainable Energy & Power Electronics, Jan 24, 2020, by Fred C Lee, Virginia Tech, <https://ethz.ch/content/dam/ethz/special-interest/itet/department/News%20and%20Events/News/Presentation_Lee.pdf>
+
+##### UN on Energy Consumption in Buildings
+*2021 GLOBAL STATUS REPORT FOR BUILDINGS AND CONSTRUCTION*, Towards a zero-emissions, efficient and resilient buildings and construction sector, <https://www.unep.org/resources/report/2021-global-status-report-buildings-and-construction>
+
+
+#### Refs Transportation and Energy
 
 ##### Buckley for CNN on 9 Euro Ticket
 Germany's railways offered a month of unlimited rides for $9. Here's what happened
 Julia Buckley, CNN • Updated 26th August 2022 <https://edition.cnn.com/travel/article/germany-9-euro-ticket-ending/index.html>
+
+
+##### Monbiot, theGuardian, Feeding Cars with Crops
+George Monbiot, Thu 30 Jun 2022 08.00 BST, Why are we feeding crops to our cars when people are starving?
+This article is more than 2 months old, <https://www.theguardian.com/commentisfree/2022/jun/30/crops-cars-starving-biofuels-climate-sustainable>
+
+
+##### Box on Speed Limits
+Elizabeth Box, RAC Foundation, August 2012, *Speed Limits - A review of evidence*, <https://www.researchgate.net/publication/305445882_Speed_Limits_-_A_review_of_evidence>
+
+
+<!--
+//separate page is planned sometimes.
+
+
+##### Stackexchange on Car Efficacy
+JoJo Question, Rominger Answer at Stackexchange *Why is 55-60 MPH optimal for gas mileage of a passenger car?*,
+<https://physics.stackexchange.com/questions/12874/why-is-55-60-mph-optimal-for-gas-mileage-of-a-passenger-car>
+
+> Likely conventional cars can be constructed/reprogrammed such that the efficacy peaks at the same low speed as it does for electric cars.
+
+##### Straubel on Roadster Efficiency
+JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://www.tesla.com/blog/roadster-efficiency-and-range>
+
+> Pictures still available at [Stackexchange Discussion](#stackexchange-on-car-efficacy).
+
+##### Wikipedia on Car Efficiency
+<https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles>
+
+
+##### US Gov Info on Fueleconomy
+<https://www.fueleconomy.gov/feg/atv-ev.shtml>
+-->
+
+
+
+#### Refs on Economic Measures on Russia
+
+##### Sechin on Energy and Economy
+*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/>
+
+##### OEC on Russian Trade
+<https://oec.world/en/profile/country/rus>
+
+<!-- described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)-->
+
+##### Worldstopexports on Russian Exports
+Treemap visualizing the export: <https://www.worldstopexports.com/russias-top-10-exports/>
+
+
+##### Wech, Vortexa on Russian Oil Flows
+David Wech, 05082022, *The latest trends in Russian oil flows*, <https://www.vortexa.com/insights/crude/the-latest-trends-in-russian-oil-flows/>
+
+> other analyses too on Vortexa
+
+##### Interfax on Swift Alternative
+*Sberbank creating international system of settlements as alternative to SWIFT - Gref*, 17 Jun 2022 16:26, <https://interfax.com/newsroom/top-stories/80380/>
+
+> Keeping official/lawful paths for financial transactions is considered good here.
+
+
+##### CREA on Fossil fuel Exports from Russia
+*Financing Putin’s war: Fossil fuel exports from Russia in the first six months of the invasion of Ukraine*
+<https://energyandcleanair.org/publication/financing-putins-war-fossil-fuel-exports-from-russia-in-the-first-six-months-of-the-invasion-of-ukraine/>
+
+<!--  *Financing Putin’s war: Fossil fuel imports from Russia in the first 100 days of the invasion* <https://energyandcleanair.org/publication/russian-fossil-exports-first-100-days>-->
+
+
+
 
 
 
@@ -852,17 +931,19 @@ The list below includes conflicts war which share at least one notable similarit
 
 > While each conflict has its own characteristics and history, there are similarities between conflicts/wars. All are conflicts, other similarities vary - some are are similar in goals or some in warfare,  tactics. 
 
+> *in work and incomplete*.
 
 ### Warsaw Pact invasion of Czechoslovakia
 * Czechoslovakia’s Prague Spring of 1968 and Russia’s War against Ukraine, By Raymond Johnston. Published Aug. 27 at 10:53 am <https://www.kyivpost.com/article/opinion/op-ed/czechoslovakias-prague-spring-of-1968-and-russias-war-against-ukraine.html>
 
 
 ### Winter War
-Background: Russia wanted to border to have further 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded which would have been even closer to Viipuri (then Finland's second largest city) than the previous border to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) which was likely viewed by the Finns in turn as introducing a 'border mistake'. 
+Background: Russia wanted to border to have further 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded which would have been even closer to Viipuri (then Finland's second largest city) than the previous border to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) which was likely viewed by the Finns in turn as introducing a 'border mistake'.
+Warfare: The Finns cleverly used the homeland advantage such as knowing the terrain, prebuilt defensive structures and skills to handle the winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Long-term warfare was hard to sustain under with their economy severely hampered, for the Soviets too, the war was associated with very high costs, so finally a peace treaty with some concessions from the Finns (the Soviets had a resource advantage over the Finns) was reached, though keeping complete independence and the Soviets in the following respected this peace.
 > In a climate of tension (the Finnish possibly new about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers such as the 2nd largest cities not directly near foreign forces is understandably.
 
 #### Refs Winter War
-#### Beck
+##### Beck
 Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where Disciplines Meet: Vol. 2 : No. 2 , Article 4., DOI: 10.15385/jch.2018.2.2.4 <https://digitalcommons.cedarville.edu/channels/vol2/iss2/4>
 
 
@@ -886,11 +967,18 @@ Background of the Winter War
 
 
 ### Iraq War
+Similarities: 
+* Airborne troupes played a key role in early warfare.
+
+Refs:
 Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
 
 
 ### Yugoslavian Wars
 #### Kosovo War
+Similarities: 
+* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade the Ukraine.
+Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
 
@@ -1194,7 +1282,8 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 > simplified and likely does often not [fully] reflect the situation on a real battlefield.
 
-In defense it is possible to use buildings and natural structures as protection. For offense there are no protected defense positions, so usually action in the 'open field/air' is required at some point and thus a possible exposure to enemy fire. Two solutions are to build equipment to avoid to be targeted (e.g. by short exposure and/or stealth) or sustain a lot of damage (e.g. by heavy armor). 
+In defense it is possible to use buildings and natural structures as protection. For offense there are no protected defense positions, so usually action in the 'open field/air' is required at some point and thus a possible exposure to enemy fire. Solutions are to build equipment to avoid being targeted (e.g. by short exposure and/or stealth) or sustain a lot of damage (e.g. by heavy armor). 
+
 Examples:
 * Fast moving equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense or defense. Though for offense some additional protection is usually wanted such as stealth or armor.
 * Heavily armored tanks are typical offensive equipment. They can sustain quite a lot of damage but are not that well suited to be hidden within buildings.
