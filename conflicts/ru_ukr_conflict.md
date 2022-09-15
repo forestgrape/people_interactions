@@ -15,7 +15,7 @@
   * [Security for Russia](#security-for-russia)
   * [Security in Europe and the World](#security-in-europe-and-the-world)
   * [NATO Trust building](#nato-trust-building)
-  * [Fluent European Union Borders](#fluent-european-union-borders)
+  * [Fluent European Borders](#fluent-european-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Minority Rights in the Ukraine](#minority-rights-in-the-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
@@ -104,7 +104,7 @@
 
 ### Cease-Fire
 
-A ceasefire and stop of all military actions are important to bolster diplomacy and to prevent further escalation and losses. 
+A ceasefire and stop of all military actions are important to prevent further escalation and losses and to bolster diplomacy. 
 
 #### Reasons for a Ceasefire
 > With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
@@ -114,7 +114,7 @@ A ceasefire and stop of all military actions are important to bolster diplomacy 
 
 > Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
 
->> Here the focus is on [searching paths to] peace and *not* on military topics.
+>> Here the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
 
 
 #### Ceasefire Implementation Option
@@ -131,9 +131,9 @@ Diplomacy and Compromises from All Parties are likely the best Way out
 
 
 ### Keeping Civilians out
-Keeping civilians out of warfare should be a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world. 
-> 
-Paths to escape, to reach a safe and in any way - including ethically - reasonable place should be open. 
+Keeping civilians out of warfare is considered a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world.
+
+> Paths to escape, to reach a safe and in any way - including ethically - reasonable place are considered important. 
 
 
 
@@ -144,9 +144,9 @@ After several months of war, further warfare may not improve negotiation positio
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
 Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost).
 
-> Generally the opinion here is that bloody battles can be spared for computer/console titles.
- 
-From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is expected - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time.
+> Bloody battles can be spared for computer/console titles.
+
+From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time - though when people tend to come back and keep friendships there are also chances.
 
 
 
@@ -156,16 +156,14 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 ## Notes
-The focus is on human rights for individuals, many of which are violated in a war, and thus to search for practicable [paths to peace](#paths-to-peace). 
-
-For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint (personal viewpoint transparent in the [appendix](#appendix)).
+The focus is on human rights [for everybody], many of which are violated in a war. Thus the page is *pro peace* and *against war*. A goal is to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint regarding states (personal viewpoint transparent in the [appendix](#appendix)).
 
 * Global Organizations such as the United Nations, the IAEA, the WHO and the Red Cross are considered important.
 
 * Information sources are listed in  [resources](#resources). Frequently consulted are The Guardian, MoscowTimes, Tass, KievPost
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
-     > On the page about coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and possibly even counterproductive. Sorry.
+     > On the page on coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and possibly even counterproductive. Sorry.
 
 * Likely/near sure: Mistakes happen here and not all content is up to the task. 
 
@@ -213,16 +211,18 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 The increase the international trust into NATO there are different options ranging from reforms to a re-founding/replacement.
 
-#### NATO Reforms
-* Reforms to increase transparency and more purpose and actions defining statutes
-* possibly renaming to emphasize to reforms and to get rid of the burden associated with the name 'NATO'
-* increase cooperations to manage the challenges we face and NATO has expertise
-* increase the focus on task such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
+#### NATO Reforms/Reorientation
+* Reforms to increase transparency. 
+* Clearer (more purpose and actions defining) statutes and possibly more focussing more on the defending 'principles of humanity'. <!-- possibly only weapon exports to country which adhere certain principles of humanity for example no death sentence, overall fair legal system, local self determination for example by elections -->
+* Open interstate cooperations to manage the challenges we face - the NATO expertise is broad
+* A focus on tasks such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
 
-#### NATO Refound/Replacement
-A re-founding by a new (possibly reusing many of the structures but [with statutes] focussing more on the defending 'principles of humanity') or a replacement/fusion into an existing (e.g. OSCE) organization.
+##### Refs NATO Reforms
+NATO Watch: <https://natowatch.org/about>
 
 
+#### NATO Rename/Refound/Replacement
+A re-founding by a new, a fusion with/into an existing (e.g. OSCE) organization or already a renaming would emphasize reforms/reorientation and get rid of cold war associations. In that sense it is to acknowledge that the Cold War ended peacefully - as Havel put it ""“It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.”"" from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
 
 
 #### NATO Tasks and Background
@@ -240,8 +240,7 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media (respectively the intelligence services released to the media) illuminated through the fog of war was accordingly. For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization. 
 > > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze a foggy view of warfare, doing this - lets say - it seems possibly that the NATO was *not* 'squeaky clean'.
 > 
->> Though the situation was complex and difficult decisions were to made.
-> The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
+> Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
 > * The Open Balkan Project seems a promising path for the future.
 
@@ -258,9 +257,11 @@ Countering terrorism, Last updated: 03 Aug. 2022 16:29
 
 ##### NATO COUNTER-TERRORISM REFERENCE CURRICULUM
 *COUNTER-TERRORISM REFERENCE CURRICULUM*, <https://www.nato.int/nato_static_fl2014/assets/pdf/2020/6/pdf/200612-DEEP-CTRC.pdf>
-"""FOREWORD
-“With guns you can kill terrorists, with education you can kill terrorism.”
-— Malala Yousafzai, Pakistani activist for female education and Nobel Prize laureate
+
+"""
+FOREWORD
+
+“With guns you can kill terrorists, with education you can kill terrorism.” — Malala Yousafzai, Pakistani activist for female education and Nobel Prize laureate
 
 NATO’s counter-terrorism efforts have been at the forefront of three consecutive NATO Summits, including the
 recent 2019 Leaders’ Meeting in London, with the clear political imperative for the Alliance to address a persistent global threat that knows no border, nationality or religion.
@@ -279,9 +280,7 @@ Dr. Antonio Missiroli, Dr. John Manza
 
 ##### NATO - Russia Tensions
 There is a strong opposition from Russia to the expansion of NATO to its close neighbors, especially since the mid 90s. Possible reasons for this are: 
-* As a major player in the Cold War the NATO carries a lot of ballast, for example: 
-  * "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’." as stated in [Forsberg 2005](#forsberg-05).
-  * 
+* From the Cold War, the NATO itself or at least the name carries [some] ballast: "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’." as stated in [Forsberg 2005](#forsberg-05).
 * The NATO actions and interventions in the Yugoslavian Wars were [perceived] aggressive and in violation with international laws (including the UN charter).
 * The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there are constraint for countries to operate NATO and Russian military equipment alongside).
 
@@ -291,10 +290,20 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 
 
 
-### Fluent European Union Borders
+### Fluent European Borders
 > in work
 
-> The goal is to have no hard borders but with favorable [trade] agreements with neighbors soft borders.
+Ideally each two neighboring countries have friendly and close interactions. In this sense the borders of country groups become soft/fluent. Such that when traveling from the UK to Türkiye, from Norway to Tunisia or from Portugal to Russia all borders would be soft. 
+
+As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EAEU, the CIS, the AU and the EFTA, are essential, as are all countries themselves.
+
+
+#### Refs Economic and Political State Groups in and around Europe
+* African Union: <https://au.int>
+* Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
+* EFTA: <https://www.efta.int>
+* EU: <https://european-union.europa.eu/index_en>
+* Shanghai Cooperation Organisation: <http://eng.sectsco.org>
 
 
 
@@ -308,14 +317,14 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreements (Minsk 1 and Minsk 2)
   > * currently unclear if the Minsk agreements are still a viable path.
   > * Taking into account the opinion of the people is considered nice, especially considering the events around Euromaidan. 
-  > * The impression here is: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them, this has to be taken into account.
+  > * The impression here is: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them.
 
 
 #### Kherson oblast *west of Dnieper including the city Kherson*. 
-Significance: Full (political, economic and security) control likely crucial for the Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for the Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is likely psychologically important).
+Significance: Full (political, economic and security) control likely crucial for the Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for the Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is may still have psychological importance).
 * Military Situation: Considering the military capabilities from the different parties, the geography and the positioning (likely = possibly combined with observations - if available combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
-  * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS. <!--the reasoning here is as follows: the very area the missiles can be launched is large, possible incoming angle is large, backtracing seems hard as maneuverable)-->
+  * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS. <!-- >> some reasons are: the area the missiles can be launched is large, the possible incoming angle is large, backtracing is hard as maneuverable)-->
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
     > As of 29.8. all major bridges are reported to be (at least partly) demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
 
@@ -375,7 +384,7 @@ Jonathan Powell, Opinion, *Putin is not yet ready to end the Ukraine war. When h
 Anatol Lieven, *Opinion "It’s time to ask: what would a Ukraine Russia peace deal look like?"* 
 <https://www.theguardian.com/commentisfree/2022/mar/04/what-would-ukraine-russia-peace-deal-look-like>
 
-> Short and 'mainstreamed' version of an [article published in CommonDreams](#lieven-0403-commondreams).
+> Shortened version of an [article published in CommonDreams](#lieven-0403-commondreams).
 
 
 #### Lieven 0403 CommonDreams
@@ -529,11 +538,15 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 
 
 #### Situation at the Zaporizhzhia Nuclear Plant
-* [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
-* [7 pillars of Nuclear Safety](#7-pillars-of-nuclear-safety).
-* [KievPost on Zaporizhzhia Nuclear Plant shelling at 2708](#kievpost-on-the-zaporizhzhia-nuclear-plant-shelling)
+// General Situation:
 * [Olexander in Enerhodar](#olexander-in-enerhodar): ‘Crazy things are happening’: life in occupied Ukrainian nuclear city
-  > It is considered crucial that the work of the competent workers of Energoatom (and Rosatom) is *not* disrupted.
+  > It is considered crucial that the work of the experts of Energoatom (and Rosatom) is *not* disrupted.
+* [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
+
+// Current Situation
+As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
+
+#### Refs Zaporizhzhia Nuclear Plant
 
 #### Olexander in Enerhodar
 Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city
@@ -545,17 +558,14 @@ Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power sta
 *Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
 
 
-#### KievPost on the Zaporizhzhia Nuclear Plant Shelling
-Fresh Shelling at Ukraine Power Plant as Operator Warns of Radiation Risk
-By AFP. Published Aug. 27 at 4:25 pm <https://www.kyivpost.com/russias-war/fresh-shelling-at-ukraine-power-plant-as-operator-warns-of-radiation-risk.html>
+#### IAEA Update 102
+Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
 
+> "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
 
 #### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
 Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
 
-
-#### TASS on the Situation at Zaporizhzhia Nuclear Plant Shelling
-19 AUG, 12:00, Press review: UN, Moscow differ on Zaporozhye plant and yuan outshines dollar in Russia, Top stories from the Russian press on Friday, August 19th <https://tass.com/pressreview/1495681>
 
 #### Guardian Visual Guide on Zaporizhzhia nuclear plant
 Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
@@ -952,11 +962,13 @@ The list below includes conflicts war which share at least one notable similarit
 
 ### Winter War
 Background: Russia wanted to border to have further 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded which would have been even closer to Viipuri (then Finland's second largest city) than the previous border to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) which was likely viewed by the Finns in turn as introducing a 'border mistake'.
-Warfare: The Finns cleverly used the homeland advantage such as knowing the terrain, prebuilt defensive structures and skills to handle the winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Long-term warfare was hard to sustain under with their economy severely hampered, for the Soviets too, the war was associated with very high costs, so finally a peace treaty with some concessions from the Finns (the Soviets had a resource advantage over the Finns) was reached, though keeping complete independence and the Soviets in the following respected this peace.
+Warfare: The Finns cleverly used the homeland advantage such as knowing the terrain, prebuilt defensive structures and skills to handle the winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Long-term warfare was hard to sustain under with their economy severely hampered, for the Soviets too, the war was associated with very high costs, so finally a peace treaty with some concessions from the Finns (the Soviets had a resource advantage over the Finns) was reached, though keeping complete independence.
+Post War: Both the Soviets and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out by [[Beck](#beck-on-the-winter-war)].
+
 > In a climate of tension (the Finnish possibly new about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers such as the 2nd largest cities not directly near foreign forces is understandably.
 
 #### Refs Winter War
-##### Beck
+##### Beck on the Winter War
 Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where Disciplines Meet: Vol. 2 : No. 2 , Article 4., DOI: 10.15385/jch.2018.2.2.4 <https://digitalcommons.cedarville.edu/channels/vol2/iss2/4>
 
 
@@ -1035,6 +1047,8 @@ The 2014 is also known as Euromaidan revolution.
 
 
 #### Refs Background on Russia
+[in work]
+
 ##### Miller, Lukyanov
 *Detachment Instead of Confrontation: Post-European Russia in Search of Self-Sufficiency*
 
@@ -1051,7 +1065,7 @@ The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 
 ### Refs General Background
 
 #### Savranskaya and Blanton 2017
-*NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
+Svetlana Savranskaya and Tom Blanton, *NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
 
 
 #### Bugoyova
