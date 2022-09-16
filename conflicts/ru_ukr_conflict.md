@@ -188,7 +188,8 @@ The focus is on human rights [for everybody], many of which are violated in a wa
 
 
 ### Security for Russia
-As Russia is a global power and the largest country of Europe, Asia and the world, the security of Russia is mainly considered in the context of [Security of Europe and the World](#security-in-europe-and-the-world).
+As Russia is a global power and the largest country of Europe, Asia and the world, the security of Russia is mainly considered in the context of [Security of Europe and the World](#security-in-europe-and-the-world). [in work]
+
 
 
 
@@ -213,7 +214,7 @@ The increase the international trust into NATO there are different options rangi
 
 #### NATO Reforms/Reorientation
 * Reforms to increase transparency. 
-* Clearer (more purpose and actions defining) statutes and possibly more focussing more on the defending 'principles of humanity'. <!-- possibly only weapon exports to country which adhere certain principles of humanity for example no death sentence, overall fair legal system, local self determination for example by elections -->
+* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense. <!-- possibly only weapon exports to country which adhere certain principles of humanity for example no death sentence, an overall fair legal system, local self determination for example by elections -->
 * Open interstate cooperations to manage the challenges we face - the NATO expertise is broad
 * A focus on tasks such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
 
@@ -293,9 +294,11 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 ### Fluent European Borders
 > in work
 
-Ideally each two neighboring countries have friendly and close interactions. In this sense the borders of country groups become soft/fluent. Such that when traveling from the UK to Türkiye, from Norway to Tunisia or from Portugal to Russia all borders would be soft. 
+Ideally each two neighboring countries have friendly and close interactions. In this sense the borders of country groups become smooth/fluent. Such that when traveling from the British Isles to Türkiye and the Levant, from Scandinavia to the Maghreb or from Portugal to Russia all the borders are smooth.
 
-As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EAEU, the CIS, the AU and the EFTA, are essential, as are all countries themselves.
+As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EAEU, the CIS, the AU and the EFTA, are essential, as are all the countries themselves.
+
+> Possibly the The European Political Community proposed by the President Macron could be a good setting to discuss/establish smoother borders.
 
 
 #### Refs Economic and Political State Groups in and around Europe
@@ -304,6 +307,7 @@ As the major player and designer in Europe, the European Union has a key role bu
 * EFTA: <https://www.efta.int>
 * EU: <https://european-union.europa.eu/index_en>
 * Shanghai Cooperation Organisation: <http://eng.sectsco.org>
+
 
 
 
