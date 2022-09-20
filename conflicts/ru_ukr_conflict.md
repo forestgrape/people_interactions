@@ -41,6 +41,7 @@
   * [Falkland War](#falkland-war)
 * [Historical and Political Background](#historical-and-political-background)
   * [Background on Ukraine](#background-on-ukraine)
+  * [Events around the 2014 Kiev-Revolution](#events-around-the-2014-kiev-revolution)
   * [Background on Russia](#background-on-russia)
   * [Refs General Background](#refs-general-background)
   * [NATO Russia Relations](#nato-russia-relations)
@@ -57,7 +58,10 @@
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
   * [Military](#military)
+  * [Consideration on Territorial Rights and Integrity](#consideration-on-territorial-rights-and-integrity)
   * [Trade in Territory](#trade-in-territory)
+  * [Self Determination](#self-determination)
+  * [Refs Self Determination](#refs-self-determination)
 
 
 
@@ -79,13 +83,6 @@
 
 * June - August: Many updates across the page. For example notes on [ceasefire](#cease-fire)
 
-
-* 24.5.:Speculations on the [status of Crimea](#speculations-on-crimea)
-
-
-* 23.5.22: Notes on Ceasefire and State of Negotiations
-  Updated notes on ceasefire: Terms that no side gains advantages likely are necessary for both to agree on a ceasefire. 
-* 23.5.22: Updated regularly consulted [resources](#resources) and [statements regarding negotiations](#refs-state-of-peace-talks-as-mid-to-late-may).
 
 
 
@@ -142,11 +139,11 @@ Keeping civilians out of warfare is considered a common interest for *all* parti
 After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities and be associated to dangers of escalation.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
-Broad Russian advances are less likely since the Ukrainian defenses are strong (fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost).
+Broad Russian advances are less likely since the Ukrainian defenses are strong: fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost.
 
 > Bloody battles can be spared for computer/console titles.
 
-From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time - though when people tend to come back and keep friendships there are also chances.
+From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time - though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
 
 
 
@@ -156,7 +153,7 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 ## Notes
-The focus is on human rights [for everybody], many of which are violated in a war. Thus the page is *pro peace* and *against war*. A goal is to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint regarding states (personal viewpoint transparent in the [appendix](#appendix)).
+The focus is on human rights [for individuals], many of which are violated in a war. Thus the page is *pro peace* and *against war*. A goal is to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint regarding states (personal viewpoint transparent in the [appendix](#appendix)).
 
 * Global Organizations such as the United Nations, the IAEA, the WHO and the Red Cross are considered important.
 
@@ -223,7 +220,8 @@ NATO Watch: <https://natowatch.org/about>
 
 
 #### NATO Rename/Refound/Replacement
-A re-founding by a new, a fusion with/into an existing (e.g. OSCE) organization or already a renaming would emphasize reforms/reorientation and get rid of cold war associations. In that sense it is to acknowledge that the Cold War ended peacefully - as Havel put it ""“It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.”"" from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
+A re-founding by a new, a fusion with/into an existing (e.g. OSCE) organization or already a renaming would emphasize reforms/reorientation and get rid of cold war associations. In that sense it is to acknowledge that the Cold War ended peacefully - as Havel put it: 
+“It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.” from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
 
 
 #### NATO Tasks and Background
@@ -238,8 +236,8 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > ##### NATO in the Yugoslavian Wars
 > In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated a more a political and less military organization. 
 > 
-> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media (respectively the intelligence services released to the media) illuminated through the fog of war was accordingly. For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization. 
-> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze a foggy view of warfare, doing this - lets say - it seems possibly that the NATO was *not* 'squeaky clean'.
+> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
+> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO was *not* 'squeaky clean'.
 > 
 > Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
@@ -298,14 +296,25 @@ Ideally each two neighboring countries have friendly and close interactions. In 
 
 As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EAEU, the CIS, the AU and the EFTA, are essential, as are all the countries themselves.
 
-> Possibly the The European Political Community proposed by the President Macron could be a good setting to discuss/establish smoother borders.
+> Possibly the The European Political Community proposed by the President Macron could be a suitable setting to discuss/establish smoother borders. // modelled similar to the [African Union](#african-union) is - possibly also as yet another European state group.
+
+
 
 
 #### Refs Economic and Political State Groups in and around Europe
-* African Union: <https://au.int>
-* Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
-* EFTA: <https://www.efta.int>
+##### African Union
+African Union: <https://au.int>
+
+##### Eurasian Economic Union
+Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
+
+##### EFTA
+EFTA: <https://www.efta.int>
+
+##### European Union
 * EU: <https://european-union.europa.eu/index_en>
+
+##### Shanghai Cooperation Organisation
 * Shanghai Cooperation Organisation: <http://eng.sectsco.org>
 
 
@@ -342,17 +351,24 @@ Political and economical importance for the Ukraine. Possibly, no 'NATO weapons'
 
 
 #### Speculations on Crimea
-> Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. Handing over (some) rights on the Crimea could have some acceptance by both countries (governments and populations). <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
-> * Possibly (part of) the price could be paid with natural resources. // Listing the countless possible schemes does not fit here as there many options by volume, absolute/relative throughput, limited/unlimited duration, different plans for the type of resource. 
+
+##### Opinion of the People of Crimea
+
+
+
+##### Trading Rights
+> Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
+> * Possibly (part of) the price could be paid with natural resources. // Many options by volume, absolute/relative throughput, limited/unlimited duration, different plans for the type of resource. 
 > * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by the Ukraine. <!-- Russia has enough other (and better) gas fields.-->
 > * Taking into account the opinion of the people of the Crimea is considered nice.
 
->> According to public statements and a couple of personal discussions (not representative) the emotional importance of the Crimea seems larger for Russians than for Ukrainians, therefore there could be support for a deal (involving economical and territorial rights and security) in both governments and populations.
+>> According to public statements and a couple of personal discussions (not representative) Russians tend to be more emotional on the Crimea than  Ukrainians. A deal (involving economic topics, territorial and security rights) could have some acceptance in both governments and populations.
 
+##### Exchanging Territory
+> Another option would be to exchange territory e.g. trading some territory some Russian territory along the Russian-Ukrainian border (or some other territory) to Crimea <!-- another territory to consider is Kaliningrad Oblast, in some aspects the significance of Kaliningrad for Russia seems similar as the one of Crimea for the Ukraine. Mainly put here as an example how difficult it can be to hand over territory.  -->. // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
 
-> Another option would be to exchange territory e.g. trading some territory some Russian territory along the Russian-Ukrainian border (or some other territory) to Crimea <!-- another territory to consider is Kaliningrad Oblast, in some aspects the significance of Kaliningrad for Russia seems similar as the one of the Crimea for the Ukraine. Mainly put here as an example how difficult it can be to hand over territory.  -->. // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
 >>  To keep that in mind that handing over territorial rights is usually not easy.
->
+
 > General thoughts about [trading territory](#trade-in-territory) in the appendix.
 
 
@@ -360,9 +376,6 @@ Political and economical importance for the Ukraine. Possibly, no 'NATO weapons'
 
 ### Minority Rights in the Ukraine
 [in work]
-
-> Likely a ceasefire is a requirement to discuss this topic officially.
-
 
 #### Language Situation in the Ukraine
 * Wikipedia on the language policy in the Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
@@ -819,7 +832,9 @@ Shutting down industries not strictly necessary which consume a lot of energy (d
 
 #### Refs on Energy Usage
 ##### Lee on Sustainable Energy & Power Electronics
-Sustainable Energy & Power Electronics, Jan 24, 2020, by Fred C Lee, Virginia Tech, <https://ethz.ch/content/dam/ethz/special-interest/itet/department/News%20and%20Events/News/Presentation_Lee.pdf>
+Sustainable Energy & Power Electronics, Jan 24, 2020, by Fred C Lee, University Distinguish Professor and Director Emeritus of the Center for Power Electronics Systems, Virginia Tech, <https://ethz.ch/content/dam/ethz/special-interest/itet/department/News%20and%20Events/News/Presentation_Lee.pdf>
+
+> Recommended 'look through'. Energy consumption slides: 5, 6, 13; energy saving: 20, 22, 26; possible future energy grid in Europe: 43
 
 ##### UN on Energy Consumption in Buildings
 *2021 GLOBAL STATUS REPORT FOR BUILDINGS AND CONSTRUCTION*, Towards a zero-emissions, efficient and resilient buildings and construction sector, <https://www.unep.org/resources/report/2021-global-status-report-buildings-and-construction>
@@ -1018,6 +1033,25 @@ Similarity: Similar tactics UK (in Falkland War) and the Ukraine in this war.
 
 
 
+<!--
+in consideration
+
+### Taiwan Territorial Situation
+The situation of Taiwan has some similarities to the *part of* the Donbas that separated in 2014:
+* Both separated after a revolution in the parent country yielding a separate administrative situation.
+* Both are recognized by the UN as part of a parent country: Taiwan as part of China and the Donbas part as part of the Ukraine.
+
+// There are also many differences, which are not listed currently.
+
+> A viable path possibly is:
+> * a self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically the case for Taiwan as China is ok with WTO membership). 
+> * possibly keeping them out of geo/military-politics and therefore possibly not join military alliances, limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
+
+>> A reunification by force or forcible methods against the will of the local population is not supported here.
+
+>> In consideration, how to handle such situations and a clearer specification of self-determination is considered an important topic to be clarified internationally.
+
+-->
 
 
 
@@ -1030,9 +1064,22 @@ Similarity: Similar tactics UK (in Falkland War) and the Ukraine in this war.
 * *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
 
 
-#### 2014 Revolution
+### Events around the 2014 Kiev-Revolution
 [in work]
-The 2014 is also known as Euromaidan revolution.
+The 2014 revolution is also known as Euromaidan revolution.
+
+#### References Events around the 2014 Revolution
+
+
+##### Marples 2020
+David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
+
+##### Marples 2017
+Marples, David R. "Ukraine in Conflict." An Analytical Chronicle, London: E-International Relations (2017). <https://www.e-ir.info/wp-content/uploads/2017/05/Ukraine-in-Conflict-E-IR.pdf>
+
+
+##### Nitsova
+Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
 
 
 
@@ -1208,10 +1255,14 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 * TASS RUSSIAN NEWS AGENCY <https://tass.com>
 
 // Russian Government run news
+* <https://sputniknews.com/>
+  > "The management of both RT and Sputnik receive weekly instructions(opens in a new tab) from the Kremlin. These instructions include guidelines on political narratives, what should be covered(opens in a new tab) and whom the outlets should not talk about." as stated in 'THREE THINGS YOU SHOULD KNOW ABOUT RT AND SPUTNIK' (<https://euvsdisinfo.eu/three-things-you-should-know-about-rt-and-sputnik/>) from [EUvsDisinfo](#euvsdisinfo).
+
+
 * Russia Today <https://www.rt.com>
   > Note: 
   > * Blocked in many countries as it used to spread 'disinformation' according to <https://en.wikipedia.org/wiki/RT_(TV_network)>.
-  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>]. // accordingly often the narratives of the Russian government are proclaimed.
+  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>]. // accordingly often the narratives of the Russian government are proclaimed. Margarita Simonyan puts it as "“I don’t understand why any country is given a chance to make its point of view seen and heard by the world, and Russia is not given that chance,” she said. "Russia is said to be propaganda for doing exactly that. We are no more propaganda than the Voice of America or Radio Free Europe is propaganda."  (<https://www.nbcnews.com/news/world/u-s-needn-t-fear-russia-rt-editor-chief-margarita-n831736>)
   > * The author list is quite broad and quite a few articles describe the viewpoint in/of Russia on different topics, as long as its *not* in opposition to the government.
 
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media especially when the [true] author is unknown. For nearly all advertisement.
@@ -1229,6 +1280,10 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 
 ### Resources Europe
+#### Resources EU
+##### EUvsDisinfo
+EUvsDisinfo <https://euvsdisinfo.eu>
+> "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force(opens in a new tab). It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>
 #### Resources UK
 * Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information) // freedom to write seems large especially in the opinion section
 * BBC <https://www.bbc.com> // owned by the UK government
@@ -1297,7 +1352,6 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 ## Appendix
 
 ### Opinion on the Conflict
-> The opinion/personal judgement is: 
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
 > * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter) is violated. That other military conflicts (including military conflicts in 90s and 00s) were started not in agreement with international law, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
 > * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless. 
@@ -1311,7 +1365,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 ### Military
 > [in work] 
 
-> simplified and likely does often not [fully] reflect the situation on a real battlefield.
+> simplified and likely does often not reflect the situation on a real battlefield.
 
 In defense it is possible to use buildings and natural structures as protection. For offense there are no protected defense positions, so usually action in the 'open field/air' is required at some point and thus a possible exposure to enemy fire. Solutions are to build equipment to avoid being targeted (e.g. by short exposure and/or stealth) or sustain a lot of damage (e.g. by heavy armor). 
 
@@ -1320,7 +1374,19 @@ Examples:
 * Heavily armored tanks are typical offensive equipment. They can sustain quite a lot of damage but are not that well suited to be hidden within buildings.
 
 
-Offensive equipment: heavily armored tanks or artillery, airplane bombers, offensively used rockets (large numbers are required)
+Offensive equipment:
+* heavily armored: tanks and self propelled artillery, 
+* airplane bombers, 
+* offensively used rockets (usually fairly large numbers are required)
+
+
+Defensive equipment:
+[in work]
+
+
+
+### Consideration on Territorial Rights and Integrity
+[in work]
 
 
 
@@ -1343,8 +1409,9 @@ The possibility of buying out at a 'fair' price could be an option when all part
 > When private person can own, buy and sell land, why not countries or communities? 
 
 
+### Self Determination
 
-#### Refs Self Determination
+### Refs Self Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
 
 
@@ -1355,7 +1422,6 @@ td
 
 
 -->
-
 
 #### Paths for Self Determination
 Here to achieve self-determination and living in a setting taking into account local peculiarities, a federalist government structure with local autonomy, fair and proportional participation in the senior state and respect for the local culture and language is favored over border changes/secession. 
