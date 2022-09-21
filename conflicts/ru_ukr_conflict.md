@@ -1,5 +1,5 @@
 
-# Ukraine in Conflict and Russia's Invasion into the Ukraine
+# Ukraine in Conflict and Russia's Invasion into Ukraine
 
 > The goal of this page is to support finding lasting peace.
 
@@ -17,7 +17,7 @@
   * [NATO Trust building](#nato-trust-building)
   * [Fluent European Borders](#fluent-european-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
-  * [Minority Rights in the Ukraine](#minority-rights-in-the-ukraine)
+  * [Minority Rights in Ukraine](#minority-rights-in-the-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
 * [State of Peace Negotiations](#state-of-peace-negotiations)
   * [Refs State of Peace Negotiations](#refs-state-of-peace-negotiations)
@@ -93,7 +93,7 @@
 
 ## Board
 
-> There seems to be a consensus in belief that *the people of the Ukraine are innocent*.
+> There seems to be a consensus in belief that *the people of Ukraine are innocent*.
 > <br>
 > *We all - everyone - are endowed with the same human rights*.
 
@@ -138,12 +138,12 @@ Keeping civilians out of warfare is considered a common interest for *all* parti
 ### Considerations on military, diplomatic, economical and scientific Perspectives
 After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities and be associated to dangers of escalation.
 
-From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with the Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
+From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
 Broad Russian advances are less likely since the Ukrainian defenses are strong: fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost.
 
 > Bloody battles can be spared for computer/console titles.
 
-From prosperity and development perspective a stop of war seems crucial for both the Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time - though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
+From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time - though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
 
 
 
@@ -178,9 +178,9 @@ The focus is on human rights [for individuals], many of which are violated in a 
 ## Paths to Peace
 
 ### Security for Ukraine
-* General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to the Ukraine as the largest country entirely within Europe.
-* A strong technology and defense industry in the Ukraine by international cooperation and support.
-* A neutral status for the Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]). // officially in discussion
+* General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to Ukraine as the largest country entirely within Europe.
+* A strong technology and defense industry in Ukraine by international cooperation and support.
+* A neutral status for Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]). // officially in discussion
 
 
 
@@ -334,7 +334,7 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 
 #### Kherson oblast *west of Dnieper including the city Kherson*. 
-Significance: Full (political, economic and security) control likely crucial for the Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for the Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is may still have psychological importance).
+Significance: Full (political, economic and security) control likely crucial for Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is may still have psychological importance).
 * Military Situation: Considering the military capabilities from the different parties, the geography and the positioning (likely = possibly combined with observations - if available combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
   * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS. <!-- >> some reasons are: the area the missiles can be launched is large, the possible incoming angle is large, backtracing is hard as maneuverable)-->
@@ -347,7 +347,7 @@ Significance: Full (political, economic and security) control likely crucial for
 
 
 #### Kherson oblast *east of the Dnieper river:* 
-Political and economical importance for the Ukraine. Possibly, no 'NATO weapons' of [geopolitical] importance for Russia.
+Political and economical importance for Ukraine. Possibly, no 'NATO weapons' of [geopolitical] importance for Russia.
 
 
 #### Speculations on Crimea
@@ -359,13 +359,13 @@ Political and economical importance for the Ukraine. Possibly, no 'NATO weapons'
 ##### Trading Rights
 > Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. <!--possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold. --> <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2, for square meter price of 100UAH=200Rubel=3.3$ its about 2700 billion UAH= 5400 billion Rubel = 90 billion $ or with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
 > * Possibly (part of) the price could be paid with natural resources. // Many options by volume, absolute/relative throughput, limited/unlimited duration, different plans for the type of resource. 
-> * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by the Ukraine. <!-- Russia has enough other (and better) gas fields.-->
+> * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by Ukraine. <!-- Russia has enough other (and better) gas fields.-->
 > * Taking into account the opinion of the people of the Crimea is considered nice.
 
 >> According to public statements and a couple of personal discussions (not representative) Russians tend to be more emotional on the Crimea than  Ukrainians. A deal (involving economic topics, territorial and security rights) could have some acceptance in both governments and populations.
 
 ##### Exchanging Territory
-> Another option would be to exchange territory e.g. trading some territory some Russian territory along the Russian-Ukrainian border (or some other territory) to Crimea <!-- another territory to consider is Kaliningrad Oblast, in some aspects the significance of Kaliningrad for Russia seems similar as the one of Crimea for the Ukraine. Mainly put here as an example how difficult it can be to hand over territory.  -->. // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also the Ukraine possibly prefers Crimea compared to other territory.
+> Another option would be to exchange territory e.g. trading some territory some Russian territory along the Russian-Ukrainian border (or some other territory) to Crimea <!-- another territory to consider is Kaliningrad Oblast, in some aspects the significance of Kaliningrad for Russia seems similar as the one of Crimea for Ukraine. Mainly put here as an example how difficult it can be to hand over territory.  -->. // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also Ukraine possibly prefers Crimea compared to other territory.
 
 >>  To keep that in mind that handing over territorial rights is usually not easy.
 
@@ -374,14 +374,14 @@ Political and economical importance for the Ukraine. Possibly, no 'NATO weapons'
 
 
 
-### Minority Rights in the Ukraine
+### Minority Rights in Ukraine
 [in work]
 
-#### Language Situation in the Ukraine
-* Wikipedia on the language policy in the Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
+#### Language Situation in Ukraine
+* Wikipedia on the language policy in Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
 * Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
 
-> Here, from a Swiss perspective, the current language situation/policy in the Ukraine is considered - let's say - odd. 
+> Here, from a Swiss perspective, the current language situation/policy in Ukraine is considered - let's say - odd. 
 >> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
 
 
@@ -394,7 +394,7 @@ Political and economical importance for the Ukraine. Possibly, no 'NATO weapons'
 
 
 #### Powell 2306 Guardian
-Jonathan Powell, Opinion, *Putin is not yet ready to end the Ukraine war. When he is, we must be prepared* <https://www.theguardian.com/commentisfree/2022/jun/23/putin-not-ready-end-ukraine-war-prepared>
+Jonathan Powell, Opinion, *Putin is not yet ready to end Ukraine war. When he is, we must be prepared* <https://www.theguardian.com/commentisfree/2022/jun/23/putin-not-ready-end-ukraine-war-prepared>
 
 
 #### Lieven 0403 Guardian
@@ -688,7 +688,7 @@ Aggressor launches 11 missile strikes on Kramatorsk, 12.08.2022 09:32, Russian t
 
 
 #### Warfare in June
-Intense warfare along the frontline very intense along the eastern frontline in the Donbas where Russia pushes/d to conquer Sievierodonetsk. Russian rockets still are fired at many targets of the Ukraine, civilian buildings are hit too (whether by mistake, because these building had military significance or on purpose is unclear). The defenders increasingly target ammunition depots and command posts behind the frontline.
+Intense warfare along the frontline very intense along the eastern frontline in the Donbas where Russia pushes/d to conquer Sievierodonetsk. Russian rockets still are fired at many targets of Ukraine, civilian buildings are hit too (whether by mistake, because these building had military significance or on purpose is unclear). The defenders increasingly target ammunition depots and command posts behind the frontline.
 
 ##### Dailymail on Attack in Kremenchuk
 *CCTV captures the moment Russian missiles slammed into mall and factory killing at least 18 with shockwaves from huge fireball sending terrified Ukrainians diving for cover in nearby park*
@@ -787,7 +787,7 @@ Economic Measures to Encourage Adherence to International Rules.
 > * the invasion and offensive warfare is not supported here ([Opinion on conflict](#opinion-on-the-conflict))
 > * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
 >   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
->   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between the Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
+>   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 
 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
@@ -945,7 +945,7 @@ David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https:
 > 
 > Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes not to intervene seems [to have been] wrong when looking backwards and sometimes to intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is one should strengthen the UN to advocate human rights and prevent wars.
 
-> Support of the Ukraine to *defend* itself is *not*  considered a reason for sanctions.
+> Support of Ukraine to *defend* itself is *not*  considered a reason for sanctions.
 > > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated here, best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, nearly always peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not opposed: 
 >>    * preventing further almost sure or already ongoing offensive warfare i.e. when the territories are 'clearly' illegally occupied and they are prepared or already as springboard for [ongoing] offensive warfare by the opponent.
 >>    * preventing an ongoing of human right violations [on illegal occupied territories]
@@ -1021,14 +1021,14 @@ Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
 ### Yugoslavian Wars
 #### Kosovo War
 Similarities: 
-* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade the Ukraine.
+* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine.
 Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
 
 
 ### Falkland War
-Similarity: Similar tactics UK (in Falkland War) and the Ukraine in this war.
+Similarity: Similar tactics UK (in Falkland War) and Ukraine in this war.
 *  Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
 
 
@@ -1039,17 +1039,17 @@ in consideration
 ### Taiwan Territorial Situation
 The situation of Taiwan has some similarities to the *part of* the Donbas that separated in 2014:
 * Both separated after a revolution in the parent country yielding a separate administrative situation.
-* Both are recognized by the UN as part of a parent country: Taiwan as part of China and the Donbas part as part of the Ukraine.
+* Both are recognized by the UN as part of a parent country: Taiwan as part of People's Republic of China and the Donbas part as part of Ukraine.
 
 // There are also many differences, which are not listed currently.
 
 > A viable path possibly is:
-> * a self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically the case for Taiwan as China is ok with WTO membership). 
-> * possibly keeping them out of geo/military-politics and therefore possibly not join military alliances, limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
+> * A self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically mostly the case for Taiwan the accepted WTO membership (<https://www.wto.org/english/thewto_e/countries_e/chinese_taipei_e.htm>)). 
+> * Possibly keeping them out of geo/military-politics and therefore possibly not join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
 
->> A reunification by force or forcible methods against the will of the local population is not supported here.
+>> Any kind of forcible methods against [the will of] the local population by any party are not  considered adequate.
 
->> In consideration, how to handle such situations and a clearer specification of self-determination is considered an important topic to be clarified internationally.
+>> How to handle such situations and a clearer specification of self-determination is considered an important topic to be clarified internationally.
 
 -->
 
@@ -1220,7 +1220,7 @@ Sites regularly consulted for articles and news. It is attempted to read a fairl
 
 Ownership, key people and the mission are often stated [in work as of 27.7.]. The resources for the ownership are the "About" pages and wikipedia.
 
-> The impression here is, that on important topics such as the Ukraine-Russia-EU/NATO conflict is, what to write and/or what not to write is sometimes/frequently uniform for media conglomerates. Some newspapers encourage different viewpoints and the journalists have much freedom to write their own opinion while other streamline the narratives. Both freedom and constraints seem to occur for different ownership structures. State owned and single-person owned are most often associated to streamlined narratives while multiple shareholder owned news-sites tend to provide more freedom. Though single person owned and state owned sometimes also provide freedom to write.
+> The impression here is, that on important topics such as Ukraine-Russia-EU/NATO conflict is, what to write and/or what not to write is sometimes/frequently uniform for media conglomerates. Some newspapers encourage different viewpoints and the journalists have much freedom to write their own opinion while other streamline the narratives. Both freedom and constraints seem to occur for different ownership structures. State owned and single-person owned are most often associated to streamlined narratives while multiple shareholder owned news-sites tend to provide more freedom. Though single person owned and state owned sometimes also provide freedom to write.
 
 > Transparency is considered important including on
 > * the ownership including relations
@@ -1352,7 +1352,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 ## Appendix
 
 ### Opinion on the Conflict
-> * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of the Ukraine are seriously violated. *War should never happen.*
+> * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of Ukraine are seriously violated. *War should never happen.*
 > * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter) is violated. That other military conflicts (including military conflicts in 90s and 00s) were started not in agreement with international law, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
 > * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless. 
     >> So fare *no systematic* targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
