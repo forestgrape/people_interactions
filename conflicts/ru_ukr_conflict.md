@@ -229,7 +229,7 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 
 
 > ##### Thoughts on Aspects of Stalinism
-> Stalinism seems to have relied much to much on brutality and forced alliances, so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
+> Stalinism seems to have relied much to much on brutality and 'forced alliances', so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
 
 
 
@@ -783,15 +783,17 @@ Economic Measures to Encourage Adherence to International Rules.
 
 #### Reasons for Sanctions
 
-> Subjective Reasons: Sanctions on Russia are considered adequate as:
-> * the invasion and offensive warfare is not supported here ([Opinion on conflict](#opinion-on-the-conflict))
-> * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
->   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
->   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
+
 
 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
 
+
+> Subjective Reasons: Sanctions on Russia are considered adequate as:
+> * the invasion and offensive warfare are not supported here ([Opinion on conflict](#opinion-on-the-conflict))
+> * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
+>   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
+>   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 
 #### Overview
 * *Sanction Target:* As a war is very expensive, the goal is to restrict the government income.
@@ -805,27 +807,27 @@ Economic Measures to Encourage Adherence to International Rules.
 
 * *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
   > Although the Russia economy without petroleum has a lot of potential both with human and natural resources, a transition away from petroleum is a challenge. During a war is this hard. Without the income of petroleum and during a war this is very hard.
-* *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce i.e. a crises fallback is rationing. 
-  > Here in general, market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 times price increase will ruin some, while not bothering others much, therefore a purely market based approach likely is not that efficient and unfair.
+* *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce, one crisis fallback is rationing. 
+  > Here in general, market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 fold price increase will drive some to the edge of ruin, while not bothering others much, therefore a purely market based approach likely is considered neither fair nor efficient. Similarly at the country level.
 
 #### Ground Transportation
 * *Consumers:* Mainly private car and private and public airplane traffic. Reduce the consumption from individual traffic (when electricity is produced by gas/petroleum products electric cars are to be included). 
-* *Measures:* Ideally some soft measures such as reduced consumption by promotion, by increase the attractiveness of public transport (such as the [9 Euro ticket](#buckley-for-cnn-on-9-euro-ticket)). If necessary stricter measures from decreased speed limits up to rationing fuel/car usage are thinkable. Some possibilities are:
-  * Speed limits, rationing fuel, 
+* *Measures:* Ideally some soft measures such as reduced consumption by promotion, by increase the attractiveness of public transport (such as the [9 Euro ticket](#buckley-for-cnn-on-9-euro-ticket)). If necessary stricter measures are possible:
+  * Decreased Speed limits,
   * limit the usage of certain car types i.e. high fuel consumption cars unless usage has a rational necessity
-  * increased taxes on fuel/car usage/road pricing 
+  * increased taxes on fuel/car usage/road pricing  or rationing
   * tax car by weight (pointless 'weight race' as heavy cars mostly increase one owns security at the cost of decreasing the security of everybody else) possibly combined with road pricing.
 
 
 
 #### Air traffic
 * No short term and short duration air plane traffic. 
-* More strict measures would be rationing/tax airplane traffic.
-* Ban restrict private airplane for strictly necessary usage.
+* Increased taxes/personal limits on airplane usage with a focus on short duration trips and first/business class travel.
+* Restrict private airplane usage up to for strictly necessary usage.
 
 
 #### Industry Consumption
-Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if agreed). Postpone building projects.
+Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if wished/agreed). Postpone building projects.
 
 
 
@@ -848,11 +850,10 @@ Julia Buckley, CNN • Updated 26th August 2022 <https://edition.cnn.com/travel/
 
 
 ##### Monbiot, theGuardian, Feeding Cars with Crops
-George Monbiot, Thu 30 Jun 2022 08.00 BST, Why are we feeding crops to our cars when people are starving?
-This article is more than 2 months old, <https://www.theguardian.com/commentisfree/2022/jun/30/crops-cars-starving-biofuels-climate-sustainable>
+George Monbiot, Thu 30 Jun 2022 08.00 BST, Why are we feeding crops to our cars when people are starving?, <https://www.theguardian.com/commentisfree/2022/jun/30/crops-cars-starving-biofuels-climate-sustainable>
 
 
-##### Box on Speed Limits
+##### Box on Car Speed Limits
 Elizabeth Box, RAC Foundation, August 2012, *Speed Limits - A review of evidence*, <https://www.researchgate.net/publication/305445882_Speed_Limits_-_A_review_of_evidence>
 
 
@@ -860,16 +861,16 @@ Elizabeth Box, RAC Foundation, August 2012, *Speed Limits - A review of evidence
 //separate page is planned sometimes.
 
 
-##### Stackexchange on Car Efficacy
+##### Stackexchange on Car Efficiency
 JoJo Question, Rominger Answer at Stackexchange *Why is 55-60 MPH optimal for gas mileage of a passenger car?*,
 <https://physics.stackexchange.com/questions/12874/why-is-55-60-mph-optimal-for-gas-mileage-of-a-passenger-car>
 
-> Likely conventional cars can be constructed/reprogrammed such that the efficacy peaks at the same low speed as it does for electric cars.
+> Likely conventional cars can be constructed/reprogrammed such that the efficiency peaks at the same low speed as it does for electric cars.
 
 ##### Straubel on Roadster Efficiency
 JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://www.tesla.com/blog/roadster-efficiency-and-range>
 
-> Pictures still available at [Stackexchange Discussion](#stackexchange-on-car-efficacy).
+> Pictures still available at the [Stackexchange on Car Efficiency](#stackexchange-on-car-efficiency).
 
 ##### Wikipedia on Car Efficiency
 <https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles>
@@ -940,10 +941,11 @@ David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https:
 > Subjective reason: When the cold war ended there was a discussion of a 'Common European home' (as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). The manner of the NATO/EU expansion *policy* which sidelines Russia is not in agreement with that.
 
 
-> #### On the 'Actors' of the 'West'
+> #### 'Actors' of the 'West'
 > The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general) and sometimes in concert with the EU. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in )  and state & private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one]. 
+> In the decision process not only state associated actors but also private stack owners play a crucial role besides political parties. The broad decision finding with many discussions likely brings more stable and less errors, though it possibly takes a little more than as when small circles decide. 
 > 
-> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes not to intervene seems [to have been] wrong when looking backwards and sometimes to intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is one should strengthen the UN to advocate human rights and prevent wars.
+> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is one should strengthen the UN to advocate human rights and prevent wars.
 
 > Support of Ukraine to *defend* itself is *not*  considered a reason for sanctions.
 > > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated here, best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, nearly always peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not opposed: 
@@ -984,7 +986,7 @@ Background: Russia wanted to border to have further 20 km away from St. Petersbu
 Warfare: The Finns cleverly used the homeland advantage such as knowing the terrain, prebuilt defensive structures and skills to handle the winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Long-term warfare was hard to sustain under with their economy severely hampered, for the Soviets too, the war was associated with very high costs, so finally a peace treaty with some concessions from the Finns (the Soviets had a resource advantage over the Finns) was reached, though keeping complete independence.
 Post War: Both the Soviets and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out by [[Beck](#beck-on-the-winter-war)].
 
-> In a climate of tension (the Finnish possibly new about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers such as the 2nd largest cities not directly near foreign forces is understandably.
+> In a climate of tension (the Finnish possibly knew about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers - such as the 2nd largest cities - not directly near foreign forces is understandably.
 
 #### Refs Winter War
 ##### Beck on the Winter War
@@ -1045,9 +1047,9 @@ The situation of Taiwan has some similarities to the *part of* the Donbas that s
 
 > A viable path possibly is:
 > * A self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically mostly the case for Taiwan the accepted WTO membership (<https://www.wto.org/english/thewto_e/countries_e/chinese_taipei_e.htm>)). 
-> * Possibly keeping them out of geo/military-politics and therefore possibly not join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
+> * Possibly keeping them out of geo/military-politics and therefore possibly not to join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
 
->> Any kind of forcible methods against [the will of] the local population by any party are not  considered adequate.
+>> Any kind of forcible methods against [the will of] the local population by *any* party are not considered adequate.
 
 >> How to handle such situations and a clearer specification of self-determination is considered an important topic to be clarified internationally.
 
