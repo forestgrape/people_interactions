@@ -75,13 +75,13 @@
 
 When the question is whether people want closer ties to Russia:
 * In territories occupied since February only a NO is meaningful: 
-  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people are possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
+  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
   * Voting Result NO: If people vote NO to closer ties with Russia, this is a clear message to the Russian soldiers to leave the region in question.
 * In the regions termed by the local administrations as ‘People’s Republics’ of Donetsk (DNR) and Luhansk (LNR) the vote is neither likely to be representative but possibly wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. A YES in these regions thus is somewhat more meaningful.
-  > In case of a YES, to both respect international law and the people's opinion (and the right for self determination) a possible solution could to keep DNR and LNR as autonomous regions of the Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia (as they voted).
+  > In case of a YES, to both respect international law and the people's opinion (and the right for self determination) a possible solution could to keep DNR and LNR as autonomous regions of the Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
 
 
-> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are written nevertheless is, plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas, meaningful plebiscites cannot be ruled out.
+> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are written nevertheless is, plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas, meaningful plebiscites could not be ruled out.
 
 > Plebiscites are always welcome here as long as they are free and handled lawfully. 
 
