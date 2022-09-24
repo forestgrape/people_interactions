@@ -5,9 +5,11 @@
 
 * [New Content and Updates](#new-content-and-updates)
 * [Board](#board)
-  * [Cease-Fire](#cease-fire)
+  * [Human Rights](#human-rights)
+  * [Innocence of the People of Ukraine](#innocence-of-the-people-of-ukraine)
   * [Diplomacy and Compromises](#diplomacy-and-compromises)
   * [Keeping Civilians out](#keeping-civilians-out)
+  * [Truce](#truce)
   * [Considerations on military, diplomatic, economical and scientific Perspectives](#considerations-on-military-diplomatic-economical-and-scientific-perspectives)
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
@@ -17,7 +19,7 @@
   * [NATO Trust building](#nato-trust-building)
   * [Fluent European Borders](#fluent-european-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
-  * [Minority Rights in Ukraine](#minority-rights-in-the-ukraine)
+  * [Minority Rights in Ukraine](#minority-rights-in-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
 * [State of Peace Negotiations](#state-of-peace-negotiations)
   * [Refs State of Peace Negotiations](#refs-state-of-peace-negotiations)
@@ -36,9 +38,9 @@
 * [Conflicts with Similarities](#conflicts-with-similarities)
   * [Warsaw Pact invasion of Czechoslovakia](#warsaw-pact-invasion-of-czechoslovakia)
   * [Winter War](#winter-war)
-  * [Iraq War](#iraq-war)
-  * [Yugoslavian Wars](#yugoslavian-wars)
+  * [Second Iraq War](#second-iraq-war)
   * [Falkland War](#falkland-war)
+  * [Yugoslavian Wars](#yugoslavian-wars)
 * [Historical and Political Background](#historical-and-political-background)
   * [Background on Ukraine](#background-on-ukraine)
   * [Events around the 2014 Kiev-Revolution](#events-around-the-2014-kiev-revolution)
@@ -54,7 +56,7 @@
   * [Resources Europe](#resources-europe)
   * [Resources Asia](#resources-asia)
   * [Resources Americas](#resources-americas)
-  * [Resources on the Military Situation](#resources-on-the-military-situation)
+  * [Resources Military Situation](#resources-military-situation)
 * [Appendix](#appendix)
   * [Opinion on the Conflict](#opinion-on-the-conflict)
   * [Military](#military)
@@ -68,7 +70,22 @@
 
 ## New Content and Updates
 
-10.9. some updates online work.
+
+24.9.: The plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. // how they are carried out, specifically whether fair and free, is not judged here.
+
+When the question is whether people want closer ties to Russia:
+* In territories occupied since February only a NO is meaningful: 
+  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people are possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
+  * Voting Result NO: If people vote NO to closer ties with Russia, this is a clear message to the Russian soldiers to leave the region in question.
+* In the regions termed by the local administrations as ‘People’s Republics’ of Donetsk (DNR) and Luhansk (LNR) the vote is neither likely to be representative but possibly wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. A YES in these regions thus is somewhat more meaningful.
+  > In case of a YES, to both respect international law and the people's opinion (and the right for self determination) a possible solution could to keep DNR and LNR as autonomous regions of the Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia (as they voted).
+
+
+> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are written nevertheless is, plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas, meaningful plebiscites cannot be ruled out.
+
+> Plebiscites are always welcome here as long as they are free and handled lawfully. 
+
+
 
 > ### Gorbachev on War
 > "... When I became General Secretary of the Soviet Communist Party, I traveled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
@@ -93,29 +110,14 @@
 
 ## Board
 
-> There seems to be a consensus in belief that *the people of Ukraine are innocent*.
-> <br>
-> *We all - everyone - are endowed with the same human rights*.
+### Human Rights
+*We all - everyone - are granted with the same human rights*.
 
 
 
-### Cease-Fire
+### Innocence of the People of Ukraine
+There seems to be a consensus in belief that *the people of Ukraine are innocent*.
 
-A ceasefire and stop of all military actions are important to prevent further escalation and losses and to bolster diplomacy. 
-
-#### Reasons for a Ceasefire
-> With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
-> * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
-> * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists. // Here the opinion is that regional autonomy is ideally specified in the UN charter. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.
-), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification (and the chance to play) seems to come at some cost in competitiveness.
-
-> Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
-
->> Here the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
-
-
-#### Ceasefire Implementation Option
-> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant (tactical) advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance is considered important - then can be found through negotiations.
 
 
 
@@ -131,6 +133,28 @@ Diplomacy and Compromises from All Parties are likely the best Way out
 Keeping civilians out of warfare is considered a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world.
 
 > Paths to escape, to reach a safe and in any way - including ethically - reasonable place are considered important. 
+
+
+
+
+### Truce
+
+A stop of all military actions are important to prevent further escalation and losses and to bolster diplomacy. 
+
+#### Reasons for a Ceasefire
+> With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
+> * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
+> * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists. // Here the opinion is that regional autonomy is ideally specified in the UN charter. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.
+), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification (and the chance to play) seems to come at some cost in competitiveness.
+
+> Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
+
+>> Here the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
+
+
+#### Ceasefire Implementation Option
+> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant (tactical) advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance is considered important - then can be found through negotiations.
+
 
 
 
@@ -155,9 +179,9 @@ From prosperity and development perspective a stop of war seems crucial for both
 ## Notes
 The focus is on human rights [for individuals], many of which are violated in a war. Thus the page is *pro peace* and *against war*. A goal is to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint regarding states (personal viewpoint transparent in the [appendix](#appendix)).
 
-* Global Organizations such as the United Nations, the IAEA, the WHO and the Red Cross are considered important.
+* Global Organizations such as the United Nations, the IAEA, the WHO, Amnesty International and the Red Cross are considered important.
 
-* Information sources are listed in  [resources](#resources). Frequently consulted are The Guardian, MoscowTimes, Tass, KievPost
+* Information sources are listed in  [resources](#resources). Frequently consulted are The Guardian, MoscowTimes, Tass, KievPost, UKRinform
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
      > On the page on coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and possibly even counterproductive. Sorry.
@@ -176,6 +200,8 @@ The focus is on human rights [for individuals], many of which are violated in a 
 
 
 ## Paths to Peace
+
+Consideration and searching for possible pathways to lasting peace.
 
 ### Security for Ukraine
 * General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to Ukraine as the largest country entirely within Europe.
@@ -563,12 +589,13 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 // Current Situation
 As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
 
+
+
+
 #### Refs Zaporizhzhia Nuclear Plant
 
 #### Olexander in Enerhodar
-Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city
-Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power station where he used to work. An accident or artillery attack are constant fears
-<https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
+*Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city*, Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power station where he used to work. An accident or artillery attack are constant fears, <https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
 
 
 #### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
@@ -578,14 +605,16 @@ Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power sta
 #### IAEA Update 102
 Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
 
-> "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
+Selected Statement: "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
+
 
 #### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
 Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
 
 
 #### Guardian Visual Guide on Zaporizhzhia nuclear plant
-Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
+Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns, <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
+
 
 
 
@@ -601,12 +630,8 @@ https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-his
 https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html
 
 
-#### Koshiw on Psychological Effects in Borodyanka
-Isobel Koshiw in Borodyanka, 0307 2022,
-Medics battle relentless wave of trauma in Ukrainian town of Borodyanka
-This article is more than 1 month old
-Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing
-<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
+#### Koshiw, theGuardian, on Psychological Effects in Borodyanka
+Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing* <https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
 
 
 #### CNN on the Scars caused by War
@@ -614,11 +639,17 @@ Psychologists are struggling to help stricken locals cope with PTSD while facing
 <https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
 
 
+#### Ukrinform on 391 killed and 771 injured Children
+*Russians have injured 771 children in Ukraine*, 23.09.2022 10:15
+<https://www.ukrinform.net/rubric-ato/3577854-russians-have-injured-771-children-in-ukraine.html>
+
+
 #### KievPost on the Environmental Damage 
 Environmental Damage Caused by Russian Invasion Estimated at $10 Billion
 <https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
 
 > Not acute in comparison to human losses, though environmental damage can yield future suffering.
+
 
 
 ### Refs on Economic and Social Effects
@@ -644,6 +675,8 @@ Environmental Damage Caused by Russian Invasion Estimated at $10 Billion
 
 > Many eyes looking, documenting, knowing and putting oneself into others positions possibly helps to reduce/limit the brutality of war - possibly this even helps to find [paths to] peace.
 
+
+
 ### Warfare Documentation
 
 > Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
@@ -667,13 +700,19 @@ The articles and notes below document some aspects of warfare, with a focus on t
 
 
 #### Selected Warfare in September
+
+##### Ukrinform on strike on Pechenihy dam
+*Russian forces strike Pechenihy dam in Kharkiv region again*22.09.2022 21:18, <https://www.ukrinform.net/rubric-ato/3577608-russian-forces-strike-pechenihy-dam-in-kharkiv-region-again.html>
+
+
+
 ##### Ukrinform on Missiles on Hydraulic Structures
 *Kryvyi Rih struck with eight Russian missiles: Hydraulic structures damaged*, VIDEO14.09.2022 20:52
 https://www.ukrinform.net/rubric-ato/3571620-kryvyi-rih-struck-with-eight-russian-missiles-hydraulic-structures-damaged.html
 
 
 
-#### Warfare in August
+#### Selected Warfare in August
 
 ##### Ukrinform on Attacks against Dnipropetrovsk 25 August
 Children among injured as Russians shell four districts in Dnipropetrovsk region
@@ -687,7 +726,7 @@ Aggressor launches 11 missile strikes on Kramatorsk, 12.08.2022 09:32, Russian t
 <https://www.ukrinform.net/rubric-ato/3548723-aggressor-launches-11-missile-strikes-on-kramatorsk.html>
 
 
-#### Warfare in June
+#### Selected Warfare in June
 Intense warfare along the frontline very intense along the eastern frontline in the Donbas where Russia pushes/d to conquer Sievierodonetsk. Russian rockets still are fired at many targets of Ukraine, civilian buildings are hit too (whether by mistake, because these building had military significance or on purpose is unclear). The defenders increasingly target ammunition depots and command posts behind the frontline.
 
 ##### Dailymail on Attack in Kremenchuk
@@ -696,7 +735,7 @@ https://www.dailymail.co.uk/news/article-10959915/Kremenchuk-shopping-centre-str
 
 > The images give some impression how live in war time is, even when not at the frontline and not hit directly.
 
-> Hard to judge from the outside whether the factory or the mall or both were the target. Unclear why the attack was carried out in daytime when the claimed target was an ammunition storage according to the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does detailed planning when possible. This could indicate that the Russian military command is under pressure.
+> Hard to judge from the outside whether the factory or the mall or both were the target. Unclear why the attack was carried out in daytime when the claimed target was an ammunition storage as stated by the Russian defense ministry ([Guardian on Attack in Kremenchuk](#guardian-on-attack-in-kremenchuk)). // Usually the Russian military does detailed planning when possible. This could indicate that the Russian military command is under pressure.
 
 
 ##### Guardian on Attack in Kremenchuk
@@ -715,7 +754,7 @@ Evidence contradicts Russian claims about Kremenchuk mall attack
 
 
 
-#### Warfare in July
+#### Selected Warfare in July
 In early July the UAF retreated from Lysychansk, stated as a tactical retreat to prepared fortified positions to have a more straight frontline. // possibly the positions in Lysychnask were/are not enough strong to withstand non-stop rains of artillery.
 
 
@@ -842,6 +881,8 @@ Sustainable Energy & Power Electronics, Jan 24, 2020, by Fred C Lee, University 
 *2021 GLOBAL STATUS REPORT FOR BUILDINGS AND CONSTRUCTION*, Towards a zero-emissions, efficient and resilient buildings and construction sector, <https://www.unep.org/resources/report/2021-global-status-report-buildings-and-construction>
 
 
+
+
 #### Refs Transportation and Energy
 
 ##### Buckley for CNN on 9 Euro Ticket
@@ -858,14 +899,13 @@ Elizabeth Box, RAC Foundation, August 2012, *Speed Limits - A review of evidence
 
 
 <!--
-//separate page is planned sometimes.
+//separate page is planned [sometimes].
 
 
 ##### Stackexchange on Car Efficiency
-JoJo Question, Rominger Answer at Stackexchange *Why is 55-60 MPH optimal for gas mileage of a passenger car?*,
-<https://physics.stackexchange.com/questions/12874/why-is-55-60-mph-optimal-for-gas-mileage-of-a-passenger-car>
+JoJo Question, Rominger Answer at Stackexchange *Why is 55-60 MPH optimal for gas mileage of a passenger car?*, <https://physics.stackexchange.com/questions/12874/why-is-55-60-mph-optimal-for-gas-mileage-of-a-passenger-car>
 
-> Likely conventional cars can be constructed/reprogrammed such that the efficiency peaks at the same low speed as it does for electric cars.
+> From a technical perspective is seems possible to construct/reprogram conventional cars such that the efficiency peaks at the same low speed as it does for electric cars.
 
 ##### Straubel on Roadster Efficiency
 JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://www.tesla.com/blog/roadster-efficiency-and-range>
@@ -885,7 +925,7 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 #### Refs on Economic Measures on Russia
 
 ##### Sechin on Energy and Economy
-*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/> <!-- Points out the problem of rerouting deliveries upon embargo.-->
+*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/> // Points out the problem of rerouting deliveries upon embargo.
 
 ##### Interfax on Effects of EU Embargo
 EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of oil, petroleum products - IEA
@@ -893,7 +933,9 @@ EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of o
 ##### Interfax on Swift Alternative
 *Sberbank creating international system of settlements as alternative to SWIFT - Gref*, 17 Jun 2022 16:26, <https://interfax.com/newsroom/top-stories/80380/>
 
-> Keeping official/lawful paths for financial transactions is considered good here.
+> Keeping official/lawful paths for financial transactions is considered good.
+
+
 
 
 #### Refs Russian Energy Exports
@@ -901,9 +943,10 @@ EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of o
 ##### Treemap on Russian Trade
 Treemap visualizing the export: <https://oec.world/en/profile/country/rus>
 
-<!-- described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)-->
+> the webpage as such is described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)
 
-##### Worldstopexports on Russian Exports
+
+##### Worldstopexports on Russian Top 10 Exports
 <https://www.worldstopexports.com/russias-top-10-exports/>
 
 
@@ -911,8 +954,6 @@ Treemap visualizing the export: <https://oec.world/en/profile/country/rus>
 David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https://www.vortexa.com/insights/crude/the-latest-trends-in-russian-oil-flows/>
 
 > other analyses too on Vortexa
-
-
 
 
 ##### CREA on Fossil fuel Exports from Russia
@@ -935,24 +976,24 @@ David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https:
 
 #### Reasons for Sanctions
 * violation of OSCE rules by the manner of the NATO expansion
-* violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside and thereby decrease their ability to keep up people connections and thereby their security)
-* inaction regarding MINSK agreement implementation (Germany and France)
+* violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside and thereby decrease their ability to keep up people connections and friendships and thereby their security)
+* inaction regarding encouragement for the MINSK agreement implementation. // Though on the plus side is was mediated.
 
-> Subjective reason: When the cold war ended there was a discussion of a 'Common European home' (as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). The manner of the NATO/EU expansion *policy* which sidelines Russia is not in agreement with that.
+> Subjective reason: When the cold war ended there was a discussion of a 'Common European home' (as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). The manner of the NATO/EU expansion *policy* with sidelining in aspects many of the former Soviet republics (including Russia) is not in agreement with that.
 
 
-> #### 'Actors' of the 'West'
+> #### 'Actors' from the 'West'
 > The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general) and sometimes in concert with the EU. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in )  and state & private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one]. 
 > In the decision process not only state associated actors but also private stack owners play a crucial role besides political parties. The broad decision finding with many discussions likely brings more stable and less errors, though it possibly takes a little more than as when small circles decide. 
 > 
-> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is one should strengthen the UN to advocate human rights and prevent wars.
+> Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is, one should strengthen the UN to advocate human rights and prevent wars.
 
-> Support of Ukraine to *defend* itself is *not*  considered a reason for sanctions.
-> > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated here, best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, nearly always peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not opposed: 
+> Support of Ukraine to *defend* itself is *not* considered a reason for sanctions.
+> > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated here - best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, nearly always peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not opposed: 
 >>    * preventing further almost sure or already ongoing offensive warfare i.e. when the territories are 'clearly' illegally occupied and they are prepared or already as springboard for [ongoing] offensive warfare by the opponent.
->>    * preventing an ongoing of human right violations [on illegal occupied territories]
+>>    * preventing ongoing [systematic] violations of human right [on illegal occupied territories]
 >>
->> but even in the exceptions above everything should be done to find a peaceful solution through diplomacy.
+>> but even in the exceptions above everything should be done to find a peaceful solution for example through diplomacy.
 
 
 
@@ -960,7 +1001,7 @@ David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https:
 
 #### Adequate Sanctions
 [in work/consideration]
-// not easy to get the sanctions neutral
+// not easy to get the sanctions neutral ...
 
 
 -->
@@ -971,9 +1012,9 @@ David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https:
 
 ## Conflicts with Similarities
  
-The list below includes conflicts war which share at least one notable similarity to the current conflict.
+Some conflicts and wars which share at least one notable similarity to the current conflict are listed.
 
-> While each conflict has its own characteristics and history, there are similarities between conflicts/wars. All are conflicts, other similarities vary - some are are similar in goals or some in warfare,  tactics. 
+> While each conflict has its own characteristics and history, there are similarities between conflicts/wars. All are conflicts, other similarities vary - some are are similar in goals or some in warfare, some in tactics, some in political settings.
 
 > *in work and incomplete*.
 
@@ -982,11 +1023,14 @@ The list below includes conflicts war which share at least one notable similarit
 
 
 ### Winter War
-Background: Russia wanted to border to have further 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded which would have been even closer to Viipuri (then Finland's second largest city) than the previous border to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) which was likely viewed by the Finns in turn as introducing a 'border mistake'.
-Warfare: The Finns cleverly used the homeland advantage such as knowing the terrain, prebuilt defensive structures and skills to handle the winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Long-term warfare was hard to sustain under with their economy severely hampered, for the Soviets too, the war was associated with very high costs, so finally a peace treaty with some concessions from the Finns (the Soviets had a resource advantage over the Finns) was reached, though keeping complete independence.
+Background: Russia wanted the border to have further than 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded: The Soviets wanted to border to be moved that much for it to be closer to Viipuri (then Finland's second largest city) than the previous border was to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) - which was likely viewed by the Finns in turn as introducing a 'border mistake'.
+
+Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to live in winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain with their economy, their lives, hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns (the Soviets had a huge resource advantage over the Finns) was reached, though keeping complete independence.
+
 Post War: Both the Soviets and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out by [[Beck](#beck-on-the-winter-war)].
 
 > In a climate of tension (the Finnish possibly knew about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers - such as the 2nd largest cities - not directly near foreign forces is understandably.
+
 
 #### Refs Winter War
 ##### Beck on the Winter War
@@ -998,7 +1042,7 @@ Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where 
 Selected statement: “We have very good relations with Finland today,” Putin noted. “And this must be done without any kind of confrontation – on the contrary, so that this bloody episode in our shared history will be an example as to why nothing similar should ever be allowed to happen again.”
 
 
-#### this is Finland on FINLAND’S EASTERN BORDER
+##### this-is-Finland on FINLAND’S EASTERN BORDER
 Salla Korpela, June 2008, TRACING FINLAND’S EASTERN BORDER, <https://finland.fi/life-society/tracing-finlands-eastern-border/>
 
 
@@ -1006,32 +1050,38 @@ Salla Korpela, June 2008, TRACING FINLAND’S EASTERN BORDER, <https://finland.f
 Background of the Winter War
 , <https://en.wikipedia.org/wiki/Background_of_the_Winter_War#cite_note-talvisodanpikkujattilainen-turtola14-39>, referred is the section: Soviet demands in late 1939 
 
-##### Refs on Molotov Bread Basket and Cocktail
+#### Refs on Molotov Bread Basket and Cocktail
 * <https://en.wikipedia.org/wiki/Molotov_cocktail>
 * <https://beachpackagingdesign.com/boxvox/molotov-metaphor-a-drink-to-go-with-the-food>
 
 
 
-### Iraq War
+### Second Iraq War
 Similarities: 
-* Airborne troupes played a key role in early warfare.
+* Airborne troupes heavily used in early warfare.
+* Against UN Charter
 
 Refs:
 Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
+
+
+
+### Falkland War
+Similarity: Similar tactics UK (in the Falkland War) and Ukraine in this war.
+*  Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
+
 
 
 ### Yugoslavian Wars
 #### Kosovo War
 Similarities: 
 * Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine.
+* Interests (e.g. languages) and feelings  of regions with minorities were not respected by the main government and [thus] secessionist tendencies gained ground.
+
 Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
 
-
-### Falkland War
-Similarity: Similar tactics UK (in Falkland War) and Ukraine in this war.
-*  Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
 
 
 
@@ -1046,8 +1096,8 @@ The situation of Taiwan has some similarities to the *part of* the Donbas that s
 // There are also many differences, which are not listed currently.
 
 > A viable path possibly is:
-> * A self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically mostly the case for Taiwan the accepted WTO membership (<https://www.wto.org/english/thewto_e/countries_e/chinese_taipei_e.htm>)). 
-> * Possibly keeping them out of geo/military-politics and therefore possibly not to join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
+> * A self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically mostly the case for Taiwan with the accepted WTO membership (<https://www.wto.org/english/thewto_e/countries_e/chinese_taipei_e.htm>)). 
+> * Keeping them out of geo/military-politics such as not to join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
 
 >> Any kind of forcible methods against [the will of] the local population by *any* party are not considered adequate.
 
@@ -1066,15 +1116,19 @@ The situation of Taiwan has some similarities to the *part of* the Donbas that s
 * *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
 
 
+
+
 ### Events around the 2014 Kiev-Revolution
 [in work]
 The 2014 revolution is also known as Euromaidan revolution.
 
-#### References Events around the 2014 Revolution
 
+
+#### References Events around the 2014 Revolution
 
 ##### Marples 2020
 David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
+
 
 ##### Marples 2017
 Marples, David R. "Ukraine in Conflict." An Analytical Chronicle, London: E-International Relations (2017). <https://www.e-ir.info/wp-content/uploads/2017/05/Ukraine-in-Conflict-E-IR.pdf>
@@ -1337,11 +1391,9 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 
-### Resources on the Military Situation
+### Resources Military Situation
 * Institute for the Study of War. <https://www.understandingwar.org/> 
-  // based in Washington, US 
-    "Our Mission
-    The Institute for the Study of War advances an informed understanding of military affairs through reliable research, trusted analysis, and innovative education. We are committed to improving the nation’s ability to execute military operations and respond to emerging threats in order to achieve U.S. strategic objectives. ISW is a non-partisan, non-profit, public policy research organization." as stated on <https://www.understandingwar.org/who-we-are> as of 160822
+  // based in Washington, US "Our Mission The Institute for the Study of War advances an informed understanding of military affairs through reliable research, trusted analysis, and innovative education. We are committed to improving the nation’s ability to execute military operations and respond to emerging threats in order to achieve U.S. strategic objectives. ISW is a non-partisan, non-profit, public policy research organization." as stated on <https://www.understandingwar.org/who-we-are> as of 160822
 
 * 'Jomini of the West' on Twitter: <https://twitter.com/JominiW> // based in Maryland, US; Twitter description (as of 3107): "Polemologist writer and speaker on all things related to human conflict. #Fortuna Podcast; discussions on waging peace, surviving war, and the fate of Humankind"
 
@@ -1356,7 +1408,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 ### Opinion on the Conflict
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of Ukraine are seriously violated. *War should never happen.*
 > * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter) is violated. That other military conflicts (including military conflicts in 90s and 00s) were started not in agreement with international law, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
-> * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless. 
+> * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless.
     >> So fare *no systematic* targeting of civilians seems to occur. Tough civilians got hit on many occasions. *Each hit and death has people associated and thus is a tragedy on its own.*
 > 
 > For the main text, the conflict is taken as given and the focus is on pathways to peace that work/are acceptable for all sides, for that reason mostly a neutral/least common viewpoint is (tried to be) taken.
