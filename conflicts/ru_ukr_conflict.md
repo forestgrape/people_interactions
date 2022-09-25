@@ -76,14 +76,15 @@
 When the question is whether people want closer ties to Russia:
 * In territories occupied since February only a NO is meaningful: 
   * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
-  * Voting Result NO: If people vote NO to closer ties with Russia, this is a clear message to the Russian soldiers to leave the region in question.
-* In the regions termed by the local administrations as ‘People’s Republics’ of Donetsk (DNR) and Luhansk (LNR) the vote is neither likely to be representative but possibly wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. A YES in these regions thus is somewhat more meaningful.
-  > In case of a YES, to both respect international law and the people's opinion (and the right for self determination) a possible solution could to keep DNR and LNR as autonomous regions of the Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
+  * Voting Result NO: If people vote NO to closer ties with Russia, the message to the Russian soldiers is to go home.
+* In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is neither likely to be representative but possibly wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
+  > * In case of a YES, to both respect international law and the people's opinion (and the right for self determination) a possible solution could to keep DNR and LNR as autonomous regions of the Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
+  * In the case of a NO, the message is to go.
 
 
-> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are written nevertheless is, plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas, meaningful plebiscites could not be ruled out.
+> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites could not be ruled out.
 
-> Plebiscites are always welcome here as long as they are free and handled lawfully. 
+> Plebiscites are welcome here as long as they are free and handled lawfully in any aspects. 
 
 
 
@@ -701,6 +702,9 @@ The articles and notes below document some aspects of warfare, with a focus on t
 
 #### Selected Warfare in September
 
+##### Ukrinform on S-300 missiles at Zaporizhzhia
+Russians fire nine S-300 missiles at Zaporizhzhia, casualties reportedPHOTOS22.09.2022 14:48, <https://www.ukrinform.net/rubric-ato/3577233-russians-fire-nine-s300-missiles-at-zaporizhzhia-casualties-reported.html>
+
 ##### Ukrinform on strike on Pechenihy dam
 *Russian forces strike Pechenihy dam in Kharkiv region again*22.09.2022 21:18, <https://www.ukrinform.net/rubric-ato/3577608-russian-forces-strike-pechenihy-dam-in-kharkiv-region-again.html>
 
@@ -1126,6 +1130,7 @@ The 2014 revolution is also known as Euromaidan revolution.
 
 #### References Events around the 2014 Revolution
 
+
 ##### Marples 2020
 David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
 
@@ -1138,6 +1143,8 @@ Marples, David R. "Ukraine in Conflict." An Analytical Chronicle, London: E-Inte
 Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
 
 
+##### Morales 2014
+Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
 
 
 
