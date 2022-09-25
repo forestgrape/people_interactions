@@ -48,7 +48,10 @@
   * [Refs General Background](#refs-general-background)
   * [NATO Russia Relations](#nato-russia-relations)
 * [International Law](#international-law)
-  * [UN Charter](#un-charter)
+  * [Resources Laws and Covenants for States](#resources-laws-and-covenants-for-states)
+  * [Resources Laws and Covenants for States and People](#resources-laws-and-covenants-for-states-and-people)
+  * [Resources Laws and Covenants for People](#resources-laws-and-covenants-for-people)
+  * [Resources Comments on Global Laws and Covenants](#resources-comments-on-global-laws-and-covenants)
 * [Resources](#resources)
   * [Resources Ukraine](#resources-ukraine)
   * [Resources Russia](#resources-russia)
@@ -140,7 +143,7 @@ Keeping civilians out of warfare is considered a common interest for *all* parti
 
 ### Truce
 
-A stop of all military actions are important to prevent further escalation and losses and to bolster diplomacy. 
+A stop of all military actions are help to reduce the ongoing tragedies including losses, find paths to reduce the risks of escalation & peace and to bolster diplomacy. 
 
 #### Reasons for a Ceasefire
 > With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
@@ -902,6 +905,10 @@ George Monbiot, Thu 30 Jun 2022 08.00 BST, Why are we feeding crops to our cars 
 Elizabeth Box, RAC Foundation, August 2012, *Speed Limits - A review of evidence*, <https://www.researchgate.net/publication/305445882_Speed_Limits_-_A_review_of_evidence>
 
 
+##### Albornoz et al on Speed Limits
+de Albornoz, Vicente Alcaraz Carrillo, et al. "Road speed limit matters–Are politicians doing the right thing?." Socio-Economic Planning Sciences 79 (2022): 101106.
+
+
 <!--
 //separate page is planned [sometimes].
 
@@ -1077,6 +1084,8 @@ Similarity: Similar tactics UK (in the Falkland War) and Ukraine in this war.
 
 
 ### Yugoslavian Wars
+
+
 #### Kosovo War
 Similarities: 
 * Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine.
@@ -1085,14 +1094,17 @@ Similarities:
 Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
-
+-->
 
 
 
 <!--
-in consideration
 
 ### Taiwan Territorial Situation
+
+> in consideration
+
+
 The situation of Taiwan has some similarities to the *part of* the Donbas that separated in 2014:
 * Both separated after a revolution in the parent country yielding a separate administrative situation.
 * Both are recognized by the UN as part of a parent country: Taiwan as part of People's Republic of China and the Donbas part as part of Ukraine.
@@ -1271,9 +1283,39 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 ## International Law
 
-### UN Charter
+> **in work**
+
+### Resources Laws and Covenants for States
+
+#### UN Charter
 <https://www.un.org/en/about-us/un-charter/chapter-1>
 Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
+
+
+### Resources Laws and Covenants for States and People
+#### International Covenant on Economic, Social and Cultural Rights
+<https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights>
+
+
+#### International Covenant on Civil and Political Rights
+<https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights>
+
+
+
+### Resources Laws and Covenants for People 
+
+#### Human Rights
+*Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+
+
+
+### Resources Comments on Global Laws and Covenants
+##### Saul 2011
+Matthew Saul, The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
+
+
+
+
 
 
 
