@@ -82,7 +82,7 @@ When the question is whether people want closer ties to Russia:
   * In the case of a NO, the message is to go.
 
 
-> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites could not be ruled out.
+> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites could not be ruled out when they would be carried out well prepared and orderly during a truce.
 
 > Plebiscites are welcome here as long as they are free and handled lawfully in any aspects. 
 
