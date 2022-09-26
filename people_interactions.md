@@ -4,7 +4,7 @@
 
 > This page contains mostly just thoughts which often need more consideration. Mistakes, errata and getting things partly or entirely wrong is possible. Feedback and improvement suggestions are welcome!
 
-> As of early June 2022, many statements are just claims but not well founded facts (neither by literature nor by statistics).
+> As of early June 2022, many statements are just estimates/guesses and not well founded facts (neither by literature nor by statistics).
 
 * [Tweet Summary](#tweet-summary)
 * [Summary](#summary)
@@ -34,8 +34,8 @@ It is suggested, that friendly interactions are promoted, when
 * the teams are connected
 
 
-When viewing countries as organizations, the above claims read: With many interactions and fluent borders the chance for friendly relations is higher. 
-* With many people being involved in the decision process, the chance for friendly interactions is higher. As with many people it is more likely some are friends with the opposite party.
+When viewing countries as organizations, the above reads: With many interactions and fluent borders the chance for friendly relations is higher. 
+* With many people being involved in the decision process, the chance for friendly interactions is higher. As with many people it is more likely some are friends or have common friends with the other site.
 * When forming unions of countries, organizations with open membership and fluent borders are best at ensuring peace.
   > The United Nations is an open organization and in agreement it has a good track record at providing peace.
 
@@ -43,10 +43,10 @@ When viewing countries as organizations, the above claims read: With many intera
   > Revolutions happened mainly in situations where a segregated and a small class controlled most of the wealth.
 * Between countries, when there are lots of interactions especially at the 'decision making'/leadership level, the chances for friendship is higher and thus the chances for tensions, hostile actions and especially war are lower.
 
-  > Borders between states seem to some extent necessary to enable a local/own governance & responsibility and solidary societies (at least with the current inequalities and taxation schemes). // Though the system should be such that every region/society/country has a fair chance to develop as it wants.
+  > Borders between states seem to some extent necessary to enable a local/own governance & responsibility and solidary societies (in view of the current inequalities and taxation schemes). // Though the system should be such that every region/society/country has a fair chance to develop as it wants.
 
 
-  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament members are considered helpful. Parliaments member often are in office for quite long and additionally they are many members, so a parliament can have friend around the world and especially with all neighboring countries. To have friendships between leadership groups is higher when the groups are larger.
+  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament/assembly members are considered helpful. Parliaments member often are in office for quite long and additionally they are many members, so a parliament can have friend around the world and especially with all neighboring countries. To have friendships between leadership groups is higher when the groups are larger.
 
 
 
@@ -144,9 +144,9 @@ Teams can compete or cooperate in various ways or have no connection. Here consi
 * Early Medieval Age
   Feudal Systems: The nobility governs land provided by the monarch and in turn pays tribute and provides military services. The majority of people lived as peasants with few rights and limited ownership. Slavery(-like) living settings were common in many regions.
 
-<!--late middle ages-->
+<!--late middle ages: todo quite a lot of actors such as the clerics, the nobility, guilds, independent farmers -->
 
-=> In ancient times, the people were often only part of only one team holding power namely the feudal lord and the ruling monarch. Violent conflicts were frequent at those times.
+=> In ancient times, the people were often only part of only one team holding power namely the feudal lord and the ruling monarch. Violent conflicts were frequent at those times, though often limited in scale.
 
 ### Modern World
 In modern times one is usually part of different teams/organizations which hold power and property: The country of living, company(ies) associated (work, ownership), social organizations and religion.
@@ -155,13 +155,20 @@ In modern times one is usually part of different teams/organizations which hold 
 The population living in a certain area belongs to a country. The decision structure in countries is usually highly organized and hierarchically. In democracies the top members are determined by elections. In direct democracies the decision process itself is also subject to votes. Countries are often subdivided in administrative districts enabling decentralization. Regarding peace and war, countries are the most important organizational unit since the military command is usually per country. 
 > Often the larger the population part that takes part in a country's decision process, the less likely the country will start a war. At the start of a war, a broad support in the population is/was rare. [todo statistics]
 
-Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant in sudden unforeseen situations mistakes can happen. 
-* It is considered important that as much as possible parliaments are involved, especially in decisions with legislative character. 
-* Countries where the executive decision power is shared across several people: In Switzerland the decision power is equally distributed across 7 members of the Bundesrat. Politburos take important decisions [to check decision making and the specific power in the different countries]. 
-  > Having multiple persons deciding, likely makes the decision process more stable and less influenced by situation specific moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. <!--// with age the number of neuronal connections increase. The speed is faster at young age. to cite -->
+Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant mistakes usually happen, especially in unforeseen situations.
+
+> Having multiple persons deciding, likely makes the decision process more stable and less influenced by situation specific moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. <!--// with age the number of neuronal connections increase. The speed is faster at young age. to cite -->
+
+Examples with broad decision processes:
+* When parliaments/assemblies are involved, especially in decisions with legislative character.
+* Some countries have the executive decision power  shared across several people (e.g. the Swiss government consists of 7 members, called Bundesrat, in countries with Politburos, the Politburos take important decisions [to check decision making and the specific power in the different countries]). 
+  
 
 #### Companies
-* Companies: The structure in companies is usually hierarchically as follows: A board of directors is elected by the owners=shareholders. The board takes strategic decisions and elects a chairman which has mainly executive functions and implement the strategy. The employees only in very rare cases have any rights to be part in the decision making.
+> in work
+
+The structure in companies is usually hierarchically as follows: A board of directors is elected by the owners=shareholders. The board takes strategic decisions and elects a chairman which has mainly executive functions and implement the strategy. 
+> The employees only in very rare cases have any rights to be part in the decision making.
 
 #### Social Organizations
 Social organizations: E.g. sport clubs, political parties, scouts.
