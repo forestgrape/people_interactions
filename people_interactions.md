@@ -1,7 +1,5 @@
 # Considerations on People and Team Interactions
 
-> 12.5.: clarifications
-
 > This page contains mostly just thoughts which often need more consideration. Mistakes, errata and getting things partly or entirely wrong is possible. Feedback and improvement suggestions are welcome!
 
 > As of early June 2022, many statements are just estimates/guesses and not well founded facts (neither by literature nor by statistics).
