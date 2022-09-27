@@ -36,7 +36,7 @@
 * [Sanctions: Economic Measures](#sanctions-economic-measures)
   * [Sanctions on Russia](#sanctions-on-russia)
 * [Conflicts with Similarities](#conflicts-with-similarities)
-  * [Warsaw Pact invasion of Czechoslovakia](#warsaw-pact-invasion-of-czechoslovakia)
+  * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
   * [Winter War](#winter-war)
   * [Second Iraq War](#second-iraq-war)
   * [Falkland War](#falkland-war)
@@ -81,7 +81,7 @@ When the question is whether people want closer ties to Russia:
   * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
   * Voting Result NO: If people vote NO to closer ties with Russia, the message to the Russian soldiers is to go home.
 * In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is neither likely to be representative but possibly wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
-  > * In case of a YES, to both respect international law and the people's opinion (and the right for self determination) a possible solution could to keep DNR and LNR as autonomous regions of the Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
+  > * In case of a YES, to both respect international law and the people's opinion (in the sense of self determination) a possible solution could to keep DNR and LNR as autonomous regions in Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
   * In the case of a NO, the message is to go.
 
 
@@ -171,7 +171,7 @@ Broad Russian advances are less likely since the Ukrainian defenses are strong: 
 
 > Bloody battles can be spared for computer/console titles.
 
-From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) for a long time - though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
+From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) - though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
 
 
 
@@ -271,7 +271,7 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > 
 > Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
-> * The Open Balkan Project seems a promising path for the future.
+> * The Open Balkans Project seems a promising path for the future. <!-- a main reason is a partnership with the EU (which surrounds the Balkan) is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is very unlikely as long as the EU has not reformed its decision processes and such a reform is out of sight. -->
 
 
 
@@ -725,7 +725,7 @@ https://www.ukrinform.net/rubric-ato/3571620-kryvyi-rih-struck-with-eight-russia
 Children among injured as Russians shell four districts in Dnipropetrovsk region
 https://www.ukrinform.net/rubric-ato/3557711-children-among-injured-as-russians-shell-four-districts-in-dnipropetrovsk-region.html
 
-#####  Ukrinform on Attacks against Kharkiv on 21 August
+##### Ukrinform on Attacks against Kharkiv on 21 August
 *Russian aggressors launched a missile attack on Kyivsky district of Kharkiv city.* <https://www.ukrinform.net/rubric-ato/3555295-enemy-fires-missiles-on-kharkiv.html>
 
 ##### Ukrinform on Russian Attacks on 12 August
@@ -829,10 +829,8 @@ Economic Measures to Encourage Adherence to International Rules.
 
 #### Reasons for Sanctions
 
-
-
-1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the UN charter.
-2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // hard to say what's a fair solution, here some speculations are in [Paths to Peace](#paths-to-peace)
+1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the [UN charter](#un-charter).
+2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // Hard to say what's a fair solution - some speculations are in [Paths to Peace](#paths-to-peace).
 
 
 > Subjective Reasons: Sanctions on Russia are considered adequate as:
@@ -841,7 +839,9 @@ Economic Measures to Encourage Adherence to International Rules.
 >   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
 >   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 
+
 #### Overview
+
 * *Sanction Target:* As a war is very expensive, the goal is to restrict the government income.
  
 * *Situation:* 
@@ -852,11 +852,61 @@ Economic Measures to Encourage Adherence to International Rules.
     * consumption in rich countries tends to be price insensitive.
 
 * *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
-  > Although the Russia economy without petroleum has a lot of potential both with human and natural resources, a transition away from petroleum is a challenge. During a war is this hard. Without the income of petroleum and during a war this is very hard.
-* *Implementation:* Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce, one crisis fallback is rationing. 
-  > Here in general, market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 fold price increase will drive some to the edge of ruin, while not bothering others much, therefore a purely market based approach likely is considered neither fair nor efficient. Similarly at the country level.
+  > Although the Russia economy without petroleum has a lot of potential both in skilled workers (e.g. strong in sciences such as Maths and Physics) and many natural resources other than petroleum, a transition away from petroleum is a challenge <!--other petroleum rich countries are better suited for solar plants-->. During a war is this hard. Without the income of petroleum and during a war this is very hard.
 
-#### Ground Transportation
+
+
+#### A Look at the Russian Economy
+
+##### Refs on Economic Measures on Russia
+
+###### Sechin on Energy and Economy
+*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/> // Points out the problem of rerouting deliveries upon embargo.
+
+###### Interfax on Effects of EU Embargo
+EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of oil, petroleum products - IEA
+
+###### Interfax on Swift Alternative
+*Sberbank creating international system of settlements as alternative to SWIFT - Gref*, 17 Jun 2022 16:26, <https://interfax.com/newsroom/top-stories/80380/>
+
+> Keeping official/lawful paths for financial transactions is considered good.
+
+
+
+
+##### Refs Russian Energy Exports
+
+###### Treemap on Russian Trade
+Treemap visualizing the export: <https://oec.world/en/profile/country/rus>
+
+> the webpage as such is described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)
+
+
+###### Worldstopexports on Russian Top 10 Exports
+<https://www.worldstopexports.com/russias-top-10-exports/>
+
+
+###### Wech, Vortexa on Russian Oil Flows
+David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https://www.vortexa.com/insights/crude/the-latest-trends-in-russian-oil-flows/>
+
+> other analyses too on Vortexa
+
+
+###### CREA on Fossil fuel Exports from Russia
+*Financing Putin’s war: Fossil fuel exports from Russia in the first six months of the invasion of Ukraine*
+<https://energyandcleanair.org/publication/financing-putins-war-fossil-fuel-exports-from-russia-in-the-first-six-months-of-the-invasion-of-ukraine/>
+
+<!--  *Financing Putin’s war: Fossil fuel imports from Russia in the first 100 days of the invasion* <https://energyandcleanair.org/publication/russian-fossil-exports-first-100-days>-->
+
+
+
+
+
+#### Implementation: Reducing Oil Price
+Some measures for consumption reduction of oil products are known from the oil price shocks in the 70s or from environment protection/global warming slowing measures. Even more strict measures are known from times of crises such as the first and second world wars when goods were scarce, one crisis fallback is rationing. 
+> Here in general, market based approaches are favored. Though a market based approach to reduce oil consumption of individuals works possibly to some extent in Slovakia or Iceland (<https://en.wikipedia.org/wiki/Distribution_of_wealth>), however in most countries the wealth distribution is too skewed such that a 10 fold price increase will drive some to the edge of ruin, while not bothering others much, therefore a purely market based approach likely is considered neither fair nor efficient. Similarly at the country level.
+
+##### Ground Transportation
 * *Consumers:* Mainly private car and private and public airplane traffic. Reduce the consumption from individual traffic (when electricity is produced by gas/petroleum products electric cars are to be included). 
 * *Measures:* Ideally some soft measures such as reduced consumption by promotion, by increase the attractiveness of public transport (such as the [9 Euro ticket](#buckley-for-cnn-on-9-euro-ticket)). If necessary stricter measures are possible:
   * Decreased Speed limits,
@@ -865,48 +915,47 @@ Economic Measures to Encourage Adherence to International Rules.
   * tax car by weight (pointless 'weight race' as heavy cars mostly increase one owns security at the cost of decreasing the security of everybody else) possibly combined with road pricing.
 
 
-
-#### Air traffic
+##### Air traffic
 * No short term and short duration air plane traffic. 
 * Increased taxes/personal limits on airplane usage with a focus on short duration trips and first/business class travel.
 * Restrict private airplane usage up to for strictly necessary usage.
 
 
-#### Industry Consumption
-Shutting down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if wished/agreed). Postpone building projects.
+##### Industry Consumption
+Shutting/slowing down industries not strictly necessary which consume a lot of energy (directly or indirectly). Employees can be sent for further training (on more future proof techs) or a sabbatical (if wished/agreed). Postpone building projects.
 
 
 
 
-#### Refs on Energy Usage
-##### Lee on Sustainable Energy & Power Electronics
+##### Refs on Energy Usage
+###### Lee on Sustainable Energy & Power Electronics
 Sustainable Energy & Power Electronics, Jan 24, 2020, by Fred C Lee, University Distinguish Professor and Director Emeritus of the Center for Power Electronics Systems, Virginia Tech, <https://ethz.ch/content/dam/ethz/special-interest/itet/department/News%20and%20Events/News/Presentation_Lee.pdf>
 
 > Recommended 'look through'. Energy consumption slides: 5, 6, 13; energy saving: 20, 22, 26; possible future energy grid in Europe: 43
 
-##### UN on Energy Consumption in Buildings
+###### UN on Energy Consumption in Buildings
 *2021 GLOBAL STATUS REPORT FOR BUILDINGS AND CONSTRUCTION*, Towards a zero-emissions, efficient and resilient buildings and construction sector, <https://www.unep.org/resources/report/2021-global-status-report-buildings-and-construction>
 
 
 
 
-#### Refs Transportation and Energy
+##### Refs Transportation and Energy
 
-##### Buckley for CNN on 9 Euro Ticket
+###### Buckley for CNN on 9 Euro Ticket
 Germany's railways offered a month of unlimited rides for $9. Here's what happened
 Julia Buckley, CNN • Updated 26th August 2022 <https://edition.cnn.com/travel/article/germany-9-euro-ticket-ending/index.html>
 
 
-##### Monbiot, theGuardian, Feeding Cars with Crops
+###### Monbiot, theGuardian, Feeding Cars with Crops
 George Monbiot, Thu 30 Jun 2022 08.00 BST, Why are we feeding crops to our cars when people are starving?, <https://www.theguardian.com/commentisfree/2022/jun/30/crops-cars-starving-biofuels-climate-sustainable>
 
 
-##### Box on Car Speed Limits
+###### Box on Car Speed Limits
 Elizabeth Box, RAC Foundation, August 2012, *Speed Limits - A review of evidence*, <https://www.researchgate.net/publication/305445882_Speed_Limits_-_A_review_of_evidence>
 
 
-##### Albornoz et al on Speed Limits
-de Albornoz, Vicente Alcaraz Carrillo, et al. "Road speed limit matters–Are politicians doing the right thing?." Socio-Economic Planning Sciences 79 (2022): 101106.
+###### Albornoz et al on Speed Limits
+de Albornoz, Vicente Alcaraz Carrillo, et al. "Road speed limit matters – Are politicians doing the right thing?." Socio-Economic Planning Sciences 79 (2022): 101106.
 
 
 <!--
@@ -933,50 +982,6 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 
 
 
-#### Refs on Economic Measures on Russia
-
-##### Sechin on Energy and Economy
-*Sechin: Russia with its energy potential and Vostok Oil project will be the 'Noah's Ark of the world economy'*, <https://interfax.com/newsroom/top-stories/80395/> // Points out the problem of rerouting deliveries upon embargo.
-
-##### Interfax on Effects of EU Embargo
-EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of oil, petroleum products - IEA
-
-##### Interfax on Swift Alternative
-*Sberbank creating international system of settlements as alternative to SWIFT - Gref*, 17 Jun 2022 16:26, <https://interfax.com/newsroom/top-stories/80380/>
-
-> Keeping official/lawful paths for financial transactions is considered good.
-
-
-
-
-#### Refs Russian Energy Exports
-
-##### Treemap on Russian Trade
-Treemap visualizing the export: <https://oec.world/en/profile/country/rus>
-
-> the webpage as such is described in AJG Simoes, CA Hidalgo. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development. Workshops at the Twenty-Fifth AAAI Conference on Artificial Intelligence. (2011)
-
-
-##### Worldstopexports on Russian Top 10 Exports
-<https://www.worldstopexports.com/russias-top-10-exports/>
-
-
-##### Wech, Vortexa on Russian Oil Flows
-David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https://www.vortexa.com/insights/crude/the-latest-trends-in-russian-oil-flows/>
-
-> other analyses too on Vortexa
-
-
-##### CREA on Fossil fuel Exports from Russia
-*Financing Putin’s war: Fossil fuel exports from Russia in the first six months of the invasion of Ukraine*
-<https://energyandcleanair.org/publication/financing-putins-war-fossil-fuel-exports-from-russia-in-the-first-six-months-of-the-invasion-of-ukraine/>
-
-<!--  *Financing Putin’s war: Fossil fuel imports from Russia in the first 100 days of the invasion* <https://energyandcleanair.org/publication/russian-fossil-exports-first-100-days>-->
-
-
-
-
-
 
 <!--
 
@@ -994,8 +999,7 @@ David Wech, Vortexa, 05082022, *The latest trends in Russian oil flows*, <https:
 
 
 > #### 'Actors' from the 'West'
-> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general) and sometimes in concert with the EU. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in )  and state & private sponsored organizations have various degrees of freedom to act. Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are endangered - which are sometimes interpreted quite broadly]. So the US is just called for help [as a friendly sibling and not as a dominating one]. 
-> In the decision process not only state associated actors but also private stack owners play a crucial role besides political parties. The broad decision finding with many discussions likely brings more stable and less errors, though it possibly takes a little more than as when small circles decide. 
+> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general).  Sometimes the NATO and the EU act in concert. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). Moreover there are also private actors direct or indirect via sponsored organizations and these are interwound by lobbyists with politics. The more decentralized the larger the freedom to act (decentralization is considered great though central organs still should be held responsible on serious wrong-doings). Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are [perceived to be] endangered]. So the US can be just called for help [as a friendly sibling and not as a dominating one].
 > 
 > Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is, one should strengthen the UN to advocate human rights and prevent wars.
 
@@ -1029,8 +1033,14 @@ Some conflicts and wars which share at least one notable similarity to the curre
 
 > *in work and incomplete*.
 
-### Warsaw Pact invasion of Czechoslovakia
+
+### Soviet/Warsaw Pact Invasions
+#### Warsaw Pact invasion of Czechoslovakia
 * Czechoslovakia’s Prague Spring of 1968 and Russia’s War against Ukraine, By Raymond Johnston. Published Aug. 27 at 10:53 am <https://www.kyivpost.com/article/opinion/op-ed/czechoslovakias-prague-spring-of-1968-and-russias-war-against-ukraine.html>
+
+
+#### Hungarian Revolution of 1956
+* <https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956>
 
 
 ### Winter War
@@ -1085,15 +1095,19 @@ Similarity: Similar tactics UK (in the Falkland War) and Ukraine in this war.
 
 ### Yugoslavian Wars
 
+<!--
+commented as delicate situation which is *not* a specific topic on this page.
 
 #### Kosovo War
 Similarities: 
-* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine.
+* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement on the situations themselves here
 * Interests (e.g. languages) and feelings  of regions with minorities were not respected by the main government and [thus] secessionist tendencies gained ground.
 
 Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
+
+
 -->
 
 
@@ -1102,7 +1116,7 @@ Refs:
 
 ### Taiwan Territorial Situation
 
-> in consideration
+> commented as in consideration
 
 
 The situation of Taiwan has some similarities to the *part of* the Donbas that separated in 2014:
