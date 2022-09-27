@@ -1096,7 +1096,7 @@ Similarity: Similar tactics UK (in the Falkland War) and Ukraine in this war.
 ### Yugoslavian Wars
 
 <!--
-commented as delicate situation which is *not* a specific topic on this page.
+commented as delicate situation
 
 #### Kosovo War
 Similarities: 
@@ -1116,7 +1116,7 @@ Refs:
 
 ### Taiwan Territorial Situation
 
-> commented as in consideration
+> commented as delicate situation
 
 
 The situation of Taiwan has some similarities to the *part of* the Donbas that separated in 2014:
