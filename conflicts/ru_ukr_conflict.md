@@ -367,12 +367,14 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 
 #### Kherson oblast *west of Dnieper including the city Kherson*. 
-Significance: Full (political, economic and security) control likely crucial for Ukraine, likely even for a ceasefire. Since: 1) Nearly 300'000 people called the city of Kherson their home in 2021 and it is an important economical location for Ukraine.  2) It could be used as a base for attacks on other cities west of the Dnieper (even as this seems to be not acute as of July 2022, for the people in South western Ukraine this is may still have psychological importance).
+Significance: Full (political, economic and security) control important for Ukraine. // As of September mainly military objectives seem to guide the campaign: fighting a grinding war or advance whichever is more advantageous. // Advances even into the Donbas, where it is questionable whether the people [living currently there] want fighting to return. // Why not conquer [their hearts] with [language] policies instead of weapons.
+
 * Military Situation: Considering the military capabilities from the different parties, the geography and the positioning (likely = possibly combined with observations - if available combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
   * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS. <!-- >> some reasons are: the area the missiles can be launched is large, the possible incoming angle is large, backtracing is hard as maneuverable)-->
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
     > As of 29.8. all major bridges are reported to be (at least partly) demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
+* Political Situation: The people in Kherson seem to want the Russian forces to go [most of all occupied areas].
 
 
 
@@ -408,6 +410,7 @@ Political and economical importance for Ukraine. Possibly, no 'NATO weapons' of 
 
 
 ### Minority Rights in Ukraine
+
 [in work]
 
 #### Language Situation in Ukraine
@@ -1491,7 +1494,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 
 
 ### Military
-> [in work] 
+> [in work]
 
 > simplified and likely does often not reflect the situation on a real battlefield.
 
