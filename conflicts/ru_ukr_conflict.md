@@ -42,7 +42,6 @@
   * [Falkland War](#falkland-war)
   * [Yugoslavian Wars](#yugoslavian-wars)
 * [Historical and Political Background](#historical-and-political-background)
-  * [Background on Ukraine](#background-on-ukraine)
   * [Events around the 2014 Kiev-Revolution](#events-around-the-2014-kiev-revolution)
   * [Background on Russia](#background-on-russia)
   * [Refs General Background](#refs-general-background)
@@ -52,6 +51,7 @@
   * [Resources Laws and Covenants for States and People](#resources-laws-and-covenants-for-states-and-people)
   * [Resources Laws and Covenants for People](#resources-laws-and-covenants-for-people)
   * [Resources Comments on Global Laws and Covenants](#resources-comments-on-global-laws-and-covenants)
+* [Opinions and Articles](#opinions-and-articles)
 * [Resources](#resources)
   * [Resources Ukraine](#resources-ukraine)
   * [Resources Russia](#resources-russia)
@@ -116,6 +116,9 @@ When the question is whether people want closer ties to Russia:
 
 ### Human Rights
 *We all - everyone - are granted with the same human rights*.
+
+
+[Human Rights](#declaration-of-human-rights)
 
 
 
@@ -1140,11 +1143,8 @@ The situation of Taiwan has some similarities to the *part of* the Donbas that s
 
 
 
+
 ## Historical and Political Background
-
-### Background on Ukraine
-* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
-
 
 
 
@@ -1157,20 +1157,23 @@ The 2014 revolution is also known as Euromaidan revolution.
 #### References Events around the 2014 Revolution
 
 
-##### Marples 2020
-David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
+##### Morales 2014
+Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
 
 
 ##### Marples 2017
 Marples, David R. "Ukraine in Conflict." An Analytical Chronicle, London: E-International Relations (2017). <https://www.e-ir.info/wp-content/uploads/2017/05/Ukraine-in-Conflict-E-IR.pdf>
 
 
-##### Nitsova
+##### Marples 2020
+David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
+
+
+##### Nitsova 2021
 Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
 
 
-##### Morales 2014
-Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
+
 
 
 
@@ -1228,10 +1231,8 @@ Doug Henwood
 > put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many people. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. // Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
 
 >> Spoken word tends to be more direct and frank than written up to exaggeration.
+
 >> Comments on this page, are often like spoken word.
-
-
-
 
 
 
@@ -1292,9 +1293,6 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 
 
-
-
-
 ## International Law
 
 > **in work**
@@ -1318,7 +1316,7 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 ### Resources Laws and Covenants for People 
 
-#### Human Rights
+#### Declaration of Human Rights
 *Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
 
 
@@ -1326,6 +1324,19 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 ### Resources Comments on Global Laws and Covenants
 ##### Saul 2011
 Matthew Saul, The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
+
+
+
+
+
+
+
+## Opinions and Articles
+
+* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
+
+
+
 
 
 
