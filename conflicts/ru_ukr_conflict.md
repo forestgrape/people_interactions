@@ -367,7 +367,7 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 
 #### Kherson oblast *west of Dnieper including the city Kherson*. 
-Significance: Full (political, economic and security) control important for Ukraine. // As of September mainly military objectives seem to guide the campaign: fighting a grinding war or advance whichever is more advantageous. // Advances even into the Donbas, where it is questionable whether the people [living currently there] want fighting to return. // Why not conquer [their hearts] with [language] policies instead of weapons.
+Significance: Full (political, economic and security) control important for Ukraine. // As of September mainly military objectives seem to guide the campaign: fighting a grinding war or advance whichever is more advantageous. // Advances even into the Donbas, where it is questionable whether the people [living currently there] want fighting to return. // Why not conquer [their hearts] with policies instead of weapons.
 
 * Military Situation: Considering the military capabilities from the different parties, the geography and the positioning (likely = possibly combined with observations - if available combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
