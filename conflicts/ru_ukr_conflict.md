@@ -31,11 +31,6 @@
 * [War Documentation](#war-documentation)
   * [Warfare Documentation](#warfare-documentation)
   * [Prisoners of War](#prisoners-of-war)
-  * [War Situation](#war-situation)
-* [Opinions on the War](#opinions-on-the-war)
-  * [UN](#un)
-* [Sanctions: Economic Measures](#sanctions-economic-measures)
-  * [Sanctions on Russia](#sanctions-on-russia)
 * [Conflicts with Similarities](#conflicts-with-similarities)
   * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
   * [Winter War](#winter-war)
@@ -706,7 +701,7 @@ The articles and notes below document some aspects of warfare, with a focus on t
 ### Prisoners of War
 *Zelensky: Ukraine guarantees three things to Russian prisoners*, 24.09.2022 23:22, <https://www.ukrinform.net/rubric-ato/3578996-zelensky-ukraine-guarantees-three-things-to-russian-prisoners.html>
 
-> The better [the reputation] for treating prisoners of war, the higher the chances for surrender. <!--Hotels are an option.-->
+> The better [the reputation] for treating prisoners of war, the higher the chances for surrender. <!--Hotels are an option.--> <!-- to expected value of the comfort of war is still horrible: living in dirt hole, dying, getting wounded, ... >
 
 
 
