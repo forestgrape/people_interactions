@@ -1096,12 +1096,13 @@ Similarity: Similar tactics UK (in the Falkland War) and Ukraine in this war.
 ### Yugoslavian Wars
 
 <!--
-commented as delicate situation
 
 #### Kosovo War
 Similarities: 
 * Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement on the situations themselves here
 * Interests (e.g. languages) and feelings  of regions with minorities were not respected by the main government and [thus] secessionist tendencies gained ground.
+
+// There are also many differences, which are not listed currently.
 
 Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
@@ -1116,7 +1117,6 @@ Refs:
 
 ### Taiwan Territorial Situation
 
-> commented as delicate situation
 
 
 The situation of Taiwan has some similarities to the *part of* the Donbas that separated in 2014:
