@@ -30,9 +30,10 @@
   * [Refs on Economic and Social Effects](#refs-on-economic-and-social-effects)
 * [War Documentation](#war-documentation)
   * [Warfare Documentation](#warfare-documentation)
+  * [Prisoners of War](#prisoners-of-war)
   * [War Situation](#war-situation)
 * [Opinions on the War](#opinions-on-the-war)
-  * [UN Discussions](#un-discussions)
+  * [UN](#un)
 * [Sanctions: Economic Measures](#sanctions-economic-measures)
   * [Sanctions on Russia](#sanctions-on-russia)
 * [Conflicts with Similarities](#conflicts-with-similarities)
@@ -701,6 +702,16 @@ The articles and notes below document some aspects of warfare, with a focus on t
 --> 
 
 
+
+### Prisoners of War
+*Zelensky: Ukraine guarantees three things to Russian prisoners*, 24.09.2022 23:22, <https://www.ukrinform.net/rubric-ato/3578996-zelensky-ukraine-guarantees-three-things-to-russian-prisoners.html>
+
+> The better [the reputation] for treating prisoners of war, the higher the chances for surrender. <!--Hotels are an option.-->
+
+
+
+
+
 #### Refs Warfare Documentation
 
 ##### Guardian on Illegal Weapons
@@ -803,7 +814,7 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 
 ## Opinions on the War
 
-### UN Discussions
+### UN 
 #### UN Security Council on 240822
 *Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*
 <https://news.un.org/en/story/2022/08/1125342>
