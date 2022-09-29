@@ -364,7 +364,7 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 #### Kherson oblast
 ##### Kherson oblast WEST of Dnieper including the city Kherson
-Significance: Full (political, economic and security) control important for Ukraine. // On the Ukrainian military campaign: In the 2nd half of September <!--in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range--> mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. Advances even into the Donbas, where it is questionable whether the local people [i.e. the people living currently there] want fighting to return. // Why not [trying to] conquer [their hearts] with policies instead of weapons.
+Significance: Full (political, economic and security) control important for Ukraine. // On the Ukrainian military campaign: In the 2nd half of September <!--in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range--> mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. Advances even into the Donbas, where it is questionable whether the local people [i.e. the people living currently there] want fighting again - why not convince the people in the Donbas to return with charming policies?
 
 * Military Situation: Considering the military capabilities from the different parties, the geography and the likely positioning (likely = possibly combined with observations (if available) & combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
@@ -1366,20 +1366,30 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 
 ### Resources Ukraine
-// Newspapers
+// News Sites
 * KievIndependent <https://kyivindependent.com/>
 * KievPost <https://www.kyivpost.com>
-* Tvoe Misto <https://tvoemisto.tv/en/news/>
-  "Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
-
-// News agency
+* Tvoe Misto <https://tvoemisto.tv/en/news/> //"Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
 * Ukrinform - Ukrainian multimedia platform for broadcasting - <https://www.ukrinform.net>
 
 // Support of Euromaidan
 * Euromaidanpress <https://euromaidanpress.com/category/ukraine/>
-  "We collect, rely on, and promote non-partisan, non-religious, unbiased information in our fight against the Russian disinformation campaign." from [<https://euromaidanpress.com/about/>] accessed early July 22
-  > 
-  > The Euromaidan and the surrounding events are currently *not* discussed on this page.
+  "We collect, rely on, and promote non-partisan, non-religious, unbiased information in our fight against the Russian disinformation campaign." from [<https://euromaidanpress.com/about/>], July 22
+  
+  > Events around the Euromaidan are discussed in [2014 Revolution in Kiev](#events-around-the-2014-kiev-revolution) on this page.
+
+
+// Verkhovna Rada of Ukraine
+<https://www.rada.gov.ua/en> // "The Verkhovna Rada of Ukraine (Ukrainian: Верхо́вна Ра́да Украї́ни, romanized: Verkhovna Rada Ukrainy, lit. 'Supreme Council of Ukraine', Ukrainian abbreviation ВРУ), often simply Verkhovna Rada or just Rada,[12] is the unicameral parliament of Ukraine. The Verkhovna Rada is composed of 450 deputies, who are presided over by a chairman (speaker). The Verkhovna Rada meets in the Verkhovna Rada building in Ukraine's capital Kyiv." from <https://en.wikipedia.org/wiki/Verkhovna_Rada>, 29.9.
+
+// Government portal [of Ukraine]
+<https://www.kmu.gov.ua/en>
+
+// President of Ukraine
+<https://www.president.gov.ua/en>
+
+// Twitter of President Zelenskyy 
+<https://twitter.com/ZelenskyyUa/>
 
 
   
@@ -1396,17 +1406,24 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 
 * Russia Today <https://www.rt.com>
-  > Note: 
   > * Blocked in many countries. 
-  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>]. // accordingly often the narratives of the Russian government are proclaimed. Margarita Simonyan puts it as "“I don’t understand why any country is given a chance to make its point of view seen and heard by the world, and Russia is not given that chance,” she said. "Russia is said to be propaganda for doing exactly that. We are no more propaganda than the Voice of America or Radio Free Europe is propaganda."  (<https://www.nbcnews.com/news/world/u-s-needn-t-fear-russia-rt-editor-chief-margarita-n831736>)
+  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].  Margarita Simonyan in a interview for nbcnews "“I don’t understand why any country is given a chance to make its point of view seen and heard by the world, and Russia is not given that chance,” she said. "Russia is said to be propaganda for doing exactly that. We are no more propaganda than the Voice of America or Radio Free Europe is propaganda."  (<https://www.nbcnews.com/news/world/u-s-needn-t-fear-russia-rt-editor-chief-margarita-n831736>) // accordingly often the narratives of the Russian government are proclaimed.
   > * <https://en.wikipedia.org/wiki/RT_(TV_network)> states the spread of 'disinformation'.
   > * The author list is quite broad and quite a few articles describe the viewpoint in/of Russia on different topics, as long as its *not* in opposition to the government.
 
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media especially when the [true] author is unknown. For nearly all advertisement.
 
 
-// Official Website of the President of Russia
-* <en.kremlin.ru> // since July often unavailable from central Europe (according to wikipedia due to IT attacks)
+// State Duma [of Russia]
+<http://duma.gov.ru/en> // "The State Duma is one of the chambers of the Russian parliament, the Federal Assembly. It is a legislative authority that consists of 450 members elected for five years. Its main tasks are adoption of federal constitutional and federal laws, control over the activity of the Russian Government, appointment and dismissal of heads of the Central Bank, Accounts Chamber and High Commissioner on Human Rights, declaration of amnesty, and issues of international parliamentarian cooperation." from http://duma.gov.ru/en/duma/about/, 29.9
+
+
+// The Russian Government
+<http://government.ru/en/>
+
+
+// President of Russia
+<en.kremlin.ru> // since July often unavailable from central Europe (according to <https://en.wikipedia.org/wiki/Kremlin.ru> due to DDoS attacks)
 
 
 
@@ -1420,7 +1437,7 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 #### Resources EU
 ##### EUvsDisinfo
-EUvsDisinfo <https://euvsdisinfo.eu> // "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>
+EUvsDisinfo <https://euvsdisinfo.eu> // "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>, 9.2022
 
 #### Resources UK
 * Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information) // freedom to write seems large especially in the opinion section
