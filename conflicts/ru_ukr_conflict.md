@@ -362,29 +362,26 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
   > * The impression here is: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them.
 
 
-#### Kherson oblast *west of Dnieper including the city Kherson*. 
-Significance: Full (political, economic and security) control important for Ukraine. // As of September mainly military objectives seem to guide the campaign: fighting a grinding war or advance whichever is more advantageous. // Advances even into the Donbas, where it is questionable whether the people [living currently there] want fighting to return. // Why not conquer [their hearts] with policies instead of weapons.
+#### Kherson oblast
+##### Kherson oblast WEST of Dnieper including the city Kherson
+Significance: Full (political, economic and security) control important for Ukraine. // On the Ukrainian military campaign: In the 2nd half of September <!--in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range--> mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. Advances even into the Donbas, where it is questionable whether the local people [i.e. the people living currently there] want fighting to return. // Why not [trying to] conquer [their hearts] with policies instead of weapons.
 
-* Military Situation: Considering the military capabilities from the different parties, the geography and the positioning (likely = possibly combined with observations - if available combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
+* Military Situation: Considering the military capabilities from the different parties, the geography and the likely positioning (likely = possibly combined with observations (if available) & combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
-  * In view of the positioning of the different forces, the area is prone (very hard to defend against) to be shot by medium range maneuverable rockets for example launched by HIMARS. <!-- >> some reasons are: the area the missiles can be launched is large, the possible incoming angle is large, backtracing is hard as maneuverable)-->
+  * In view of the positioning of the different forces (peninsula like intrusion of Russian control into Ukrainian control), the area is prone (very hard to defend against) to be shot by different medium-range distance weapons such as medium range maneuverable rockets for example launched by HIMARS. <!--  some reasons are: the launching area is large, the possible incoming angle is large, backtracing is hard as maneuverable)-->
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
     > As of 29.8. all major bridges are reported to be (at least partly) demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
 * Political Situation: The people in Kherson seem to want the Russian forces to go [most of all occupied areas].
 
 
-
-
-
-
-#### Kherson oblast *east of the Dnieper river:* 
-Political and economical importance for Ukraine. Possibly, no 'NATO weapons' of [geopolitical] importance for Russia.
+##### Kherson oblast EAST of the Dnieper river
+Political and economical importance for Ukraine. Possibly, no offensive/[semi-]autonomous/remote controlled 'NATO weapons' of [geopolitical] importance for Russia.
 
 
 #### Speculations on Crimea
 
 ##### Opinion of the People of Crimea
-
+[coming]
 
 
 ##### Trading Rights
@@ -701,7 +698,7 @@ The articles and notes below document some aspects of warfare, with a focus on t
 ### Prisoners of War
 *Zelensky: Ukraine guarantees three things to Russian prisoners*, 24.09.2022 23:22, <https://www.ukrinform.net/rubric-ato/3578996-zelensky-ukraine-guarantees-three-things-to-russian-prisoners.html>
 
-> The better [the reputation] for treating prisoners of war, the higher the chances for enemies to surrender. <!--Hotels are an option.--> <!-- to expected value of the comfort of war is still horrible: living in dirt hole, dying, getting wounded, ... >
+> The better the treating prisoners of war, the higher the chances for enemies to surrender. <!--Hotels are an option - the expected value of the comfort of war is still horrible as other outcomes are: living in dirt hole, dying, getting wounded, ... >
 
 
 
@@ -1395,13 +1392,14 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 // Russian Government run news
 * <https://sputniknews.com/>
-  > "The management of both RT and Sputnik receive weekly instructions(opens in a new tab) from the Kremlin. These instructions include guidelines on political narratives, what should be covered(opens in a new tab) and whom the outlets should not talk about." as stated in 'THREE THINGS YOU SHOULD KNOW ABOUT RT AND SPUTNIK' (<https://euvsdisinfo.eu/three-things-you-should-know-about-rt-and-sputnik/>) from [EUvsDisinfo](#euvsdisinfo).
+  > "The management of both RT and Sputnik receive weekly instructions from the Kremlin. These instructions include guidelines on political narratives, what should be covered(opens in a new tab) and whom the outlets should not talk about." as stated in 'THREE THINGS YOU SHOULD KNOW ABOUT RT AND SPUTNIK' (<https://euvsdisinfo.eu/three-things-you-should-know-about-rt-and-sputnik/>) from [EUvsDisinfo](#euvsdisinfo).
 
 
 * Russia Today <https://www.rt.com>
   > Note: 
-  > * Blocked in many countries as it used to spread 'disinformation' according to <https://en.wikipedia.org/wiki/RT_(TV_network)>.
+  > * Blocked in many countries. 
   > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>]. // accordingly often the narratives of the Russian government are proclaimed. Margarita Simonyan puts it as "“I don’t understand why any country is given a chance to make its point of view seen and heard by the world, and Russia is not given that chance,” she said. "Russia is said to be propaganda for doing exactly that. We are no more propaganda than the Voice of America or Radio Free Europe is propaganda."  (<https://www.nbcnews.com/news/world/u-s-needn-t-fear-russia-rt-editor-chief-margarita-n831736>)
+  > * <https://en.wikipedia.org/wiki/RT_(TV_network)> states the spread of 'disinformation'.
   > * The author list is quite broad and quite a few articles describe the viewpoint in/of Russia on different topics, as long as its *not* in opposition to the government.
 
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media especially when the [true] author is unknown. For nearly all advertisement.
@@ -1419,10 +1417,11 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 
 ### Resources Europe
+
 #### Resources EU
 ##### EUvsDisinfo
-EUvsDisinfo <https://euvsdisinfo.eu>
-> "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force(opens in a new tab). It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>
+EUvsDisinfo <https://euvsdisinfo.eu> // "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>
+
 #### Resources UK
 * Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information) // freedom to write seems large especially in the opinion section
 * BBC <https://www.bbc.com> // owned by the UK government
