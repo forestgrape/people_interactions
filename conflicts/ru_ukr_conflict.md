@@ -88,7 +88,7 @@ When the question is whether people want closer ties to Russia:
 
 
 > ### Gorbachev on War
-> "... When I became General Secretary of the Soviet Communist Party, I traveled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
+> "... When I became General Secretary of the Soviet Communist Party, I travelled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
 
 
 * Notes on Sanctions: [Economic Measures to Encourage Adherence to International Rules](#sanctions-economic-measures).
@@ -184,7 +184,7 @@ The focus is on human rights [for individuals], many of which are violated in a 
 
 * Global Organizations such as the United Nations, the IAEA, the WHO, Amnesty International and the Red Cross are considered important.
 
-* Information sources are listed in  [resources](#resources). Frequently consulted are The Guardian, MoscowTimes, Tass, KievPost, UKRinform
+* Regularly consulted information sources are listed in [resources](#resources). Frequently consulted are the resources from Ukraine, Russia, Switzerland and UK (TheGuardian).
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
      > On the page on coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and possibly even counterproductive. Sorry.
@@ -364,7 +364,9 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 #### Kherson oblast
 ##### Kherson oblast WEST of Dnieper including the city Kherson
-Significance: Full (political, economic and security) control important for Ukraine. // On the Ukrainian military campaign: In the 2nd half of September <!--in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range--> mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. Advances even into the Donbas, where it is questionable whether the local people [i.e. the people living currently there] want fighting again - why not convince the people in the Donbas to return with charming policies?
+Significance: Full (political, economic and security) control important for Ukraine. // On the Ukrainian military campaign: In the 2nd half of September <!--in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range--> mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. 
+* Regarding Kherson city possibly mainly grinding [combined with slow advances], possibly waiting for the right moment and positioning or possibly patience until the supply breaks down to minimize losses as storming Kherson could be where bloody for all and cause a lot of destruction.
+* Advances even into the Donbas, where it is - lets say - questionable whether the local people [i.e. the people living currently there] want fighting again. Why not [to try to] convince the people in the Donbas to return with charming policies instead of bombs?
 
 * Military Situation: Considering the military capabilities from the different parties, the geography and the likely positioning (likely = possibly combined with observations (if available) & combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
@@ -574,13 +576,11 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 
 ### Nuclear Risks of War
 #### Des Browne 1403
-Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks
-<https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
+Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks, <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
 
 
 #### 7 Pillars of Nuclear Safety
-*NEA supports the IAEA 7 pillars of nuclear security and safety*
-<https://www.oecd-nea.org/jcms/pl_66360/nea-supports-the-iaea-7-pillars-of-nuclear-security-and-safety>
+*NEA supports the IAEA 7 pillars of nuclear security and safety*, <https://www.oecd-nea.org/jcms/pl_66360/nea-supports-the-iaea-7-pillars-of-nuclear-security-and-safety>
 
 
 #### Situation at the Zaporizhzhia Nuclear Plant
@@ -1007,7 +1007,7 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 > Subjective reason: When the cold war ended there was a discussion of a 'Common European home' (as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). The manner of the NATO/EU expansion *policy* with sidelining in aspects many of the former Soviet republics (including Russia) is not in agreement with that.
 
 
-> #### 'Actors' from the 'West'
+> #### 'Actors' in the 'West'
 > The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general).  Sometimes the NATO and the EU act in concert. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). Moreover there are also private actors direct or indirect via sponsored organizations and these are interwound by lobbyists with politics. The more decentralized the larger the freedom to act (decentralization is considered great though central organs still should be held responsible on serious wrong-doings). Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are [perceived to be] endangered]. So the US can be just called for help [as a friendly sibling and not as a dominating one].
 > 
 > Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is, one should strengthen the UN to advocate human rights and prevent wars.
@@ -1045,19 +1045,23 @@ Some conflicts and wars which share at least one notable similarity to the curre
 
 ### Soviet/Warsaw Pact Invasions
 #### Warsaw Pact invasion of Czechoslovakia
+
+Refs:
 * Czechoslovakia’s Prague Spring of 1968 and Russia’s War against Ukraine, By Raymond Johnston. Published Aug. 27 at 10:53 am <https://www.kyivpost.com/article/opinion/op-ed/czechoslovakias-prague-spring-of-1968-and-russias-war-against-ukraine.html>
 
 
 #### Hungarian Revolution of 1956
+
+Refs:
 * <https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956>
 
 
 ### Winter War
 Background: Russia wanted the border to have further than 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded: The Soviets wanted to border to be moved that much for it to be closer to Viipuri (then Finland's second largest city) than the previous border was to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) - which was likely viewed by the Finns in turn as introducing a 'border mistake'.
 
-Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to live in winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain with their economy, their lives, hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns (the Soviets had a huge resource advantage over the Finns) was reached, though keeping complete independence.
+Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to live in winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain with their economy, their lives, hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns (the Soviets had a huge resource advantage over the Finns) was reached, though the Finns kept complete independence.
 
-Post War: Both the Soviets and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out by [[Beck](#beck-on-the-winter-war)].
+Post War: Both the Soviets and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out in [[Beck](#beck-on-the-winter-war)].
 
 > In a climate of tension (the Finnish possibly knew about the Molotov–Ribbentrop Pact from their British friends, while the Soviets knew about some closeness between Germany and Finland) to have population centers - such as the 2nd largest cities - not directly near foreign forces is understandably.
 
@@ -1077,8 +1081,7 @@ Salla Korpela, June 2008, TRACING FINLAND’S EASTERN BORDER, <https://finland.f
 
 
 ##### Wikipedia on the Background of the Winter War
-Background of the Winter War
-, <https://en.wikipedia.org/wiki/Background_of_the_Winter_War#cite_note-talvisodanpikkujattilainen-turtola14-39>, referred is the section: Soviet demands in late 1939 
+Background of the Winter War, <https://en.wikipedia.org/wiki/Background_of_the_Winter_War#cite_note-talvisodanpikkujattilainen-turtola14-39>, referred is the section: Soviet demands in late 1939 
 
 #### Refs on Molotov Bread Basket and Cocktail
 * <https://en.wikipedia.org/wiki/Molotov_cocktail>
@@ -1097,7 +1100,10 @@ Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
 
 
 ### Falkland War
-Similarity: Similar tactics UK (in the Falkland War) and Ukraine in this war.
+Similarities: 
+* Similar tactics UK (in the Falkland War) and Ukraine in this war.
+
+Refs:
 *  Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
 
 
@@ -1200,12 +1206,6 @@ Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk Af
 
 ##### Miller, Lukyanov
 *Detachment Instead of Confrontation: Post-European Russia in Search of Self-Sufficiency*
-
-
-##### Gorbachev BBC Interview 2019
-The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019
-
-
 
 
 
@@ -1407,14 +1407,14 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 * Russia Today <https://www.rt.com>
   > * Blocked in many countries. 
-  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>].  Margarita Simonyan in a interview for nbcnews "“I don’t understand why any country is given a chance to make its point of view seen and heard by the world, and Russia is not given that chance,” she said. "Russia is said to be propaganda for doing exactly that. We are no more propaganda than the Voice of America or Radio Free Europe is propaganda."  (<https://www.nbcnews.com/news/world/u-s-needn-t-fear-russia-rt-editor-chief-margarita-n831736>) // accordingly often the narratives of the Russian government are proclaimed.
+  > * "In 2012, RT's editor-in-chief Margarita Simonyan compared the channel to the Russian Ministry of Defence.[73] Referring to the Russo-Georgian War, she stated that it was "waging an information war, and with the entire Western world" [<https://en.wikipedia.org/wiki/RT_(TV_network)>], Summer 2022.  Margarita Simonyan in a interview for nbcnews "“I don’t understand why any country is given a chance to make its point of view seen and heard by the world, and Russia is not given that chance,” she said. "Russia is said to be propaganda for doing exactly that. We are no more propaganda than the Voice of America or Radio Free Europe is propaganda."  (<https://www.nbcnews.com/news/world/u-s-needn-t-fear-russia-rt-editor-chief-margarita-n831736>) // accordingly often the narratives of the Russian government are proclaimed.
   > * <https://en.wikipedia.org/wiki/RT_(TV_network)> states the spread of 'disinformation'.
   > * The author list is quite broad and quite a few articles describe the viewpoint in/of Russia on different topics, as long as its *not* in opposition to the government.
 
   >> Critical reading, checking information, reading alternatives and making up its own opinion is considered important in the 'information age'. For many media especially when the [true] author is unknown. For nearly all advertisement.
 
 
-// State Duma [of Russia]
+// State Duma
 <http://duma.gov.ru/en> // "The State Duma is one of the chambers of the Russian parliament, the Federal Assembly. It is a legislative authority that consists of 450 members elected for five years. Its main tasks are adoption of federal constitutional and federal laws, control over the activity of the Russian Government, appointment and dismissal of heads of the Central Bank, Accounts Chamber and High Commissioner on Human Rights, declaration of amnesty, and issues of international parliamentarian cooperation." from http://duma.gov.ru/en/duma/about/, 29.9
 
 
