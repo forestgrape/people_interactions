@@ -1352,8 +1352,7 @@ Matthew Saul, The Normative Status of Self-Determination in International Law: A
 ##### Gorbachev FT Interview 2004
 Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
 
-Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form (without the interviewer addition '[for democracy]') ([People Interaction](../people_interactions.md)).
-
+Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form (without the interviewer addition '[for democracy]').([People Interaction](../people_interactions.md)). We are human.
 
 ##### Gorbachev BBC Interview 2019
 The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019, <https://www.youtube.com/watch?v=qYVsKoQXATY> // no statement on how to from opinions // recommended to read [Gorbachev FT Interview 2004](#gorbachev-ft-interview-2004) as follow up.
