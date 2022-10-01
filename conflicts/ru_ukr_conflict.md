@@ -1340,7 +1340,8 @@ Matthew Saul, The Normative Status of Self-Determination in International Law: A
 
 ## Opinions & Articles
 *in work*
-This chapter contains opinions and articles which are considered relevant and read worthy to understand and interpret the current situation.
+
+*This chapter contains opinions and articles which are considered relevant to understand and interpret the current situation.*
 
 
 ### Opinions & Articles from Russia
@@ -1350,6 +1351,8 @@ This chapter contains opinions and articles which are considered relevant and re
 
 ##### Gorbachev FT Interview 2004
 Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
+
+Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form (without the interviewer addition '[for democracy]') ([People Interaction](../people_interactions.md)).
 
 
 ##### Gorbachev BBC Interview 2019
