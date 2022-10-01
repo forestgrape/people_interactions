@@ -47,7 +47,8 @@
   * [Resources Laws and Covenants for States and People](#resources-laws-and-covenants-for-states-and-people)
   * [Resources Laws and Covenants for People](#resources-laws-and-covenants-for-people)
   * [Resources Comments on Global Laws and Covenants](#resources-comments-on-global-laws-and-covenants)
-* [Opinions and Articles](#opinions-and-articles)
+* [Opinions & Articles](#opinions--articles)
+  * [Opinions & Articles from Russia](#opinions--articles-from-russia)
 * [Resources](#resources)
   * [Resources Ukraine](#resources-ukraine)
   * [Resources Russia](#resources-russia)
@@ -1337,19 +1338,32 @@ Matthew Saul, The Normative Status of Self-Determination in International Law: A
 
 
 
-## Opinions and Articles
-
-* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
-
-
+## Opinions & Articles
+*in work*
+This chapter contains opinions and articles which are considered relevant and read worthy to understand and interpret the current situation.
 
 
+### Opinions & Articles from Russia
 
 
+#### Articles and Interviews by Mikhail Gorbachev
+
+##### Gorbachev FT Interview 2004
+Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
 
 
+##### Gorbachev BBC Interview 2019
+The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019, <https://www.youtube.com/watch?v=qYVsKoQXATY> // no statement on how to from opinions // recommended to read [Gorbachev FT Interview 2004](#gorbachev-ft-interview-2004) as follow up.
+
+##### GORBACHEV on Perestroika and New Thinking 2021
+MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
+
+> Highly recommended.
 
 
+<!--
+### Opinions and Articles from Ukraine
+* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am-->
 
 ## Resources
 Sites regularly consulted for articles and news. It is attempted to read a fairly broad array of resources and to take into the different viewpoints.
