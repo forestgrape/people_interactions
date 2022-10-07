@@ -16,7 +16,6 @@
   * [Security for Ukraine](#security-for-ukraine)
   * [Security for Russia](#security-for-russia)
   * [Security in Europe and the World](#security-in-europe-and-the-world)
-  * [NATO Trust building](#nato-trust-building)
   * [Fluent European Borders](#fluent-european-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Minority Rights in Ukraine](#minority-rights-in-ukraine)
@@ -225,6 +224,11 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 
 ### Security in Europe and the World
+
+#### Security Architecture
+Redesign of security architectures and designing/strengthening partnerships/cooperations/trust-building programs (e.g. the United Nations, the OSCE in Europe and [NATO trust building](#nato-trust-building) for example extending partnership for peace like cooperations).
+
+#### Arms Control and Disarmament
 * Demilitarized or at least no offensive weapons 
   * in striking distance of population centers. // Taken strictly this involves disarming strategic weapons.
   * alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as for the both countries strengthen their security is key.
@@ -236,10 +240,11 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
     * the number of troupes in exercises.
     * Limit tests and exercises involving offensive weapons.
 
-* Redesign of security architectures and designing/strengthening partnerships/cooperations/trust-building programs (e.g. the United Nations, the OSCE in Europe and [NATO trust building](#nato-trust-building) for example extending partnership for peace like cooperations).
+* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." <https://cnduk.org/resources/united-states-nuclear-weapons-europe/> <!-- increasing them is considered dangerous and to increase tensions and insecurity <hhttps://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine>
 
 
-#### Refs Security and Disarmament
+
+##### Refs Security and Disarmament
 * <https://cnduk.org/> "CND campaigns non-violently to achieve British nuclear disarmament – to get rid of the Trident nuclear weapons system and stop its replacement. But we recognise that Britain’s nuclear weapons are only a small part of the problem, so we also campaign for a global nuclear weapons ban." from <https://cnduk.org/who/>, 7.10.
 
 
