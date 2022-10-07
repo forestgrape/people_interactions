@@ -16,6 +16,7 @@
   * [Security for Ukraine](#security-for-ukraine)
   * [Security for Russia](#security-for-russia)
   * [Security in Europe and the World](#security-in-europe-and-the-world)
+  * [NATO Trust building](#nato-trust-building)
   * [Fluent European Borders](#fluent-european-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Minority Rights in Ukraine](#minority-rights-in-ukraine)
@@ -240,7 +241,7 @@ Redesign of security architectures and designing/strengthening partnerships/coop
     * the number of troupes in exercises.
     * Limit tests and exercises involving offensive weapons.
 
-* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." <https://cnduk.org/resources/united-states-nuclear-weapons-europe/> <!-- increasing them is considered dangerous and to increase tensions and insecurity <hhttps://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine>
+* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." <https://cnduk.org/resources/united-states-nuclear-weapons-europe/> <!-- increasing them is considered dangerous and to increase tensions and insecurity <hhttps://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine -->
 
 
 
