@@ -7,8 +7,8 @@
 * [Board](#board)
   * [Human Rights](#human-rights)
   * [Innocence of the People of Ukraine](#innocence-of-the-people-of-ukraine)
-  * [Diplomacy and Compromises](#diplomacy-and-compromises)
   * [Keeping Civilians out](#keeping-civilians-out)
+  * [Diplomacy and Compromises](#diplomacy-and-compromises)
   * [Truce](#truce)
   * [Considerations on military, diplomatic, economical and scientific Perspectives](#considerations-on-military-diplomatic-economical-and-scientific-perspectives)
 * [Notes](#notes)
@@ -27,10 +27,15 @@
   * [Refs Significance of Peace and Effects and Dangers of War](#refs-significance-of-peace-and-effects-and-dangers-of-war)
   * [Nuclear Risks of War](#nuclear-risks-of-war)
   * [Refs on the Effects of War](#refs-on-the-effects-of-war)
-  * [Refs on Economic and Social Effects](#refs-on-economic-and-social-effects)
+  * [Refs Economic and Social Effects of War](#refs-economic-and-social-effects-of-war)
 * [War Documentation](#war-documentation)
   * [Warfare Documentation](#warfare-documentation)
   * [Prisoners of War](#prisoners-of-war)
+  * [War Situation](#war-situation)
+* [Opinions on the War](#opinions-on-the-war)
+  * [UN](#un)
+* [Sanctions: Economic Measures](#sanctions-economic-measures)
+  * [Sanctions on Russia](#sanctions-on-russia)
 * [Conflicts with Similarities](#conflicts-with-similarities)
   * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
   * [Winter War](#winter-war)
@@ -71,7 +76,7 @@
 ## New Content and Updates
 
 
-24.9.: The plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. // how they are carried out, specifically whether fair and free, is not judged here.
+24.9.: The plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. // how they are carried out is not considered in detail.
 
 When the question is whether people want closer ties to Russia:
 * In territories occupied since February only a NO is meaningful: 
@@ -85,11 +90,6 @@ When the question is whether people want closer ties to Russia:
 > *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites could not be ruled out.
 
 > Plebiscites are welcome here as long as they are free and handled lawfully in any aspects. 
-
-
-
-> ### Gorbachev on War
-> "... When I became General Secretary of the Soviet Communist Party, I travelled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
 
 
 * Notes on Sanctions: [Economic Measures to Encourage Adherence to International Rules](#sanctions-economic-measures).
@@ -124,6 +124,18 @@ There seems to be a consensus in belief that *the people of Ukraine are innocent
 
 
 
+### Keeping Civilians out
+Keeping civilians out of warfare is considered a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world.
+
+> Paths to escape, to reach a safe and in any way - including ethically - reasonable place are important. 
+
+
+
+
+> ### Gorbachev on War
+> "... When I became General Secretary of the Soviet Communist Party, I travelled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
+
+
 
 ### Diplomacy and Compromises
 Diplomacy and Compromises from All Parties are likely the best Way out
@@ -132,24 +144,16 @@ Diplomacy and Compromises from All Parties are likely the best Way out
 
 
 
-
-### Keeping Civilians out
-Keeping civilians out of warfare is considered a common interest for *all* parties 1) to prevent suffering and losses and 2) in the long run to prevent to divide people and antagonistic thinking. Such effects can last long, especially when the suffering is high. With modern imaging (e.g. satellites/drones) pictures showing or hinting the brutality of war reach the world.
-
-> Paths to escape, to reach a safe and in any way - including ethically - reasonable place are considered important. 
-
-
-
-
 ### Truce
 
 A stop of all military actions are help to reduce the ongoing tragedies including losses, find paths to reduce the risks of escalation & peace and to bolster diplomacy. 
 
 #### Reasons for a Ceasefire
-> With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus on essential topics such as: 
+> With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus essential topics such as:
+> * Overall goals: Increasing security, good and peaceful relations with neighbors. Serving [the wishes of] all the people.
 > * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
-> * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists. // Here the opinion is that regional autonomy is ideally specified in the UN charter. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.
-), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification (and the chance to play) seems to come at some cost in competitiveness.
+> * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists.
+>     > Here the opinion is, that [regional] autonomy is ideally specified in the UN level. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification (and the chance to play) seems to come at some cost in competitiveness.
 
 > Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
 
@@ -164,14 +168,14 @@ A stop of all military actions are help to reduce the ongoing tragedies includin
 
 
 ### Considerations on military, diplomatic, economical and scientific Perspectives
-After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign cities and be associated to dangers of escalation.
+After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign controlled cities and be associated to dangers of escalation.
 
-From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses are not (yet) strong and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
-Broad Russian advances are less likely since the Ukrainian defenses are strong: fortified positions, the light modern weapons are very well suited to defend these fortified positions - and the Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and they fight for and in their homeland which is a huge boost.
+From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the [often hastily built] Russian defenses have  weak points respectively sides (which are spotted by world-class intelligences) and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
+Broad Russian advances are less likely since the Ukrainian defenses are strong: 3) Fortified positions and the light modern weapons are very well suited to defend fortified positions, 2) The Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and 1) they fight for and in their homeland which is a huge boost.
 
 > Bloody battles can be spared for computer/console titles.
 
-From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers respectively of the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities) - though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
+From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers and the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities). Though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
 
 
 
@@ -185,10 +189,10 @@ The focus is on human rights [for individuals], many of which are violated in a 
 
 * Global Organizations such as the United Nations, the IAEA, the WHO, Amnesty International and the Red Cross are considered important.
 
-* Regularly consulted information sources are listed in [resources](#resources). Frequently consulted are the resources from Ukraine, Russia, Switzerland and UK (TheGuardian).
+* Regularly consulted information sources are listed in [resources](#resources). Frequently consulted are the resources from Ukraine, Russia, Switzerland and UK.
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
-     > On the page on coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and possibly even counterproductive. Sorry.
+     > On the page on coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and [possibly] even counterproductive. Sorry.
 
 * Likely/near sure: Mistakes happen here and not all content is up to the task. 
 
@@ -221,37 +225,42 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 
 
 ### Security in Europe and the World
-* Demilitarized or at least no offensive weapons alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as for the both countries strengthen their security is key.
+* Demilitarized or at least no offensive weapons 
+  * in striking distance of population centers. // Taken strictly this involves disarming strategic weapons.
+  * alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as for the both countries strengthen their security is key.
+
 * Increasing the Security by Limiting (Offensive) Military:
   * Reducing the number of offensive weapons. 
     > As suitable weapons for offensive actions are usually mobile and/or heavily armored/stealth and/or have a long range such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers), armored vehicles (including tanks and armored self propelled artillery) and long-range (combat)drones.
   * Limits on exercises: 
     * the number of troupes in exercises.
     * Limit tests and exercises involving offensive weapons.
+
 * Redesign of security architectures and designing/strengthening partnerships/cooperations/trust-building programs (e.g. the United Nations, the OSCE in Europe and [NATO trust building](#nato-trust-building) for example extending partnership for peace like cooperations).
 
 
+#### Refs Security and Disarmament
+* <https://cnduk.org/> "CND campaigns non-violently to achieve British nuclear disarmament – to get rid of the Trident nuclear weapons system and stop its replacement. But we recognise that Britain’s nuclear weapons are only a small part of the problem, so we also campaign for a global nuclear weapons ban." from <https://cnduk.org/who/>, 7.10.
 
 
 ### NATO Trust building
 > *in work and unfinished*
 
 
-The increase the international trust into NATO there are different options ranging from reforms to a re-founding/replacement.
+To increase the international trust into NATO there are different options ranging from reforms to a re-founding/replacement or even a dissolution [possibly into the OSCE].
 
 #### NATO Reforms/Reorientation
-* Reforms to increase transparency. 
-* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense. <!-- possibly only weapon exports to country which adhere certain principles of humanity for example no death sentence, an overall fair legal system, local self determination for example by elections -->
+* Increase transparency. 
+* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense. <!-- possibly only weapon exports to country which adhere certain principles of humanity such as no death sentence, an overall fair legal system, local self determination for example by decentralization -->
 * Open interstate cooperations to manage the challenges we face - the NATO expertise is broad
 * A focus on tasks such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
 
 ##### Refs NATO Reforms
-NATO Watch: <https://natowatch.org/about>
+NATO Watch (<https://natowatch.org/about>)
 
 
 #### NATO Rename/Refound/Replacement
-A re-founding by a new, a fusion with/into an existing (e.g. OSCE) organization or already a renaming would emphasize reforms/reorientation and get rid of cold war associations. In that sense it is to acknowledge that the Cold War ended peacefully - as Havel put it: 
-“It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.” from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
+A re-founding by a new, a fusion with/into an existing organization (e.g. OSCE). Already a renaming would emphasize reforms/reorientation and reduce/get rid of cold war associations. In that sense it is to acknowledge that the Cold War ended peacefully - as Havel argued: “It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.” from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
 
 
 #### NATO Tasks and Background
@@ -347,9 +356,11 @@ EFTA: <https://www.efta.int>
 ##### Shanghai Cooperation Organisation
 * Shanghai Cooperation Organisation: <http://eng.sectsco.org>
 
+##### BRICS
+"BRICS is an informal group of states comprising the Federative Republic of Brazil, the Russian Federation, the Republic of India, the People’s Republic of China and the Republic of South Africa." from <http://infobrics.org/page/history-of-brics/>
 
-
-
+* <https://en.wikipedia.org/wiki/BRICS>
+* <http://infobrics.org/>
 
 
 
@@ -625,41 +636,42 @@ Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow
 ### Refs on the Effects of War
 
 #### Freedland
-*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*
-https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu
+*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*, 
+<https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu>
 
 
 #### Ukrainian PSYCHOTHERAPIST on Effects of War
-*«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*
-https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html
+*«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*, 
+<https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html>
 
 
 #### Koshiw, theGuardian, on Psychological Effects in Borodyanka
-Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing* <https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
+Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing*, 
+<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
 
 
 #### CNN on the Scars caused by War
-*Injured by war, the scars on Ukraine's wounded children are more than skin deep*
+*Injured by war, the scars on Ukraine's wounded children are more than skin deep*, 
 <https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
 
 
 #### Ukrinform on 391 killed and 771 injured Children
-*Russians have injured 771 children in Ukraine*, 23.09.2022 10:15
+*Russians have injured 771 children in Ukraine*, 23.09.2022,
 <https://www.ukrinform.net/rubric-ato/3577854-russians-have-injured-771-children-in-ukraine.html>
 
 
 #### KievPost on the Environmental Damage 
-Environmental Damage Caused by Russian Invasion Estimated at $10 Billion
+Environmental Damage Caused by Russian Invasion Estimated at $10 Billion,
 <https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
 
 > Not acute in comparison to human losses, though environmental damage can yield future suffering.
 
 
 
-### Refs on Economic and Social Effects
+### Refs Economic and Social Effects of War
 
 #### TheMoscowTimes 060522
-*Nearly 4M Russians Left Russia in Early 2022 – FSB* 
+*Nearly 4M Russians Left Russia in Early 2022 – FSB*,
 <https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
 
 #### Datskevych for KievIndependent 050522
@@ -687,7 +699,7 @@ Environmental Damage Caused by Russian Invasion Estimated at $10 Billion
 
 The articles and notes below document some aspects of warfare, with a focus on the effects on civilians. It is not complete. It is not verified. 
 
-> Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into the position of the persons affected - well not possible but still attempted.
+> Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into the position of the persons affected - well not possible, but still attempted.
 
 
 <!--
@@ -699,7 +711,7 @@ The articles and notes below document some aspects of warfare, with a focus on t
 ### Prisoners of War
 *Zelensky: Ukraine guarantees three things to Russian prisoners*, 24.09.2022 23:22, <https://www.ukrinform.net/rubric-ato/3578996-zelensky-ukraine-guarantees-three-things-to-russian-prisoners.html>
 
-> The better the treating prisoners of war, the higher the chances for enemies to surrender. <!--Hotels are an option - the expected value of the comfort of war is still horrible as other outcomes are: living in dirt hole, dying, getting wounded, ... >
+> The better the treating prisoners of war, the higher the chances for enemies to surrender. // Treating prisoners as good as possible - the expected value of the comfort of war is still horrible as other outcomes are: living in dirt hole, dying, getting wounded, ...
 
 
 
@@ -756,13 +768,11 @@ https://www.dailymail.co.uk/news/article-10959915/Kremenchuk-shopping-centre-str
 
 
 ##### Guardian on Attack in Kremenchuk
-Evidence contradicts Russian claims about Kremenchuk mall attack
-<https://www.theguardian.com/world/2022/jun/29/evidence-contradicts-russian-claims-about-kremenchuk-mall-attack>
+Evidence contradicts Russian claims about Kremenchuk mall attack, <https://www.theguardian.com/world/2022/jun/29/evidence-contradicts-russian-claims-about-kremenchuk-mall-attack>
 
 
 ##### Ukrinform on Missiles at Odesa
-*Enemy continuously fires Oniks missiles at Odesa Region*
-<https://www.ukrinform.net/rubric-ato/3517459-enemy-continuously-fires-oniks-missiles-at-odesa-region.html>
+*Enemy continuously fires Oniks missiles at Odesa Region*, <https://www.ukrinform.net/rubric-ato/3517459-enemy-continuously-fires-oniks-missiles-at-odesa-region.html>
 
 
 ##### Ukrinform on Missiles at Odesa on 0107
@@ -786,17 +796,24 @@ In early July the UAF retreated from Lysychansk, stated as a tactical retreat to
 
 
 ##### Ukrinform on shelling of Kharkiv
-*Three civilians killed, 23 injured in Russia’s shelling of Kharkiv*
+*Three civilians killed, 23 injured in Russia’s shelling of Kharkiv*,
 <https://www.ukrinform.net/rubric-ato/3533935-three-civilians-killed-23-injured-in-russias-shelling-of-kharkiv.html>
 
 
 
 ### War Situation
+#### War Situation October
 #### War Situation September
-*Armed Forces of Ukraine enter Kupyansk, liberation in two districts of Kharkiv region ongoing*, 11.09.2022 07:53 <https://www.ukrinform.net/rubric-ato/3568842-armed-forces-of-ukraine-enter-kupyansk-liberation-in-two-districts-of-kharkiv-region-ongoing.html>
+
+// Refs
+*Armed Forces of Ukraine enter Kupyansk, liberation in two districts of Kharkiv region ongoing*, 11.09.2022 07:53 
+<https://www.ukrinform.net/rubric-ato/3568842-armed-forces-of-ukraine-enter-kupyansk-liberation-in-two-districts-of-kharkiv-region-ongoing.html>
 
 #### War Situation August
-Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022 13:20 <https://www.ukrinform.net/rubric-ato/3560178-almost-all-major-bridges-destroyed-in-kherson-region-by-himars-strikes.html>
+
+// Refs
+Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022 13:20, 
+<https://www.ukrinform.net/rubric-ato/3560178-almost-all-major-bridges-destroyed-in-kherson-region-by-himars-strikes.html>
 
 
 
@@ -809,14 +826,12 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 
 ### UN 
 #### UN Security Council on 240822
-*Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*
+*Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*,
 <https://news.un.org/en/story/2022/08/1125342>
 
 Selected Statements:
 * Guterres: 
-  * “The people of Ukraine and beyond need peace and they need peace now,”
-(https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-
-the-security-council-ukraine-delivered). ... “Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter) . Peace in line with international law.”
+  * “The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter) . Peace in line with international law.” (https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered).
   * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
 * DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
 * Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
@@ -996,25 +1011,30 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 <!--
 
 
-### Sanctions on Members of the NATO and EU 
+### Sanctions on Members of the NATO
 
 **in work and in consideration**
 
 #### Reasons for Sanctions
-* violation of OSCE rules by the manner of the NATO expansion
-* violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside and thereby decrease their ability to keep up people connections and friendships and thereby their security)
-* inaction regarding encouragement for the MINSK agreement implementation. // Though on the plus side is was mediated.
+* Violation of OSCE rules by the manner of the NATO expansion
+* Violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside (and thereby decrease their ability to keep up people connections and friendships and thereby their security)
+* Inaction regarding encouragement or even possibly discouragement for the MINSK agreement implementation. // Though on the plus side - if the behavior was sincere - it was mediated.
+
+
 
 > Subjective reason: When the cold war ended there was a discussion of a 'Common European home' (as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). The manner of the NATO/EU expansion *policy* with sidelining in aspects many of the former Soviet republics (including Russia) is not in agreement with that.
 
 
 > #### 'Actors' in the 'West'
-> The NATO countries sometimes act in concert and sometimes independent (which is considered a good thing in general).  Sometimes the NATO and the EU act in concert. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). Moreover there are also private actors direct or indirect via sponsored organizations and these are interwound by lobbyists with politics. The more decentralized the larger the freedom to act (decentralization is considered great though central organs still should be held responsible on serious wrong-doings). Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are [perceived to be] endangered]. So the US can be just called for help [as a friendly sibling and not as a dominating one].
+> The NATO countries sometimes act in concert and sometimes independent. Sometimes the NATO and the EU act in concert. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). Moreover there are also private actors direct or indirect via sponsored organizations and these are interwound by lobbyists with politics. The more decentralized the larger the freedom to act (decentralization is considered great though central organs still should be held responsible on serious wrong-doings). Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are [perceived to be] endangered]. So the US can be just called for help [as a friendly sibling and not as a dominating one].
 > 
 > Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is, one should strengthen the UN to advocate human rights and prevent wars.
+> 
+>> Independent actors are considered a good thing in general. 
+
 
 > Support of Ukraine to *defend* itself is *not* considered a reason for sanctions.
-> > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated here - best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, nearly always peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not opposed: 
+> > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated - best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not strictly opposed: 
 >>    * preventing further almost sure or already ongoing offensive warfare i.e. when the territories are 'clearly' illegally occupied and they are prepared or already as springboard for [ongoing] offensive warfare by the opponent.
 >>    * preventing ongoing [systematic] violations of human right [on illegal occupied territories]
 >>
@@ -1037,14 +1057,16 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 
 ## Conflicts with Similarities
  
-Some conflicts and wars which share at least one notable similarity to the current conflict are listed.
+While each conflict has its own characteristics and history, there are similarities between conflicts/wars. All are conflicts, other similarities vary: some are are similar in goals or some in warfare, some in tactics, some in political settings.
 
-> While each conflict has its own characteristics and history, there are similarities between conflicts/wars. All are conflicts, other similarities vary - some are are similar in goals or some in warfare, some in tactics, some in political settings.
-
-> *in work and incomplete*.
+> *in work*
+> 
+> *Incomplete in different aspects*.
 
 
 ### Soviet/Warsaw Pact Invasions
+
+
 #### Warsaw Pact invasion of Czechoslovakia
 
 Refs:
@@ -1060,7 +1082,7 @@ Refs:
 ### Winter War
 Background: Russia wanted the border to have further than 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded: The Soviets wanted to border to be moved that much for it to be closer to Viipuri (then Finland's second largest city) than the previous border was to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war) - which was likely viewed by the Finns in turn as introducing a 'border mistake'.
 
-Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to live in winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain with their economy, their lives, hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns (the Soviets had a huge resource advantage over the Finns) was reached, though the Finns kept complete independence.
+Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to live in winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain with their economy, their lives, hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns (the Soviets had a huge resource advantage over the Finns) was reached. The Finns kept complete independence.
 
 Post War: Both the Soviets and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out in [[Beck](#beck-on-the-winter-war)].
 
@@ -1068,8 +1090,10 @@ Post War: Both the Soviets and the Finns in the following respected the peace tr
 
 
 #### Refs Winter War
+
 ##### Beck on the Winter War
-Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where Disciplines Meet: Vol. 2 : No. 2 , Article 4., DOI: 10.15385/jch.2018.2.2.4 <https://digitalcommons.cedarville.edu/channels/vol2/iss2/4>
+Beck, Ethan D. (2018) "The Winter War: Its Causes and Effects," Channels: Where Disciplines Meet: Vol. 2 : No. 2 , Article 4., DOI: 10.15385/jch.2018.2.2.4,
+<https://digitalcommons.cedarville.edu/channels/vol2/iss2/4>
 
 
 ##### YLE on Putin's Opinion on the Winter War
@@ -1093,7 +1117,7 @@ Background of the Winter War, <https://en.wikipedia.org/wiki/Background_of_the_W
 ### Second Iraq War
 Similarities: 
 * Airborne troupes heavily used in early warfare.
-* Against UN Charter
+* Violation of the UN Charter.
 
 Refs:
 Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
@@ -1105,17 +1129,25 @@ Similarities:
 * Similar tactics UK (in the Falkland War) and Ukraine in this war.
 
 Refs:
-*  Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
+* Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
 
 
 
 ### Yugoslavian Wars
 
+#### Ref Yugoslavian Wars
+* <https://www.icty.org/en/about/what-former-yugoslavia/conflicts>
+* <https://en.wikipedia.org/wiki/Yugoslav_Wars>
+
+#### War regarding Croatia
+
+#### War regarding Bosnia
+
 <!--
 
-#### Kosovo War
+#### War regarding Kosovo
 Similarities: 
-* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement on the situations themselves here
+* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement on the situations themselves
 * Interests (e.g. languages) and feelings  of regions with minorities were not respected by the main government and [thus] secessionist tendencies gained ground.
 
 // There are also many differences, which are not listed currently.
@@ -1123,6 +1155,7 @@ Similarities:
 Refs:
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
+* Some legal considerations discussed in [Saul 2011](#saul-2011)
 
 
 -->
@@ -1221,7 +1254,7 @@ Svetlana Savranskaya and Tom Blanton, *NATO Expansion: What Gorbachev Heard*, De
 #### Bugoyova
 Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. <http://www.jstor.org/stable/resrep19569.3>
 
-> Recommended read, [Bugayova's writing](#bugoyova) is insightful enriched with many noteworthy cites from political leaders in Russia especially from Vladimir Putin. 
+> Recommended read, [Bugayova's writing](#bugoyova) is insightful and enriched with many noteworthy cites from political leaders in Russia, especially from Vladimir Putin and illustrative resources. The authors interpretations are often subjective and quite a few of them are not agreed here.
 
 
 
@@ -1230,19 +1263,21 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continues. And so too do the talks – this week in Kyiv, Moscow, Berlin and Geneva*, Thursday, January 20, 2022
 
 
-
+<!-- commented as some controversial statements are disagreed
 #### Lieven 2303
 The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
 Doug Henwood
 
-> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many people. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. // Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
-
->> Spoken word tends to be more direct and frank than written up to exaggeration.
-
+> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
+>
+>> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
+>
+>> Spoken word tends to be more direct than written up to exaggeration.
+>
 >> Comments on this page, are often like spoken word.
 
 
-
+-->
 
 
 ### NATO Russia Relations
@@ -1263,8 +1298,7 @@ ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
 
 
 #### Kennan 97
-A Fateful Error
-By George F. Kennan Feb. 5, 1997, New York Times
+*A Fateful Error*, By George F. Kennan Feb. 5, 1997, New York Times
 
 
 #### Forsberg 05
@@ -1274,12 +1308,14 @@ Tuomas Forsberg (2005) Russia's relationship with NATO: A qualitative change or 
 ##### Summary Forsberg 05
 Analysis of the NATO - Russia relation from 1991 to 2005. Selected statements:
 * "NATO and Russia have several times declared the Cold War ended. The first occasion the Cold War was buried between the former enemies was in 1991, when NATO changed its strategic assessment and the Soviet Union joined the newly established North Atlantic Co-operation Council (NAC-C). It was also buried in 1997 when NATO and Russia signed a Founding Act of their mutual relations and decided to establish a NATO–Russia Permanent Joint Council (PJC). The last time they attended a Cold War funeral was in May 2002, when the parties decided to set up a NATO–Russia Council (NRC) that replaced the old PJC."
-* "A New Start
-How can we explain the new start in the NATO – Russia relationship? At least four factors that contributed to the improvement of the relationship after 1999 can be distinguished: Putin’s strategic realignment with the West, the Kursk submarine accident, the terrorist attacks of 11 September and the second post-Cold War enlargement of NATO."
-* "Although Putin played a prominent role in the rapprochement between Russia and the West, restoring co-operation with NATO was supported by the majority of the foreign policy elite despite the trauma of the Kosovo war [28].
+* "
+A New Start
+How can we explain the new start in the NATO – Russia relationship? At least four factors that contributed to the improvement of the relationship after 1999 can be distinguished: Putin’s strategic realignment with the West, the Kursk submarine accident, the terrorist attacks of 11 September and the second post-Cold War enlargement of NATO.
+"
+* "Although Putin played a prominent role in the rapprochement between Russia and the West, restoring co-operation with NATO was supported by the majority of the foreign policy elite despite the trauma of the Kosovo war [28]."
 * "NATO is still perceived more often as an aggressive rather than a defensive pact, even among the supporters of Putin. The figures in public opinion polls measuring attitudes towards NATO have been changing only little and remain more negative than in 1997 [49]. As some analysts have noted, Putin’s new strategic partnership with the West rests on shaky domestic foundations. Therefore ‘the present day formation and feature of Russia’s go-West course may not be sustainable[50]. Senior people at the Russian armed forces, in particular, have not abandoned their views on NATO as a threatening military bloc aimed against Russia. A Russian defence ministry document released in October 2003, for example, indicated that Moscow will rethink its nuclear strategy if NATO continues to exist in its present form, fails to remove its ‘anti-Russian’ components and maintains its current ‘offensive’ doctrine[51]. While Putin has largely refrained from critical comments, Defence Minister Ivanov has often taken a more reserved view with regard to co-operation with NATO. Thus, at the Munich security conference in 2004 he demanded that Russia should have monitoring facilities at NATO bases to verify that they would pose no threat to Russia[52]. In March, just before the enlargement of the Alliance to the Baltic States, Ivanov repeated that NATO’s offensive doctrine, with anti-Russian attitudes inside NATO, would force Russia to adopt tougher defence measures."
 * "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’."
--
+
 
 
 
@@ -1311,6 +1347,15 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
 
 
+<!-- ?mv to disarmament/security paragraph
+#### NPT
+<https://www.un.org/disarmament/wmd/nuclear/npt/>
+
+#### OPCW
+<https://www.opcw.org/chemical-weapons-convention> 
+"As the implementing body for the Chemical Weapons Convention, the OPCW, with its 193 Member States, oversees the global endeavour to permanently and verifiably eliminate chemical weapons." from <https://www.opcw.org>
+-->
+
 ### Resources Laws and Covenants for States and People
 #### International Covenant on Economic, Social and Cultural Rights
 <https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights>
@@ -1330,7 +1375,7 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 ### Resources Comments on Global Laws and Covenants
 ##### Saul 2011
-Matthew Saul, The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
+Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
 
 
 
@@ -1347,7 +1392,7 @@ Matthew Saul, The Normative Status of Self-Determination in International Law: A
 ### Opinions & Articles from Russia
 
 
-#### Articles and Interviews by Mikhail Gorbachev
+#### Opinions by Mikhail Gorbachev
 
 ##### Gorbachev FT Interview 2004
 Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
@@ -1360,7 +1405,7 @@ The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 
 ##### GORBACHEV on Perestroika and New Thinking 2021
 MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
 
-> Highly recommended.
+> *Highly recommended.*
 
 
 <!--
