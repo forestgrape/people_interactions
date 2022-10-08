@@ -170,7 +170,7 @@ A stop of all military actions are help to reduce the ongoing tragedies includin
 ### Considerations on military, diplomatic, economical and scientific Perspectives
 After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign controlled cities and be associated to dangers of escalation.
 
-From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the [often hastily built] Russian defenses have  weak points respectively sides (which are spotted by world-class intelligences) and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
+From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses (often hastily built and improvised) have  weak points respectively sides (which are spotted by world-class intelligences) and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
 Broad Russian advances are less likely since the Ukrainian defenses are strong: 3) Fortified positions and the light modern weapons are very well suited to defend fortified positions, 2) The Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and 1) they fight for and in their homeland which is a huge boost.
 
 > Bloody battles can be spared for computer/console titles.
@@ -608,7 +608,7 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 * [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
 
 // Current Situation
-* As of 8.10. the plant is disconnected and relies on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)).
+* On 8.10. the plant was reported to have been disconnected and to rely on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)). As of 14:00, power lines are reported to have been restored (according to Enerhodar Mayor Dmytro Orlov telegram cited in [Kievpost 081022](#kievpost-on-zaporizhzhia-081022)).
 * As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
 
 
@@ -620,20 +620,16 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 *Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city*, Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power station where he used to work. An accident or artillery attack are constant fears, <https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
 
 
-##### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
-*Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
-
-
-
-##### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
-Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
-
-
 ##### Guardian Visual Guide on Zaporizhzhia nuclear plant
 Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns, <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
 
 
 #### Refs Situation at Zaporizhzhia Power Plant
+
+##### Kievpost on Zaporizhzhia 081022
+IAEA Head to Visit Ukraine Again After Trip to Russia
+<https://www.kyivpost.com/ukraine-politics/iaea-head-to-visit-ukraine-again-after-trip-to-russia.html>
+
 ##### Ukrinform on Zaporizhzhia 081022
 Russians completely disconnect Zaporizhzhia NPP08.10.2022 08:00, 
 <https://www.ukrinform.net/rubric-ato/3588648-russians-completely-disconnect-zaporizhzhia-npp.html>
@@ -642,6 +638,12 @@ Russians completely disconnect Zaporizhzhia NPP08.10.2022 08:00,
 Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
 
 Selected Statement: "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
+
+##### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
+*Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
+
+##### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
+Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
 
 
 ### Refs on the Effects of War
