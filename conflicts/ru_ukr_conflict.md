@@ -241,7 +241,7 @@ Redesign of security architectures and designing/strengthening partnerships/coop
     * the number of troupes in exercises.
     * Limit tests and exercises involving offensive weapons.
 
-* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." <https://cnduk.org/resources/united-states-nuclear-weapons-europe/> <!-- increasing them is considered dangerous and to increase tensions and insecurity <hhttps://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine -->
+* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." (<https://cnduk.org/resources/united-states-nuclear-weapons-europe/>, 7.10.) <!-- increasing them is considered dangerous and to increase tensions and insecurity <https://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine -->
 
 
 
@@ -602,41 +602,46 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 
 
 #### Situation at the Zaporizhzhia Nuclear Plant
-// General Situation:
+// General Situation
 * [Olexander in Enerhodar](#olexander-in-enerhodar): ‘Crazy things are happening’: life in occupied Ukrainian nuclear city
   > It is considered crucial that the work of the experts of Energoatom (and Rosatom) is *not* disrupted.
 * [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
 
 // Current Situation
-As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
+* As of 8.10. the plant is disconnected and relies on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)).
+* As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
 
 
 
 
 #### Refs Zaporizhzhia Nuclear Plant
 
-#### Olexander in Enerhodar
+##### Olexander in Enerhodar
 *Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city*, Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power station where he used to work. An accident or artillery attack are constant fears, <https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
 
 
-#### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
+##### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
 *Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
 
 
-#### IAEA Update 102
-Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
 
-Selected Statement: "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
-
-
-#### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
+##### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
 Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
 
 
-#### Guardian Visual Guide on Zaporizhzhia nuclear plant
+##### Guardian Visual Guide on Zaporizhzhia nuclear plant
 Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns, <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
 
 
+#### Refs Situation at Zaporizhzhia Power Plant
+##### Ukrinform on Zaporizhzhia 081022
+Russians completely disconnect Zaporizhzhia NPP08.10.2022 08:00, 
+<https://www.ukrinform.net/rubric-ato/3588648-russians-completely-disconnect-zaporizhzhia-npp.html>
+
+##### IAEA Update 102
+Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
+
+Selected Statement: "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
 
 
 ### Refs on the Effects of War
