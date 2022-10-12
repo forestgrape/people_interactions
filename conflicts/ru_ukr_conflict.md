@@ -22,15 +22,15 @@
   * [Minority Rights in Ukraine](#minority-rights-in-ukraine)
   * [Refs Paths to Peace](#refs-paths-to-peace)
 * [State of Peace Negotiations](#state-of-peace-negotiations)
-  * [Refs State of Peace Negotiations](#refs-state-of-peace-negotiations)
+  * [Negotiation State October](#negotiation-state-october)
+  * [Negotiation State July](#negotiation-state-july)
 * [Significance of Peace and Effects and Dangers of War](#significance-of-peace-and-effects-and-dangers-of-war)
-  * [Refs Significance of Peace and Effects and Dangers of War](#refs-significance-of-peace-and-effects-and-dangers-of-war)
   * [Nuclear Risks of War](#nuclear-risks-of-war)
-  * [Refs on the Effects of War](#refs-on-the-effects-of-war)
-  * [Refs Economic and Social Effects of War](#refs-economic-and-social-effects-of-war)
+  * [Refs Effects of War](#refs-effects-of-war)
 * [War Documentation](#war-documentation)
-  * [Warfare Documentation](#warfare-documentation)
   * [Prisoners of War](#prisoners-of-war)
+  * [Illegal Weapons](#illegal-weapons)
+  * [Warfare by Month](#warfare-by-month)
   * [War Situation](#war-situation)
 * [Opinions on the War](#opinions-on-the-war)
   * [UN](#un)
@@ -47,11 +47,12 @@
   * [Background on Russia](#background-on-russia)
   * [Refs General Background](#refs-general-background)
   * [NATO Russia Relations](#nato-russia-relations)
-* [International Law](#international-law)
+* [Legal Considerations](#legal-considerations)
   * [Resources Laws and Covenants for States](#resources-laws-and-covenants-for-states)
   * [Resources Laws and Covenants for States and People](#resources-laws-and-covenants-for-states-and-people)
   * [Resources Laws and Covenants for People](#resources-laws-and-covenants-for-people)
-  * [Resources Comments on Global Laws and Covenants](#resources-comments-on-global-laws-and-covenants)
+  * [Considerations on Self Determination](#considerations-on-self-determination)
+  * [Considerations on Crimea](#considerations-on-crimea)
 * [Opinions & Articles](#opinions--articles)
   * [Opinions & Articles from Russia](#opinions--articles-from-russia)
 * [Resources](#resources)
@@ -76,18 +77,25 @@
 ## New Content and Updates
 
 
-24.9.: The plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. // how they are carried out is not considered in detail.
 
-When the question is whether people want closer ties to Russia:
+
+* Clarifications and corrected mistakes across the page for example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
+
+
+
+
+24.9.(formulations adapted 12.10.): Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
+
+In the current situation the interpretation of the results has its limits. When the question is whether people want to be with Russia:
 * In territories occupied since February only a NO is meaningful: 
   * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
   * Voting Result NO: If people vote NO to closer ties with Russia, the message to the Russian soldiers is to go home.
-* In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is neither likely to be representative but possibly wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
+* In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is possibly neither representative but wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
   > * In case of a YES, to both respect international law and the people's opinion (in the sense of self determination) a possible solution could to keep DNR and LNR as autonomous regions in Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
   * In the case of a NO, the message is to go.
 
 
-> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites could not be ruled out.
+> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites would be possible.
 
 > Plebiscites are welcome here as long as they are free and handled lawfully in any aspects. 
 
@@ -494,22 +502,20 @@ Eric Levitz FOREIGN INTERESTS MAR. 17, 2022 *The Emerging Path to Peace in Ukrai
 
 ## State of Peace Negotiations
 
-### Refs State of Peace Negotiations
-
-> These references are continuously updated.
 
 
-#### Refs Negotiation State August
+### Negotiation State October
+// Refs
+*No specifics of Russia's possible talks with U.S., France, Germany, UK in Turkey - Peskov*, 10 Oct 2022, <https://interfax.com/newsroom/top-stories/83695/>
 
-
-#### Refs Negotiation State July
-
-##### Russian Government Plane in Basel
+### Negotiation State July
+// Refs
+#### Russian Government Plane in Basel
 *A Russian aircraft flew 9 hours between Moscow and Switzerland, traveling over European airspace in a rare routing that added 6 hours to the flight time* <https://www.businessinsider.com/russian-aircraft-adds-6-hours-flight-time-avoid-eu-airspace-2022-7?r=US&IR=T> 
 "This flight was given a "diplomatic clearing" from both France and Switzerland so it could pick up Russian diplomatic staff who were representing the county at the Council of Europe in Strasbourg, France, the French Ministry for Europe and Foreign Affairs told BZ."
 
 > Considering the incompatibility of human rights and war, the presidential airplane on the mission of human rights was/is some hope for peace.
->> The head of states should be should be ambassadors to human rights. All government members should be ambassadors to human rights. *Everyone should be an ambassador to human rights.*
+>> The heads of states should be should be ambassadors to human rights. All government members should be ambassadors to human rights. *Everyone should be an ambassador to human rights.*
 
 ##### Putin on Negotiations
 * *Peace negotiations between Russia, Ukraine to get more difficult with time: Putin* <https://www.globaltimes.cn/page/202207/1270059.shtml>
@@ -583,13 +589,10 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 
 ## Significance of Peace and Effects and Dangers of War
 
-### Refs Significance of Peace and Effects and Dangers of War
-[in consideration]
 
 * Prevent losses and suffering. War is brutal and human rights are violated.
-* War can divide people.
-* War can have risks associated and escalate.
-
+* War can divide people. It often does.
+* War has risks associated and can escalate.
 
 
 ### Nuclear Risks of War
@@ -646,7 +649,9 @@ Selected Statement: "This means that all three back-up power lines to the ZNPP �
 Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
 
 
-### Refs on the Effects of War
+
+### Refs Effects of War 
+
 
 #### Freedland
 *When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*, 
@@ -681,13 +686,13 @@ Environmental Damage Caused by Russian Invasion Estimated at $10 Billion,
 
 
 
-### Refs Economic and Social Effects of War
+#### Refs Economic and Social Effects of War
 
-#### TheMoscowTimes 060522
+##### TheMoscowTimes 060522
 *Nearly 4M Russians Left Russia in Early 2022 – FSB*,
 <https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
 
-#### Datskevych for KievIndependent 050522
+##### Datskevych for KievIndependent 050522
 *Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
 
 
@@ -705,12 +710,9 @@ Environmental Damage Caused by Russian Invasion Estimated at $10 Billion,
 > Many eyes looking, documenting, knowing and putting oneself into others positions possibly helps to reduce/limit the brutality of war - possibly this even helps to find [paths to] peace.
 
 
+Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
 
-### Warfare Documentation
-
-> Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
-
-The articles and notes below document some aspects of warfare, with a focus on the effects on civilians. It is not complete. It is not verified. 
+The articles and notes below document some aspects of warfare, with a focus on human rights and the effects on civilians. It is not complete. It is not verified. 
 
 > Mainly for personal purposes to have some hints what's going on or even attempting to put oneself into the position of the persons affected - well not possible, but still attempted.
 
@@ -728,14 +730,20 @@ The articles and notes below document some aspects of warfare, with a focus on t
 
 
 
-
-
-#### Refs Warfare Documentation
+### Illegal Weapons
 
 ##### Guardian on Illegal Weapons
 *Ukraine destruction: how the Guardian documented Russia’s use of illegal weapons*
 <https://www.theguardian.com/world/2022/may/24/ukraine-destruction-how-the-guardian-documented-russia-use-of-weapons>
 
+
+
+### Warfare by Month
+
+#### Selected Warfare in October
+##### Ukrinform and Interfax-Ukraine on the 10.10. Missile attacks
+* *Since day-start, Russia launches 83 missiles on Ukraine, 43 shot down - Defense Ministry*, 10.10.2022, <https://www.ukrinform.net/rubric-ato/3589943-since-daystart-russia-launches-83-missiles-on-ukraine-43-shot-down-defense-ministry.html>
+* *Russia launches X-101, X-555, Kalibr and Iskander missiles on Ukraine’s territory, as well as S-300 and Tornado-S MLRS missiles – AFU Air Forces*, <https://en.interfax.com.ua/news/general/864523.html>
 
 
 #### Selected Warfare in September
@@ -745,8 +753,6 @@ Russians fire nine S-300 missiles at Zaporizhzhia, casualties reportedPHOTOS22.0
 
 ##### Ukrinform on strike on Pechenihy dam
 *Russian forces strike Pechenihy dam in Kharkiv region again*22.09.2022 21:18, <https://www.ukrinform.net/rubric-ato/3577608-russian-forces-strike-pechenihy-dam-in-kharkiv-region-again.html>
-
-
 
 ##### Ukrinform on Missiles on Hydraulic Structures
 *Kryvyi Rih struck with eight Russian missiles: Hydraulic structures damaged*, VIDEO14.09.2022 20:52
@@ -766,6 +772,10 @@ https://www.ukrinform.net/rubric-ato/3557711-children-among-injured-as-russians-
 ##### Ukrinform on Russian Attacks on 12 August
 Aggressor launches 11 missile strikes on Kramatorsk, 12.08.2022 09:32, Russian troops launched 11 strikes on Kramatorsk, Donetsk region, this night, hitting a private residential sector.
 <https://www.ukrinform.net/rubric-ato/3548723-aggressor-launches-11-missile-strikes-on-kramatorsk.html>
+
+
+#### Selected Warfare in July
+[in work]
 
 
 #### Selected Warfare in June
@@ -814,8 +824,12 @@ In early July the UAF retreated from Lysychansk, stated as a tactical retreat to
 
 
 
+
+
 ### War Situation
 #### War Situation October
+// Refs
+
 #### War Situation September
 
 // Refs
@@ -867,15 +881,16 @@ Economic Measures to Encourage Adherence to International Rules.
 
 #### Reasons for Sanctions
 
-1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the [UN charter](#un-charter).
-2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution and to implement it (e.g. a withdrawal of troupes). // Hard to say what's a fair solution - some speculations are in [Paths to Peace](#paths-to-peace).
+1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the [UN charter](#un-charter). // The invasion ([Opinion on conflict](#opinion-on-the-conflict)) and offensive warfare in general are not supported here. 
+2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution in agreement with international laws and covenants. // Hard to say what's a fair solution - some speculations are in [Paths to Peace](#paths-to-peace).
 
 
-> Subjective Reasons: Sanctions on Russia are considered adequate as:
-> * the invasion and offensive warfare are not supported here ([Opinion on conflict](#opinion-on-the-conflict))
-> * An alternative path to actions focussed mainly on the military. Economic restrictions are considered to have expected cost/benefits fare higher than warfare. 
->   * As the first also can have benefits respectively reduce risks (benefits such as cleaner air and reduce risks associated to the CO2 increase such as rising sea levels or ocean acidification). 
->   * While warfare has a variety of [bad effect associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring which in turn divide people and conventional and nuclear environment pollution. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
+> Economic measures are seen as a better alternative to military actions as economic restrictions can be designed to have a much better benefits-costs ratio than warfare. Here, as such economic measures proposed a reduced usage of petroleum products. 
+> * A reduction in petroleum products has benefits such as cleaner air and reduces risks associated to the CO2 increase such as rising sea levels or ocean acidification. 
+> * Warfare on the other hand, has a variety of [bad effects and risks associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring, dividing and brutalizing people and environment pollution in many ways. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
+>
+> ##### Smooth Transition from Environmental Perspective makes Production Reduction Unlikely
+> An aggressive production reduction to stabilize prizes by oil producing countries is considered unlikely: As this would encourage strict consumption reduction measures and thus a hard transition away from petroleum products (for the sake to reduce warfare) while from an environmental perspective a smooth transition away seems the reasonable path to go (important to have widespread support and no one left sitting). // For example very strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher,very strict limits may become an option. Once the consumption is reduced a rebound is unlikely since it is considered the path to go.
 
 
 #### Overview
@@ -890,12 +905,10 @@ Economic Measures to Encourage Adherence to International Rules.
     * consumption in rich countries tends to be price insensitive.
 
 * *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
-  > Although the Russia economy without petroleum has a lot of potential both in skilled workers (e.g. strong in sciences such as Maths and Physics) and many natural resources other than petroleum, a transition away from petroleum is a challenge <!--other petroleum rich countries are better suited for solar plants-->. During a war is this hard. Without the income of petroleum and during a war this is very hard.
+  > Although the Russia economy without petroleum has a lot of potential both in skilled workers (e.g. strong in sciences such as Maths and Physics) and many natural resources other than petroleum, a transition away from petroleum is a challenge (other petroleum rich countries are better suited for solar plants, though Russia has gas which is considered best among fossils (very low air pollution and best among fossils regarding CO2) and thus at least near future proof). During a war is this hard. Without the income of petroleum and during a war this is very hard.
 
 
-
-#### A Look at the Russian Economy
-
+#### Economic Measures on Russia
 ##### Refs on Economic Measures on Russia
 
 ###### Sechin on Energy and Economy
@@ -908,6 +921,11 @@ EU embargo on Russian oil to prompt decline of 2.4 mln bpd in global supply of o
 *Sberbank creating international system of settlements as alternative to SWIFT - Gref*, 17 Jun 2022 16:26, <https://interfax.com/newsroom/top-stories/80380/>
 
 > Keeping official/lawful paths for financial transactions is considered good.
+
+
+
+
+#### A Look at the Russian Trade and Income
 
 
 
@@ -1031,7 +1049,7 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 #### Reasons for Sanctions
 * Violation of OSCE rules by the manner of the NATO expansion
 * Violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside (and thereby decrease their ability to keep up people connections and friendships and thereby their security)
-* Inaction regarding encouragement or even possibly discouragement for the MINSK agreement implementation. // Though on the plus side - if the behavior was sincere - it was mediated.
+* Inaction regarding encouragement or even possibly discouragement for the MINSK agreement implementation. // Though on the plus side it was mediated (if it was sincere - which seems the case by most though others may have opposed).
 
 
 
@@ -1039,11 +1057,11 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 
 
 > #### 'Actors' in the 'West'
-> The NATO countries sometimes act in concert and sometimes independent. Sometimes the NATO and the EU act in concert. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). Moreover there are also private actors direct or indirect via sponsored organizations and these are interwound by lobbyists with politics. The more decentralized the larger the freedom to act (decentralization is considered great though central organs still should be held responsible on serious wrong-doings). Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are [perceived to be] endangered]. So the US can be just called for help [as a friendly sibling and not as a dominating one].
+> The NATO countries sometimes act in concert and sometimes independent. Sometimes the NATO and the EU act in concert. Even within states different parties such as political parties or state organizations (such as the defense departments or secrecy services) can act differently and uncoordinated (see e.g. promises not expand the NATO eastwards as described in [Savranskaya and Blanton](#savranskaya-and-blanton-2017)). Moreover there are also private actors direct or indirect via sponsored organizations or lobbying. The more decentralized the larger the freedom to act (decentralization is considered great though there should be clear responsibility and accountability e.g. promises by foreign minister should be accountable). Overall it can be difficult from the outside to judge who did/initiated/supported what, which and when. Accordingly to select members to be sanctioned is not [always]straight forward. // Often the US gets all 'the blame' [by countries opposed to the NATO] and considered to dominate the other members. Here the opinion/impression is that the US generally respects the sovereignty of other countries [at least as long as no vital US [security] interest are [perceived to be] endangered]. So the US can be just called for help [as a friendly sibling and not as a dominating one].
 > 
 > Additionally for the US with the most mighty military on earth and therefore often in the unique position to intervene, decision making can be hard: Sometimes *a no* to intervene seems [to have been] wrong when looking backwards and sometimes *a yes* intervene seems wrong. From the second world war onwards the US tended to intervene more. // Here the opinion is, one should strengthen the UN to advocate human rights and prevent wars.
 > 
->> Independent actors are considered a good thing in general. 
+>> Independent actors are considered a good thing in general as long as accountability and responsibility is there.
 
 
 > Support of Ukraine to *defend* itself is *not* considered a reason for sanctions.
@@ -1349,7 +1367,7 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 
 
-## International Law
+## Legal Considerations
 
 > **in work**
 
@@ -1386,9 +1404,19 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 
-### Resources Comments on Global Laws and Covenants
+### Considerations on Self Determination
+
+#### Refs on Self Determination
 ##### Saul 2011
 Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
+
+
+### Considerations on Crimea
+[in work]
+#### Refs on the Legal Situation of Crimea
+##### Fisher 2016
+Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
+<https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
 
 
 
@@ -1445,12 +1473,13 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 * KievPost <https://www.kyivpost.com>
 * Tvoe Misto <https://tvoemisto.tv/en/news/> //"Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
 * Ukrinform - Ukrainian multimedia platform for broadcasting - <https://www.ukrinform.net>
+* Interfax-Ukraine <https://en.interfax.com.ua>
 
 // Support of Euromaidan
 * Euromaidanpress <https://euromaidanpress.com/category/ukraine/>
   "We collect, rely on, and promote non-partisan, non-religious, unbiased information in our fight against the Russian disinformation campaign." from [<https://euromaidanpress.com/about/>], July 22
   
-  > Events around the Euromaidan are discussed in [2014 Revolution in Kiev](#events-around-the-2014-kiev-revolution) on this page.
+  > Events around the 'Euromaidan' are discussed in [2014 Revolution in Kiev](#events-around-the-2014-kiev-revolution) on this page.
 
 
 // Verkhovna Rada of Ukraine
@@ -1509,12 +1538,15 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 
 ### Resources Europe
 
-#### Resources EU
-##### EUvsDisinfo
-EUvsDisinfo <https://euvsdisinfo.eu> // "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>, 9.2022
+#### Resources Europe General
+* EURACTIV <https://www.euractiv.com> //"Editorial Charter:
+  EURACTIV content is produced in full impartiality, without favouring the political views of any national or international institution, government, political party or pressure group." (<https://www.euractiv.com/about-euractiv/>, 11.10.22)
+
+* ##### EUvsDisinfo
+  EUvsDisinfo <https://euvsdisinfo.eu> // "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>, 9.2022
 
 #### Resources UK
-* Guardian <https://www.theguardian.com/international> (usually read daily, a main resource of information) // freedom to write seems large especially in the opinion section
+* Guardian <https://www.theguardian.com/international> (main resource of information) // freedom to write seems large especially in the opinion section
 * BBC <https://www.bbc.com> // owned by the UK government
 * Reuters <https://www.reuters.com/>
   
