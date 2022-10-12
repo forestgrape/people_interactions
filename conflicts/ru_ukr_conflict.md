@@ -77,7 +77,7 @@
 ## New Content and Updates
 
 
-
+* Chapter [Opinions & Articles](#opinions--articles). Started with articles by Mikhail Gorbachev.
 
 * Clarifications and corrected mistakes across the page for example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
 
