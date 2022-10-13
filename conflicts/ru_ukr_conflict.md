@@ -1,7 +1,7 @@
 
 # Ukraine in Conflict and Russia's Invasion into Ukraine
 
-> The goal of this page is to support finding lasting peace.
+> The goal of this page is to contribute to finding lasting peace.
 
 * [New Content and Updates](#new-content-and-updates)
 * [Board](#board)
@@ -80,8 +80,6 @@
 * Clarifications and corrected mistakes across the page for example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
 
 
-
-
 24.9.(formulations adapted 12.10.): Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
 
 In the current situation the interpretation of the results has its limits. When the question is whether people want to be with Russia:
@@ -151,19 +149,19 @@ Diplomacy and Compromises from All Parties are likely the best Way out
 
 
 ### Truce
-
 A stop of all military actions are help to reduce the ongoing tragedies including losses, find paths to reduce the risks of escalation & peace and to bolster diplomacy. 
 
-#### Reasons for a Ceasefire
-> With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus essential topics such as:
-> * Overall goals: Increasing security, good and peaceful relations with neighbors. Serving [the wishes of] all the people.
-> * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
-> * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists.
->     > Here the opinion is, that [regional] autonomy is ideally specified in the UN level. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.), Taiwan, Donbas, Kosovo, Basque County, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification (and the chance to play) seems to come at some cost in competitiveness.
+#### Reasons for a Armistice
+With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus essential topics such as:
+* Overall goals: Increasing security, good and peaceful relations with neighbors. Serving [the wishes of] all the people.
+* Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
+* Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists.
+  > Self-determination including [regional] autonomy is ideally [clearer] specified at the UN level. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.), Taiwan, Donbas, Kosovo, Basque County, Quebec, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification and the chance to play seems to come at some cost in competitiveness).
+
+> Here, the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
 
 > Negotiations, a true ceasefire and true and overall accepted peace, can get more difficult with further escalation. 
 
->> Here the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
 
 
 #### Ceasefire Implementation Option
@@ -242,17 +240,17 @@ Redesign of security architectures and designing/strengthening partnerships/coop
 
 * Increasing the Security by Limiting (Offensive) Military:
   * Reducing the number of offensive weapons. 
-    > As suitable weapons for offensive actions are usually mobile and/or heavily armored/stealth and/or have a long range such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers), armored vehicles (including tanks and armored self propelled artillery) and long-range (combat)drones.
-  * Limits on exercises: 
+    > Weapons suitable for offense are usually mobile and/or heavily armored/stealth and/or have a long range such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers), armored vehicles (including tanks and armored self propelled artillery) and long-range (combat)drones.
+  * Limits in exercises: 
     * the number of troupes in exercises.
-    * Limit tests and exercises involving offensive weapons.
+    * limits for tests and exercises involving offensive weapons.
 
 * Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." (<https://cnduk.org/resources/united-states-nuclear-weapons-europe/>, 7.10.) <!-- increasing them is considered dangerous and to increase tensions and insecurity <https://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine -->
 
 
 
 ##### Refs Security and Disarmament
-* <https://cnduk.org/> "CND campaigns non-violently to achieve British nuclear disarmament – to get rid of the Trident nuclear weapons system and stop its replacement. But we recognise that Britain’s nuclear weapons are only a small part of the problem, so we also campaign for a global nuclear weapons ban." from <https://cnduk.org/who/>, 7.10.
+* <https://cnduk.org/> "CND campaigns non-violently to achieve British nuclear disarmament – to get rid of the Trident nuclear weapons system and stop its replacement. But we recognise that Britain’s nuclear weapons are only a small part of the problem, so we also campaign for a global nuclear weapons ban." from <https://cnduk.org/who/>, October 22
 
 
 ### NATO Trust building
@@ -263,8 +261,8 @@ To increase the international trust into NATO there are different options rangin
 
 #### NATO Reforms/Reorientation
 * Increase transparency. 
-* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense. <!-- possibly only weapon exports to country which adhere certain principles of humanity such as no death sentence, an overall fair legal system, local self determination for example by decentralization -->
-* Open interstate cooperations to manage the challenges we face - the NATO expertise is broad
+* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense - in actions for example reducing offensive weapons. <!-- possibly only weapon exports to country which adhere certain principles of humanity such as no death sentence, an overall fair legal system, local self determination for example by decentralization -->
+* Open interstate cooperations to manage the challenges we face - the NATO expertise is broad.
 * A focus on tasks such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
 
 ##### Refs NATO Reforms
@@ -272,11 +270,11 @@ NATO Watch (<https://natowatch.org/about>)
 
 
 #### NATO Rename/Refound/Replacement
-A re-founding by a new, a fusion with/into an existing organization (e.g. OSCE). Already a renaming would emphasize reforms/reorientation and reduce/get rid of cold war associations. In that sense it is to acknowledge that the Cold War ended peacefully - as Havel argued: “It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.” from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
+A re-founding by a new, a fusion with/into an existing organization (e.g. OSCE). Already a renaming would emphasize reforms/reorientation and reduce/get rid of cold war associations. It is to acknowledge that the Cold War ended peacefully - as Havel put it: “It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.” from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
 
 
 #### NATO Tasks and Background
-The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal [Stalinism](#thoughts-on-aspects-of-stalinism) (NATO: Founding treaty <https://www.nato.int/cps/en/natohq/topics_67656.htm?>), developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
+The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal [Stalinism](#thoughts-on-aspects-of-stalinism) (NATO: Founding treaty <https://www.nato.int/cps/en/natohq/topics_67656.htm?>, Summer 22), developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
 
 
 > ##### Thoughts on Aspects of Stalinism
@@ -288,11 +286,12 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated a more a political and less military organization. 
 > 
 > During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
-> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO was *not* 'squeaky clean'.
+> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO respectively some of its member countries were *not* 'squeaky clean'.
 > 
 > Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
-> * The Open Balkans Project seems a promising path for the future. <!-- a main reason is a partnership with the EU (which surrounds the Balkan) is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is very unlikely as long as the EU has not reformed its decision processes and such a reform is out of sight. -->
+> * The Open Balkans Project seems a promising path for the future. 
+>   > A main reason is a partnership with the EU is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is very unlikely as long as the EU has not reformed its decision processes and such a reform is currently not in sight.
 
 
 
@@ -332,7 +331,7 @@ Dr. Antonio Missiroli, Dr. John Manza
 There is a strong opposition from Russia to the expansion of NATO to its close neighbors, especially since the mid 90s. Possible reasons for this are: 
 * From the Cold War, the NATO itself or at least the name carries [some] ballast: "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’." as stated in [Forsberg 2005](#forsberg-05).
 * The NATO actions and interventions in the Yugoslavian Wars were [perceived] aggressive and in violation with international laws (including the UN charter).
-* The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there are constraint for countries to operate NATO and Russian military equipment alongside).
+* The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there were/are constraint for countries to operate NATO and Russian military equipment alongside).
 
 
 
@@ -343,13 +342,11 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 ### Fluent European Borders
 > in work
 
-Ideally each two neighboring countries have friendly and close interactions. In this sense the borders of country groups become smooth/fluent. Such that when traveling from the British Isles to Türkiye and the Levant, from Scandinavia to the Maghreb or from Portugal to Russia all the borders are smooth.
+Ideally each two neighboring countries have friendly and close interactions to the extent that the borders between country become smooth/fluent. Ideally, when traveling from the British Isles to Türkiye and the Levant, from Scandinavia to the Maghreb or from Portugal to Russia all the borders are smooth.
 
 As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EAEU, the CIS, the AU and the EFTA, are essential, as are all the countries themselves.
 
 > Possibly the The European Political Community proposed by the President Macron could be a suitable setting to discuss/establish smoother borders. // modelled similar to the [African Union](#african-union) is - possibly also as yet another European state group.
-
-
 
 
 #### Refs Economic and Political State Groups in and around Europe
@@ -363,16 +360,17 @@ Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
 EFTA: <https://www.efta.int>
 
 ##### European Union
-* EU: <https://european-union.europa.eu/index_en>
+EU: <https://european-union.europa.eu/index_en>
 
 ##### Shanghai Cooperation Organisation
-* Shanghai Cooperation Organisation: <http://eng.sectsco.org>
+Shanghai Cooperation Organisation: <http://eng.sectsco.org>
 
 ##### BRICS
+<http://infobrics.org/>
 "BRICS is an informal group of states comprising the Federative Republic of Brazil, the Russian Federation, the Republic of India, the People’s Republic of China and the Republic of South Africa." from <http://infobrics.org/page/history-of-brics/>
 
 * <https://en.wikipedia.org/wiki/BRICS>
-* <http://infobrics.org/>
+
 
 
 
@@ -510,7 +508,7 @@ Eric Levitz FOREIGN INTERESTS MAR. 17, 2022 *The Emerging Path to Peace in Ukrai
 // Refs
 #### Russian Government Plane in Basel
 *A Russian aircraft flew 9 hours between Moscow and Switzerland, traveling over European airspace in a rare routing that added 6 hours to the flight time* <https://www.businessinsider.com/russian-aircraft-adds-6-hours-flight-time-avoid-eu-airspace-2022-7?r=US&IR=T> 
-"This flight was given a "diplomatic clearing" from both France and Switzerland so it could pick up Russian diplomatic staff who were representing the county at the Council of Europe in Strasbourg, France, the French Ministry for Europe and Foreign Affairs told BZ."
+'''This flight was given a "diplomatic clearing" from both France and Switzerland so it could pick up Russian diplomatic staff who were representing the county at the Council of Europe in Strasbourg, France, the French Ministry for Europe and Foreign Affairs told BZ.'''
 
 > Considering the incompatibility of human rights and war, the presidential airplane on the mission of human rights was/is some hope for peace.
 >> The heads of states should be should be ambassadors to human rights. All government members should be ambassadors to human rights. *Everyone should be an ambassador to human rights.*
@@ -609,7 +607,7 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 * [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
 
 // Current Situation
-* On 8.10. the plant was reported to have been disconnected and to rely on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)). As of 14:00, power lines are reported to have been restored (according to Enerhodar Mayor Dmytro Orlov telegram cited in [Kievpost 081022](#kievpost-on-zaporizhzhia-081022)).
+* On 8.10. the plant was reported to have been disconnected and to rely on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)). As of 14:00, power lines are reported to have been restored (according to Enerhodar Mayor Dmytro Orlov telegram referred in [Kievpost 081022](#kievpost-on-zaporizhzhia-081022)).
 * As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
 
 
@@ -888,7 +886,8 @@ Economic Measures to Encourage Adherence to International Rules.
 > * Warfare on the other hand, has a variety of [bad effects and risks associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring, dividing and brutalizing people and environment pollution in many ways. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 >
 > ##### Smooth Transition from Environmental Perspective makes Production Reduction Unlikely
-> An aggressive production reduction to stabilize prizes by oil producing countries is considered unlikely: As this would encourage strict consumption reduction measures and thus a hard transition away from petroleum products (for the sake to reduce warfare) while from an environmental perspective a smooth transition away seems the reasonable path to go (important to have widespread support and no one left sitting). // For example very strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher,very strict limits may become an option. Once the consumption is reduced a rebound is unlikely since it is considered the path to go.
+> An aggressive production reduction to stabilize prizes by oil producing countries is considered unlikely: As this would encourage strict consumption reduction measures and thus a hard transition away from petroleum products (for the sake to reduce warfare) while from an environmental perspective a smooth transition away seems the reasonable path to go (important to have widespread support and no one left sitting). // For example very strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher,very strict limits may become an option. Once the consumption is reduced a rebound is unlikely since it is considered the path to go. 
+> > The OPEC+ productions reduction likely has a (short-term) financial motivation and is a test and signal [for the 'West'].
 
 
 #### Overview
@@ -1415,6 +1414,8 @@ Matthew Saul, *The Normative Status of Self-Determination in International Law: 
 ##### Fisher 2016
 Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
 <https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
+
+> Interesting article though some points are disagreed here. One is to determine the right of secession, instead of a backward looking approach (were there human right violations?), here, a forward looking approach is preferred: How a peaceful future in agreement with human rights and self determination is achieved as noted in [Paths for Self Determination](#paths-for-self-determination).
 
 
 
