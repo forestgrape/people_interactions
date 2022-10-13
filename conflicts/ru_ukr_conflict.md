@@ -1407,15 +1407,18 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 ##### Saul 2011
 Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
 
-
-### Considerations on Crimea
-[in work]
-#### Refs on the Legal Situation of Crimea
 ##### Fisher 2016
 Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
 <https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
 
-> Interesting article though some points are disagreed here. One is to determine the right of secession, instead of a backward looking approach (were there human right violations?), here, a forward looking approach is preferred: How a peaceful future in agreement with human rights and self determination is achieved as noted in [Paths for Self Determination](#paths-for-self-determination).
+> Some interesting points though not all consideration are agreed here. 
+> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful future in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).s
+
+
+### Considerations on Crimea
+[in work]
+#### Refs on the Legal Situation of Crimea
+ 
 
 
 
