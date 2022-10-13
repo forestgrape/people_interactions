@@ -1412,15 +1412,30 @@ Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Seces
 <https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
 
 > Some interesting points though not all consideration are agreed here. 
-> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful future in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).s
+> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).s
 
 
 ### Considerations on Crimea
 [in work]
+
 #### Refs on the Legal Situation of Crimea
- 
+##### Navari 2015
+Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots for Crimea’s secession from Ukraine. LSE European Politics and Policy (EUROPP) Blog (20 Feb 2015). Website. <http://eprints.lse.ac.uk/71485/>
+
+> short version of [Navari 2014](#navari-2014)
+
+##### Navari 2014
+CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, International Affairs, Volume 90, Issue 6, November 2014, Pages 1299–1318, <https://doi.org/10.1111/1468-2346.12171>
+
+> Recommended read. Also describes the breakup of Yugoslavia.
 
 
+<!--
+
+Peter, Örebech. "International law and Crimean secession from Ukraine (part 1)." Вестник Московского университета. Серия 27. Глобалистика и геополитика 4 (2020): 48-61. 
+
+Van den Driest, Simone F. "Crimea’s separation from Ukraine: An analysis of the right to self-determination and (remedial) secession in international law." Netherlands International Law Review 62.3 (2015): 329-363.
+-->
 
 
 
