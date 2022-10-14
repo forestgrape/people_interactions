@@ -45,7 +45,7 @@
   * [Resources Laws and Covenants for States](#resources-laws-and-covenants-for-states)
   * [Resources Laws and Covenants for States and People](#resources-laws-and-covenants-for-states-and-people)
   * [Resources Laws and Covenants for People](#resources-laws-and-covenants-for-people)
-  * [Considerations on Self Determination](#considerations-on-self-determination)
+  * [Considerations on Self Determination and its Implications](#considerations-on-self-determination-and-its-implications)
   * [Considerations on Crimea](#considerations-on-crimea)
 * [Sanctions: Economic Measures](#sanctions-economic-measures)
   * [Sanctions on Russia](#sanctions-on-russia)
@@ -196,7 +196,7 @@ The focus is on human rights [for individuals], many of which are violated in a 
 * Regularly consulted information sources are listed in [resources](#resources). Frequently consulted are the resources from Ukraine, Russia, Switzerland and UK.
 
 * It is attempted to write always *factual & respectful & avoiding confrontation*, especially as this writing is public.
-     > On the page on coronaviruses, sometimes the writing was heated and confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and [possibly] even counterproductive. Sorry.
+     > On the page on coronaviruses, sometimes the writing was emotional and/or even confrontational (written when stressed and/or influenced by the heated atmosphere) which was bad mistake and [possibly] even counterproductive. Sorry.
 
 * Likely/near sure: Mistakes happen here and not all content is up to the task. 
 
@@ -279,9 +279,6 @@ A re-founding by a new, a fusion with/into an existing organization (e.g. OSCE).
 The NATO, once was founded to contain the expansionist Soviet Union ruled under the horribly brutal [Stalinism](#thoughts-on-aspects-of-stalinism) (NATO: Founding treaty <https://www.nato.int/cps/en/natohq/topics_67656.htm?>, Summer 22), developed into the most powerful military alliance on earth ever. The NATO frames (and today sees?) itself as a defensive alliance protecting democratic principles and human rights. Other states, including Russia, perceive the NATO differently.
 
 
-> ##### Thoughts on Aspects of Stalinism
-> Stalinism seems to have relied much to much on brutality and 'forced alliances', so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
-
 
 
 > ##### NATO in the Yugoslavian Wars
@@ -290,10 +287,10 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
 > > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO respectively some of its member countries were *not* 'squeaky clean'.
 > 
-> Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
+> Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
 > * The Open Balkans Project seems a viable path onwards. 
->   > A main reason is a partnership with the EU is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is unlikely as long as the EU has not reformed its decision processes and such a reform is not in sight.
+  >> A main reason is a partnership with the EU is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is unlikely as long as the EU has not reformed its decision processes and such a reform is not in sight.
 
 
 
@@ -963,6 +960,8 @@ Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk Af
 * "Along with all the complexes of a superior nation, Russia has the great inferiority complex of a small country.", Joseph Brodsky Less Than One, 1976 from [Miller, Lukyanov](#miller-lukyanov)
 
 
+#### Thoughts on Aspects of Stalinism
+> Stalinism seems to have relied much to much on brutality and 'forced alliances', so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
 
 
 #### Refs Background on Russia
@@ -1097,9 +1096,11 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 
-### Considerations on Self Determination
+### Considerations on Self Determination and its Implications
 
-#### Refs on Self Determination
+> Opinion advocated here, in the appendix: [Preferred Path for Self Determination](#paths-for-self-determination).
+
+#### Refs on Self Determination and Legality of Territorial Changes
 ##### Saul 2011
 Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
 
@@ -1110,11 +1111,6 @@ Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Seces
 > Some interesting points though not all consideration are agreed here. 
 > One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).
 
-
-### Considerations on Crimea
-[in work]
-
-#### Refs on the Legal Situation of Crimea
 ##### Navari 2015
 Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots for Crimea’s secession from Ukraine. LSE European Politics and Policy (EUROPP) Blog (20 Feb 2015). <http://eprints.lse.ac.uk/71485/>
 
@@ -1123,7 +1119,13 @@ Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots
 ##### Navari 2014
 CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, International Affairs, Volume 90, Issue 6, November 2014, Pages 1299–1318, <https://doi.org/10.1111/1468-2346.12171>
 
-> Recommended read. Also describes the breakup of Yugoslavia.
+> Mainly describes the breakup of Yugoslavia. Puts it also as a precedent for the dissolution of the Soviet Union, though it was more the other way round: The Badinter commission modelled the dissolution of Yugoslavia after the Soviet union where a withdrawal for each first level republic was in the constitution unlike for the Federation of Yugoslavia [to confirm and clarify].
+
+
+### Considerations on Crimea
+[in work]
+
+Both Ukraine and Russia explain their viewpoints around the change in control of Crimea from Ukraine ('THE APPLICANT GOVERNMENT') to Russia ('THE RESPONDENT GOVERNMENT') to the  European Court of Human Rights in "CASE OF UKRAINE v. RUSSIA (RE CRIMEA) (Applications nos. 20958/14 and 38334/18)" (<https://www.refworld.org/pdfid/60016bb84.pdf>) // The case itself is currently not further discussed here.
 
 
 <!--
