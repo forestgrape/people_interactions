@@ -25,23 +25,17 @@
   * [Negotiation State October](#negotiation-state-october)
   * [Negotiation State July](#negotiation-state-july)
 * [Significance of Peace and Effects and Dangers of War](#significance-of-peace-and-effects-and-dangers-of-war)
-  * [Nuclear Risks of War](#nuclear-risks-of-war)
   * [Refs Effects of War](#refs-effects-of-war)
+  * [Nuclear Risks of War](#nuclear-risks-of-war)
+* [Opinions on the War](#opinions-on-the-war)
+  * [UN](#un)
+* [Opinions & Articles](#opinions--articles)
+  * [Opinions & Articles from Russia](#opinions--articles-from-russia)
 * [War Documentation](#war-documentation)
   * [Prisoners of War](#prisoners-of-war)
   * [Illegal Weapons](#illegal-weapons)
   * [Warfare by Month](#warfare-by-month)
   * [War Situation](#war-situation)
-* [Opinions on the War](#opinions-on-the-war)
-  * [UN](#un)
-* [Sanctions: Economic Measures](#sanctions-economic-measures)
-  * [Sanctions on Russia](#sanctions-on-russia)
-* [Conflicts with Similarities](#conflicts-with-similarities)
-  * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
-  * [Winter War](#winter-war)
-  * [Second Iraq War](#second-iraq-war)
-  * [Falkland War](#falkland-war)
-  * [Yugoslavian Wars](#yugoslavian-wars)
 * [Historical and Political Background](#historical-and-political-background)
   * [Events around the 2014 Kiev-Revolution](#events-around-the-2014-kiev-revolution)
   * [Background on Russia](#background-on-russia)
@@ -53,8 +47,14 @@
   * [Resources Laws and Covenants for People](#resources-laws-and-covenants-for-people)
   * [Considerations on Self Determination](#considerations-on-self-determination)
   * [Considerations on Crimea](#considerations-on-crimea)
-* [Opinions & Articles](#opinions--articles)
-  * [Opinions & Articles from Russia](#opinions--articles-from-russia)
+* [Sanctions: Economic Measures](#sanctions-economic-measures)
+  * [Sanctions on Russia](#sanctions-on-russia)
+* [Conflicts with Similarities](#conflicts-with-similarities)
+  * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
+  * [Winter War](#winter-war)
+  * [Second Iraq War](#second-iraq-war)
+  * [Falkland War](#falkland-war)
+  * [Yugoslavian Wars](#yugoslavian-wars)
 * [Resources](#resources)
   * [Resources Ukraine](#resources-ukraine)
   * [Resources Russia](#resources-russia)
@@ -245,7 +245,9 @@ Redesign of security architectures and designing/strengthening partnerships/coop
     * the number of troupes in exercises.
     * limits for tests and exercises involving offensive weapons.
 
-* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." (<https://cnduk.org/resources/united-states-nuclear-weapons-europe/>, 7.10.) <!-- increasing them is considered dangerous and to increase tensions and insecurity <https://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine -->
+* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." (<https://cnduk.org/resources/united-states-nuclear-weapons-europe/>, 7.10.) 
+<!--NATO’s nuclear deterrence policy and forces:<https://www.nato.int/cps/en/natohq/topics_50068.htm> --> 
+<!-- increasing them is considered dangerous and to increase tensions and insecurity <https://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine -->
 
 
 
@@ -285,13 +287,13 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > ##### NATO in the Yugoslavian Wars
 > In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated a more a political and less military organization. 
 > 
-> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also happen to be mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
+> During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
 > > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO respectively some of its member countries were *not* 'squeaky clean'.
 > 
 > Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were Nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
-> * The Open Balkans Project seems a promising path for the future. 
->   > A main reason is a partnership with the EU is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is very unlikely as long as the EU has not reformed its decision processes and such a reform is currently not in sight.
+> * The Open Balkans Project seems a viable path onwards. 
+>   > A main reason is a partnership with the EU is more likely with a single well organized group instead of many small states. A cooperation seems important as the EU surrounds the Balkan and a full membership of the many small states is unlikely as long as the EU has not reformed its decision processes and such a reform is not in sight.
 
 
 
@@ -591,6 +593,58 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 * War has risks associated and can escalate.
 
 
+
+
+
+### Refs Effects of War 
+
+
+#### Freedland
+*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*, 
+<https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu>
+
+
+#### Ukrainian PSYCHOTHERAPIST on Effects of War
+*«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*, 
+<https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html>
+
+
+#### Koshiw, theGuardian, on Psychological Effects in Borodyanka
+Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing*, 
+<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
+
+
+#### CNN on the Scars caused by War
+*Injured by war, the scars on Ukraine's wounded children are more than skin deep*, 
+<https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
+
+
+#### Ukrinform on 391 killed and 771 injured Children
+*Russians have injured 771 children in Ukraine*, 23.09.2022,
+<https://www.ukrinform.net/rubric-ato/3577854-russians-have-injured-771-children-in-ukraine.html>
+
+
+#### KievPost on the Environmental Damage 
+Environmental Damage Caused by Russian Invasion Estimated at $10 Billion,
+<https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
+
+> Not acute in comparison to human losses, though environmental damage can yield future suffering.
+
+
+
+#### Refs Economic and Social Effects of War
+
+##### TheMoscowTimes 060522
+*Nearly 4M Russians Left Russia in Early 2022 – FSB*,
+<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
+
+##### Datskevych for KievIndependent 050522
+*Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
+
+
+
+
+
 ### Nuclear Risks of War
 #### Des Browne 1403
 Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks, <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
@@ -646,53 +700,69 @@ Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themos
 
 
 
-### Refs Effects of War 
-
-
-#### Freedland
-*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*, 
-<https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu>
-
-
-#### Ukrainian PSYCHOTHERAPIST on Effects of War
-*«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*, 
-<https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html>
-
-
-#### Koshiw, theGuardian, on Psychological Effects in Borodyanka
-Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing*, 
-<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
-
-
-#### CNN on the Scars caused by War
-*Injured by war, the scars on Ukraine's wounded children are more than skin deep*, 
-<https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
-
-
-#### Ukrinform on 391 killed and 771 injured Children
-*Russians have injured 771 children in Ukraine*, 23.09.2022,
-<https://www.ukrinform.net/rubric-ato/3577854-russians-have-injured-771-children-in-ukraine.html>
-
-
-#### KievPost on the Environmental Damage 
-Environmental Damage Caused by Russian Invasion Estimated at $10 Billion,
-<https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
-
-> Not acute in comparison to human losses, though environmental damage can yield future suffering.
 
 
 
-#### Refs Economic and Social Effects of War
-
-##### TheMoscowTimes 060522
-*Nearly 4M Russians Left Russia in Early 2022 – FSB*,
-<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
-
-##### Datskevych for KievIndependent 050522
-*Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
 
 
 
+
+
+
+
+
+## Opinions on the War
+
+### UN 
+#### UN Security Council on 240822
+*Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*,
+<https://news.un.org/en/story/2022/08/1125342>
+
+Selected Statements:
+* Guterres: 
+  * “The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter) . Peace in line with international law.” (https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered).
+  * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
+* DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
+* Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
+* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.” 
+
+
+
+
+
+
+
+
+
+
+## Opinions & Articles
+*in work*
+
+*This chapter contains opinions and articles which are considered relevant to understand and interpret the current situation.*
+
+
+
+### Opinions & Articles from Russia
+
+#### Opinions by Mikhail Gorbachev
+
+##### Gorbachev FT Interview 2004
+Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
+
+Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form (without the interviewer addition '[for democracy]').([People Interaction](../people_interactions.md)). We are human.
+
+##### Gorbachev BBC Interview 2019
+The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019, <https://www.youtube.com/watch?v=qYVsKoQXATY> // no statement on how to from opinions // recommended to read [Gorbachev FT Interview 2004](#gorbachev-ft-interview-2004) as follow up.
+
+##### GORBACHEV on Perestroika and New Thinking 2021
+MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
+
+> *Highly recommended.*
+
+
+<!--
+### Opinions and Articles from Ukraine
+* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am-->
 
 
 
@@ -845,20 +915,227 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 
 
 
-## Opinions on the War
 
-### UN 
-#### UN Security Council on 240822
-*Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*,
-<https://news.un.org/en/story/2022/08/1125342>
 
-Selected Statements:
-* Guterres: 
-  * “The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter) . Peace in line with international law.” (https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered).
-  * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
-* DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
-* Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
-* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.” 
+
+
+
+## Historical and Political Background
+
+
+
+### Events around the 2014 Kiev-Revolution
+[in work]
+The 2014 revolution is also known as Euromaidan revolution.
+
+
+
+#### References Events around the 2014 Revolution
+
+
+##### Morales 2014
+Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
+
+
+##### Marples 2017
+Marples, David R. "Ukraine in Conflict." An Analytical Chronicle, London: E-International Relations (2017). <https://www.e-ir.info/wp-content/uploads/2017/05/Ukraine-in-Conflict-E-IR.pdf>
+
+
+##### Marples 2020
+David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
+
+
+##### Nitsova 2021
+Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
+
+
+
+
+
+
+
+
+
+
+
+
+### Background on Russia
+* "Along with all the complexes of a superior nation, Russia has the great inferiority complex of a small country.", Joseph Brodsky Less Than One, 1976 from [Miller, Lukyanov](#miller-lukyanov)
+
+
+
+
+#### Refs Background on Russia
+[in work]
+
+##### Miller, Lukyanov
+*Detachment Instead of Confrontation: Post-European Russia in Search of Self-Sufficiency*
+
+
+
+
+
+### Refs General Background
+
+#### Savranskaya and Blanton 2017
+Svetlana Savranskaya and Tom Blanton, *NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
+
+
+#### Bugoyova
+Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. <http://www.jstor.org/stable/resrep19569.3>
+
+> Recommended read, [Bugayova's writing](#bugoyova) is insightful and enriched with many noteworthy cites from political leaders in Russia, especially from Vladimir Putin and illustrative resources. The authors interpretations are often subjective and quite a few of them are not agreed here.
+
+
+
+
+#### Cameron 200122
+Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continues. And so too do the talks – this week in Kyiv, Moscow, Berlin and Geneva*, Thursday, January 20, 2022
+
+
+<!-- commented as some controversial statements are disagreed
+#### Lieven 2303
+The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
+Doug Henwood
+
+> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
+>
+>> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
+>
+>> Spoken word tends to be more direct than written up to exaggeration.
+>
+>> Comments on this page, are often like spoken word.
+
+
+-->
+
+
+### NATO Russia Relations
+
+
+#### Refs NATO Russia Cooperation
+NATO, 2013, NATO-Russia practical cooperation, <https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2013_12/20131127_131201-MediaBackgrounder-NRC_en.pdf>
+
+
+#### Refs NATO Russia Background
+
+#### Sushentsov, Wohlforth 20
+Andrey Sushentsov, William C. Wohlforth, The tragedy of US–Russian relations: NATO centrality and the revisionists’ spiral, International Politics (2020) 57:427–450 <https://doi.org/10.1057/s41311-020-00229-5>
+
+
+#### Lieven 96
+ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
+
+
+#### Kennan 97
+*A Fateful Error*, By George F. Kennan Feb. 5, 1997, New York Times
+
+
+#### Forsberg 05
+Tuomas Forsberg (2005) Russia's relationship with NATO: A qualitative change or old wine in new bottles?, Journal of Communist Studies and Transition Politics, 21:3, 332-353, <https://doi.org/10.1080/13523270500183488>
+
+
+##### Summary Forsberg 05
+Analysis of the NATO - Russia relation from 1991 to 2005. Selected statements:
+* "NATO and Russia have several times declared the Cold War ended. The first occasion the Cold War was buried between the former enemies was in 1991, when NATO changed its strategic assessment and the Soviet Union joined the newly established North Atlantic Co-operation Council (NAC-C). It was also buried in 1997 when NATO and Russia signed a Founding Act of their mutual relations and decided to establish a NATO–Russia Permanent Joint Council (PJC). The last time they attended a Cold War funeral was in May 2002, when the parties decided to set up a NATO–Russia Council (NRC) that replaced the old PJC."
+* "A New Start
+How can we explain the new start in the NATO – Russia relationship? At least four factors that contributed to the improvement of the relationship after 1999 can be distinguished: Putin’s strategic realignment with the West, the Kursk submarine accident, the terrorist attacks of 11 September and the second post-Cold War enlargement of NATO."
+* "Although Putin played a prominent role in the rapprochement between Russia and the West, restoring co-operation with NATO was supported by the majority of the foreign policy elite despite the trauma of the Kosovo war [28]."
+* "NATO is still perceived more often as an aggressive rather than a defensive pact, even among the supporters of Putin. The figures in public opinion polls measuring attitudes towards NATO have been changing only little and remain more negative than in 1997 [49]. As some analysts have noted, Putin’s new strategic partnership with the West rests on shaky domestic foundations. Therefore ‘the present day formation and feature of Russia’s go-West course may not be sustainable[50]. Senior people at the Russian armed forces, in particular, have not abandoned their views on NATO as a threatening military bloc aimed against Russia. A Russian defence ministry document released in October 2003, for example, indicated that Moscow will rethink its nuclear strategy if NATO continues to exist in its present form, fails to remove its ‘anti-Russian’ components and maintains its current ‘offensive’ doctrine[51]. While Putin has largely refrained from critical comments, Defence Minister Ivanov has often taken a more reserved view with regard to co-operation with NATO. Thus, at the Munich security conference in 2004 he demanded that Russia should have monitoring facilities at NATO bases to verify that they would pose no threat to Russia[52]. In March, just before the enlargement of the Alliance to the Baltic States, Ivanov repeated that NATO’s offensive doctrine, with anti-Russian attitudes inside NATO, would force Russia to adopt tougher defence measures."
+* "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’."
+
+
+
+
+#### Carpenter 280222
+Ted Galen Carpenter, *Many predicted Nato expansion would lead to war. Those warnings were ignored*, 
+It has long been clear that Nato expansion would lead to tragedy. 
+Mon 28 Feb 2022 19.00 GMT, The Guardian
+
+
+
+
+
+
+
+
+
+## Legal Considerations
+
+> **in work**
+
+### Resources Laws and Covenants for States
+
+#### UN Charter
+<https://www.un.org/en/about-us/un-charter/chapter-1>
+Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
+
+
+<!-- ?mv to disarmament/security paragraph
+#### NPT
+<https://www.un.org/disarmament/wmd/nuclear/npt/>
+
+#### OPCW
+<https://www.opcw.org/chemical-weapons-convention> 
+"As the implementing body for the Chemical Weapons Convention, the OPCW, with its 193 Member States, oversees the global endeavour to permanently and verifiably eliminate chemical weapons." from <https://www.opcw.org>
+-->
+
+### Resources Laws and Covenants for States and People
+#### International Covenant on Economic, Social and Cultural Rights
+<https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights>
+
+
+#### International Covenant on Civil and Political Rights
+<https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights>
+
+
+
+### Resources Laws and Covenants for People 
+
+#### Declaration of Human Rights
+*Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+
+
+
+### Considerations on Self Determination
+
+#### Refs on Self Determination
+##### Saul 2011
+Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
+
+##### Fisher 2016
+Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
+<https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
+
+> Some interesting points though not all consideration are agreed here. 
+> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).
+
+
+### Considerations on Crimea
+[in work]
+
+#### Refs on the Legal Situation of Crimea
+##### Navari 2015
+Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots for Crimea’s secession from Ukraine. LSE European Politics and Policy (EUROPP) Blog (20 Feb 2015). <http://eprints.lse.ac.uk/71485/>
+
+> short version of [Navari 2014](#navari-2014)
+
+##### Navari 2014
+CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, International Affairs, Volume 90, Issue 6, November 2014, Pages 1299–1318, <https://doi.org/10.1111/1468-2346.12171>
+
+> Recommended read. Also describes the breakup of Yugoslavia.
+
+
+<!--
+
+Peter, Örebech. "International law and Crimean secession from Ukraine (part 1)." Вестник Московского университета. Серия 27. Глобалистика и геополитика 4 (2020): 48-61. // pro Crimea secession
+
+Van den Driest, Simone F. "Crimea’s separation from Ukraine: An analysis of the right to self-determination and (remedial) secession in international law." Netherlands International Law Review 62.3 (2015): 329-363. // contra Crimea session
+-->
+
+
+
+
 
 
 
@@ -1218,257 +1495,7 @@ The situation of Taiwan has some similarities to the *part of* the Donbas that s
 
 
 
-## Historical and Political Background
 
-
-
-### Events around the 2014 Kiev-Revolution
-[in work]
-The 2014 revolution is also known as Euromaidan revolution.
-
-
-
-#### References Events around the 2014 Revolution
-
-
-##### Morales 2014
-Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
-
-
-##### Marples 2017
-Marples, David R. "Ukraine in Conflict." An Analytical Chronicle, London: E-International Relations (2017). <https://www.e-ir.info/wp-content/uploads/2017/05/Ukraine-in-Conflict-E-IR.pdf>
-
-
-##### Marples 2020
-David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/07/01/the-maidan-revolution-in-ukraine/>
-
-
-##### Nitsova 2021
-Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
-
-
-
-
-
-
-
-
-
-
-
-
-### Background on Russia
-* "Along with all the complexes of a superior nation, Russia has the great inferiority complex of a small country.", Joseph Brodsky Less Than One, 1976 from [Miller, Lukyanov](#miller-lukyanov)
-
-
-
-
-#### Refs Background on Russia
-[in work]
-
-##### Miller, Lukyanov
-*Detachment Instead of Confrontation: Post-European Russia in Search of Self-Sufficiency*
-
-
-
-
-
-### Refs General Background
-
-#### Savranskaya and Blanton 2017
-Svetlana Savranskaya and Tom Blanton, *NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
-
-
-#### Bugoyova
-Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. <http://www.jstor.org/stable/resrep19569.3>
-
-> Recommended read, [Bugayova's writing](#bugoyova) is insightful and enriched with many noteworthy cites from political leaders in Russia, especially from Vladimir Putin and illustrative resources. The authors interpretations are often subjective and quite a few of them are not agreed here.
-
-
-
-
-#### Cameron 200122
-Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continues. And so too do the talks – this week in Kyiv, Moscow, Berlin and Geneva*, Thursday, January 20, 2022
-
-
-<!-- commented as some controversial statements are disagreed
-#### Lieven 2303
-The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
-Doug Henwood
-
-> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
->
->> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
->
->> Spoken word tends to be more direct than written up to exaggeration.
->
->> Comments on this page, are often like spoken word.
-
-
--->
-
-
-### NATO Russia Relations
-
-
-#### Refs NATO Russia Cooperation
-NATO, 2013, NATO-Russia practical cooperation, <https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2013_12/20131127_131201-MediaBackgrounder-NRC_en.pdf>
-
-
-#### Refs NATO Russia Background
-
-#### Sushentsov, Wohlforth 20
-Andrey Sushentsov, William C. Wohlforth, The tragedy of US–Russian relations: NATO centrality and the revisionists’ spiral, International Politics (2020) 57:427–450 <https://doi.org/10.1057/s41311-020-00229-5>
-
-
-#### Lieven 96
-ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
-
-
-#### Kennan 97
-*A Fateful Error*, By George F. Kennan Feb. 5, 1997, New York Times
-
-
-#### Forsberg 05
-Tuomas Forsberg (2005) Russia's relationship with NATO: A qualitative change or old wine in new bottles?, Journal of Communist Studies and Transition Politics, 21:3, 332-353, <https://doi.org/10.1080/13523270500183488>
-
-
-##### Summary Forsberg 05
-Analysis of the NATO - Russia relation from 1991 to 2005. Selected statements:
-* "NATO and Russia have several times declared the Cold War ended. The first occasion the Cold War was buried between the former enemies was in 1991, when NATO changed its strategic assessment and the Soviet Union joined the newly established North Atlantic Co-operation Council (NAC-C). It was also buried in 1997 when NATO and Russia signed a Founding Act of their mutual relations and decided to establish a NATO–Russia Permanent Joint Council (PJC). The last time they attended a Cold War funeral was in May 2002, when the parties decided to set up a NATO–Russia Council (NRC) that replaced the old PJC."
-* "
-A New Start
-How can we explain the new start in the NATO – Russia relationship? At least four factors that contributed to the improvement of the relationship after 1999 can be distinguished: Putin’s strategic realignment with the West, the Kursk submarine accident, the terrorist attacks of 11 September and the second post-Cold War enlargement of NATO.
-"
-* "Although Putin played a prominent role in the rapprochement between Russia and the West, restoring co-operation with NATO was supported by the majority of the foreign policy elite despite the trauma of the Kosovo war [28]."
-* "NATO is still perceived more often as an aggressive rather than a defensive pact, even among the supporters of Putin. The figures in public opinion polls measuring attitudes towards NATO have been changing only little and remain more negative than in 1997 [49]. As some analysts have noted, Putin’s new strategic partnership with the West rests on shaky domestic foundations. Therefore ‘the present day formation and feature of Russia’s go-West course may not be sustainable[50]. Senior people at the Russian armed forces, in particular, have not abandoned their views on NATO as a threatening military bloc aimed against Russia. A Russian defence ministry document released in October 2003, for example, indicated that Moscow will rethink its nuclear strategy if NATO continues to exist in its present form, fails to remove its ‘anti-Russian’ components and maintains its current ‘offensive’ doctrine[51]. While Putin has largely refrained from critical comments, Defence Minister Ivanov has often taken a more reserved view with regard to co-operation with NATO. Thus, at the Munich security conference in 2004 he demanded that Russia should have monitoring facilities at NATO bases to verify that they would pose no threat to Russia[52]. In March, just before the enlargement of the Alliance to the Baltic States, Ivanov repeated that NATO’s offensive doctrine, with anti-Russian attitudes inside NATO, would force Russia to adopt tougher defence measures."
-* "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’."
-
-
-
-
-
-
-
-#### Carpenter 280222
-Ted Galen Carpenter, *Many predicted Nato expansion would lead to war. Those warnings were ignored*, 
-It has long been clear that Nato expansion would lead to tragedy. 
-Mon 28 Feb 2022 19.00 GMT, The Guardian
-
-
-
-
-
-
-
-
-
-
-## Legal Considerations
-
-> **in work**
-
-### Resources Laws and Covenants for States
-
-#### UN Charter
-<https://www.un.org/en/about-us/un-charter/chapter-1>
-Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
-
-
-<!-- ?mv to disarmament/security paragraph
-#### NPT
-<https://www.un.org/disarmament/wmd/nuclear/npt/>
-
-#### OPCW
-<https://www.opcw.org/chemical-weapons-convention> 
-"As the implementing body for the Chemical Weapons Convention, the OPCW, with its 193 Member States, oversees the global endeavour to permanently and verifiably eliminate chemical weapons." from <https://www.opcw.org>
--->
-
-### Resources Laws and Covenants for States and People
-#### International Covenant on Economic, Social and Cultural Rights
-<https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights>
-
-
-#### International Covenant on Civil and Political Rights
-<https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights>
-
-
-
-### Resources Laws and Covenants for People 
-
-#### Declaration of Human Rights
-*Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
-
-
-
-### Considerations on Self Determination
-
-#### Refs on Self Determination
-##### Saul 2011
-Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, https://doi.org/10.1093/hrlr/ngr025
-
-##### Fisher 2016
-Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
-<https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
-
-> Some interesting points though not all consideration are agreed here. 
-> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).s
-
-
-### Considerations on Crimea
-[in work]
-
-#### Refs on the Legal Situation of Crimea
-##### Navari 2015
-Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots for Crimea’s secession from Ukraine. LSE European Politics and Policy (EUROPP) Blog (20 Feb 2015). Website. <http://eprints.lse.ac.uk/71485/>
-
-> short version of [Navari 2014](#navari-2014)
-
-##### Navari 2014
-CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, International Affairs, Volume 90, Issue 6, November 2014, Pages 1299–1318, <https://doi.org/10.1111/1468-2346.12171>
-
-> Recommended read. Also describes the breakup of Yugoslavia.
-
-
-<!--
-
-Peter, Örebech. "International law and Crimean secession from Ukraine (part 1)." Вестник Московского университета. Серия 27. Глобалистика и геополитика 4 (2020): 48-61. 
-
-Van den Driest, Simone F. "Crimea’s separation from Ukraine: An analysis of the right to self-determination and (remedial) secession in international law." Netherlands International Law Review 62.3 (2015): 329-363.
--->
-
-
-
-
-
-## Opinions & Articles
-*in work*
-
-*This chapter contains opinions and articles which are considered relevant to understand and interpret the current situation.*
-
-
-### Opinions & Articles from Russia
-
-
-#### Opinions by Mikhail Gorbachev
-
-##### Gorbachev FT Interview 2004
-Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
-
-Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form (without the interviewer addition '[for democracy]').([People Interaction](../people_interactions.md)). We are human.
-
-##### Gorbachev BBC Interview 2019
-The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019, <https://www.youtube.com/watch?v=qYVsKoQXATY> // no statement on how to from opinions // recommended to read [Gorbachev FT Interview 2004](#gorbachev-ft-interview-2004) as follow up.
-
-##### GORBACHEV on Perestroika and New Thinking 2021
-MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
-
-> *Highly recommended.*
-
-
-<!--
-### Opinions and Articles from Ukraine
-* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am-->
 
 ## Resources
 Sites regularly consulted for articles and news. It is attempted to read a fairly broad array of resources and to take into the different viewpoints.
