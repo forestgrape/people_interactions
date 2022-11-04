@@ -13,7 +13,7 @@
   * [UN Charter](#un-charter)
   * [Vienna Convention](#vienna-convention)
 * [Laws and Covenants for States and People](#laws-and-covenants-for-states-and-people)
-* [Considerations on Territorial Integrity and Changes](#considerations-on-territorial-integrity-and-changes)
+* [Territorial Rights](#territorial-rights)
   * [Trade in Territory](#trade-in-territory)
 * [Considerations on Self Determination](#considerations-on-self-determination)
   * [Refs on Self Determination and its Interpretations](#refs-on-self-determination-and-its-interpretations)
@@ -87,7 +87,7 @@ Vienna Convention on the Law of Treaties art. 2, May 23 1969, 1155 U.N.T.S. 331.
 
 
 
-## Considerations on Territorial Integrity and Changes
+## Territorial Rights
 
 ### Trade in Territory
 
