@@ -1,6 +1,6 @@
 # Considerations on People and Team Interactions
 
-> This page contains mostly just thoughts which often need more consideration. Mistakes, errata and getting things partly or entirely wrong is possible. Feedback and improvement suggestions are welcome!
+> This page contains mostly just thoughts which often need more consideration. [Some] considerations are possibly partly or entirely wrong. Feedback and improvement suggestions are welcome.
 
 > As of early June 2022, many statements are just estimates/guesses and not well founded facts (neither by literature nor by statistics).
 
@@ -16,12 +16,12 @@
 
 
 ## Tweet Summary
-This page contains thoughts/considerations how we team up to larger groups. How we interact as individuals and as part of groups. Countries are considered as groups and settings for peaceful interactions are searched.
+This page contains thoughts/considerations interact and team up to groups. Then we interact as individuals and as part of groups. Countries are viewed as groups and settings for peaceful interactions are searched.
 
 
 
 ## Summary 
-*A group* is used to denote a specific subset of a population of people. Teams are defined as groups with a common goal. Organizations are defined as organized teams. There are different forms of organizations possible. For most organizations forms the decision process is hierarchical.
+*A group* is used to denote a specific subset of a population of people. *Teams* are defined as groups with a common goal. *Organizations* are defined as organized teams. There are different forms of organizations. For most organizations the decision process is hierarchical.
 
 Interactions between the different agents (individuals, groups, teams, organizations) are considered with the goal to identify settings which enable friendly interactions.
 It is suggested, that friendly interactions are promoted, when 
@@ -63,7 +63,9 @@ International Relations: How to design and promote. Whether or not to cut ties i
 > *Opinion on Teams*
 > Ideally we act as ONE team or as teams cooperating friendly or at least as teams competing fair & peacefully - with the goal to tackle together the many challenges we face to improve the life of every-body step by step while keeping the world in a good state.
 >
->> As an important task is considered getting AI (Artificial Intelligence) and AL (Artificial Life) right. Life here, denotes a thing with environment interactions which is able to produce rough copies of itself. [Before] we know we [may] turn out to be life creators: 
+>> As an important task is considered getting AI (Artificial Intelligence) and AL (Artificial Life) right and especially not wrong. 
+>> Life here, denotes a thing with environment interactions which is able to produce rough copies of itself. 
+>> [Before] we know we [may] turn out to be life creators: 
 >> * An instance of an Artificial Intelligence in the Internet is possibly able to transform to AIL (Artificial Intelligent Life) if it is capable enough and has survival instincts.
 >> * With synthetically assembling RNA/DNA sequences, life forms which are not possible (or at least very unlikely) to arise naturally can be created. Such life forms are considered artificial life here. Just modifying single nucleotides or rearranging/combining existing life forms is considered here as at the border between artificial life and modified natural life, as such life forms can arise naturally.  <!--// Self amplifying RNAs (RNA which encodes proteins to replicate itself) could possibly give rise to such life forms if they infect immortal cell lines. // While containing synthetic RNAs the Covid vaccines from Moderna and Biontech are *not* self amplifying i.e. these RNA do not encode proteins to replicate themselves.-->
 
