@@ -12,15 +12,16 @@ Hallmarks of Offensive Weapons:
 
 
 Hallmarks of Defensive Weapons:
-* *Capability to take out Moving Targets:*
-* *Armor Piercing:*
+* *Capability to take out Moving Targets:*  Recognize, hit & render unusable.  *Armor Piercing:*
 * *Counter Fire:*
+* *Useable from Fortified Positions/fixed Installation:* 
+
 
 Solutions for movement in the 'open field':
 * avoid being targeted (e.g. by short exposure and/or stealth)
 * sustain a lot of damage (e.g. by heavy armor)
-* unmanned and disposable equipment (e.g. rockets or loitering munition)
-* large range (e.g. rockets)
+* ignore destruction: unmanned and disposable equipment (e.g. rockets or loitering munition)
+* avoid movement: large range which avoids/reduces the movement necessary (e.g. rocket launchers, artillery), though the rockets/bullets still have to move in open field.
 
 Examples:
 * Fast moving equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense or defense. Though for offense some additional protection is usually wanted such as stealth or armor.
@@ -35,7 +36,7 @@ Offensive equipment:
 Mixed (offense/defense) equipment:
 [self propelled] artillery
 infantry
-a 
+
 
 
 Defensive equipment:
