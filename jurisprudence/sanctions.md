@@ -134,17 +134,17 @@ Sanctions can be implemented as:
 ### Justice System
 **in work**
 
-A framework specifying/defining actions and a predefined or at least predictable set of sentences for unwanted actions to discourage them.
+A framework specifying/defining actions and a predefined and (or at least) predictable set of sentences for unwanted actions to discourage them.
 
 #### Purpose of Sentences 
-* Negative Return value: make the [perceived] 'return value' of unwanted behaviors negative i.e. the expected sentence is [much] higher than the expected gain. // excepted in the mathematical sense i.e. a hypothetical average over many cases.
-* Justice: Sentence a crime such that what is perceived as just by 'social norms' is achieved. // 1) What is perceived as just by social norms usually implies a negative return value. 2) What is specified in the law/decided by judges can serve as definition of just and with time develop into a 'social norm'. 
+* Negative Return value: make the [perceived] 'return value' of unwanted behaviors negative i.e. the expected sentence is [much] higher than the expected gain. // excepted both objective (mathematical i.e. a hypothetical average over all possible cases) and subjective.
+* Justice and Fairness: Sentence a crime such that what is perceived as fair/just by 'social norms' is achieved. // 1) What is perceived as just by social norms usually implies a negative return value. 2) What is specified in the law/decided by judges can serve as definition of just and with time develop into a 'social norm'. 
 * Educational: Educate a convicted not to break laws in the future.
 
 #### Relevance of Sentences
 [in work/consideration]
 In national laws:
-Justice is a major goal of civil law.
+Justice is a major goal of civil law. In civil law, often actions are reversible (for example paying back of money acquired illegally) and so justice in the sense of 'common sense fairness' is possible.
 Negative return values and an educational process are key in criminal law. In criminal law a main goal is to prevent criminal actions at minimal costs for society.
 
 
