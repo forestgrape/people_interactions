@@ -69,8 +69,6 @@
 
 ## New Content and Updates
 
-* 
-
 * Updated the literature on the events around the [2014 Revolution](#events-around-the-2014-revolution).
   > The considerations are now more comprehensive and balanced (hopefully).
 
@@ -974,7 +972,9 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 ### Background Ukraine
 #### Events around the 2014 Revolution
 [in work]
-The 2014 revolution is also known as Euromaidan revolution or as revolution of dignity (as political opponents were treated without dignity beforehand ([Zadorozhnii 2016](#zadorozhnii-2016)). 
+The 2014 revolution is also known as Euromaidan revolution or as revolution of dignity (as political opponents were treated without dignity beforehand ([Zadorozhnii 2016](#zadorozhnii-2016)).
+
+> Updated, 5.11. Before, there was some bias influenced by comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media (including wikipedia) which induced some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine, which is a reason for increased motivation to protest. 
 
 
 // References Events around the 2014 Revolution
@@ -986,7 +986,7 @@ The 2014 revolution is also known as Euromaidan revolution or as revolution of d
 > * “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // Russian politics towards Ukraine can be [experienced as] dictating. From a financial perspective the EU offer was less attractive than the Russian offer. Well there's the IMF, though it can be [experienced as] dictating too.
 > * “Don’t allow your obsession with me to drive your policies,” she wrote. “I don’t know if they will listen to my appeal but I will do everything possible for the signing of the agreement even as I continue to sit in prison.”
 > * “We have heard threats from our European partners towards Ukraine, up to and including promoting the holding of mass protests,” Mr Putin said at a press conference with Recep Tayyip Erdogan, Turkey’s prime minister. “This is pressure and this is blackmail. Whether Ukraine and the Ukrainian leadership will give in to such blackmail will be clear only in the next few days.” ''' // People protesting against a decision they don't like and which affects them is not extraordinarily when living in a free society, so the partners may have just spoken out of [unfriendly] personal experience at home. Violent protests are a different story - a difficult question is what turned them violent - external (i.e. external interference) or internal (e.g. aggressive suppression of peaceful protests, unlawful behavior towards oppositions politicians) or both?
-> * "In place of bilateral talks with the EU, the Ukrainian government has suggested a “tripartite commission” between Kiev, Brussels and Moscow to resolve differences." // A reasonable proposal instead of just moving borders (or curtains) try to eliminate them by smoothing them out ([Fluent Borders in Europe](#fluent-european-borders)).
+> * "In place of bilateral talks with the EU, the Ukrainian government has suggested a “tripartite commission” between Kiev, Brussels and Moscow to resolve differences." // A reasonable proposal instead of just moving borders (or curtains), discussions on alternatives such as to eliminate them by smoothing them out ([Fluent Borders in Europe](#fluent-european-borders)).
 
 
 ##### Morales 2014
@@ -1012,7 +1012,9 @@ David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/
 ##### Katchanovski 2021
 The Maidan Massacre in Ukraine: Revelations from Trials and Investigation, Ivan Katchanovski, School of Political Studies & Conflict Studies and Human Rights Program University of Ottawa, Canada ikatchan@uottawa.ca
 
-> Hard to judge the statements. Not all are agreed here but some deserve consideration.
+> Some conclusions seem at least to have some truth such as "The revelations from the Maidan massacre trials and investigations show that the narratives promoted by the Ukrainian and Western governments and with some notable exceptions the media that the Maidan protesters were massacred by government snipers and/or the Berkut police are false.". 
+While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." For one, here it is considered unclear who actually had the leadership - the right wing or were they just thugs confronting the Berkut while the lead was at others. And second, the leadership and the snipers (respectively those who give the order to shoot) can be different people.
+
 
 
 ##### ECtHR Re Crimea 2021
