@@ -974,7 +974,7 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 [in work]
 The 2014 revolution is also known as Euromaidan revolution or as revolution of dignity (as political opponents were treated without dignity beforehand ([Zadorozhnii 2016](#zadorozhnii-2016)).
 
-> Updated, 5.11. Before, there was some bias influenced by comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media (including wikipedia) which induced some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine, which is a reason for increased motivation to protest. 
+> Updated, 5.11. Before, there was some bias influenced by comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media including wikipedia (The person pointed to the complex situation between west and east, especially for Donbas. The 2022 invasion was called a tragedy.) which induced some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine, which is a reason for increased motivation to protest. 
 
 
 // References Events around the 2014 Revolution
