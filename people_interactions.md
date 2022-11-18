@@ -152,12 +152,13 @@ Teams can compete or cooperate in various ways or have no connection. Here consi
 In modern times one is usually part of different teams/organizations which hold power and property: The country of living, company(ies) associated (work, ownership), social organizations and religion.
 
 #### Countries
+##### Summary Countries
 The population living in a certain area belongs to a country. The decision structure in countries is usually highly organized and hierarchically. In democracies the top members are determined by elections. In direct democracies the decision process itself is also subject to votes. Countries are often subdivided in administrative districts enabling decentralization. Regarding peace and war, countries are the most important organizational unit since the military command is usually per country. 
 > Often the larger the population part that takes part in a country's decision process, the less likely the country will start a war. At the start of a war, a broad support in the population is/was rare. [todo statistics]
 
-Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant mistakes usually happen, especially in unforeseen situations.
+> Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant mistakes usually happen, especially in unforeseen situations.
 
-> Having multiple persons deciding, likely makes the decision process more stable and less influenced by situation specific moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. <!--// with age the number of neuronal connections increase. The speed is faster at young age. to cite -->
+> Having multiple persons deciding usually makes the decision processes more stable and less influenced by specific situations for example by moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. <!--// with age the number of neuronal connections increase. The speed is faster at young age. to cite -->
 
 Examples with broad decision processes:
 * When parliaments/assemblies are involved, especially in decisions with legislative character.
@@ -168,7 +169,9 @@ Examples with broad decision processes:
 > in work
 
 The structure in companies is usually hierarchically as follows: A board of directors is elected by the owners=shareholders. The board takes strategic decisions and elects a chairman which has mainly executive functions and implement the strategy. 
+
 > The employees only in very rare cases have any rights to be part in the decision making.
+
 
 #### Social Organizations
 Social organizations: E.g. sport clubs, political parties, scouts.

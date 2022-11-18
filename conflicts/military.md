@@ -2,9 +2,9 @@
 # Military
 > [in work]
 
-> Simplified and likely does often not reflect the situation on a real battlefield.
+> Simplified and may not reflect the situation on a real battlefield.
 
-In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. This yields hallmarks of offensive and defensive equipment/weapons.
+In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. Such static defense structures usually provide a very high protection (usually much higher than achievable by mobile armor). This yields hallmarks of offensive and defensive equipment/weapons.
 
 Hallmarks of Offensive Weapons:
 * *Capability for Movement in the Open Field:* For offense, usually at some point action in the 'open field/air' is required and thus a possible exposure to enemy fire.
@@ -12,8 +12,11 @@ Hallmarks of Offensive Weapons:
 
 
 Hallmarks of Defensive Weapons:
-* *Capability to take out Moving Targets:*  Recognize, hit & render unusable.  *Armor Piercing:*
-* *Counter Fire:*
+<!-- possibly do as table with examples-->
+
+* *Capability to take out Moving Targets:*  Recognize, hit & render unusable.  
+* *Armor Piercing:* As offensive units usually need to be able to move, their armor has trade-off between moveability and protection. This induces often some weak points in the armor which can be exploited. <!-- add Javelins or NLAW examples-->
+* *Counter Fire:* Detect & hit units firing.
 * *Useable from Fortified Positions/fixed Installation:* 
 
 
@@ -28,14 +31,18 @@ Examples:
 * Heavily armored tanks are typical offensive equipment. They can sustain quite a lot of damage but are not well suited to be hidden within buildings.
 
 
-Offensive equipment:
+#### Offensive equipment
 * heavily armored: tanks and self propelled artillery, 
 * airplane bombers, 
 * offensively used rockets (usually fairly large numbers are required)
 
-Mixed (offense/defense) equipment:
-[self propelled] artillery
-infantry
+> For a reliable defense is important to know all possibilities of the opponent offense capabilities, to have a counter for each timely at hand.
+
+#### Mixed (offense/defense) equipment
+* [self propelled] artillery // not-propelled usually better for use from fortified positions.
+* Infantry:
+  * For offense: usually more heavily armored while maintaining the ability to move, the ability to move in settings with provide some stealth/protections such as difficult terrain and/or at night, camouflage in different situations and terrain.
+  * For defense: Shields and heavy guns to use from within fortified positions.
 
 
 
