@@ -1,7 +1,12 @@
 
 # Ukraine in Conflict and Russia's Invasion into Ukraine
 
-> The goal of this page is to contribute to finding lasting peace.
+> The goal of this page is to advocate human rights and to contribute to peace.
+
+
+
+
+
 
 * [New Content and Updates](#new-content-and-updates)
 * [Board](#board)
@@ -20,17 +25,13 @@
   * [Fluent European Borders](#fluent-european-borders)
   * [Governance and Territorial Situations](#governance-and-territorial-situations)
   * [Minority Rights in Ukraine](#minority-rights-in-ukraine)
-  * [Refs Paths to Peace](#refs-paths-to-peace)
+  * [Literature Paths to Peace](#literature-paths-to-peace)
 * [Peace Negotiations](#peace-negotiations)
   * [Negotiation Standpoints](#negotiation-standpoints)
   * [Negotiation State July](#negotiation-state-july)
 * [Significance of Peace and Effects and Dangers of War](#significance-of-peace-and-effects-and-dangers-of-war)
   * [Effects of War](#effects-of-war)
   * [Nuclear Risks of War](#nuclear-risks-of-war)
-* [Opinions on the War](#opinions-on-the-war)
-  * [UN](#un)
-* [Opinions & Articles](#opinions--articles)
-  * [Opinions & Articles from Russia](#opinions--articles-from-russia)
 * [War Documentation](#war-documentation)
   * [Prisoners of War](#prisoners-of-war)
   * [Illegal Weapons](#illegal-weapons)
@@ -41,6 +42,11 @@
   * [Background on Russia](#background-on-russia)
   * [Refs General Background](#refs-general-background)
   * [NATO Russia Relations](#nato-russia-relations)
+* [Opinions, Interpretations & Judgement](#opinions-interpretations--judgement)
+  * [Opinions and Judgement by Global Organizations](#opinions-and-judgement-by-global-organizations)
+  * [Considerations by People from Ukraine on the Conflict](#considerations-by-people-from-ukraine-on-the-conflict)
+  * [Opinions by People from Russia](#opinions-by-people-from-russia)
+  * [Opinions by People from the Rest of Europe](#opinions-by-people-from-the-rest-of-europe)
 * [Legal Considerations](#legal-considerations)
   * [Laws and Covenants for States](#laws-and-covenants-for-states)
   * [Laws and Covenants for States and People](#laws-and-covenants-for-states-and-people)
@@ -67,6 +73,8 @@
 
 
 
+
+
 ## New Content and Updates
 
 * Updated the literature on the events around the [2014 Revolution](#events-around-the-2014-revolution).
@@ -74,14 +82,14 @@
 
 * Chapter [Opinions & Articles](#opinions--articles). Started with articles by Mikhail Gorbachev.
 
-* Clarifications and corrected mistakes across the page for example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
+* Clarifications and corrected mistakes across the page. For example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
 
 
 24.9.(formulations adapted 12.10.): Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
 
 In the current situation the interpretation of the results has its limits. When the question is whether people want to be with Russia:
 * In territories occupied since February only a NO is meaningful: 
-  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people possibly don't dare to vote 'NO' - especially not when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
+  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people may not dare to vote 'NO' - especially when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
   * Voting Result NO: If people vote NO to closer ties with Russia, the message to the Russian soldiers is to go home.
 * In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is possibly neither representative but wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
   > * In case of a YES, to both respect international law and the people's opinion (in the sense of self determination) a possible solution could to keep DNR and LNR as autonomous regions in Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
@@ -148,7 +156,7 @@ Diplomacy and Compromises from All Parties are likely the best Way out
 ### Truce
 A stop of all military actions are help to reduce the ongoing tragedies including losses, find paths to reduce the risks of escalation & peace and to bolster diplomacy. 
 
-#### Reasons for a Armistice
+#### Reasons for a Truce
 With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus essential topics such as:
 * Overall goals: Increasing security, good and peaceful relations with neighbors. Serving [the wishes of] all the people.
 * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
@@ -162,7 +170,7 @@ With the daily tragedies occurring and military analyses and decision required d
 
 
 #### Ceasefire Implementation Option
-> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant (tactical) advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance is considered important - then can be found through negotiations.
+> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant (tactical) advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance is considered important - then can be found through negotiations. // When there is a broad international consensus what a [un]fair respectively [un]lawful situation is, the international community has leverage via sanctions to encourage a fair and lawful solution with [Sanctions](#sanctions-economic-measures).
 
 
 
@@ -183,8 +191,6 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 
-
-
 ## Notes
 The focus is on human rights [for individuals], many of which are violated in a war. Thus the page is *pro peace* and *against war*. A goal is to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint regarding states (personal viewpoint transparent in the [appendix](#appendix)).
 
@@ -198,10 +204,6 @@ The focus is on human rights [for individuals], many of which are violated in a 
 * Almost sure: Mistakes happen here and not all content is up to the task. 
 
 * Feedback is welcome - especially pointing out mistakes and improvement suggestions.
-
-
-
-
 
 
 
@@ -287,7 +289,10 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
 > * The Open Balkans Project seems a viable path onwards. 
-  >> A main reason is a partnership with the EU is more likely with a single well organized group instead of many small states. A better cooperation is important as the EU surrounds the Balkan and a full membership of the many small states seems unlikely as long as the EU has not reformed its decision processes and such a reform is not in sight.
+  >> Some reason are:
+  >> * Immediate benefits for the local people such as free movement and student exchanges.
+  >> * A partnership with the EU is more likely with a single well organized group instead of many small states. A better cooperation is important as the EU surrounds the Balkan and a full membership of the many small states seems unlikely as long as the EU has not reformed its decision processes and such a reform is not in sight.
+  >> * The economies are working in larger markets which usually increases efficiency and competitiveness and [thereby] prepares the economies for an increased integration into the European and world-wide markets.
 
 
 
@@ -296,7 +301,7 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 
 #### Refs NATO Counter Terrorism
 
-##### NATO Countering terrorism
+##### NATO Countering Terrorism
 Countering terrorism, Last updated: 03 Aug. 2022 16:29
 <https://www.nato.int/cps/en/natohq/topics_77646.htm>
 
@@ -326,7 +331,7 @@ Dr. Antonio Missiroli, Dr. John Manza
 There is a strong opposition from Russia to the expansion of NATO to its close neighbors, especially since the mid 90s. Possible reasons for this are: 
 * From the Cold War, the NATO itself or at least the name carries ballast: "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’." as stated in [Forsberg 2005](#forsberg-05).
 * The [NATO actions and interventions in the Yugoslavian Wars](#nato-in-the-yugoslavian-wars) were [perceived] aggressive and in violation with international laws (including the UN charter).
-* The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there were/are constraint for countries to operate NATO and Russian military equipment alongside.
+* The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there have been/are constraint for countries to operate NATO and Russian military equipment alongside.
 
 
 
@@ -339,14 +344,17 @@ There is a strong opposition from Russia to the expansion of NATO to its close n
 
 Ideally each two neighboring countries have friendly and close interactions to the extent that the borders between country become smooth/fluent. Ideally, when traveling from the British Isles to Türkiye and the Levant, from Scandinavia to the Maghreb or from Portugal to Russia all the borders are smooth.
 
-As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EAEU, the CIS, the AU and the EFTA, are essential, as are all the countries themselves.
+As the major player and designer in Europe, the European Union has a key role but all European or bordering country groups such as the EEU, the CIS, the AU and the EFTA, are essential, as are all the countries themselves.
 
-> Possibly the The European Political Community proposed by the President Macron could be a suitable setting to discuss/establish smoother borders. // modelled similar to the [African Union](#african-union) is - possibly also as yet another European state group.
+> A new political and economic organization with European countries and the Europe's neighbors as members could help.
+> * Possibly the European Political Community proposed by France could be a suitable setting to discuss/establish smoother borders.
+> * Possibly modelled similar to the [African Union](#african-union). 
 
 
 #### Refs Economic and Political State Groups in and around Europe
-##### African Union
-African Union: <https://au.int>
+
+##### European Union
+EU: <https://european-union.europa.eu/index_en>
 
 ##### Eurasian Economic Union
 Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
@@ -354,8 +362,14 @@ Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
 ##### EFTA
 EFTA: <https://www.efta.int>
 
-##### European Union
-EU: <https://european-union.europa.eu/index_en>
+##### European Political Community 
+
+
+##### CIS
+
+
+##### African Union
+African Union: <https://au.int>
 
 ##### Shanghai Cooperation Organisation
 Shanghai Cooperation Organisation: <http://eng.sectsco.org>
@@ -382,21 +396,30 @@ Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreemen
 
 #### Kherson oblast
 ##### Kherson oblast WEST of Dnieper including the city Kherson
-Significance: Full (political, economic and security) control important for Ukraine. // On the Ukrainian military campaign: In the 2nd half of September <!--in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range--> mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. 
+Significance: Full (political, economic and security) control important for Ukraine. // As of 15.11. full Ukrainian control is restored.
+
+
+
+<!-- 
+
+// out of date, content planned to be moved/updated, 17.11.
+
+On the Ukrainian military campaign: In the 2nd half of September (in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range) mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. 
 * Regarding Kherson city possibly mainly grinding [combined with slow advances], possibly waiting for the right moment and positioning or possibly patience until the supply breaks down to minimize losses as storming Kherson could be where bloody for all and cause a lot of destruction.
 * Advances even into the Donbas, where it is - lets say - questionable whether the local people (i.e. the people living currently there) want fighting to return. 
   > Why not conquer [the hearts of] the people with charming policies instead of bombs?
 
 * Military Situation: Considering the military capabilities from the different parties, the geography and the likely positioning (likely = possibly combined with observations (if available) & combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
-  * In view of the positioning of the different forces (peninsula like intrusion of Russian control into Ukrainian control), the area is prone (very hard to defend against) to be shot by different medium-range distance weapons such as medium range maneuverable rockets for example launched by HIMARS. <!--  some reasons are: the launching area is large, the possible incoming angle is large, backtracing is hard as maneuverable)-->
+  * In view of the positioning of the different forces (peninsula like intrusion of Russian control into Ukrainian control), the area is prone (very hard to defend against) to be shot by different medium-range distance weapons such as medium range maneuverable rockets for example launched by HIMARS. // some reasons are: the launching area is large, the possible incoming angle is large, backtracing is hard as maneuverable)
   * The Dnieper crosses (two bridges and road crossing alongside dam) seem vulnerable to clever designed attacks (as of 27.7. the car bridge already needs to be repaired due to holes).
     > As of 29.8. all major bridges are reported to be (at least partly) demolished ([War Situation August](#war-situation-august)). // A complete destruction of the dam itself would have unwanted consequences. The dam forms the Kakhovka Reservoir (<https://en.wikipedia.org/wiki/Kakhovka_Reservoir>). The reservoir is important for the water provision for the Zaporizhzhia nuclear power plant, irrigation systems (including for the Crimea) and hydroelectric energy generation.
 * Political Situation: The people in Kherson seem to want the Russian forces to go [most of all occupied areas].
-
+-->
 
 ##### Kherson oblast EAST of the Dnieper river
 Political and economical importance for Ukraine. Possibly, no offensive and/or [semi-]autonomous/remote controlled/able 'NATO weapons' of [geopolitical] importance for Russia.
+
 
 
 #### Speculations on Crimea
@@ -443,7 +466,7 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 
 
 
-### Refs Paths to Peace
+### Literature Paths to Peace
 
 
 #### Powell 2306 Guardian
@@ -644,8 +667,7 @@ Environmental Damage Caused by Russian Invasion Estimated at $10 Billion, <https
 
 
 ##### Hamilton for Eurasia Program
-*Coal Mines, Land Mines and Nuclear Bombs: The Environmental Cost
-of the War in Eastern Ukraine*, <https://www.fpri.org/article/2019/09/coal-mines-land-mines-and-nuclear-bombs-the-environmental-cost-of-the-war-in-eastern-ukraine/>
+R. E. Hamilton, 26.9.2019, Hamilton, Ph.D., is an Associate Professor of Eurasian Studies at the U.S. Army War College, *Coal Mines, Land Mines and Nuclear Bombs: The Environmental Cost of the War in Eastern Ukraine*, <https://www.fpri.org/article/2019/09/coal-mines-land-mines-and-nuclear-bombs-the-environmental-cost-of-the-war-in-eastern-ukraine/>
 
 
 
@@ -731,75 +753,9 @@ Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themos
 
 
 
-
-
-
-
-
-## Opinions on the War
-
-### UN 
-#### UN Security Council on 240822
-*Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*,
-<https://news.un.org/en/story/2022/08/1125342>
-
-Selected Statements:
-* Guterres: 
-  * “The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter) . Peace in line with international law.” (https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered).
-  * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
-* DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
-* Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
-* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.” 
-
-
-
-
-
-
-
-
-
-
-## Opinions & Articles
-*in work*
-
-*This chapter contains opinions and articles which are considered relevant to understand and interpret the current situation.*
-
-
-
-### Opinions & Articles from Russia
-
-#### Opinions by Mikhail Gorbachev
-
-##### Gorbachev FT Interview 2004
-Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
-
-Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form (without the interviewer addition '[for democracy]').([People Interaction](../people_interactions.md)). We are human.
-
-##### Gorbachev BBC Interview 2019
-The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019, <https://www.youtube.com/watch?v=qYVsKoQXATY> // no statement on how to from opinions // recommended to read [Gorbachev FT Interview 2004](#gorbachev-ft-interview-2004) as follow up.
-
-##### GORBACHEV on Perestroika and New Thinking 2021
-MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
-
-> *Highly recommended.*
-
-
-<!--
-### Opinions and Articles from Ukraine
-* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am-->
-
-
-
-
-
-
-
-
 ## War Documentation
 
-> Many eyes looking, documenting, knowing and putting oneself into others positions possibly helps to reduce/limit the brutality of war - possibly this even helps to find [paths to] peace.
-
+> Many eyes looking, documenting, knowing and putting oneself into others positions possibly helps to reduce/limit the brutality of war - and may even help to find [paths to] peace.
 
 Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
 
@@ -817,7 +773,7 @@ The articles and notes below document some aspects of warfare, with a focus on h
 ### Prisoners of War
 *Zelensky: Ukraine guarantees three things to Russian prisoners*, 24.09.2022 23:22, <https://www.ukrinform.net/rubric-ato/3578996-zelensky-ukraine-guarantees-three-things-to-russian-prisoners.html>
 
-> The better the treating prisoners of war, the higher the chances for enemies to surrender. // Treating prisoners as good as possible - the expected value of the comfort of war is still horrible as other outcomes are: living in dirt hole, dying, getting wounded, ...
+> The better the treating prisoners of war, the higher the chances for enemies to surrender. => Treating prisoners as good as possible - entering the military at the front is still very bad regarding the overall expected value of the comfort as other outcomes are: living in dirt hole, dying, getting wounded, ...
 
 
 
@@ -961,11 +917,6 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 
 
 
-
-
-
-
-
 ## Historical and Political Background
 
 
@@ -974,7 +925,7 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 [in work]
 The 2014 revolution is also known as Euromaidan revolution or as revolution of dignity (as political opponents were treated without dignity beforehand ([Zadorozhnii 2016](#zadorozhnii-2016)).
 
-> Updated, 5.11. Before, there was some bias influenced by comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media including wikipedia (The person pointed to the complex situation between west and east, especially for Donbas. The 2022 invasion was called a tragedy.) which induced some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine, which is a reason for increased motivation to protest. 
+> Updated, 5.11. Before, there was some bias influenced by early comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media including wikipedia (She pointed to the complex situation between west and east, especially for Donbas. The situation and especially the war was seen an immense tragedy.). Here, in the following there was some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. // Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine.
 
 
 // References Events around the 2014 Revolution
@@ -997,7 +948,7 @@ Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukr
 Zadorozhnii, Oleksandr (2016) "Political Prosecutions in Ukraine: The Case of Yulia Tymoshenko," Hofstra Law Review: Vol. 45 : Iss. 2 , Article 8., <http://scholarlycommons.law.hofstra.edu/hlr/vol45/iss2/8>
 
 > describes the handling of the Yanukovych government of political competitors/opponents and sheds light on the 2014 Revolution from this perspective: 
-> * """The Revolution of Dignity was preceded by the events of 2010 to 2013 (the presidency of Viktor Yanukovych).2 The illegality of authorities' actions during this period could be qualified as a threat to the rule of law in Ukraine.""" from I. INTRODUCTION. // i.e. a fair and equal legal system could be seen in danger
+> * """The Revolution of Dignity was preceded by the events of 2010 to 2013 (the presidency of Viktor Yanukovych).2 The illegality of authorities' actions during this period could be qualified as a threat to the rule of law in Ukraine.""" from I. INTRODUCTION.
 > * """Illegal arrests of activists with opposing views became one of the causes of the Revolution of Dignity. Moreover, the release of all political prisoners, including Tymoshenko, was one of the requirements of Maidan. Thus, the imprisonment of Tymoshenko proves that political persecutions are not only contrary to both national and international law; they can also provoke the protests of people. And, accordingly, such persecutions not only fail to achieve their goal to protect the regime but may have the opposite effect.""" from VII. CONCLUSION.
 
 
@@ -1013,7 +964,7 @@ David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/
 The Maidan Massacre in Ukraine: Revelations from Trials and Investigation, Ivan Katchanovski, School of Political Studies & Conflict Studies and Human Rights Program University of Ottawa, Canada ikatchan@uottawa.ca
 
 > Some conclusions seem at least to have some truth such as "The revelations from the Maidan massacre trials and investigations show that the narratives promoted by the Ukrainian and Western governments and with some notable exceptions the media that the Maidan protesters were massacred by government snipers and/or the Berkut police are false.". 
-While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." For one, here it is considered unclear who actually had the leadership - the right wing or were they just thugs confronting the Berkut while the lead was at others. And second, the leadership and the snipers (respectively those who give the order to shoot) can be different people.
+While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." For one, here it is considered unclear who actually had the leadership - the right wing possibly just were the thugs confronting the Berkut while the lead was at others. And second, the leadership of the protests (well rough since the beginning but not deadly brutal), the snipers and those who give the order to shoot can be different people.
 
 
 
@@ -1026,11 +977,6 @@ Both Ukraine and Russia explain their viewpoints around the change in control of
 
 ##### Nitsova 2021
 Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
-
-
-
-
-
 
 
 
@@ -1140,6 +1086,102 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 
 
+## Opinions, Interpretations & Judgement
+*in work*
+
+*This chapter contains opinions, considerations, interpretations and judgement which have some relevance to and may help to interpret and understand the current situation.*
+
+> The focus of this chapter is on interpretations, opinions and judgement. When the focus is on the description or listing of facts themselves, the resources are in other chapters such as [War Documentation](#war-documentation) or [Background](#historical-and-political-background).
+
+
+### Opinions and Judgement by Global Organizations
+#### UN Security Council on 240822
+*Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*,
+<https://news.un.org/en/story/2022/08/1125342>
+
+Selected Statements:
+* Guterres: 
+  * “The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter). Peace in line with international law.” (<https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered>).
+  * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
+* DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
+* Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
+* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.” 
+
+
+
+
+
+### Considerations by People from Ukraine on the Conflict
+
+#### Zelenska BBC Interview
+Rob Corp, 3 September, Interview with Olena Zelenska by Laura Kuenssberg, *Ukraine war: As UK counts pennies, we count casualties - Olena Zelenska
+
+
+<!--
+### Opinions and Articles from Ukraine
+* *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
+  
+"""
+So, what needs to happen to make our dreams come true?
+A free economy: As the basis for everything, this means a powerful economy that develops itself freely without the negative influence of oligarchs and corruption, the pressure of inspection bodies and the tax office;
+Development of the agriculture and digital economies: Food is always needed and the future is digital – let’s also not forget space;
+Science and science-intensive innovation: War is already a driver of innovation and now, before our eyes, innovative Ukrainian products (not least modern weapons and equipment) are growing rapidly; /* Peace is considered best for innovation: In terms of Nobel prizes Sweden and Switzerland both neutral countries lead in Europe. */
+Business support: We need maximum support for small and medium-sized businesses, simplification of the tax system, a transition from income tax to tax on turnover and on withdrawn capital, and severe financial penalties for non-payment;
+Democracy, the further development of democratic institutions and a powerful middle class: These elements are key to a market-based, socially oriented economy, along with the transition from a parliamentary-presidential system to a purely parliamentary republic;
+Reform: Completion of decentralization reform with the appropriate transfer of financial resources to localities; preservation of a rigid system of management in conditions of war; and the creation of a fair judicial system.
+"""
+
+ -->
+
+
+
+### Opinions by People from Russia
+
+#### Vladimir Putin on the Historical Unity of Russians and Ukrainians
+Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“, July 12, 2021 17:00, <en.kremlin.ru/d/66181>
+
+
+Selected statements:
+* "I recall that long ago, well before 2014, the U.S. and EU countries systematically and consistently pushed Ukraine to curtail and limit economic cooperation with Russia. We, as the largest trade and economic partner of Ukraine, suggested discussing the emerging problems in the Ukraine-Russia-EU format. But every time we were told that Russia had nothing to do with it and that the issue concerned only the EU and Ukraine. De facto Western countries rejected Russia's repeated calls for dialogue."
+* "The coup d'état and the subsequent actions of the Kiev authorities inevitably provoked confrontation and civil war. The UN High Commissioner for Human Rights estimates that the total number of victims in the conflict in Donbas has exceeded 13,000. Among them are the elderly and children. These are terrible, irreparable losses."
+* "The incumbent authorities in Ukraine like to refer to Western experience, seeing it as a model to follow. Just have a look at how Austria and Germany, the USA and Canada live next to each other. Close in ethnic composition, culture, in fact sharing one language, they remain sovereign states with their own interests, with their own foreign policy. But this does not prevent them from the closest integration or allied relations. They have very conditional, transparent borders. And when crossing them the citizens feel at home. They create families, study, work, do business. Incidentally, so do millions of those born in Ukraine who now live in Russia. We see them as our own close people." // Transparent borders (or [fluid borders](#fluent-european-borders) as called here) are supported here. 
+
+
+> If the bombing of Ukraine continues - regardless whether soldiers defending their homeland or civilian infrastructure are hit - the unity of Russians and Ukrainians will become historical in the sense that it becomes a thing from the past (<https://www.oxfordlearnersdictionaries.com/definition/english/historical?q=historical>). // The other way round too, in the case of Donbas and Crimea.
+
+
+
+#### Considerations by Mikhail Gorbachev
+
+##### GORBACHEV on Perestroika and New Thinking 2021
+MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
+
+> *Highly recommended.*
+
+
+##### Gorbachev BBC Interview 2019
+The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 views,8 Nov 2019, <https://www.youtube.com/watch?v=qYVsKoQXATY> // recommended follow up read is [Gorbachev FT Interview 2004](#gorbachev-ft-interview-2004).
+
+
+##### Gorbachev FT Interview 2004
+Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
+
+Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form without the interviewer addition '[for democracy]' ([People Interaction](../people_interactions.md)). We are human.
+
+
+
+
+### Opinions by People from the Rest of Europe
+
+#### Schmidt on EU Policy towards Ukraine
+REASONS FOR BIG “BLUNDERS”—EU POLICY TOWARDS UKRAINE
+Peter Schmidt,
+
+
+
+
+
+
 
 
 
@@ -1147,10 +1189,14 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 > General considerations of international law are on the page [Universal Rights and Rules](../jurisprudence/universal_rights_and_rules.md).
 
+
+
 ### Laws and Covenants for States
 #### UN Charter
 <https://www.un.org/en/about-us/un-charter/chapter-1>
 Article 2, Paragraph 4: "All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
+
+
 
 ### Laws and Covenants for States and People
 #### International Covenant on Economic, Social and Cultural Rights
@@ -1163,6 +1209,8 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 #### Declaration of Human Rights
 *Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+
+
 
 ### Territorial Rights and Integrity
 [in work]
@@ -1189,6 +1237,8 @@ Selected statements:
 
 > cites a couple of statements by the Crimean Verkhovna Rada which indicate strong disagreement of the Crimean Verkhovna Rada with the events leading to the [2014 revolution](#events-around-the-2014-revolution). This already before the February revolution which is when the Crimea police and not Russian troupes held power in Crimea. Regarding the legal aspects it argues pro unilateral secession, which is further argued in [part 2](oerebech-2020-part-2).
 
+
+
 ##### Oerebech 2020 Part 2
 Peter, Örebech., INTERNATIONAL LAW AND CRIMEAN SECESSION FROM UKRAINE (part 2)*
 
@@ -1213,7 +1263,7 @@ Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots
 ##### Navari 2014
 CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, International Affairs, Volume 90, Issue 6, November 2014, Pages 1299–1318, <https://doi.org/10.1111/1468-2346.12171>
 
-> Mainly describes the breakup of Yugoslavia. Puts it also as a precedent for the disintegration of the Soviet Union, though it was more the other way round: The Badinter commission modelled the disintegration of Yugoslavia after the Soviet union where a withdrawal for first level republic was in the constitution. Though unilateral withdrawal was not in the constitution of the Federation of Yugoslavia [to confirm and clarify].
+> Mainly describes the breakup of Yugoslavia. Puts it also as a precedent for the disintegration of the Soviet Union, though it was more the other way round: The Badinter commission modelled the disintegration of Yugoslavia after the Soviet union - however in the Soviet Union a withdrawal for first level republics was in the constitution while [unilateral] withdrawal was not in the constitution of the Federation of Yugoslavia [to confirm and clarify].
 
 
 
@@ -1226,13 +1276,16 @@ CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, I
 
 Economic Measures to Encourage Adherence to International Rules.
 
-### Sanctions on Russia
 
+
+### Sanctions on Russia
 
 #### Reasons for Sanctions
 
+"So when you start counting pennies on your bank account or in your pocket, we do the same and count our casualties," - [Olena Zelenska in a interview for BBC](#zelenska-bbc-interview).
+
 1. Encouraging Russia to stop offensive warfare and adhere to international rules such as the [UN charter](#un-charter). // The invasion ([Opinion on conflict](#opinion-on-the-conflict)) and offensive warfare in general are not supported here. 
-2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution in agreement with international laws and covenants. // Hard to say what's a fair solution - some speculations are in [Paths to Peace](#paths-to-peace).
+2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution in agreement with international laws and covenants. // Hard to say what's an overall accepted and [ideally] fair solution - some proposals in [Paths to Peace](#paths-to-peace).
 
 
 > Economic measures are seen as a better alternative to military actions as economic restrictions can be designed to have a much better benefits-costs ratio than warfare. Here, as such economic measures proposed a reduced usage of petroleum products. 
@@ -1240,8 +1293,8 @@ Economic Measures to Encourage Adherence to International Rules.
 > * Warfare on the other hand, has a variety of [bad effects and risks associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring, dividing and brutalizing people and environment pollution in many ways. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 >
 > ##### Smooth Transition from Environmental Perspective makes Production Reduction Unlikely
-> An aggressive production reduction to stabilize prizes by oil producing countries is considered unlikely: As this would encourage strict consumption reduction measures and thus a hard transition away from petroleum products (for the sake to reduce warfare) while from an environmental perspective a smooth transition away seems the reasonable path to go (important to have widespread support and no one left sitting). // For example very strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher,very strict limits may become an option. Once the consumption is reduced a rebound is unlikely since it is considered the path to go. 
-> > The OPEC+ productions reduction likely has a (short-term) financial motivation and is a test and signal [for the 'West'].
+> An aggressive production reduction to stabilize prizes by oil producing countries is considered unlikely: As this would encourage strict consumption reduction measures and thus a hard transition away from petroleum products (for the sake to reduce warfare) while from an environmental perspective a smooth transition away seems the reasonable path to go (important to have widespread support and no one is left sitting). // For example strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher, strict limits may be an option as sanctions. Once the consumption is reduced a rebound is unlikely since it is [considered] the path to go anyways.
+> > The OPEC+ productions reduction possibly has a (short-term) financial motivation and is a test and signal [for the 'West'].
 
 
 #### Overview
@@ -1439,7 +1492,7 @@ While each conflict has its own characteristics and history, there are similarit
 
 > *in work*
 > 
-> *Incomplete in different aspects*.
+> *Incomplete in many different aspects*.
 
 
 ### Soviet/Warsaw Pact Invasions
@@ -1506,7 +1559,7 @@ Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
 
 ### Falkland War
 Similarities: 
-* Similar tactics UK (in the Falkland War) and Ukraine in this war.
+* Some military aspects from the UK (in the Falkland War) are similar to those of Ukraine in this war.
 
 Refs:
 * Evgeny Norin, 16 Jun, 2022, *Remembering the Falklands conflict: How Argentina's 'little victorious war' instead became a huge success for Margaret Thatcher*
@@ -1554,9 +1607,9 @@ The situation of Taiwan has some similarities to the *part of* the Donbas that s
 
 // There are also many differences, which are not listed currently.
 
-> A viable path possibly is:
+> A viable path for Taiwan possibly is:
 > * A self-determined local government which has quite fare reaching autonomy for example choosing trade relations (practically mostly the case for Taiwan with the accepted WTO membership (<https://www.wto.org/english/thewto_e/countries_e/chinese_taipei_e.htm>)). 
-> * Keeping them out of geo/military-politics such as not to join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is not be violated [from a geopolitical perspective]. 
+> * Keeping Taiwan out of geo/military-politics such as not to join military alliances (or foreign federations/countries), limits on offensive military - in other words the state of the United Nations is respected [from a geopolitical/military/security perspective - the UN is a *security*/[geo]political organization and not an economic one]. 
 
 >> Any kind of forcible methods against [the will of] the local population by *any* party are not considered adequate.
 
