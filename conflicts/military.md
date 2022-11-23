@@ -35,13 +35,14 @@ Examples:
 * heavily armored: tanks and self propelled artillery, 
 * airplane bombers, 
 * offensively used rockets (usually fairly large numbers are required)
+* drones (possibly in swarms)
 
-> For a reliable defense is important to know all possibilities of the opponent offense capabilities, to have a counter for each timely at hand.
+> For a reliable defense to know all possibilities of the opponent offense capabilities helps to have a counter for each timely at hand.
 
 #### Mixed (offense/defense) equipment
 * [self propelled] artillery // not-propelled usually better for use from fortified positions.
 * Infantry:
-  * For offense: usually more heavily armored while maintaining the ability to move, the ability to move in settings with provide some stealth/protections such as difficult terrain and/or at night, camouflage in different situations and terrain.
+  * For offense: usually more heavily armored while maintaining the ability to move including the ability to move in settings with provide some stealth and/or cover: For example moving in wild terrain and/or at night, camouflage for different situations and terrains.
   * For defense: Shields and heavy guns to use from within fortified positions.
 
 
