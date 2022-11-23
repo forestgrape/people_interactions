@@ -119,6 +119,8 @@ The possibility of buying out at a 'fair' price could be an option when all part
 ##### Saul 2011
 Matthew Saul, *The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*, Human Rights Law Review, Volume 11, Issue 4, December 2011, Pages 609–644, <https://doi.org/10.1093/hrlr/ngr025>
 
+> Nomen est omen. => The paper gives a good overview on todays status of self-determination.
+
 ##### Fisher 2016
 Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
 <https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
