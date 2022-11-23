@@ -4,10 +4,6 @@
 > The goal of this page is to advocate human rights and to contribute to peace.
 
 
-
-
-
-
 * [New Content and Updates](#new-content-and-updates)
 * [Board](#board)
   * [Human Rights](#human-rights)
@@ -16,6 +12,7 @@
   * [Diplomacy and Compromises](#diplomacy-and-compromises)
   * [Truce](#truce)
   * [Considerations on military, diplomatic, economical and scientific Perspectives](#considerations-on-military-diplomatic-economical-and-scientific-perspectives)
+  * [Considerations on the September Plebiscites](#considerations-on-the-september-plebiscites)
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
   * [Security for Ukraine](#security-for-ukraine)
@@ -38,13 +35,15 @@
   * [Warfare by Month](#warfare-by-month)
   * [War Situation](#war-situation)
 * [Historical and Political Background](#historical-and-political-background)
+  * [Events around the 2014 Revolution](#events-around-the-2014-revolution)
+  * [From the Revolution to the Invasion](#from-the-revolution-to-the-invasion)
   * [Background Ukraine](#background-ukraine)
   * [Background on Russia](#background-on-russia)
   * [Refs General Background](#refs-general-background)
   * [NATO Russia Relations](#nato-russia-relations)
-* [Opinions, Interpretations & Judgement](#opinions-interpretations--judgement)
+* [Opinions \& Judgement](#opinions--judgement)
   * [Opinions and Judgement by Global Organizations](#opinions-and-judgement-by-global-organizations)
-  * [Considerations by People from Ukraine on the Conflict](#considerations-by-people-from-ukraine-on-the-conflict)
+  * [Considerations by People from Ukraine](#considerations-by-people-from-ukraine)
   * [Opinions by People from Russia](#opinions-by-people-from-russia)
   * [Opinions by People from the Rest of Europe](#opinions-by-people-from-the-rest-of-europe)
 * [Legal Considerations](#legal-considerations)
@@ -77,36 +76,17 @@
 
 ## New Content and Updates
 
+* Redone and extended [Opinion & Judgement section](#opinions--judgement) which contains opinions, interpretations, assessments and judgement (23.11.). It includes opinions/articles by Olena and Volodymyr Zelenskyy, Mikhail Gorbachev and Vladimir Putin.
+
 * Updated the literature on the events around the [2014 Revolution](#events-around-the-2014-revolution).
   > The considerations are now more comprehensive and balanced (hopefully).
 
-* Chapter [Opinions & Articles](#opinions--articles). Started with articles by Mikhail Gorbachev.
-
 * Clarifications and corrected mistakes across the page. For example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
-
-
-24.9.(formulations adapted 12.10.): Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
-
-In the current situation the interpretation of the results has its limits. When the question is whether people want to be with Russia:
-* In territories occupied since February only a NO is meaningful: 
-  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people may not dare to vote 'NO' - especially when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
-  * Voting Result NO: If people vote NO to closer ties with Russia, the message to the Russian soldiers is to go home.
-* In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is possibly neither representative but wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
-  > * In case of a YES, to both respect international law and the people's opinion (in the sense of self determination) a possible solution could to keep DNR and LNR as autonomous regions in Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
-  * In the case of a NO, the message is to go.
-
-
-> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. When everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites would be possible.
-
-> Plebiscites are welcome here as long as they are free and handled lawfully in any aspects. 
-
 
 * Notes on Sanctions: [Economic Measures to Encourage Adherence to International Rules](#sanctions-economic-measures).
 
 * Notes on [NATO trust building](#nato-trust-building): Reforming/Renaming/Re-Founding/Replacing NATO
 * [Nuclear Safety and Risks](#nuclear-risks-of-war) and the situation at the [Zaporizhia Nuclear Power Plant](#situation-at-the-zaporizhzhia-nuclear-plant).
-
-
 
 * June - August: Many updates across the page. For example notes on [ceasefire](#cease-fire)
 
@@ -161,7 +141,7 @@ With the daily tragedies occurring and military analyses and decision required d
 * Overall goals: Increasing security, good and peaceful relations with neighbors. Serving [the wishes of] all the people.
 * Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
 * Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists.
-  > Self-determination including [regional] autonomy is ideally [clearer] specified at the UN level. Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.), Taiwan, Donbas, Kosovo, Basque County, Quebec, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification and the chance to play seems to come at some cost in competitiveness).
+  > Self-determination including [regional] autonomy is ideally [clearer] specified (further considerations on the [Page on Universal Rights&Rules](../jurisprudence/universal_rights_and_rules.md)). Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.), Taiwan, Donbas, Kosovo, Basque County, Quebec, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification and the chance to play seems to come at some cost in competitiveness).
 
 > Here, the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
 
@@ -187,6 +167,23 @@ Broad Russian advances are less likely since the Ukrainian defenses are strong: 
 From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers and the young generation is a risk - with possibly impeding their scientific and economic capabilities (and thereby also the military capabilities). Though when people tend to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
 
 
+
+### Considerations on the September Plebiscites
+<!-- originally published 24.9. in updates, formulations adapted 12.10., moved here 23.11.-->
+
+Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
+
+In the current situation the interpretation of the results has its limits. When the question is whether people want to be with Russia:
+* In territories occupied since February only a NO is meaningful: 
+  * Voting Result YES: As many people who oppose Russia likely left and thus they can't participate and additionally people may not dare to vote 'NO' - especially when armed personal is present at the voting. => A YES is possibly due to people being afraid or away.
+  * Voting Result NO: If people vote NO to closer ties with Russia, the message to the Russian soldiers is to go home.
+* In the regions termed by the local administrations as People’s Republics of Donetsk (DNR) and Luhansk (LNR) the vote is possibly neither representative but wrong in both directions: While many people may have fled or feel pressured to vote yes, many strong supporters may be fighting and unable to vote. The vote in these regions thus is somewhat more meaningful.
+  > * In case of a YES, to both respect international law and the people's opinion (in the sense of self determination) a possible solution could to keep DNR and LNR as autonomous regions in Ukraine but to enable the people close interactions with Russia (for example a custom union with Russia and free movement of people with Russia). In this case for the people of DNR and LNR would be part of the Ukraine and in most practical aspects also of Russia.
+  * In the case of a NO, the message is to go.
+
+> *The above notes may read as complete nonsense without any connection to reality.* Well possibly that's true. One reason they are put online nevertheless is, to argue that plebiscites are not per se unlawful even when there are territorial disputes. If everybody would be committed to peace and the right for self determination of the people from the Donbas (which they hardly had back since February 2014), meaningful plebiscites would be possible.
+
+> Plebiscites are welcome here as long as they are free and handled lawfully in any aspects.
 
 
 
@@ -217,7 +214,7 @@ Consideration and searching for possible pathways to lasting peace.
 ### Security for Ukraine
 * General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to Ukraine as the largest country entirely within Europe.
 * A strong technology and defense industry in Ukraine by international cooperation and support.
-* A neutral status for Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough [clear]). // officially in discussion
+* A neutral status for Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough). // officially in discussion
 
 
 
@@ -254,15 +251,16 @@ Redesign of security architectures and designing/strengthening partnerships/coop
 * <https://cnduk.org/> "CND campaigns non-violently to achieve British nuclear disarmament – to get rid of the Trident nuclear weapons system and stop its replacement. But we recognise that Britain’s nuclear weapons are only a small part of the problem, so we also campaign for a global nuclear weapons ban." from <https://cnduk.org/who/>, October 22
 
 
+
+
 ### NATO Trust building
 > *in work and unfinished*
 
-
-To increase the international trust into NATO there are different options ranging from reforms to a re-founding/replacement or even a dissolution [possibly into the OSCE].
+To increase the international trust respectively reduce distrust in NATO there are different options ranging from reforms to a re-founding/replacement, a dissolution or an integration into another organization such as the OSCE.
 
 #### NATO Reforms/Reorientation
 * Increase transparency. 
-* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense - in actions for example reducing offensive weapons. <!-- possibly only weapon exports to country which adhere certain principles of humanity such as no death sentence, an overall fair legal system, local self determination for example by decentralization -->
+* Clearer (more purpose and actions defining) statutes and possibly a focus more on defense - in actions for example reducing offensive weapons. <!-- possibly only weapon exports to countries which adhere certain principles of humanity such as no death sentence, an overall fair legal system, local self determination for example by decentralization -->
 * Open interstate cooperations to manage the challenges we face - the NATO expertise is broad.
 * A focus on tasks such as crisis management and state-independent threats such as terrorism ([NATO counter Terrorism](#nato-counter-terrorism-reference-curriculum)).
 
@@ -284,7 +282,7 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > In early 90's is was not [officially] clear respectively stated what's the purpose of the  North Atlantic Treaty Organization (NATO) and even if there still was any. NATO officials sometimes stated to become a more a political and less military organization. 
 > 
 > During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
-> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which goals at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO respectively some of its member countries were *not* 'squeaky clean'.
+> > Looking from the outside and backwards it is hard to judge what really happened - who did what with which intentions at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO respectively some of its member countries were *not* 'squeaky clean'.
 > 
 > Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
@@ -921,9 +919,7 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 
 ## Historical and Political Background
 
-
-### Background Ukraine
-#### Events around the 2014 Revolution
+### Events around the 2014 Revolution
 [in work]
 The 2014 revolution is also known as Euromaidan revolution or as revolution of dignity (as political opponents were treated without dignity beforehand ([Zadorozhnii 2016](#zadorozhnii-2016)).
 
@@ -936,10 +932,11 @@ The 2014 revolution is also known as Euromaidan revolution or as revolution of d
 
 > Selected statements:
 > * In a letter written from Kachanivska penal colony, Ms Tymoshenko warned Viktor Yanukovich, the Ukrainian president and arch political rival, said a shift away from the EU and towards Russia would condemn Mr Yanukovich “to live all your life according to its diktats”.
-> * “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // Russian politics towards Ukraine can be [experienced as] dictating. From a financial perspective the EU offer was less attractive than the Russian offer. Well there's the IMF, though it can be [experienced as] dictating too.
+> * “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // From a financial perspective the EU offer was less attractive than the Russian offer. Russian politics towards Ukraine can be [experienced as] dictating. However the IMF/EU requirements can be [experienced as] dictating too.
 > * “Don’t allow your obsession with me to drive your policies,” she wrote. “I don’t know if they will listen to my appeal but I will do everything possible for the signing of the agreement even as I continue to sit in prison.”
-> * “We have heard threats from our European partners towards Ukraine, up to and including promoting the holding of mass protests,” Mr Putin said at a press conference with Recep Tayyip Erdogan, Turkey’s prime minister. “This is pressure and this is blackmail. Whether Ukraine and the Ukrainian leadership will give in to such blackmail will be clear only in the next few days.” ''' // People protesting against a decision they don't like and which affects them is not extraordinarily when living in a free society, so the partners may have just spoken out of [unfriendly] personal experience at home. Violent protests are a different story - a difficult question is what turned them violent - external (i.e. external interference) or internal (e.g. aggressive suppression of peaceful protests, unlawful behavior towards oppositions politicians) or both?
+> * “We have heard threats from our European partners towards Ukraine, up to and including promoting the holding of mass protests,” Mr Putin said at a press conference with Recep Tayyip Erdogan, Turkey’s prime minister. “This is pressure and this is blackmail. Whether Ukraine and the Ukrainian leadership will give in to such blackmail will be clear only in the next few days.” ''' // People protesting against a decision they don't like and which affects them is not extraordinarily when living in a free society, so the partners may have just spoken out of [unfriendly] personal experience at home. Violent protests are a different story - a difficult question is what turned them violent - external interference or internal reasons (e.g. aggressive suppression of peaceful protests, unlawful behavior towards oppositions politicians) or both?
 > * "In place of bilateral talks with the EU, the Ukrainian government has suggested a “tripartite commission” between Kiev, Brussels and Moscow to resolve differences." // A reasonable proposal instead of just moving borders (or curtains), discussions on alternatives such as to eliminate them by smoothing them out ([Fluent Borders in Europe](#fluent-european-borders)).
+
 
 
 ##### Morales 2014
@@ -965,8 +962,7 @@ David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/
 ##### Katchanovski 2021
 The Maidan Massacre in Ukraine: Revelations from Trials and Investigation, Ivan Katchanovski, School of Political Studies & Conflict Studies and Human Rights Program University of Ottawa, Canada ikatchan@uottawa.ca
 
-> Some conclusions seem at least to have some truth such as "The revelations from the Maidan massacre trials and investigations show that the narratives promoted by the Ukrainian and Western governments and with some notable exceptions the media that the Maidan protesters were massacred by government snipers and/or the Berkut police are false.". 
-While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." For one, here it is considered unclear who actually had the leadership - the right wing possibly just were the thugs confronting the Berkut while the lead was at others. And second, the leadership of the protests (well rough since the beginning but not deadly brutal), the snipers and those who give the order to shoot can be different people.
+> Some conclusions seem at least to have some truth such as "The revelations from the Maidan massacre trials and investigations show that the narratives promoted by the Ukrainian and Western governments and with some notable exceptions the media that the Maidan protesters were massacred by government snipers and/or the Berkut police are false.". While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." For one, here it is considered unclear who actually had the leadership - the right wing? or were they just the thugs confronting the Berkut while the lead was at others? And second, the leadership of the protests - rough since the beginning but not deadly brutal - and those who give the order to shoot can be different people.
 
 
 
@@ -982,7 +978,15 @@ Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk Af
 
 
 
+### From the Revolution to the Invasion
+#### Economic Development
+##### Bogdanova on Trade Relations
+Trade Relations between Ukraine and Russia amidst the Political Turmoil, Iryna Bogdanova
 
+#### Military Events
+
+
+### Background Ukraine
 
 
 
@@ -1088,10 +1092,10 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 
 
-## Opinions, Interpretations & Judgement
+## Opinions & Judgement
 *in work*
 
-*This chapter contains opinions, considerations, interpretations and judgement which have some relevance to and may help to interpret and understand the current situation.*
+*This chapter contains opinions, considerations, assessment, interpretations and judgement which have some relevance to and may help to interpret and understand the current situation.*
 
 > The focus of this chapter is on interpretations, opinions and judgement. When the focus is on the description or listing of facts themselves, the resources are in other chapters such as [War Documentation](#war-documentation) or [Background](#historical-and-political-background).
 
@@ -1113,10 +1117,23 @@ Selected Statements:
 
 
 
-### Considerations by People from Ukraine on the Conflict
+### Considerations by People from Ukraine
 
 #### Zelenska BBC Interview
 Rob Corp, 3 September, Interview with Olena Zelenska by Laura Kuenssberg, *Ukraine war: As UK counts pennies, we count casualties - Olena Zelenska
+
+
+#### ZELENSKYY on the Day of Dignity and Freedom
+*Address by the President of Ukraine on the Day of Dignity and Freedom*, 21 November 2022 - 09:01
+<https://www.president.gov.ua/en/news/zvernennya-prezidenta-ukrayini-z-nagodi-dnya-gidnosti-ta-svo-79309>
+
+"""
+Fellow Ukrainians!
+Today we celebrate the Day of Dignity and Freedom. A holiday that shows that for us dignity and freedom is a holiday. The answer to the question of who Ukrainians are and what is most important to them.
+Dear people!
+I said these words in the same place on the same day exactly one year ago. What has changed since then? A lot. In our country, Europe and the whole world. But something remains unchanged. This is the answer to the question of who Ukrainians are and what is most important to us. Two values, inextricably intertwined, like the right and left banks of the Dnipro River. Like blue and yellow colors. Like Chubynsky’s words and Verbytsky’s music. Like two threads of a pattern on a vyshyvanka where our genetic code is encrypted. This is dignity and freedom.
+...
+"""
 
 
 <!--
@@ -1149,7 +1166,7 @@ Selected statements:
 * "The incumbent authorities in Ukraine like to refer to Western experience, seeing it as a model to follow. Just have a look at how Austria and Germany, the USA and Canada live next to each other. Close in ethnic composition, culture, in fact sharing one language, they remain sovereign states with their own interests, with their own foreign policy. But this does not prevent them from the closest integration or allied relations. They have very conditional, transparent borders. And when crossing them the citizens feel at home. They create families, study, work, do business. Incidentally, so do millions of those born in Ukraine who now live in Russia. We see them as our own close people." // Transparent borders are supported here and discussed in [fluent borders](#fluent-european-borders) which is inspired by Russia's proposals for trilateral discussions between Ukraine, Russia and the EU - to make Ukraine a bridge building country.
 
 
-> If the bombing of Ukraine continues [much longer] - regardless whether soldiers defending their homeland or civilian infrastructure are hit - the unity of Russians and Ukrainians will become historical in the sense that it becomes a thing from the past (<https://www.oxfordlearnersdictionaries.com/definition/english/historical?q=historical>). // The other way round too, in the case of Donbas and Crimea [if bombs fall there].
+> If the bombing of Ukraine continues [much longer] - regardless whether soldiers defending their homeland or civilian infrastructure are hit - the unity of Russians and Ukrainians will become historical in the sense that it becomes a thing related to the past (<https://www.oxfordlearnersdictionaries.com/definition/english/historical?q=historical>). // The other way round too, in the case of Donbas and Crimea [if bombs fall there].
 
 
 
@@ -1179,7 +1196,7 @@ Comments: In the statement "You can have a pocket Duma, a convenient Duma, but t
 REASONS FOR BIG “BLUNDERS”—EU POLICY TOWARDS UKRAINE
 Peter Schmidt,
 
-
+> EU thinking about Ukraine? (Which?):
 
 
 
