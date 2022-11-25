@@ -45,7 +45,7 @@
   * [Opinions and Judgement by Global Organizations](#opinions-and-judgement-by-global-organizations)
   * [Considerations by People from Ukraine](#considerations-by-people-from-ukraine)
   * [Opinions by People from Russia](#opinions-by-people-from-russia)
-  * [Opinions by People from the Rest of Europe](#opinions-by-people-from-the-rest-of-europe)
+  * [Opinions by People from the Rest of Europe and North America](#opinions-by-people-from-the-rest-of-europe-and-north-america)
 * [Legal Considerations](#legal-considerations)
   * [Laws and Covenants for States](#laws-and-covenants-for-states)
   * [Laws and Covenants for States and People](#laws-and-covenants-for-states-and-people)
@@ -103,7 +103,6 @@
 ### Human Rights
 *We all - everyone - are granted with the same human rights*.
 
-
 [Human Rights](#declaration-of-human-rights)
 
 
@@ -150,7 +149,7 @@ With the daily tragedies occurring and military analyses and decision required d
 
 
 #### Ceasefire Implementation Option
-> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant (tactical) advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance is considered important - then can be found through negotiations. // When there is a broad international consensus what a [un]fair respectively [un]lawful situation is, the international community has leverage via sanctions to encourage a fair and lawful solution with [Sanctions](#sanctions-economic-measures).
+> The opinion here is to obtain a ceasefire with few conditions: for both sides to agree the conditions likely need to be such that no side gets significant advantages/disadvantages (this can involve freeze of the current situation such as a position freezes and stopping of non combat actions such as building up defenses or even material and troupe mobilization and/or movements outside of warfare areas). An accepted peace agreement - for which fairness, justice and overall acceptance are considered important - then can be found through negotiations. // If there is a broad international consensus what a [un]fair respectively [un]lawful situation is, the international community has leverage via sanctions to encourage a fair and lawful solution with [Sanctions](#sanctions-economic-measures).
 
 
 
@@ -169,7 +168,7 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 ### Considerations on the September Plebiscites
-<!-- originally published 24.9. in updates, formulations adapted 12.10., moved here 23.11.-->
+<!-- originally published 24.9. in the updates section, formulations adapted 12.10., moved here 23.11.-->
 
 Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
 
@@ -932,7 +931,7 @@ The 2014 revolution is also known as Euromaidan revolution or as revolution of d
 
 > Selected statements:
 > * In a letter written from Kachanivska penal colony, Ms Tymoshenko warned Viktor Yanukovich, the Ukrainian president and arch political rival, said a shift away from the EU and towards Russia would condemn Mr Yanukovich “to live all your life according to its diktats”.
-> * “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // From a financial perspective the EU offer was less attractive than the Russian offer. Russian politics towards Ukraine can be [experienced as] dictating. However the IMF/EU requirements can be [experienced as] dictating too.
+> * “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // From a financial perspective the EU offer was less attractive than the Russian offer. Russian politics towards Ukraine can be [experienced as] dictating. However the IMF/EU requirements can be [experienced as] dictating too. // Encouragements of the European Union regarding democratic principles and human rights are considered positive or at least pointing into the right direction.
 > * “Don’t allow your obsession with me to drive your policies,” she wrote. “I don’t know if they will listen to my appeal but I will do everything possible for the signing of the agreement even as I continue to sit in prison.”
 > * “We have heard threats from our European partners towards Ukraine, up to and including promoting the holding of mass protests,” Mr Putin said at a press conference with Recep Tayyip Erdogan, Turkey’s prime minister. “This is pressure and this is blackmail. Whether Ukraine and the Ukrainian leadership will give in to such blackmail will be clear only in the next few days.” ''' // People protesting against a decision they don't like and which affects them is not extraordinarily when living in a free society, so the partners may have just spoken out of [unfriendly] personal experience at home. Violent protests are a different story - a difficult question is what turned them violent - external interference or internal reasons (e.g. aggressive suppression of peaceful protests, unlawful behavior towards oppositions politicians) or both?
 > * "In place of bilateral talks with the EU, the Ukrainian government has suggested a “tripartite commission” between Kiev, Brussels and Moscow to resolve differences." // A reasonable proposal instead of just moving borders (or curtains), discussions on alternatives such as to eliminate them by smoothing them out ([Fluent Borders in Europe](#fluent-european-borders)).
@@ -1137,7 +1136,8 @@ I said these words in the same place on the same day exactly one year ago. What 
 
 
 <!--
-### Opinions and Articles from Ukraine
+
+#### Zhdanov on 31 Years of Independence
 * *31 Years of Independence: A Time to Reflect and to Dream* By Ihor Zhdanov. Published Aug. 24 at 11:06 am
   
 """
@@ -1149,6 +1149,14 @@ Business support: We need maximum support for small and medium-sized businesses,
 Democracy, the further development of democratic institutions and a powerful middle class: These elements are key to a market-based, socially oriented economy, along with the transition from a parliamentary-presidential system to a purely parliamentary republic;
 Reform: Completion of decentralization reform with the appropriate transfer of financial resources to localities; preservation of a rigid system of management in conditions of war; and the creation of a fair judicial system.
 """
+
+
+#### Yukhnovskyi on the Invasion
+Ihor Yukhnovskyi, «Every state consolidated its independence in war,»
+<https://tvoemisto.tv/en/exclusive/every_state_consolidated_its_independence_in_war__ihor_yukhnovskyi_136387.html>
+
+> The title is not precise as *mostly* is omitted, Yukhnovskyi is cited: "You know that historically, it mostly was that all the states that became independent, had consolidated this independence in war. We thought that we would become independent on the basis that we took advantage of such a phenomenon as the GKChP in the Soviet Union and declared our independence." // "... it mostly was ... " is more true as there are many examples of peaceful separation for example the separation of Czechoslovakia into Czechia and Slovakia and most states of the former Soviet Union.
+
 
  -->
 
@@ -1185,21 +1193,26 @@ The former Soviet leader Mikhail Gorbachev full interview - BBC News, 6,873,358 
 ##### Gorbachev FT Interview 2004
 Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ostrovsky, Financial Times; Feb 12, 2004, <https://www.gorby.ru/en/presscenter/publication/show_23317/>
 
-Comments: In the statement "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy]." // here, the statement is considered general i.e. in the original form without the interviewer addition '[for democracy]' ([People Interaction](../people_interactions.md)). We are human.
+> There is written "You can have a pocket Duma, a convenient Duma, but this could have grave consequences [for democracy].". Here, the statement is considered general i.e. in the original form without the interviewer addition '[for democracy]' ([People Interaction](../people_interactions.md)). We are human.
 
 
 
 
-### Opinions by People from the Rest of Europe
+### Opinions by People from the Rest of Europe and North America
 
 #### Schmidt on EU Policy towards Ukraine
-REASONS FOR BIG “BLUNDERS”—EU POLICY TOWARDS UKRAINE
-Peter Schmidt,
+Peter Schmidt, REASONS FOR BIG “BLUNDERS”—EU POLICY TOWARDS UKRAINE
 
 > EU thinking about Ukraine? (Which?):
 
 
+#### DePetris on 6 Months of War
+Daniel R DePetris, Opinion, *Six months in, the Ukraine war is a brutal stalemate with no end in sight*
 
+'''
+Helmuth von Moltke, the chief of staff for the Prussian army, once made the astute observation that no war plan survives “first contact” with a hostile force. If there was ever a war to validate that claim, it’s the one currently churning in Ukraine. 
+...
+'''
 
 
 
@@ -1468,7 +1481,7 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 #### Reasons for Sanctions
 * Violation of OSCE rules by the manner of the NATO expansion
 * Violation of OSCE rules to some extent by the manner of the EU expansion. The EU has quite hard outer borders which can have 'curtain-like' effects for those on the outside (and thereby decrease their ability to keep up people connections and friendships and thereby their security)
-* Inaction regarding encouragement or even possibly discouragement for the MINSK agreement implementation. // Though on the plus side it was mediated (if it was sincere - which seems the case by most though others may have opposed).
+* [At least] Inaction regarding encouragement for the MINSK agreement implementation. // Though on the plus side it was mediated (if it was sincere - which seems the case by most participants though others may have opposed).
 
 
 
