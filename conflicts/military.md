@@ -42,7 +42,7 @@ The classification just gives a tendency in usage but does not restrict it:
 * Armored offensive equipment can be used in defense, though it usually is not a resource efficient.
 * 'Purely' offensive weapons need to be protected, for this defensive or mixed equipment in used.
 
-> For offensive actions usually at least some offensive equipment is required and for defense, defensive equipment is best suited.
+> For offensive actions nearly always at least some offensive equipment is required and a flexible offensive force includes defensive or mixed equipment. For defense, defensive equipment is best suited.
  
 
 #### Examples of Offensive Equipment
