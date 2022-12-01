@@ -228,7 +228,7 @@ Consideration and searching for possible pathways to lasting peace.
 ### Security for Russia
 As Russia is a global power and the largest country of Europe, Asia and the world, the security of Russia is mainly considered in the context of [Security of Europe and the World](#security-in-europe-and-the-world). 
 
-> In late 2021 and early 2022 Russia requested some security guarantees, see for example [Cameron](#cameron-200122).
+<!--  In late 2021 and early 2022 Russia requested some security guarantees such as no [more] NATO bases close to Russia, see for example [Cameron](#cameron-200122).-->
 
 
 
@@ -239,20 +239,25 @@ As Russia is a global power and the largest country of Europe, Asia and the worl
 Redesign of security architectures and designing/strengthening partnerships/cooperations/trust-building programs (e.g. the United Nations, the OSCE in Europe and [NATO trust building](#nato-trust-building) for example extending partnership for peace like cooperations).
 
 #### Arms Control and Disarmament
-* Demilitarized or at least no offensive weapons 
-  * in striking distance of population centers. // Taken strictly this involves disarming strategic weapons.
-  * alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as for the both countries strengthen their security is key.
+##### Demilitarized Zones
+Demilitarized or at least no offensive weapons 
+* in striking distance of population centers. // Taken strictly this involves disarming strategic weapons.
+* alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as for the both countries strengthen their security is key.
 
-* Increasing the Security by Limiting (Offensive) Military:
-  * Reducing the number of offensive weapons. 
-    > Weapons suitable for offense are usually mobile and/or heavily armored/stealth and/or have a long range such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers), armored vehicles (including tanks and armored self propelled artillery) and long-range (combat)drones.
-  * Limits in exercises: 
-    * the number of troupes in exercises.
-    * limits for tests and exercises involving offensive weapons.
+##### Control and Reduction of Offensive Weapons
+Increasing the Security by Limiting (Offensive) Military.
 
-* Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." (<https://cnduk.org/resources/united-states-nuclear-weapons-europe/>, 7.10.) 
+> As discussed in the [Military chapter](military.md): Weapons suitable for offense are usually mobile and/or heavily armored/stealth and/or have a long range such as rockets (including hypersonic rockets), airplanes (especially stealth airplanes and long-range bombers), armored vehicles (including tanks and armored self propelled artillery) and long-range (combat)drones.
+
+##### Limits on Exercises
+* Limits on the number of troupes in exercises.
+* Ban or at least limits for tests and exercises involving offensive military equipment. // for example by satellite surveillance (strongly armored equipment is usually visible) & automatic trigger of sanctions
+
+##### Nuclear Weapons Control and Reduction
+Reducing Nuclear Weapons and their storage sites in Europe and around the world. "A withdrawal of all US/NATO nuclear weapons from Europe would have a constructive impact on international disarmament." (<https://cnduk.org/resources/united-states-nuclear-weapons-europe/>, 7.10.)
 <!--NATO’s nuclear deterrence policy and forces:<https://www.nato.int/cps/en/natohq/topics_50068.htm> --> 
 <!-- increasing them has risks associated such as to increase tensions <https://www.theguardian.com/world/2022/oct/05/poland-us-nuclear-wars-russia-putin-ukraine> -->
+* Renewing and extending nuclear arms control such as the New START Treaty for which Russia and the US still express commitment (30 NOV, 17:36 Russia, US reaffirmed commitment to New START Treaty not too long ago — Lavrov, <https://tass.com/politics/1544029>)
 
 
 
@@ -1049,6 +1054,7 @@ Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp.
 
 #### Cameron 200122
 Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continues. And so too do the talks – this week in Kyiv, Moscow, Berlin and Geneva*, Thursday, January 20, 2022
+<https://macmillan.yale.edu/news/after-talks-geneva-nato-and-osce-ukraine-crisis-continues-and-so-too-do-talks-week-kyiv-moscow>
 
 
 #### Lieven 230322
