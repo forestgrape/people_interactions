@@ -11,8 +11,8 @@
   * [Keeping Civilians out](#keeping-civilians-out)
   * [Diplomacy and Compromises](#diplomacy-and-compromises)
   * [Truce](#truce)
-  * [Considerations on military, diplomatic, economical and scientific Perspectives](#considerations-on-military-diplomatic-economical-and-scientific-perspectives)
-  * [Considerations on the September Plebiscites](#considerations-on-the-september-plebiscites)
+  * [Perspectives in Ongoing War](#perspectives-in-ongoing-war)
+  * [Considerations on the Plebiscites](#considerations-on-the-plebiscites)
 * [Notes](#notes)
 * [Paths to Peace](#paths-to-peace)
   * [Security for Ukraine](#security-for-ukraine)
@@ -20,13 +20,13 @@
   * [Security in Europe and the World](#security-in-europe-and-the-world)
   * [NATO Trust building](#nato-trust-building)
   * [Fluent European Borders](#fluent-european-borders)
-  * [Governance and Territorial Situations](#governance-and-territorial-situations)
+  * [Governance Situations](#governance-situations)
   * [Minority Rights in Ukraine](#minority-rights-in-ukraine)
-  * [Literature Paths to Peace](#literature-paths-to-peace)
+  * [Articles on Paths to Peace](#articles-on-paths-to-peace)
 * [Peace Negotiations](#peace-negotiations)
   * [Negotiation Standpoints](#negotiation-standpoints)
   * [Negotiation State July](#negotiation-state-july)
-* [Significance of Peace and Effects and Dangers of War](#significance-of-peace-and-effects-and-dangers-of-war)
+* [Significance of Peace](#significance-of-peace)
   * [Effects of War](#effects-of-war)
   * [Nuclear Risks of War](#nuclear-risks-of-war)
 * [War Documentation](#war-documentation)
@@ -36,21 +36,24 @@
   * [War Situation](#war-situation)
 * [Historical and Political Background](#historical-and-political-background)
   * [Events around the 2014 Revolution](#events-around-the-2014-revolution)
+  * [Events ahead of the 2014 Revolution](#events-ahead-of-the-2014-revolution)
+  * [Events around the 2014 Revolution](#events-around-the-2014-revolution-1)
   * [From the Revolution to the Invasion](#from-the-revolution-to-the-invasion)
   * [Background Ukraine](#background-ukraine)
   * [Background on Russia](#background-on-russia)
-  * [Refs General Background](#refs-general-background)
+  * [Refs Geopolitical Tensions](#refs-geopolitical-tensions)
   * [NATO Russia Relations](#nato-russia-relations)
 * [Opinions \& Judgement](#opinions--judgement)
-  * [Opinions and Judgement by Global Organizations](#opinions-and-judgement-by-global-organizations)
-  * [Considerations by People from Ukraine](#considerations-by-people-from-ukraine)
-  * [Opinions by People from Russia](#opinions-by-people-from-russia)
-  * [Opinions by People from the Rest of Europe and North America](#opinions-by-people-from-the-rest-of-europe-and-north-america)
+  * [Statements by Global Organizations](#statements-by-global-organizations)
+  * [Statements by People from Ukraine](#statements-by-people-from-ukraine)
+  * [Statements by People from Russia](#statements-by-people-from-russia)
+  * [Opinions by People from the Rest of Europe](#opinions-by-people-from-the-rest-of-europe)
+  * [Opinions by People from North America](#opinions-by-people-from-north-america)
 * [Legal Considerations](#legal-considerations)
   * [Laws and Covenants for States](#laws-and-covenants-for-states)
   * [Laws and Covenants for States and People](#laws-and-covenants-for-states-and-people)
   * [Territorial Rights and Integrity](#territorial-rights-and-integrity)
-* [Sanctions: Economic Measures](#sanctions-economic-measures)
+* [Sanctions](#sanctions)
   * [Sanctions on Russia](#sanctions-on-russia)
 * [Conflicts with Similarities](#conflicts-with-similarities)
   * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
@@ -76,12 +79,12 @@
 
 ## New Content and Updates
 
-* Redone and extended [Opinion & Judgement section](#opinions--judgement) which contains opinions, interpretations, assessments and judgement (23.11.). It includes opinions/articles by Olena and Volodymyr Zelenskyy, Mikhail Gorbachev and Vladimir Putin.
+* Redone and extended [Opinion & Judgement section](#opinions--judgement) which contains opinions, interpretations, assessments and judgement (23.11.). Opinions/articles by Olena and Volodymyr Zelenskyy, Mikhail Gorbachev and Vladimir Putin are included.
 
 * Updated the literature on the events around the [2014 Revolution](#events-around-the-2014-revolution).
   > The considerations are now more comprehensive and balanced (hopefully).
 
-* Clarifications and corrected mistakes across the page. For example in [Sanctions (Economic Restrictions)](#sanctions-economic-measures).
+* Clarifications and corrected mistakes across the page. For example in [Sanctions (Economic Restrictions)](#sanctions).
 
 * Notes on Sanctions: [Economic Measures to Encourage Adherence to International Rules](#sanctions-economic-measures).
 
@@ -155,7 +158,10 @@ With the daily tragedies occurring and military analyses and decision required d
 
 
 
-### Considerations on military, diplomatic, economical and scientific Perspectives
+### Perspectives in Ongoing War
+*Considerations on Perspectives on military, diplomatic, economical and scientific Perspectives for Russia and Ukraine.*
+
+
 After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality and losses - including to civilians for example when trying to conquer foreign controlled cities and be associated to dangers of escalation.
 
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses (often hastily built and improvised) have  weak points respectively sides (which are spotted by world-class intelligences) and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve their negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
@@ -167,7 +173,9 @@ From prosperity and development perspective a stop of war seems crucial for both
 
 
 
-### Considerations on the September Plebiscites
+### Considerations on the Plebiscites
+*Considerations on the Plebiscites held by Russia in September.*
+
 <!-- originally published 24.9. in the updates section, formulations adapted 12.10., moved here 23.11.-->
 
 Plebiscites can be a chance when held & interpreted fairly and the results are handled in agreement with international law. 
@@ -218,7 +226,9 @@ Consideration and searching for possible pathways to lasting peace.
 
 
 ### Security for Russia
-As Russia is a global power and the largest country of Europe, Asia and the world, the security of Russia is mainly considered in the context of [Security of Europe and the World](#security-in-europe-and-the-world). [in work]
+As Russia is a global power and the largest country of Europe, Asia and the world, the security of Russia is mainly considered in the context of [Security of Europe and the World](#security-in-europe-and-the-world). 
+
+> In late 2021 and early 2022 Russia requested some security guarantees, see for example [Cameron](#cameron-200122).
 
 
 
@@ -255,7 +265,8 @@ Redesign of security architectures and designing/strengthening partnerships/coop
 ### NATO Trust building
 > *in work and unfinished*
 
-To increase the international trust respectively reduce distrust in NATO there are different options ranging from reforms to a re-founding/replacement, a dissolution or an integration into another organization such as the OSCE.
+To increase the international trust respectively reduce distrust in NATO there are different approaches ranging from reforms to a re-founding/replacement, a dissolution or an integration into another organization such as the OSCE.
+
 
 #### NATO Reforms/Reorientation
 * Increase transparency. 
@@ -283,7 +294,7 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 > During the Yugoslavian Wars the NATO then was first ever involved as military party. The war was brutal including crimes such as ethnic cleansing from multiple parties. Postwar, the NATO and the EU incorporated the North-Western republics Slovenia and Croatia which happen to be the wealthiest and also mainly Roman Catholic. While the NATO framed itself as NACHO (North AdriatiC Human-rights Organization) and what the 'Western' media illuminated through the fog of war was accordingly (respectively the intelligence services released to the media). For others, the NATO possibly fought a proxy war and so the NATO possibly stood for something like Nationalistic Augmenting Threat Organization.
 > > Looking from the outside and backwards it is hard to judge what really happened - who did what with which intentions at which point in time. One approach is focussing on the pre and post situation which avoids having to analyze foggy warfare, doing this - lets say - it seems possibly that the NATO respectively some of its member countries were *not* 'squeaky clean'.
 > 
-> Though the situation was complex and accordingly decision making. The region of former Yugoslavia had/has a complex history as most states have. There were nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
+> Though the situation was complex and accordingly decision making. The history of the region of former Yugoslavia is complex as it is for many other regions and states. There were nationalistic and/or separatist tendencies throughout the existence of the Yugoslavian state. Moreover in the 90's, previously granted minority rights and autonomy were (discussed to be) cut down.
 > * Possibly increased/ensured autonomy could have avoided a war, possibly with help of the UN and clearer specified UN charter regarding autonomy rights.
 > * The Open Balkans Project seems a viable path onwards. 
   >> Some reason are:
@@ -293,10 +304,17 @@ The NATO, once was founded to contain the expansionist Soviet Union ruled under 
 
 
 
+##### NATO - Russia Tensions
+There is a strong opposition from Russia to the expansion of NATO to its close neighbors, especially since the mid 90s. Possible reasons for this are: 
+* From the Cold War, the NATO itself or at least the name carries ballast: "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’." as stated in [Forsberg 2005](#forsberg-05).
+* The [NATO actions and interventions in the Yugoslavian Wars](#nato-in-the-yugoslavian-wars) were [perceived] aggressive and in violation with international laws (including the UN charter).
+* The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there have been/are constraint for countries to operate NATO and Russian military equipment alongside.
 
 
 
-#### Refs NATO Counter Terrorism
+
+#### NATO Counter Tasks
+> in work and incomplete
 
 ##### NATO Countering Terrorism
 Countering terrorism, Last updated: 03 Aug. 2022 16:29
@@ -324,12 +342,6 @@ Dr. Antonio Missiroli, Dr. John Manza
 
 
 
-##### NATO - Russia Tensions
-There is a strong opposition from Russia to the expansion of NATO to its close neighbors, especially since the mid 90s. Possible reasons for this are: 
-* From the Cold War, the NATO itself or at least the name carries ballast: "It is true that ordinary Russians have a fairly negative attitude towards NATO: only a third think that Russia’s membership of the Alliance would be desirable. Yet, at the same time a majority of Russians would be ready to join ‘a military–political alliance together with European countries and the United States’." as stated in [Forsberg 2005](#forsberg-05).
-* The [NATO actions and interventions in the Yugoslavian Wars](#nato-in-the-yugoslavian-wars) were [perceived] aggressive and in violation with international laws (including the UN charter).
-* The NATO was/is [perceived] anti Russian, which is official since the Madrid conference 2022 - though it practically always has been at least to some extent e.g. there have been/are constraint for countries to operate NATO and Russian military equipment alongside.
-
 
 
 
@@ -347,7 +359,7 @@ As the major player and designer in Europe, the European Union has a key role bu
 
 > A new political and economic organization with European countries and the Europe's neighbors as members could help.
 > * Possibly the European Political Community proposed by France could be a suitable setting to discuss/establish smoother borders.
-> * Possibly modelled similar to the [African Union](#african-union). 
+> * Possibly the [African Union](#african-union) can serve as a model. 
 
 
 #### Refs Economic and Political State Groups in and around Europe
@@ -384,11 +396,13 @@ Shanghai Cooperation Organisation: <http://eng.sectsco.org>
 
 
 
-### Governance and Territorial Situations
+### Governance Situations
+*Considerations on the Governance and Territorial Situations.*
+
 #### Donbas
 Autonomy (of varying degrees). Autonomy was a central part of the Minsk agreements (Minsk 1 and Minsk 2)
 * unclear if the Minsk agreements are still a viable path.
-* Taking into account the opinion of the people is considered nice, especially considering the events around the [2014 Revolution](#events-around-the-2014-kiev-revolution). 
+* Taking into account the opinion of the people is considered nice, especially considering the events around the [2014 Revolution](#events-around-the-2014-revolution). 
 
 > The impression here is: Ukrainians like to decide themselves. The people from the Donbas like to decide themselves whether, when and how to reintegrate. Close and good relations to Russia are of great importance for them.
 
@@ -406,7 +420,7 @@ Significance: Full (political, economic and security) control important for Ukra
 On the Ukrainian military campaign: In the 2nd half of September (in the first half, there were many good reasons for pushing the forces away from Kharkiv such as bringing Kharkiv out of artillery range) mainly military objectives seem to guide: Fighting a grinding war or advance whichever is [considered] more advantageous. 
 * Regarding Kherson city possibly mainly grinding [combined with slow advances], possibly waiting for the right moment and positioning or possibly patience until the supply breaks down to minimize losses as storming Kherson could be where bloody for all and cause a lot of destruction.
 * Advances even into the Donbas, where it is - lets say - questionable whether the local people (i.e. the people living currently there) want fighting to return. 
-  > Why not conquer [the hearts of] the people with charming policies instead of bombs?
+  > Why not conquer [the hearts of] the people with charming policies instead of bombs? The same even more for Russia.
 
 * Military Situation: Considering the military capabilities from the different parties, the geography and the likely positioning (likely = possibly combined with observations (if available) & combined with rational reasoning), the Ukrainian forces are in a better position than the Russian forces. Some reasons are:
   * Movements over the two Dnieper bridges is observable and following the movement paths gives military locations away.
@@ -424,7 +438,7 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 #### Speculations on Crimea
 
 ##### Opinion of the People of Crimea
-[coming]
+
 
 
 ##### Change of Territorial Rights
@@ -439,7 +453,8 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 > * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by Ukraine. <!-- Russia has enough other (and better) gas fields.-->
 > * Taking into account the opinion of the people of the Crimea is considered nice.
 
->> According to public statements and a couple of personal discussions (not representative) Russians tend to be more emotional on the Crimea than  Ukrainians. A deal (involving economic topics, territorial and security rights) could have some acceptance in both governments and populations.
+>> According to public statements and a couple of personal discussions (not representative) Russians tend to be more emotional on the Crimea than Ukrainians. A deal (involving economic topics, territorial and security rights) could have acceptance in both governments and populations.
+
 
 ###### Exchanging Territory
 > Another option would be to exchange territory e.g. trading some territory some Russian territory along the Russian-Ukrainian border (or some other territory) to Crimea <!-- another territory to consider is Kaliningrad Oblast, in some aspects the significance of Kaliningrad for Russia seems similar as the one of Crimea for Ukraine. Mainly put here as an example how difficult it can be to hand over territory.  -->. // Unlikely to happen. Giving up territory is likely not easy - even for Russia. Also Ukraine possibly prefers Crimea compared to other territory.
@@ -449,8 +464,6 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 
 
 ### Minority Rights in Ukraine
-
-[in work]
 
 #### Language Situation in Ukraine
 * Wikipedia on the language policy in Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
@@ -465,7 +478,7 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 
 
 
-### Literature Paths to Peace
+### Articles on Paths to Peace
 
 
 #### Powell 2306 Guardian
@@ -609,11 +622,11 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 
 
 
-## Significance of Peace and Effects and Dangers of War
-
+## Significance of Peace
+*Significance of Peace and Effects and Dangers of War*
 
 * Prevent losses and suffering. War is brutal and human rights are violated.
-* War can divide people. It often does.
+* War can divide people. And it often does.
 * War has risks associated and can escalate.
 
 
@@ -683,7 +696,7 @@ R. E. Hamilton, 26.9.2019, Hamilton, Ph.D., is an Associate Professor of Eurasia
 ##### Interfax on Economic Prognosis
 <https://interfax.com/newsroom/top-stories/84165/>
 
-> The BIP down by about 30% in 2022. Up by about 5% in 2023 assuming the war lasts half a year more.
+> The BIP down by about 30% in 2022. Up by about 5% in 2023 under the assumption the war lasts half a year more.
 
 ##### Datskevych for KievIndependent 050522
 *Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
@@ -711,6 +724,8 @@ Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Uk
 // Current Situation
 * On 8.10. the plant was reported to have been disconnected and to rely on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)). As of 14:00, power lines are reported to have been restored (according to Enerhodar Mayor Dmytro Orlov telegram referred in [Kievpost 081022](#kievpost-on-zaporizhzhia-081022)).
 * As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
+
+
 
 
 ##### Refs Zaporizhzhia Nuclear Plant
@@ -756,7 +771,7 @@ Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themos
 
 > Many eyes looking, documenting, knowing and putting oneself into others positions possibly helps to reduce/limit the brutality of war - and may even help to find [paths to] peace.
 
-Each war is brutal in its own ways. What occurs is important. What not occurs is important. 
+*Each war is brutal in its own ways. What occurs is important. What not occurs is important.*
 
 The articles and notes below document some aspects of warfare, with a focus on human rights and the effects on civilians. It is not complete. It is not verified. 
 
@@ -785,6 +800,8 @@ The articles and notes below document some aspects of warfare, with a focus on h
 
 
 ### Warfare by Month
+
+#### Warfare in November
 
 #### Selected Warfare in October
 
@@ -922,21 +939,27 @@ Almost all major bridges destroyed in Kherson region by HIMARS strikes29.08.2022
 [in work]
 The 2014 revolution is also known as Euromaidan revolution or as revolution of dignity (as political opponents were treated without dignity beforehand ([Zadorozhnii 2016](#zadorozhnii-2016)).
 
-> Updated, 5.11. Before, there was some bias influenced by early comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media including wikipedia (She pointed to the complex situation between west and east, especially for Donbas. The situation and especially the war was seen an immense tragedy.). Here, in the following there was some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. // Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine.
+> Updated, 5.11. Before, there was some bias influenced by early comments from a Donbas native, the comments surprisingly differed from the narrative told in 'Western' media including wikipedia (the complex situation between west and east was emphasized, especially for Donbas. The situation and especially the war was seen an immense tragedy without pointing at someone.). Here, in the following there was some overshooting in classifying information as propaganda: For example the lack of dignity of how during the Yanukovych presidency political competitors were treated, wasn't given enough space. // Yanukovych's competitors, including Yulia Tymonshenko, had/have their voter bases mainly in the central and western regions of Ukraine and [accordingly] the protests were carried by these regions.
 
+
+
+### Events ahead of the 2014 Revolution
 
 // References Events around the 2014 Revolution
 ##### FT on the Vilnius Summit
 *Tymoshenko warns Ukraine leader EU pact failure ‘biggest mistake’*, <https://www.ft.com/content/4ea48488-537c-11e3-b425-00144feabdc0>
 
-> Selected statements:
-> * In a letter written from Kachanivska penal colony, Ms Tymoshenko warned Viktor Yanukovich, the Ukrainian president and arch political rival, said a shift away from the EU and towards Russia would condemn Mr Yanukovich “to live all your life according to its diktats”.
-> * “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // From a financial perspective the EU offer was less attractive than the Russian offer. Russian politics towards Ukraine can be [experienced as] dictating. However the IMF/EU requirements can be [experienced as] dictating too. // Encouragements of the European Union regarding democratic principles and human rights are considered positive or at least pointing into the right direction.
-> * “Don’t allow your obsession with me to drive your policies,” she wrote. “I don’t know if they will listen to my appeal but I will do everything possible for the signing of the agreement even as I continue to sit in prison.”
-> * “We have heard threats from our European partners towards Ukraine, up to and including promoting the holding of mass protests,” Mr Putin said at a press conference with Recep Tayyip Erdogan, Turkey’s prime minister. “This is pressure and this is blackmail. Whether Ukraine and the Ukrainian leadership will give in to such blackmail will be clear only in the next few days.” ''' // People protesting against a decision they don't like and which affects them is not extraordinarily when living in a free society, so the partners may have just spoken out of [unfriendly] personal experience at home. Violent protests are a different story - a difficult question is what turned them violent - external interference or internal reasons (e.g. aggressive suppression of peaceful protests, unlawful behavior towards oppositions politicians) or both?
-> * "In place of bilateral talks with the EU, the Ukrainian government has suggested a “tripartite commission” between Kiev, Brussels and Moscow to resolve differences." // A reasonable proposal instead of just moving borders (or curtains), discussions on alternatives such as to eliminate them by smoothing them out ([Fluent Borders in Europe](#fluent-european-borders)).
+Selected statements:
+* In a letter written from Kachanivska penal colony, Ms Tymoshenko warned Viktor Yanukovich, the Ukrainian president and arch political rival, said a shift away from the EU and towards Russia would condemn Mr Yanukovich “to live all your life according to its diktats”.
+* “Don’t demand money so roughly and hysterically from the west in exchange for the agreement. It looks like Neanderthal manners,” Ms Tymoshenko wrote. “Sign the agreement and the west will give aid to you, just as it has every other European country that came into close association with the EU.”“to live all your life according to its diktats”.  // From a financial perspective the EU offer was less attractive than the Russian offer. Russian politics towards Ukraine can be [experienced as] dictating. However the IMF/EU requirements can be [experienced as] dictating too. 
+  > Encouragements of the European Union regarding democratic principles and human rights are considered positive/pointing into the right direction.
+* “Don’t allow your obsession with me to drive your policies,” she wrote. “I don’t know if they will listen to my appeal but I will do everything possible for the signing of the agreement even as I continue to sit in prison.”
+* “We have heard threats from our European partners towards Ukraine, up to and including promoting the holding of mass protests,” Mr Putin said at a press conference with Recep Tayyip Erdogan, Turkey’s prime minister. “This is pressure and this is blackmail. Whether Ukraine and the Ukrainian leadership will give in to such blackmail will be clear only in the next few days.” ''' // People protesting against a decision they don't like and which affects them is not extraordinarily when living in a free society, so the partners may have just spoken out of [unfriendly] personal experience at home. Violent protests are a different story - a difficult question is what turned them violent - external interference or internal reasons (e.g. aggressive suppression of peaceful protests, unlawful behavior towards oppositions politicians) or both?
+* "In place of bilateral talks with the EU, the Ukrainian government has suggested a “tripartite commission” between Kiev, Brussels and Moscow to resolve differences." // A reasonable proposal instead of just moving borders (or curtains), discussions on alternatives such as to eliminate them by smoothing them out ([Fluent Borders in Europe](#fluent-european-borders)).
 
 
+
+### Events around the 2014 Revolution
 
 ##### Morales 2014
 Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
@@ -945,9 +968,9 @@ Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukr
 ##### Zadorozhnii 2016
 Zadorozhnii, Oleksandr (2016) "Political Prosecutions in Ukraine: The Case of Yulia Tymoshenko," Hofstra Law Review: Vol. 45 : Iss. 2 , Article 8., <http://scholarlycommons.law.hofstra.edu/hlr/vol45/iss2/8>
 
-> describes the handling of the Yanukovych government of political competitors/opponents and sheds light on the 2014 Revolution from this perspective: 
-> * """The Revolution of Dignity was preceded by the events of 2010 to 2013 (the presidency of Viktor Yanukovych).2 The illegality of authorities' actions during this period could be qualified as a threat to the rule of law in Ukraine.""" from I. INTRODUCTION.
-> * """Illegal arrests of activists with opposing views became one of the causes of the Revolution of Dignity. Moreover, the release of all political prisoners, including Tymoshenko, was one of the requirements of Maidan. Thus, the imprisonment of Tymoshenko proves that political persecutions are not only contrary to both national and international law; they can also provoke the protests of people. And, accordingly, such persecutions not only fail to achieve their goal to protect the regime but may have the opposite effect.""" from VII. CONCLUSION.
+Describes the handling of the Yanukovych government of political competitors/opponents and sheds light on the 2014 Revolution from this perspective: 
+* """The Revolution of Dignity was preceded by the events of 2010 to 2013 (the presidency of Viktor Yanukovych).2 The illegality of authorities' actions during this period could be qualified as a threat to the rule of law in Ukraine.""" from I. INTRODUCTION.
+* """Illegal arrests of activists with opposing views became one of the causes of the Revolution of Dignity. Moreover, the release of all political prisoners, including Tymoshenko, was one of the requirements of Maidan. Thus, the imprisonment of Tymoshenko proves that political persecutions are not only contrary to both national and international law; they can also provoke the protests of people. And, accordingly, such persecutions not only fail to achieve their goal to protect the regime but may have the opposite effect.""" from VII. CONCLUSION.
 
 
 ##### Marples 2017
@@ -968,9 +991,11 @@ The Maidan Massacre in Ukraine: Revelations from Trials and Investigation, Ivan 
 ##### ECtHR Re Crimea 2021
 Both Ukraine and Russia explain their viewpoints around the change in control of Crimea from Ukraine ('THE APPLICANT GOVERNMENT') to Russia ('THE RESPONDENT GOVERNMENT') to the  European Court of Human Rights in "CASE OF UKRAINE v. RUSSIA (RE CRIMEA) (Applications nos. 20958/14 and 38334/18)" (<https://www.refworld.org/pdfid/60016bb84.pdf>). 
 
-> * Russia starts with the revolution itself as argued: """162. The “referendum” and the “reunification” cannot be seen in isolation. They were the direct result of the violent displacement of the constitutional government of Ukraine (see paragraph 147 (vi) above).""".
-> * Ukraine focusses on the events in Crimea and argues that Russia took effective control of Crimea already ahead of the Referendum (32. and following). Who had control at which time points is relevant for the responsibility for human right abuses for which the case is at the ECtHR.
-> * The case itself is currently not further discussed here.
+Notes:
+* Russia starts with the revolution itself as argued: """162. The “referendum” and the “reunification” cannot be seen in isolation. They were the direct result of the violent displacement of the constitutional government of Ukraine (see paragraph 147 (vi) above).""".
+* Ukraine focusses on the events in Crimea and argues that Russia took effective control of Crimea already ahead of the Referendum (32. and following). Who had control at which time points is relevant for the responsibility for human right abuses for which the case is brought to the ECtHR by Ukraine.
+
+> The court case itself is currently not discussed here.
 
 ##### Nitsova 2021
 Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
@@ -978,15 +1003,18 @@ Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk Af
 
 
 ### From the Revolution to the Invasion
-#### Economic Development
+
+> The events are just considered to have some relevance or some connection.
+
+
 ##### Bogdanova on Trade Relations
 Trade Relations between Ukraine and Russia amidst the Political Turmoil, Iryna Bogdanova
 
-#### Military Events
+
+
 
 
 ### Background Ukraine
-
 
 
 ### Background on Russia
@@ -1007,29 +1035,29 @@ Trade Relations between Ukraine and Russia amidst the Political Turmoil, Iryna B
 
 
 
-### Refs General Background
+### Refs Geopolitical Tensions
 
 #### Savranskaya and Blanton 2017
 Svetlana Savranskaya and Tom Blanton, *NATO Expansion: What Gorbachev Heard*, Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner; Slavic Studies Panel Addresses “Who Promised What to Whom on NATO Expansion?”, <https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early>
 
 
-#### Bugoyova
+#### Bugayova
 Bugayova, N. (2019). HOW WE GOT HERE WITH RUSSIA: THE KREMLIN’S WORLDVIEW (pp. 8–8). Institute for the Study of War. <http://www.jstor.org/stable/resrep19569.3>
 
-> Recommended read, [Bugayova's writing](#bugoyova) is insightful and enriched with many noteworthy cites from political leaders in Russia, especially from Vladimir Putin and illustrative resources. The authors interpretations are often subjective and quite a few of them are not agreed here.
-
-
+> Recommended read. Bugayova's writing is insightful and enriched with many noteworthy cites from political leaders in Russia, especially from Vladimir Putin and illustrative resources. The authors interpretations are often subjective and quite a few of them are not agreed here.
 
 
 #### Cameron 200122
 Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continues. And so too do the talks – this week in Kyiv, Moscow, Berlin and Geneva*, Thursday, January 20, 2022
 
 
-<!-- 
-commented as some controversial statements are disagreed
-#### Lieven 2303
-The History Behind Putin’s War in Ukraine, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY
-Doug Henwood
+#### Lieven 230322
+*The History Behind Putin’s War in Ukraine*, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY Doug Henwood
+
+> some controversial statements are disagreed. 
+<!--
+> * For example there are comments from preventing Russia from doing further similar military campaigns or a government change, though *not* the  disintegration of Russia - though there is some risk for it when the war would escalate [further].
+> * The Russia government is likely aware that military presence is required in occupied areas, but this possibly is considered worth it [for security reasons]. // whether occupied areas actually increase security is a different question.-->
 
 > put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
 >
@@ -1040,7 +1068,7 @@ Doug Henwood
 >> Comments on this page, are often like spoken word.
 
 
--->
+
 
 
 ### NATO Russia Relations
@@ -1098,8 +1126,10 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 > The focus of this chapter is on interpretations, opinions and judgement. When the focus is on the description or listing of facts themselves, the resources are in other chapters such as [War Documentation](#war-documentation) or [Background](#historical-and-political-background).
 
+> In the following the interpretations, opinions, considerations or judgement are called collectively statements.
 
-### Opinions and Judgement by Global Organizations
+
+### Statements by Global Organizations
 #### UN Security Council on 240822
 *Guterres underlines need for peace as Ukraine marks six months of ‘senseless war’*,
 <https://news.un.org/en/story/2022/08/1125342>
@@ -1116,7 +1146,7 @@ Selected Statements:
 
 
 
-### Considerations by People from Ukraine
+### Statements by People from Ukraine
 
 #### Zelenska BBC Interview
 Rob Corp, 3 September, Interview with Olena Zelenska by Laura Kuenssberg, *Ukraine war: As UK counts pennies, we count casualties - Olena Zelenska
@@ -1162,7 +1192,7 @@ Ihor Yukhnovskyi, «Every state consolidated its independence in war,»
 
 
 
-### Opinions by People from Russia
+### Statements by People from Russia
 
 #### Vladimir Putin on the Historical Unity of Russians and Ukrainians
 Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“, July 12, 2021 17:00, <en.kremlin.ru/d/66181>
@@ -1171,7 +1201,7 @@ Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians�
 Selected statements:
 * "I recall that long ago, well before 2014, the U.S. and EU countries systematically and consistently pushed Ukraine to curtail and limit economic cooperation with Russia. We, as the largest trade and economic partner of Ukraine, suggested discussing the emerging problems in the Ukraine-Russia-EU format. But every time we were told that Russia had nothing to do with it and that the issue concerned only the EU and Ukraine. De facto Western countries rejected Russia's repeated calls for dialogue."
 * "The coup d'état and the subsequent actions of the Kiev authorities inevitably provoked confrontation and civil war. The UN High Commissioner for Human Rights estimates that the total number of victims in the conflict in Donbas has exceeded 13,000. Among them are the elderly and children. These are terrible, irreparable losses."
-* "The incumbent authorities in Ukraine like to refer to Western experience, seeing it as a model to follow. Just have a look at how Austria and Germany, the USA and Canada live next to each other. Close in ethnic composition, culture, in fact sharing one language, they remain sovereign states with their own interests, with their own foreign policy. But this does not prevent them from the closest integration or allied relations. They have very conditional, transparent borders. And when crossing them the citizens feel at home. They create families, study, work, do business. Incidentally, so do millions of those born in Ukraine who now live in Russia. We see them as our own close people." // Transparent borders are supported here and discussed in [fluent borders](#fluent-european-borders) which is inspired by Russia's proposals for trilateral discussions between Ukraine, Russia and the EU - to make Ukraine a bridge building country.
+* "The incumbent authorities in Ukraine like to refer to Western experience, seeing it as a model to follow. Just have a look at how Austria and Germany, the USA and Canada live next to each other. Close in ethnic composition, culture, in fact sharing one language, they remain sovereign states with their own interests, with their own foreign policy. But this does not prevent them from the closest integration or allied relations. They have very conditional, transparent borders. And when crossing them the citizens feel at home. They create families, study, work, do business. Incidentally, so do millions of those born in Ukraine who now live in Russia. We see them as our own close people." // Transparent borders are supported here and discussed in [fluent borders](#fluent-european-borders) which are in essence described above - in such a situation Ukraine could help to build bridges between between North and South and between East and West.
 
 
 > If the bombing of Ukraine continues [much longer] - regardless whether soldiers defending their homeland or civilian infrastructure are hit - the unity of Russians and Ukrainians will become historical in the sense that it becomes a thing related to the past (<https://www.oxfordlearnersdictionaries.com/definition/english/historical?q=historical>). // The other way round too, in the case of Donbas and Crimea [if bombs fall there].
@@ -1198,13 +1228,17 @@ Mikhail Gorbachev: «Without freedom this country has no future», By Arkady Ost
 
 
 
-### Opinions by People from the Rest of Europe and North America
+### Opinions by People from the Rest of Europe
 
 #### Schmidt on EU Policy towards Ukraine
 Peter Schmidt, REASONS FOR BIG “BLUNDERS”—EU POLICY TOWARDS UKRAINE
 
 > EU thinking about Ukraine? (Which?):
 
+
+
+
+### Opinions by People from North America
 
 #### DePetris on 6 Months of War
 Daniel R DePetris, Opinion, *Six months in, the Ukraine war is a brutal stalemate with no end in sight*
@@ -1231,6 +1265,10 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 ### Laws and Covenants for States and People
+#### Declaration of Human Rights
+*Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+
+
 #### International Covenant on Economic, Social and Cultural Rights
 <https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights>
 
@@ -1239,8 +1277,7 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 <https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights>
 
 
-#### Declaration of Human Rights
-*Universal Declaration of Human Rights*, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+
 
 
 
@@ -1295,7 +1332,7 @@ Navari, Cornelia (2015) How the Badinter Commission on Yugoslavia laid the roots
 ##### Navari 2014
 CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, International Affairs, Volume 90, Issue 6, November 2014, Pages 1299–1318, <https://doi.org/10.1111/1468-2346.12171>
 
-> Mainly describes the breakup of Yugoslavia. Puts it also as a precedent for the disintegration of the Soviet Union, though it was more the other way round: The Badinter commission modelled the disintegration of Yugoslavia after the Soviet union - however in the Soviet Union a withdrawal for first level republics was in the constitution while [unilateral] withdrawal was not in the constitution of the Federation of Yugoslavia [to confirm and clarify].
+> Mainly describes the breakup of Yugoslavia. Puts it also as a precedent for the disintegration of the Soviet Union, though it was more the other way round: The Badinter commission modelled the disintegration of Yugoslavia after the Soviet union - even though in the Soviet Union a withdrawal for first level republics was in the constitution while [unilateral] withdrawal was not in the constitution of the Federation of Yugoslavia [to confirm and clarify].
 
 
 
@@ -1304,9 +1341,10 @@ CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, I
 
 
 
-## Sanctions: Economic Measures
+## Sanctions
+> General considerations on sanctions are in the [Sanctions chapter](../jurisprudence/sanctions.md).
 
-Economic Measures to Encourage Adherence to International Rules.
+Here the focus is on economic measures to encourage adherence to international rules.
 
 
 
@@ -1320,12 +1358,12 @@ Economic Measures to Encourage Adherence to International Rules.
 2. Once a truce is established, sanctions are considered adequate and suitable to encourage a fair solution in agreement with international laws and covenants. // Hard to say what's an overall accepted and [ideally] fair solution - some proposals in [Paths to Peace](#paths-to-peace).
 
 
-> Economic measures are seen as a better alternative to military actions as economic restrictions can be designed to have a much better benefits-costs ratio than warfare. Here, as such economic measures proposed a reduced usage of petroleum products. 
-> * A reduction in petroleum products has benefits such as cleaner air and reduces risks associated to the CO2 increase such as rising sea levels or ocean acidification. 
-> * Warfare on the other hand, has a variety of [bad effects and risks associated](#significance-of-peace-and-effects-and-dangers-of-war) such as daily tragedies occurring, dividing and brutalizing people and environment pollution in many ways. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
+> Economic measures are seen as a better alternative to military actions because economic restrictions can be designed to have a much better benefits-costs ratio than warfare. Here, as such economic measures proposed a reduced usage of petroleum products. 
+> * A reduction in petroleum products has positive effects, such as cleaner air and reduces risks associated to the CO2 increase (for example rising sea levels or ocean acidification).
+> * Warfare on the other hand, has a variety of [bad effects and risks associated](#significance-of-peace) such as daily tragedies occurring, dividing and brutalizing people and environment pollution in many ways. // A bad relationship between Ukraine and Russia has the potential to destabilize Europe in coming decades including the risk of another war as these country likely will be [the] major military powers in Europe.
 >
-> ##### Smooth Transition from Environmental Perspective makes Production Reduction Unlikely
-> An aggressive production reduction to stabilize prizes by oil producing countries is considered unlikely: As this would encourage strict consumption reduction measures and thus a hard transition away from petroleum products (for the sake to reduce warfare) while from an environmental perspective a smooth transition away seems the reasonable path to go (important to have widespread support and no one is left sitting). // For example strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher, strict limits may be an option as sanctions. Once the consumption is reduced a rebound is unlikely since it is [considered] the path to go anyways.
+> ##### Smooth Transition from Environmental Perspective makes further Production Reduction unlikely
+> An aggressive production reduction to keep oil prizes high by producers is considered unlikely, as this would encourage an even stricter consumption reduction for the sake of sanctions (For example strict speed limits are not likely for environmental reasons alone, however, as the costs willing to take to prevent warfare are higher, strict limits may be an option as sanctions.). The latter then results in a hard transition away from petroleum products as once the consumption is reduced a rebound to higher consumption is unlikely since it is [considered] the path to go anyways. From an environmental perspective alone, a transition away from petroleum products is considered the path to go, though a smooth transition away seems the [reasonable] path as it is important to have widespread support and no one is left sitting.
 > > The OPEC+ productions reduction possibly has a (short-term) financial motivation and is a test and signal [for the 'West'].
 
 
@@ -1341,7 +1379,7 @@ Economic Measures to Encourage Adherence to International Rules.
     * consumption in rich countries tends to be price insensitive.
 
 * *Goal:* Reduced the Russian state income. Lower the petroleum consumption to lower the prices and imports from Russia. Lower consumption and the prices as much as necessary e.g. down 60, 40, or even 20 $.
-  > Although the Russia economy without petroleum has a lot of potential both in skilled workers (e.g. strong in sciences such as Maths and Physics) and many natural resources other than petroleum, a transition away from petroleum is a challenge (other petroleum rich countries are better suited for solar plants, though Russia has gas which is considered best among fossils (very low air pollution and best among fossils regarding CO2) and thus at least near future proof). During a war is this hard. Without the income of petroleum and during a war this is very hard.
+  > Although the Russia economy without petroleum has a lot of potential both in skilled workers (e.g. strong in sciences such as Maths and Physics) and many natural resources other than petroleum, a transition away from petroleum is a challenge (other petroleum rich countries are better suited for solar plants, though Russia has gas which is considered best among fossils (very low air pollution and CO2 efficient for fossil energy) and thus at least near future proof). During a war is this hard. Without the income of petroleum and during a war this is very hard.
 
 
 #### Economic Measures on Russia
@@ -1509,7 +1547,7 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 
 #### Adequate Sanctions
 [in work/consideration]
-// not easy to get the sanctions neutral ...
+// not easy to get the sanctions neutral [from a central European viewpoint] ...
 
 
 -->
@@ -1545,7 +1583,7 @@ Refs:
 ### Winter War
 Background: Russia wanted the border to have further than 20 km away from St. Petersburg (then Leningrad) - what was referred by President Putin in 2013 as [correction border mistakes](#yle-on-putins-opinion-on-the-winter-war). The Finns were ready shift the border, but not as much as the Soviets demanded: The Soviets wanted to border to be moved that much for it to be closer to Viipuri, then Finland's second largest city, than the previous border was to St. Petersburg ([Background on Winter War](#wikipedia-on-the-background-of-the-winter-war)) - which was likely viewed by the Finns in turn as introducing a 'border mistake'.
 
-Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to live in winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain with their economy, their lives, hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns (the Soviets had a huge resource advantage over the Finns) was reached. The Finns kept complete independence.
+Warfare: The Finns cleverly used the homeland advantage such as knowing and using the terrain, prebuilt defensive structures and skills to handle the winter conditions like skiing. The Finns received few extern support and fought mostly on their own. Without strong backing, for the Finns long-term warfare was hard to sustain as their economy and their lives were hampered by the war. The Soviets, with many fold more inhabitants and many of them living fare away from the front in not directly affected regions, could better sustain longer warfare. Though the losses of the Soviets were very high, so finally a peace treaty with concessions from the Finns was reached while the Finns kept complete independence.
 
 Post War: Both the Soviets/Russia (under all leaders) and the Finns in the following respected the peace treaty and established good and friendly relations ([YLE](#yle-on-putins-opinion-on-the-winter-war)). // that the Winter War was perceived as defeat by the Soviets and the Soviets were much more powerful after they defeated the Nazis didn't change their adherence to the peace treaty as pointed out in [[Beck](#beck-on-the-winter-war)].
 
@@ -1676,7 +1714,7 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 // News Sites
 * KievIndependent <https://kyivindependent.com/>
 * KievPost <https://www.kyivpost.com>
-* Tvoe Misto <https://tvoemisto.tv/en/news/> //"Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
+* Tvoe Misto <https://tvoemisto.tv/en/news/> // "Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
 * Ukrinform - Ukrainian multimedia platform for broadcasting - <https://www.ukrinform.net>
 * Interfax-Ukraine <https://en.interfax.com.ua>
 
