@@ -14,6 +14,9 @@
   * [Perspectives in Ongoing War](#perspectives-in-ongoing-war)
   * [Considerations on the Plebiscites](#considerations-on-the-plebiscites)
 * [Notes](#notes)
+* [Significance of Peace](#significance-of-peace)
+  * [Effects of War](#effects-of-war)
+  * [Nuclear Risks of War](#nuclear-risks-of-war)
 * [Considerations on Paths to Peace](#considerations-on-paths-to-peace)
   * [Security for Ukraine](#security-for-ukraine)
   * [Security for Russia](#security-for-russia)
@@ -26,9 +29,6 @@
 * [Peace Negotiations](#peace-negotiations)
   * [Negotiation Standpoints](#negotiation-standpoints)
   * [Negotiation State July](#negotiation-state-july)
-* [Significance of Peace](#significance-of-peace)
-  * [Effects of War](#effects-of-war)
-  * [Nuclear Risks of War](#nuclear-risks-of-war)
 * [War Documentation](#war-documentation)
   * [Prisoners of War](#prisoners-of-war)
   * [Illegal Weapons](#illegal-weapons)
@@ -206,6 +206,177 @@ The focus is on human rights [for individuals], many of which are violated in a 
 * Almost sure: Mistakes happen here and not all content is up to the task. 
 
 * Feedback is welcome - especially pointing out mistakes and improvement suggestions.
+
+
+
+
+
+
+
+
+
+
+## Significance of Peace
+*Significance of Peace and Effects and Dangers of War*
+
+* Prevent losses and suffering. War is brutal and human rights are violated.
+* War can divide people. And it often does.
+* War has risks associated and can escalate.
+
+
+##### UN on the International Day of Peace
+*Beware the ‘poison of war’ says Guterres, championing a ‘call for peace’*
+<https://news.un.org/en/story/2022/09/1126821>
+
+Selected statements:
+'''
+While thanking those in attendance for “joining us to sound the call for peace”, Secretary- General António Guterres reminded that “today, peace is under assault”.
+“The poison of war is infecting our world,” by jeopardizing millions of lives, “turning people against each other, pitting nation against nation, eroding security and wellbeing, [and] reversing development”.
+“It is also pushing our shared goals for the future, farther and farther away”.
+Instead of fighting, “humanity should be rallying together” to tackle common challenges, stressed the UN chief.
+'''
+
+'''
+This year’s theme of “End Racism. Build Peace”, compels everyone to remember that “racism is still deeply entrenched in our world,” Mr. Kőrösi said.
+Racism threatens global peace, weakens social ties, and renders countries more vulnerable to climate change, conflicts and other crises.
+“Education and science are critical to tearing down the blinding stereotypes behind racism,” he argued, adding that “diverse ideas inspire creativity and drive innovation” – the source of our strength.
+He urged everyone to “end racism and discrimination in all its forms, once and for all”.
+'''
+
+
+### Effects of War 
+
+
+#### Direct Effects of War
+
+##### Ukrinform on UNO confirmed civilian Causalities
+*UN confirms more than 6,300 civilian deaths in Ukraine since Russia’s invasion started*, 22.10.2022 07:34
+<https://www.ukrinform.net/rubric-ato/3598541-un-confirms-more-than-6300-civilian-deaths-in-ukraine-since-russias-invasion-started.html>
+
+
+##### Ukrinform on 391 killed and 771 injured Children
+*Russians have injured 771 children in Ukraine*, 23.09.2022,
+<https://www.ukrinform.net/rubric-ato/3577854-russians-have-injured-771-children-in-ukraine.html>
+
+
+
+#### Indirect Effects of War
+
+##### Freedland
+*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*, 
+<https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu>
+
+
+##### Ukrainian PSYCHOTHERAPIST on Effects of War
+*«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*, 
+<https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html>
+
+
+##### Koshiw, theGuardian, on Psychological Effects in Borodyanka
+Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing*, 
+<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
+
+
+##### CNN on the Scars caused by War
+*Injured by war, the scars on Ukraine's wounded children are more than skin deep*, 
+<https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
+
+
+#### Ecological Effects of War
+> Not acute in comparison to human losses, though environmental damage can yield future suffering.
+
+##### KievPost on the Environmental Damage 
+Environmental Damage Caused by Russian Invasion Estimated at $10 Billion, <https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
+
+
+##### Hamilton for Eurasia Program
+R. E. Hamilton, 26.9.2019, Hamilton, Ph.D., is an Associate Professor of Eurasian Studies at the U.S. Army War College, *Coal Mines, Land Mines and Nuclear Bombs: The Environmental Cost of the War in Eastern Ukraine*, <https://www.fpri.org/article/2019/09/coal-mines-land-mines-and-nuclear-bombs-the-environmental-cost-of-the-war-in-eastern-ukraine/>
+
+
+
+
+
+
+
+#### Economic and Social Effects of War
+
+##### TheMoscowTimes 060522
+*Nearly 4M Russians Left Russia in Early 2022 – FSB*,
+<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
+
+##### Interfax on Economic Prognosis
+<https://interfax.com/newsroom/top-stories/84165/>
+
+> The BIP down by about 30% in 2022. Up by about 5% in 2023 under the assumption the war lasts half a year more.
+
+##### Datskevych for KievIndependent 050522
+*Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
+
+
+
+
+
+### Nuclear Risks of War
+#### Des Browne 1403
+Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks, <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
+
+
+#### 7 Pillars of Nuclear Safety
+*NEA supports the IAEA 7 pillars of nuclear security and safety*, <https://www.oecd-nea.org/jcms/pl_66360/nea-supports-the-iaea-7-pillars-of-nuclear-security-and-safety>
+
+
+
+#### Situation at the Zaporizhzhia Nuclear Plant
+// General Situation
+* [Olexander in Enerhodar](#olexander-in-enerhodar): ‘Crazy things are happening’: life in occupied Ukrainian nuclear city
+  > It is considered crucial that the work of the experts of Energoatom (and Rosatom) is *not* disrupted.
+* [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
+
+// Current Situation
+* On 8.10. the plant was reported to have been disconnected and to rely on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)). As of 14:00, power lines are reported to have been restored (according to Enerhodar Mayor Dmytro Orlov telegram referred in [Kievpost 081022](#kievpost-on-zaporizhzhia-081022)).
+* As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
+
+
+
+
+##### Refs Zaporizhzhia Nuclear Plant
+
+###### Olexander in Enerhodar
+*Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city*, Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power station where he used to work. An accident or artillery attack are constant fears, <https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
+
+
+###### Guardian Visual Guide on Zaporizhzhia nuclear plant
+Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns, <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
+
+
+##### Refs Situation at Zaporizhzhia Power Plant
+
+###### Kievpost on Zaporizhzhia 081022
+IAEA Head to Visit Ukraine Again After Trip to Russia
+<https://www.kyivpost.com/ukraine-politics/iaea-head-to-visit-ukraine-again-after-trip-to-russia.html>
+
+###### Ukrinform on Zaporizhzhia 081022
+Russians completely disconnect Zaporizhzhia NPP08.10.2022 08:00, 
+<https://www.ukrinform.net/rubric-ato/3588648-russians-completely-disconnect-zaporizhzhia-npp.html>
+
+###### IAEA Update 102
+Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
+
+Selected Statement: "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
+
+###### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
+*Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
+
+###### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
+Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
+
+
+
+
+
+
+
+
 
 
 
@@ -621,163 +792,6 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 
 
 
-
-
-
-
-## Significance of Peace
-*Significance of Peace and Effects and Dangers of War*
-
-* Prevent losses and suffering. War is brutal and human rights are violated.
-* War can divide people. And it often does.
-* War has risks associated and can escalate.
-
-
-##### UN on the International Day of Peace
-*Beware the ‘poison of war’ says Guterres, championing a ‘call for peace’*
-<https://news.un.org/en/story/2022/09/1126821>
-
-Selected statements:
-'''
-While thanking those in attendance for “joining us to sound the call for peace”, Secretary- General António Guterres reminded that “today, peace is under assault”.
-“The poison of war is infecting our world,” by jeopardizing millions of lives, “turning people against each other, pitting nation against nation, eroding security and wellbeing, [and] reversing development”.
-“It is also pushing our shared goals for the future, farther and farther away”.
-Instead of fighting, “humanity should be rallying together” to tackle common challenges, stressed the UN chief.
-'''
-
-'''
-This year’s theme of “End Racism. Build Peace”, compels everyone to remember that “racism is still deeply entrenched in our world,” Mr. Kőrösi said.
-Racism threatens global peace, weakens social ties, and renders countries more vulnerable to climate change, conflicts and other crises.
-“Education and science are critical to tearing down the blinding stereotypes behind racism,” he argued, adding that “diverse ideas inspire creativity and drive innovation” – the source of our strength.
-He urged everyone to “end racism and discrimination in all its forms, once and for all”.
-'''
-
-
-### Effects of War 
-
-
-#### Direct Effects of War
-
-##### Ukrinform on UNO confirmed civilian Causalities
-*UN confirms more than 6,300 civilian deaths in Ukraine since Russia’s invasion started*, 22.10.2022 07:34
-<https://www.ukrinform.net/rubric-ato/3598541-un-confirms-more-than-6300-civilian-deaths-in-ukraine-since-russias-invasion-started.html>
-
-
-##### Ukrinform on 391 killed and 771 injured Children
-*Russians have injured 771 children in Ukraine*, 23.09.2022,
-<https://www.ukrinform.net/rubric-ato/3577854-russians-have-injured-771-children-in-ukraine.html>
-
-
-
-#### Indirect Effects of War
-
-##### Freedland
-*When a bomb falls, its impact is felt for generations. I know that from my own family’s trauma*, 
-<https://www.theguardian.com/commentisfree/2022/mar/18/bombs-rain-down-family-history-save-ukraine-putin-nato-eu>
-
-
-##### Ukrainian PSYCHOTHERAPIST on Effects of War
-*«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*, 
-<https://tvoemisto.tv/en/news/even_if_the_war_stops_tomorrow_it_wont_end_for_those_who_got_hurt__a_psychotherapist_about_the_future_national_rehabilitation_centre_134794.html>
-
-
-##### Koshiw, theGuardian, on Psychological Effects in Borodyanka
-Isobel Koshiw in Borodyanka, 0307 2022, *Medics battle relentless wave of trauma in Ukrainian town of Borodyanka, Psychologists are struggling to help stricken locals cope with PTSD while facing their own grief after intense bombing*, 
-<https://www.theguardian.com/world/2022/jul/03/medics-battle-relentless-wave-of-trauma-in-ukrainian-town-of-borodyanka>
-
-
-##### CNN on the Scars caused by War
-*Injured by war, the scars on Ukraine's wounded children are more than skin deep*, 
-<https://edition.cnn.com/2022/08/09/europe/ukraine-wounded-children-intl-cmd/index.html>
-
-
-#### Ecological Effects of War
-> Not acute in comparison to human losses, though environmental damage can yield future suffering.
-
-##### KievPost on the Environmental Damage 
-Environmental Damage Caused by Russian Invasion Estimated at $10 Billion, <https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
-
-
-##### Hamilton for Eurasia Program
-R. E. Hamilton, 26.9.2019, Hamilton, Ph.D., is an Associate Professor of Eurasian Studies at the U.S. Army War College, *Coal Mines, Land Mines and Nuclear Bombs: The Environmental Cost of the War in Eastern Ukraine*, <https://www.fpri.org/article/2019/09/coal-mines-land-mines-and-nuclear-bombs-the-environmental-cost-of-the-war-in-eastern-ukraine/>
-
-
-
-
-
-
-
-#### Economic and Social Effects of War
-
-##### TheMoscowTimes 060522
-*Nearly 4M Russians Left Russia in Early 2022 – FSB*,
-<https://www.themoscowtimes.com/2022/05/06/nearly-4m-russians-left-russia-in-early-2022-fsb-a77603>
-
-##### Interfax on Economic Prognosis
-<https://interfax.com/newsroom/top-stories/84165/>
-
-> The BIP down by about 30% in 2022. Up by about 5% in 2023 under the assumption the war lasts half a year more.
-
-##### Datskevych for KievIndependent 050522
-*Russia’s war may halve Ukraine's economy, increasing budget deficit by billions*
-
-
-
-
-
-### Nuclear Risks of War
-#### Des Browne 1403
-Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks, <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
-
-
-#### 7 Pillars of Nuclear Safety
-*NEA supports the IAEA 7 pillars of nuclear security and safety*, <https://www.oecd-nea.org/jcms/pl_66360/nea-supports-the-iaea-7-pillars-of-nuclear-security-and-safety>
-
-
-
-#### Situation at the Zaporizhzhia Nuclear Plant
-// General Situation
-* [Olexander in Enerhodar](#olexander-in-enerhodar): ‘Crazy things are happening’: life in occupied Ukrainian nuclear city
-  > It is considered crucial that the work of the experts of Energoatom (and Rosatom) is *not* disrupted.
-* [Security Council Meeting on 240822](#un-security-council-on-240822): Security council discussion.
-
-// Current Situation
-* On 8.10. the plant was reported to have been disconnected and to rely on diesel generators ([Ukrinform, 0810](#ukrinform-on-zaporizhzhia-081022)). As of 14:00, power lines are reported to have been restored (according to Enerhodar Mayor Dmytro Orlov telegram referred in [Kievpost 081022](#kievpost-on-zaporizhzhia-081022)).
-* As of 15.9. the plant is reconnected to the power lines ([IAEA Update 102](#iaea-update-102)).
-
-
-
-
-##### Refs Zaporizhzhia Nuclear Plant
-
-###### Olexander in Enerhodar
-*Olexander, ‘Crazy things are happening’: life in occupied Ukrainian nuclear city*, Olexander lives in Enerhodar – a satellite city for the Zaporizhzhia power station where he used to work. An accident or artillery attack are constant fears, <https://www.theguardian.com/world/2022/aug/19/life-in-occupied-ukrainian-nuclear-city-enerhodar-zaporizhzhia-power-station>
-
-
-###### Guardian Visual Guide on Zaporizhzhia nuclear plant
-Impact of war on Zaporizhzhia nuclear plant – visual guide,  Fears that Moscow wants to switch plant to Russian power network have heightened safety concerns, <https://www.theguardian.com/world/2022/aug/26/war-zaporizhzhia-nuclear-plant-visual-guide-ukraine-russia>
-
-
-##### Refs Situation at Zaporizhzhia Power Plant
-
-###### Kievpost on Zaporizhzhia 081022
-IAEA Head to Visit Ukraine Again After Trip to Russia
-<https://www.kyivpost.com/ukraine-politics/iaea-head-to-visit-ukraine-again-after-trip-to-russia.html>
-
-###### Ukrinform on Zaporizhzhia 081022
-Russians completely disconnect Zaporizhzhia NPP08.10.2022 08:00, 
-<https://www.ukrinform.net/rubric-ato/3588648-russians-completely-disconnect-zaporizhzhia-npp.html>
-
-###### IAEA Update 102
-Update 102 – IAEA Director General Statement on Situation in Ukraine, 130922, <https://www.iaea.org/newscenter/pressreleases/update-102-iaea-director-general-statement-on-situation-in-ukraine>
-
-Selected Statement: "This means that all three back-up power lines to the ZNPP – Europe’s largest nuclear power plant – have been restored over the past few days."
-
-###### UKRInform on the Zaporizhzhia Nuclear Plant going Offline
-*Zaporizhzhia NPP at full stop - Energoatom*, 11.09.2022 10:36, <https://www.ukrinform.net/rubric-economy/3568911-zaporizhia-npp-at-full-stop-energoatom.html>
-
-###### MoscowTimes on the Meeting of Zelensky, Erdogan and Guterres
-Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themoscowtimes.com/2022/08/19/erdogan-warns-of-another-chernobyl-after-talks-in-ukraine-a78601>
 
 
 
