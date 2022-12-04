@@ -14,7 +14,7 @@
   * [Perspectives in Ongoing War](#perspectives-in-ongoing-war)
   * [Considerations on the Plebiscites](#considerations-on-the-plebiscites)
 * [Notes](#notes)
-* [Paths to Peace](#paths-to-peace)
+* [Considerations on Paths to Peace](#considerations-on-paths-to-peace)
   * [Security for Ukraine](#security-for-ukraine)
   * [Security for Russia](#security-for-russia)
   * [Security in Europe and the World](#security-in-europe-and-the-world)
@@ -36,8 +36,6 @@
   * [War Situation](#war-situation)
 * [Historical and Political Background](#historical-and-political-background)
   * [Events around the 2014 Revolution](#events-around-the-2014-revolution)
-  * [Events ahead of the 2014 Revolution](#events-ahead-of-the-2014-revolution)
-  * [Events around the 2014 Revolution](#events-around-the-2014-revolution-1)
   * [From the Revolution to the Invasion](#from-the-revolution-to-the-invasion)
   * [Background Ukraine](#background-ukraine)
   * [Background on Russia](#background-on-russia)
@@ -214,7 +212,7 @@ The focus is on human rights [for individuals], many of which are violated in a 
 
 
 
-## Paths to Peace
+## Considerations on Paths to Peace
 
 Consideration and searching for possible pathways to lasting peace.
 
@@ -635,7 +633,24 @@ Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky
 * War has risks associated and can escalate.
 
 
+##### UN on the International Day of Peace
+*Beware the ‘poison of war’ says Guterres, championing a ‘call for peace’*
+<https://news.un.org/en/story/2022/09/1126821>
 
+Selected statements:
+'''
+While thanking those in attendance for “joining us to sound the call for peace”, Secretary- General António Guterres reminded that “today, peace is under assault”.
+“The poison of war is infecting our world,” by jeopardizing millions of lives, “turning people against each other, pitting nation against nation, eroding security and wellbeing, [and] reversing development”.
+“It is also pushing our shared goals for the future, farther and farther away”.
+Instead of fighting, “humanity should be rallying together” to tackle common challenges, stressed the UN chief.
+'''
+
+'''
+This year’s theme of “End Racism. Build Peace”, compels everyone to remember that “racism is still deeply entrenched in our world,” Mr. Kőrösi said.
+Racism threatens global peace, weakens social ties, and renders countries more vulnerable to climate change, conflicts and other crises.
+“Education and science are critical to tearing down the blinding stereotypes behind racism,” he argued, adding that “diverse ideas inspire creativity and drive innovation” – the source of our strength.
+He urged everyone to “end racism and discrimination in all its forms, once and for all”.
+'''
 
 
 ### Effects of War 
@@ -948,7 +963,7 @@ The 2014 revolution is also known as Euromaidan revolution or as revolution of d
 
 
 
-### Events ahead of the 2014 Revolution
+#### Events ahead of the 2014 Revolution
 
 // References Events around the 2014 Revolution
 ##### FT on the Vilnius Summit
@@ -964,7 +979,7 @@ Selected statements:
 
 
 
-### Events around the 2014 Revolution
+#### Events around the 2014 Revolution
 
 ##### Morales 2014
 Javier Morales – Universidad Europea, Madrid, *There will be no winners in Ukraine if the new political leadership fails to protect the interests of all citizens*, February 24th, 2014, <https://blogs.lse.ac.uk/europpblog/2014/02/24/there-will-be-no-winners-in-ukraine-if-the-new-political-leadership-fails-to-protect-the-interests-of-all-citizens/>
@@ -1130,9 +1145,9 @@ Mon 28 Feb 2022 19.00 GMT, The Guardian
 
 *This chapter contains opinions, considerations, assessment, interpretations and judgement which have some relevance to and may help to interpret and understand the current situation.*
 
-> The focus of this chapter is on interpretations, opinions and judgement. When the focus is on the description or listing of facts themselves, the resources are in other chapters such as [War Documentation](#war-documentation) or [Background](#historical-and-political-background).
-
-> In the following the interpretations, opinions, considerations or judgement are called collectively statements.
+Notes:
+* The focus of this chapter is on interpretations, opinions and judgement. When the focus is on the description or listing of facts, the resources are in other chapters such as [War Documentation](#war-documentation) or [Background](#historical-and-political-background).
+* In the following the interpretations, opinions, considerations or judgement are collectively referred as statements.
 
 
 ### Statements by Global Organizations
@@ -1303,7 +1318,7 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 
-##### Oerebech 2020 Part 1
+##### Oerebech 2021 Part 1
 Peter, Örebech. "International law and Crimean secession from Ukraine (part 1)." Вестник Московского университета. Серия 27. Глобалистика и геополитика 4 (2020): 48-61. // pro Crimea secession
 
 Selected statements: 
@@ -1314,8 +1329,8 @@ Selected statements:
 
 
 
-##### Oerebech 2020 Part 2
-Peter, Örebech., INTERNATIONAL LAW AND CRIMEAN SECESSION FROM UKRAINE (part 2)*
+##### Oerebech 2021 Part 2
+Peter, Örebech., INTERNATIONAL LAW AND CRIMEAN SECESSION FROM UKRAINE (part 2)
 
 Selected Statements:
 * "Breaching the constitution and rejecting legitimate, legal power, i.e. the President to function according to basic laws of Ukraine, extra-parliamentary and undemocratic powers, ignored the people’s will expressed by the electorate. Direct power of people is the highest authority and thus in charge of the “People’s right to self-determination and self-government are part of its “residual rights”. Peoples sovereignty — residual rights — are applicable, as it happened in Norway 1814." // What if a region or some villages in Norway with a lot of oil and gas fields want secession?
