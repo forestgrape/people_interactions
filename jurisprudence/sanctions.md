@@ -38,36 +38,38 @@ Depending on the goal of a sanction, different implementations are possible. Fre
 
 
 ## Notes
-> The notes below list goals and methods of sanctions. Mostly it is **a list without judgement and not all items are supported here** (a personal viewpoint in [Opinion on Sanctions](#opinion-on-sanctions).
+* The notes below list goals and methods of sanctions, mostly *without judgement*, though an [opinion on some principles](#opinion-on-principles) is given.
 
-> This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict are on the [page on the conflict](../conflicts/ru_ukr_conflict.md#sanctions).
-
+* This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict are on the [page on the conflict](../conflicts/ru_ukr_conflict.md#sanctions).
 
 
 
 
 ## Opinion on Principles
-* As in most justice systems, here a causal and direct connection is considered as necessary to sanction an entity. 
-* Sanctioning entities with the goal they pressurize others is not supported here.
-* Openness of diplomatic is considered crucial i.e. sanctions hindering diplomatic channels are not supported here.
-* The effect of sanctions on 3rd parties is ideally minimized unless consulted and agreed first (usually only possibly friendly actors).
-* Reversibility i.e. not lasting effects once the sanctions are lifted, at least for sanctions taken ad hoc for coercion/motivation. // Sanctions targeting complex supply or support chains can be hard to reverse. For sanctions targeting [military] capabilities, this is possibly hard to avoid or is even a purpose.
-* *Some(times) sanctions [can] violate human rights - the opinion here is, that in such situations alternatives should be searched/considered.*
+> * As in most justice systems, here a causal and direct connection is considered as necessary to sanction an entity. 
+> * Sanctioning entities with the goal they pressurize others is not supported here.
+> * Openness of diplomatic is considered crucial i.e. sanctions hindering diplomatic channels are not supported here.
+> * The effect of sanctions on 3rd parties is ideally minimized unless consulted and agreed first (usually only possibly friendly actors).
+> * Reversibility i.e. not lasting effects once the sanctions are lifted, at least for sanctions taken ad hoc for coercion/motivation. // Sanctions targeting complex supply or support chains can be hard to reverse. For sanctions targeting [military] capabilities, this is possibly hard to avoid or is even a purpose.
+
+
+> *Some(times) sanctions [can] violate human rights - the opinion here is, that in such situations alternatives should be looked for.*
 
 
 
 
 
 ## International Jurisprudence
-International jurisprudence is still not very formalized/specified and the concept of sanctions varies depending on the situations and the agents taken sanctions. Often sanctions are taken by governments after actions they do not approve e.g. (perceived) violation of security interests or for actions (presumably) violating international laws or disapproved for other reasons. For a detailed discussion see [Asada](#asada) or [Ruys](#ruys).
+International jurisprudence is still not very organized and the concept of sanctions varies depending on the situations and the agents taking sanctions. Often sanctions are taken by governments after actions they do not approve e.g. (perceived) violation of security interests or for actions (presumably) violating international laws or disapproved for other reasons. For a detailed discussion see [Asada](#asada) or [Ruys](#ruys).
 
 
-> Here it is opted for a better basis and regulation of sanctions in international law - especially for sanction related to the international justice systems - so that they indeed work like a justice system i.e. predictable but not arbitrary penalties => preventive effects and more accepted as fair.
+> Here it is opted for a better basis and regulation of sanctions in international law - so that they indeed work like a justice system i.e. predictable but not arbitrary penalties => preventive effects and more accepted as fair.
 
-> Here the focus is sanctioning of states and not of persons. The latter is *not* supported here in general: Is having a certain nationality or being friend with somebody, be a reason to be sanctioned? In most current legal systems, the formers are not reasons e.g. when a company does wrong it's employees are usually not punished unless they did wrong, similar for friends or relatives of 'wrong-doers' unless they did wrong themselves there is no punishment.
+> Here the focus is sanctioning of states and not of persons. The latter is usually *not* supported here: Is having a certain nationality or being friend with somebody, a reason to be sanctioned? In most current legal systems, the formers are not reasons e.g. when a company does wrong it's employees are usually not punished unless they did wrong, similar for friends or relatives of 'wrong-doers' unless they did wrong themselves there is no punishment.
+
 > Exceptions:
-> * In specific events it can make sense however to take the state membership (nationality) into account e.g. when there is a risk of propaganda or tumults, though the intention is then not to sanction but to ensure a smooth event.
-> * In the case of war crimes, the opinion is that restrictions can be adequate but should be decided by an appropriate court in a fair process.
+> * In specific events it can make sense however to take the state membership (nationality) into account e.g. when there is a risk of propaganda or tumults, though then the intention is not to sanction but to prevent other violations of the local order.
+> * The case of [war] crimes against international law is a different topic. // The opinion is that restrictions can be adequate but should be decided by an appropriate court in a fair process according to predefined rules with the same standards across the world.
  
 
 
