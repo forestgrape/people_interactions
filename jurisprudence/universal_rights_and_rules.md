@@ -17,7 +17,6 @@
   * [Trade in Territory](#trade-in-territory)
 * [Considerations on Self Determination](#considerations-on-self-determination)
   * [Refs on Self Determination and its Interpretations](#refs-on-self-determination-and-its-interpretations)
-  * [Literature on Self Determination in Specific Cases](#literature-on-self-determination-in-specific-cases)
   * [Advocated Path for Self Determination](#advocated-path-for-self-determination)
 
 
@@ -52,7 +51,7 @@ Convention:
 * Rule: a specified behavior pattern which is expected to be followed.
 * Law: A collection/system of rules formally agreed to be valid within a country or between countries. A rule which is specified in the law is called legally binding.
 * International Law: Law valid for several countries. (International: involving several countries.)
-* Jus cogens = Peremptory norms: a subset of rules that members of the international community are strongly expected to follow. Examples are the prohibitions of genocide, torture, piracy, and slavery.
+* Jus cogens = Peremptory norms: a subset of rules that are strongly expected to be follow. Examples are the prohibitions of genocide, torture, piracy, and slavery.
 
 ## Law and Covenants for States
 
@@ -126,13 +125,14 @@ Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Seces
 <https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
 
 > Some interesting points though not all consideration are agreed here. 
-> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#paths-for-self-determination)).
+> One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#advocated-path-for-self-determination)).
 
 ##### Wikipedia on Self-Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
 
-
+<!--
 ### Literature on Self Determination in Specific Cases
+-->
 
 
 
