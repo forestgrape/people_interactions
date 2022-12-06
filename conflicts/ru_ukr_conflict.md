@@ -13,7 +13,7 @@
   * [Truce](#truce)
   * [Perspectives in Ongoing War](#perspectives-in-ongoing-war)
   * [Considerations on the Plebiscites](#considerations-on-the-plebiscites)
-* [Notes](#notes)
+* [Notes on Reading](#notes-on-reading)
 * [Significance of Peace](#significance-of-peace)
   * [Effects of War](#effects-of-war)
   * [Nuclear Risks of War](#nuclear-risks-of-war)
@@ -193,7 +193,7 @@ In the current situation the interpretation of the results has its limits. When 
 
 
 
-## Notes
+## Notes on Reading
 The focus is on human rights [for individuals], many of which are violated in a war. Thus the page is *pro peace* and *against war*. A goal is to search for practicable [paths to peace](#paths-to-peace). For that reason to judge or point right/wrong doing is not the focus and it is attempted to take a neutral standpoint regarding states (personal viewpoint transparent in the [appendix](#appendix)).
 
 * Global Organizations such as the United Nations, the IAEA, the WHO, Amnesty International and the Red Cross are considered important.
@@ -1175,8 +1175,7 @@ Selected Statements:
   * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
 * DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
 * Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
-* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.” 
-
+* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.”
 
 
 
@@ -1288,7 +1287,7 @@ Helmuth von Moltke, the chief of staff for the Prussian army, once made the astu
 
 ## Legal Considerations
 
-> General considerations of international law are on the page [Universal Rights and Rules](../jurisprudence/universal_rights_and_rules.md).
+> General considerations on international law are on the page [Universal Rights and Rules](../jurisprudence/universal_rights_and_rules.md).
 
 
 
@@ -1328,7 +1327,7 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 
 
 
-> The literature below often contradicts each other and the arguments in the sparse literature differ a lot. A clearer legal framework self-determination and secession would help as for example stated in the recommended paper [Saul 2011](../jurisprudence/universal_rights.md#saul-2011) on the [Universal Rights page](../jurisprudence/universal_rights.md). 
+> The literature below often contradicts each other and the arguments in the sparse literature differ a lot. A clearer legal framework self-determination and secession would help as for example stated in the recommended paper [Saul 2011](../jurisprudence/universal_rights.md#saul-2011) which is cited on the [Universal Rights page](../jurisprudence/universal_rights.md). On the [Universal Rights Page](../jurisprudence/universal_rights_and_rules.md) the topic of self determination is further discussed (respectively in consideration as of December 22).
 
 
 
@@ -1339,7 +1338,7 @@ Selected statements:
 * "My position is that expressing its will in a referendum is no annexation. Western powers fail to document that Russia was in charge of an annexation of Crimea."
 * "Summa summarum: lawfully elected members of VR escaped coup d’etat in Kyiv. MPs was in its full right to defend its position and to hit back on “destructive” political groups — i.a. “Svoboda”, “Batkivshina” and “Udar” [38] — several of which threatend democratic rule in case by moving from separatist appeals in direct violation of current Ukrainian constitution [50]."
 
-> cites a couple of statements by the Crimean Verkhovna Rada which indicate strong disagreement of the Crimean Verkhovna Rada with the events leading to the [2014 revolution](#events-around-the-2014-revolution). This already before the February revolution which is when the Crimea police and not Russian troupes held power in Crimea. Regarding the legal aspects it argues pro unilateral secession, which is further argued in [part 2](oerebech-2020-part-2).
+> Cites a couple of statements by the Crimean Verkhovna Rada which indicate strong disagreement of the Crimean Verkhovna Rada with the events leading to the [2014 revolution](#events-around-the-2014-revolution). This already before the February revolution, which is when the Crimea police and not Russian troupes held power in Crimea. Regarding the legal aspects it argues pro unilateral secession, which is further elaborated in a [second part](#oerebech-2021-part-2).
 
 
 
@@ -1377,9 +1376,10 @@ CORNELIA NAVARI, Territoriality, self-determination and Crimea after Badinter, I
 
 
 ## Sanctions
-> General considerations on sanctions are in the [Sanctions chapter](../jurisprudence/sanctions.md).
+The focus of this chapter is on economic measures to encourage adherence to international rules in the conflict between Russia and Ukraine respectively Russia and NATO countries (OSCE rules). 
 
-Here the focus is on economic measures to encourage adherence to international rules.
+
+> General considerations on sanctions are in the [Sanctions chapter](../jurisprudence/sanctions.md#top).
 
 
 
