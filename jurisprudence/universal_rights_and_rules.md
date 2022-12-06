@@ -35,7 +35,7 @@
 A GUIDE TO THE BASICS OF INTERNATIONAL LAW
 <https://legal.un.org/avl/pdf/ls/Greenwood_outline.pdf>
 
-##### Swiss  Federal Department of Foreign Affairs
+##### Swiss Government
 ABC of International Law
 
 ##### Greenwood
@@ -43,16 +43,16 @@ Sources of International Law: An Introduction, Professor Christopher Greenwood
 
 
 ### Terminology
-A state: a country (In international relations state is commonly used)
-Covenant: a formal agreement
-Treaty: an agreement between states. Some treaties require signature and/or ratification to comes into force. 
+* A state: a country
+* Covenant: a formal agreement
+* Treaty: an agreement between states. Some treaties require signature and/or ratification to comes into force. 
 Convention: 
-* a behavior pattern which is usually expected to be followed.
-* an agreement between states, less formal than a treaty
-Rule: a specified behavior pattern which is expected to be followed.
-Law: A collection/system of rules formally agreed to be valid within a country or between countries. A rule which is specified in the law is called legally binding.
-International Law: Law valid for several countries. (International: involving several countries.)
-Jus cogens = peremptory norms: a subset of rules that members of the international community are strongly expected to follow. Examples are the prohibitions on genocide, torture, piracy, and slavery.
+  * a behavior pattern which is usually expected to be followed.
+  * an agreement between states, less formal than a treaty
+* Rule: a specified behavior pattern which is expected to be followed.
+* Law: A collection/system of rules formally agreed to be valid within a country or between countries. A rule which is specified in the law is called legally binding.
+* International Law: Law valid for several countries. (International: involving several countries.)
+* Jus cogens = Peremptory norms: a subset of rules that members of the international community are strongly expected to follow. Examples are the prohibitions of genocide, torture, piracy, and slavery.
 
 ## Law and Covenants for States
 
@@ -149,4 +149,5 @@ Reasons are:
  * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
     > In Europe, Switzerland managed to stay out of both world wars. While neutrality was a factor, likely the shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped.
 * *Peace.*
+
 
