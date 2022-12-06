@@ -18,21 +18,21 @@
   * [Capability Control Goals](#capability-control-goals)
   * [Political Goals](#political-goals)
 * [Methods and Targets of Sanctions](#methods-and-targets-of-sanctions)
-* [Appendix](#appendix)
-  * [Justice System](#justice-system)
 * [References](#references)
   * [Refs Sanctions Theory](#refs-sanctions-theory)
+* [Appendix](#appendix)
+  * [Justice Systems](#justice-systems)
 
 
 
 ## Summary
-*Terminology, legal specifications and practice:* The term sanctions is broadly used to denote restrictions taken by a state or a group of state on another state. In international law (including the UN Charter), sanctions are not well specified [to confirm]. In stricto sensu Sanctions are often decided ad hoc by the executive.
+*Terminology, legal specifications and practice:* The term sanctions is mostly used to denote restrictions taken by a state or a group of state on another state often as coercive measures. In international law (including the UN Charter), sanctions are not well specified.
 
 *Motivations/Goals:* 
-Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly government). 
+Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly government). Sanctions then sometimes are coercive (encourage/enforce the [state] actor to change its behavior) or punishment measures which has a deterring effect on others doing the same.
 
 *Implementations:* 
-Depending on the goal of a sanction, different implementations are possible such as economic, technological or travel restrictions.
+Depending on the goal of a sanction, different implementations are possible. Frequently used implementations are economic, technological or travel restrictions.
 
 > A more formalized and specified international justice system with predefined sanctions could increase predictability and so preventive effects play more and sanctions are less [perceived as] unfair.
 
@@ -40,21 +40,26 @@ Depending on the goal of a sanction, different implementations are possible such
 ## Notes
 > The notes below list goals and methods of sanctions. Mostly it is **a list without judgement and not all items are supported here** (a personal viewpoint in [Opinion on Sanctions](#opinion-on-sanctions).
 
-> This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict will soon be published on the [conflict page](../conflicts/ru_ukr_conflict.md).
+> This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict are on the [page on the conflict](../conflicts/ru_ukr_conflict.md#sanctions).
+
+
+
+
 
 ## Opinion on Principles
-> * As in most justice systems, here a causal and direct connection is considered as necessary to sanction an entity. 
-> * Sanctioning entities with the goal they pressurize others is not supported here.
-> * Openness of diplomatic is considered crucial i.e. sanctions hindering the diplomatic channels are not supported here.
-> * The effect of sanctions on 3rd parties is ideally minimized unless consulted first (usually only possibly in the state imposing sanctions).
-> * Reversibility i.e. not lasting effects once the sanctions are lifted, at least for sanctions taken ad hoc for coercion/motivation. // Sanctions targeting complex supply or support chains can be hard to reverse. For sanctions targeting (military) capabilities, this is possibly hard to avoid or is even a purpose.
-> * *Some(times) sanctions can violate human rights - the opinion here is, that in such situations alternatives should be searched/considered.*
+* As in most justice systems, here a causal and direct connection is considered as necessary to sanction an entity. 
+* Sanctioning entities with the goal they pressurize others is not supported here.
+* Openness of diplomatic is considered crucial i.e. sanctions hindering diplomatic channels are not supported here.
+* The effect of sanctions on 3rd parties is ideally minimized unless consulted and agreed first (usually only possibly friendly actors).
+* Reversibility i.e. not lasting effects once the sanctions are lifted, at least for sanctions taken ad hoc for coercion/motivation. // Sanctions targeting complex supply or support chains can be hard to reverse. For sanctions targeting [military] capabilities, this is possibly hard to avoid or is even a purpose.
+* *Some(times) sanctions [can] violate human rights - the opinion here is, that in such situations alternatives should be searched/considered.*
+
 
 
 
 
 ## International Jurisprudence
-International jurisprudence is still not very formalized/specified and the concept of sanctions varies depending on the situations and the agents taken sanctions. Often sanctions are taken by governments after actions they do not approve e.g. (perceived) violation of security interests or for actions (presumably) violating international laws or disapproved for other reasons.
+International jurisprudence is still not very formalized/specified and the concept of sanctions varies depending on the situations and the agents taken sanctions. Often sanctions are taken by governments after actions they do not approve e.g. (perceived) violation of security interests or for actions (presumably) violating international laws or disapproved for other reasons. For a detailed discussion see [Asada](#asada) or [Ruys](#ruys).
 
 
 > Here it is opted for a better basis and regulation of sanctions in international law - especially for sanction related to the international justice systems - so that they indeed work like a justice system i.e. predictable but not arbitrary penalties => preventive effects and more accepted as fair.
@@ -77,32 +82,29 @@ Sanctions are grouped here into the purposes/goals/motivations:
 
 
 ### Justice System Like Goals
-Discourage unwanted behavior e.g. the usage of banned weapons.
-* Similar to laws within a country which motivate legal behavior through restrictions/punishment otherwise.
+Discourage unwanted behavior by deterrence: Similar to laws within a country which encourage legal behavior through deterrence by imposing restrictions/punishment on unlawful behavior.
 * *Role of Sanctions:*  
   * make the estimated 'return value' of unwanted behaviors negative i.e. the average sentence is [much] higher than the average gain.
-  * to prevent injustice i.e. sentence a crime such that not only the victim
-* For effectiveness, predictability and acceptance, these sanctions usually have to be predefined.
+  * to prevent injustice i.e. sentence a crime such that not only the victim has costs but also the actor.
+* For effectiveness, predictability and acceptance, the rules are to be predefined.
 
 
 ### Educative Like Goals
 Encourage a wanted certain behavior e.g. promote [economic] freedom. 
 
-> Usually 'implemented' not as sanctions but as a reward based approach. However in some situations - e.g. when the rewards are near universal and bound to a single topic - the concepts are not clearly separable i.e. when everybody gets a reward except those failing on a single topic, sanctioning on the specific topic has the same effect.
+> Usually 'implemented' not as sanctions but as a reward based approach. However in some situations - e.g. when the rewards are near universal and bound to a single topic - the concepts are not clearly separable i.e. when everybody gets a reward except those failing on a single topic, rewarding everybody adhering has the same result as sanctioning those not adhering.
 
 
 ### Capability Control Goals
-* *Reduction of Military Capabilities:* Prevention to acquire certain capabilities. Prevention can target single goods or entire industries. E.g. export restrictions on technologies to produce nuclear weapons or long-range rockets. // can target other industries
+* *Reduction of Military Capabilities:* Prevention to acquire certain capabilities. Prevention can target single goods or entire industries. E.g. export restrictions on technologies to produce [offensive] military equipment and/or military equipment which is especially dangerous for civilians such as nuclear weapons or long-range rockets. // can target other industries
 
 * *Reduction of the Capabilities to do War:* Sanctioning a state to reduce its ability to do war.
 
-
-> Long-term capability control is an extremely severe measure as most implementations reduce the welfare of the people of an entire state. 
->> In general, this is not supported here.
+> Long-term capability control is an extremely severe measure as most implementations reduce the welfare of the people of an entire state. // In general, this is not supported here.
 
 
 ### Political Goals
-* *Staying Neutral:* As staying neutral means supporting neither side in a conflict, in some asymmetric conflicts economic restrictions on invaders can be adequate. For example when only one country invades, warfare only takes place in the invaded country, which (usually) shoots its economy - on the other hand the economy of the invader continues running, thus continuing trade can mean supporting the invader.
+* *Staying Neutral:* As staying neutral means supporting neither side in a conflict, in some asymmetric conflicts economic restrictions on invaders can be adequate. For example when only one country invades, warfare only takes place in the invaded country, which (usually) shoots its economy - the economy of the invader on the other hand can continue running, thus continuing trade can mean supporting the invader.
 
 * *Politically motivated Restrictions:* E.g. sanctioning a country with an unfriendly/disliked  government.
 
@@ -112,13 +114,13 @@ Encourage a wanted certain behavior e.g. promote [economic] freedom.
 ## Methods and Targets of Sanctions
 Depending on the goals the targets and methods differ.
 
-> Depending on the methods, there is the risk to (overly) restrict not involved 3rd persons e.g. civilians not having to do anything and limited options to oppose a wrong doing by a government - even in a democracy options can be limited and/or late. There are good reasons to avoid to overly restricting 3rd persons: 1) For humanity reasons - especially crucial when the motivation for sanctions are humanity like reasons, and  2) to prevent 'generating'/being [perceived as] a common extern enemy.
+> *Not Supported Effects:* Depending on the methods, there is the risk to (overly) restrict not involved 3rd persons e.g. civilians not having to do anything and limited options to oppose a wrong doing by a government - even in a democracy options can be limited and/or late. There are good reasons to avoid to overly restricting 3rd persons: 1) For humanity reasons - especially to consider when the motivation for sanctions are humanity like reasons, and  2) to prevent 'generating'/being [perceived as] a common extern enemy.
 
-Sanctions can be implemented as:
 
 > the list below is without judgement and not all points are supported here
 
-* Economic restrictions targeting:
+Sanctions can be implemented as:
+* Economic restrictions targeting
   * the entire economy
   * certain economic branches
   * individuals
@@ -130,29 +132,17 @@ Sanctions can be implemented as:
 
 
 
-## Appendix
-### Justice System
-**in work**
-
-A framework specifying/defining actions and a predefined and (or at least) predictable set of sentences for unwanted actions to discourage them.
-
-#### Purpose of Sentences 
-* Negative Return value: make the [perceived] 'return value' of unwanted behaviors negative i.e. the expected sentence is [much] higher than the expected gain. // excepted both objective (mathematical i.e. a hypothetical average over all possible cases) and subjective.
-* Justice and Fairness: Sentence a crime such that what is perceived as fair/just by 'social norms' is achieved. // 1) What is perceived as just by social norms usually implies a negative return value. 2) What is specified in the law/decided by judges can serve as definition of just and with time develop into a 'social norm'. 
-* Educational: Educate a convicted not to break laws in the future.
-
-#### Relevance of Sentences
-[in work/consideration]
-In national laws:
-Justice is a major goal of civil law. In civil law, often actions are reversible (for example paying back of money acquired illegally) and so justice in the sense of 'common sense fairness' is possible.
-Negative return values and an educational process are key in criminal law. In criminal law a main goal is to prevent criminal actions at minimal costs for society.
 
 
 
 
 ## References
-> In work and **not** fully/in detail read and incorporated [yet].
+
+> In work and **not** fully/in detail read and incorporated [yet] (still the case as of December 22).
+
+
 ### Refs Sanctions Theory
+
 #### Ruys
 Ruys, Tom. "Sanctions, retortions and countermeasures: concepts and international legal framework." Research Handbook on UN Sanctions and International Law. Edward Elgar Publishing, 2017. 19-51.
 
@@ -173,3 +163,18 @@ In other words, sanctions stricto sensu do not include, in the first place, such
 
 
 
+## Appendix
+### Justice Systems
+
+> ##### Legal System
+> A framework specifying/defining actions allowed and not allowed actions by juridical persons. Not allowed actions are have predefined and (or at least) predictable set of sentences [to discourage them].
+
+#### Purpose of Sentences 
+* *Deterrence:* Make the [perceived] 'return value' of unwanted behaviors negative i.e. the expected sentence is [much] higher than the expected gain. // excepted both objective (mathematical i.e. a hypothetical average over all possible cases) and subjective.
+* *Justice and Fairness:* Sentence a crime such that what is perceived as fair/just by 'social norms' is achieved. // 1) What is perceived as just by social norms usually implies a negative return value. 2) What is specified in the law/decided by judges can serve as definition of just and with time develop into a 'social norm'. 
+* *Educational:* Educate a convicted not to break laws in the future.
+
+
+> In national laws:
+> Deterrence (by negative return values) and an educational process are crucial in criminal law. A main goal is to prevent criminal actions at minimal costs for society.
+> Justice is a major goal of civil law. In civil law, often actions are reversible (for example paying back of money acquired illegally) and so justice in the sense of 'common sense fairness' is possible.
