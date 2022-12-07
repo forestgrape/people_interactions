@@ -52,22 +52,29 @@ Greenwood, Christopher. "Sources of international law: an introduction." United 
 
 ### Terminology
 * A state: a country
-* Covenant: a formal agreement
-* Treaty: an agreement between states. Some treaties require signature and/or ratification to comes into force. 
-Convention: 
+* *Rule:* a specified behavior pattern which is expected to be followed.
+* *Law:* A collection/system of rules formally agreed to be valid within a country or between countries. A rule which is specified in the law is called legally binding.
+* *International:* Latin for between nations. Relations between two or more states are called international relations.
+* *International Law:* 
+  * Literally law valid for several states.
+  * Commonly used to denote all kinds of treaties and conventions valid for several states.
+* *Convention:*
   * a behavior pattern which is usually expected to be followed.
   * an agreement between states, less formal than a treaty
-* Rule: a specified behavior pattern which is expected to be followed.
-* Law: A collection/system of rules formally agreed to be valid within a country or between countries. A rule which is specified in the law is called legally binding.
-* International Law: Law valid for several countries. (International: involving several countries.)
-* Jus cogens = Peremptory norms: a subset of rules that are strongly expected to be follow. There is an informal consensus that examples are the prohibitions of genocide, torture, piracy, and slavery. Article 53 of the [Vienna Convention on the law of treaties](#vienna-convention-on-the-law-of-treaties) declares treaties violating peremptory norms as void, however the convention does not specify such peremptory norms.
-* Erga omnes (latin: towards all) rules are rules which are owned towards all states. A practical implications is, that any state has the right to complain on a breach in an erga omnes rule even if the state complaining is not affected itself. In the [case Gambia vs Myanmar on a possible genocide by Myanmar](#gambia-v-myanmar-on-genocide) the ICJ argues in point 41. """... The Court held that these provisions generated “obligations [which] may be defined as ‘obligations erga omnes partes’ in the sense that each State party has an interest in compliance with them in any given case” (Judgment, I.C.J. Reports 2012 (II), p. 449, para. 68). It follows that any State party to the Genocide Convention, and not only a specially affected State, may invoke the responsibility of another State party with a view to ascertaining the alleged failure to comply with its obligations erga omnes partes, and to bring that failure to an end."""
+* *Covenant:* a formal agreement
+* *Treaty:* an agreement between states. Some treaties require signature and/or ratification to comes into force.
+* *Jus cogens = Peremptory norms:* a subset of rules that are strongly expected to be follow. There is an informal consensus that examples are the prohibitions of genocide, torture, piracy, and slavery. Article 53 of the [Vienna Convention on the law of treaties](#vienna-convention-on-the-law-of-treaties) declares treaties violating peremptory norms as void, however the convention does not specify such peremptory norms.
+* *Erga omnes rules:* Erga omnes (latin: towards all) rules are owned towards all states. A practical implications is, that any state has the right to complain on a breach in an erga omnes rule, even if the state complaining is not affected itself. In the [case Gambia vs Myanmar on a possible genocide by Myanmar](#gambia-v-myanmar-on-genocide) the ICJ states in point 41. """... The Court held that these provisions generated “obligations [which] may be defined as ‘obligations erga omnes partes’ in the sense that each State party has an interest in compliance with them in any given case” (Judgment, I.C.J. Reports 2012 (II), p. 449, para. 68). It follows that any State party to the Genocide Convention, and not only a specially affected State, may invoke the responsibility of another State party with a view to ascertaining the alleged failure to comply with its obligations erga omnes partes, and to bring that failure to an end."""
 
 
 
 
 ### Who designs and judges Universal Rules
 > in work and incomplete
+>
+#### UN General Assembly
+
+#### UN Security Council
 
 #### International Law Commission (ILC)
 * "The International Law Commission (ILC) is a body of experts responsible for helping develop and codify international law.[1][2] It is composed of 34 individuals recognized for their expertise and qualifications in international law, who are elected by the United Nations General Assembly (UNGA) every five years." (<https://en.wikipedia.org/wiki/International_Law_Commission>, 7.12.22)
