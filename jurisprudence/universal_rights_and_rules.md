@@ -9,9 +9,11 @@
 * [Introduction](#introduction)
   * [Recommended Readings](#recommended-readings)
   * [Terminology](#terminology)
+  * [Who designs and judges Universal Rules](#who-designs-and-judges-universal-rules)
+  * [Refs Introduction](#refs-introduction)
 * [Law and Covenants for States](#law-and-covenants-for-states)
   * [UN Charter](#un-charter)
-  * [Vienna Convention](#vienna-convention)
+  * [Vienna Convention on the Law of Treaties](#vienna-convention-on-the-law-of-treaties)
 * [Laws and Covenants for States and People](#laws-and-covenants-for-states-and-people)
 * [Territorial Rights](#territorial-rights)
   * [Trade in Territory](#trade-in-territory)
@@ -26,6 +28,11 @@
 4.11. **in early work** and mainly early online for considerations on [Self Determination](#considerations-on-self-determination) which have been moved here from the [Ru_ukr_conflict page](../conflicts/ru_ukr_conflict.md)).
 
 
+
+
+
+
+
 ## Introduction
 [in work]
 
@@ -35,10 +42,12 @@ A GUIDE TO THE BASICS OF INTERNATIONAL LAW
 <https://legal.un.org/avl/pdf/ls/Greenwood_outline.pdf>
 
 ##### Swiss Government
-ABC of International Law
+ABC of International Law, <https://www.eda.admin.ch/content/dam/eda/en/documents/publications/Voelkerrecht/ABC-des-Voelkerrechts_en.pdf>
+
+> The ABC of International Law is a simple but sometimes a little inaccurate intro.
 
 ##### Greenwood
-Sources of International Law: An Introduction, Professor Christopher Greenwood
+Greenwood, Christopher. "Sources of international law: an introduction." United Nations Treaty Collection (2008). <http://legal.un.org/avl/pdf/ls/greenwood_outline.pdf>
 
 
 ### Terminology
@@ -51,7 +60,38 @@ Convention:
 * Rule: a specified behavior pattern which is expected to be followed.
 * Law: A collection/system of rules formally agreed to be valid within a country or between countries. A rule which is specified in the law is called legally binding.
 * International Law: Law valid for several countries. (International: involving several countries.)
-* Jus cogens = Peremptory norms: a subset of rules that are strongly expected to be follow. Examples are the prohibitions of genocide, torture, piracy, and slavery.
+* Jus cogens = Peremptory norms: a subset of rules that are strongly expected to be follow. There is an informal consensus that examples are the prohibitions of genocide, torture, piracy, and slavery. Article 53 of the [Vienna Convention on the law of treaties](#vienna-convention-on-the-law-of-treaties) declares treaties violating peremptory norms as void, however the convention does not specify such peremptory norms.
+* Erga omnes (latin: towards all) rules are rules which are owned towards all states. A practical implications is, that any state has the right to complain on a breach in an erga omnes rule even if the state complaining is not affected itself. In the [case Gambia vs Myanmar on a possible genocide by Myanmar](#gambia-v-myanmar-on-genocide) the ICJ argues in point 41. """... The Court held that these provisions generated “obligations [which] may be defined as ‘obligations erga omnes partes’ in the sense that each State party has an interest in compliance with them in any given case” (Judgment, I.C.J. Reports 2012 (II), p. 449, para. 68). It follows that any State party to the Genocide Convention, and not only a specially affected State, may invoke the responsibility of another State party with a view to ascertaining the alleged failure to comply with its obligations erga omnes partes, and to bring that failure to an end."""
+
+
+
+
+### Who designs and judges Universal Rules
+> in work and incomplete
+
+#### International Law Commission (ILC)
+* "The International Law Commission (ILC) is a body of experts responsible for helping develop and codify international law.[1][2] It is composed of 34 individuals recognized for their expertise and qualifications in international law, who are elected by the United Nations General Assembly (UNGA) every five years." (<https://en.wikipedia.org/wiki/International_Law_Commission>, 7.12.22)
+
+#### International Court of Justice
+* """The International Court of Justice (ICJ) is the principal judicial organ of the United Nations (UN). It was established in June 1945 by the Charter of the United Nations and began work in April 1946.
+
+  The seat of the Court is at the Peace Palace in The Hague (Netherlands). Of the six principal organs of the United Nations, it is the only one not located in New York (United States of America).
+
+  The Court’s role is to settle, in accordance with international law, legal disputes submitted to it by States and to give advisory opinions on legal questions referred to it by authorized United Nations organs and specialized agencies.
+
+  The Court is composed of 15 judges, who are elected for terms of office of nine years by the United Nations General Assembly and the Security Council. It is assisted by a Registry, its administrative organ. Its official languages are English and French.""" (<https://www.icj-cij.org/en/court>, 7.12.22)
+* """The International Court of Justice (ICJ; French: Cour internationale de justice; CIJ), sometimes known as the World Court,[1] is one of the six principal organs of the United Nations (UN).[2] It settles disputes between states in accordance with international law and gives advisory opinions on international legal issues. The ICJ is the only international court that adjudicates general disputes between countries, with its rulings and opinions serving as primary sources of international law.""" (<https://en.wikipedia.org/wiki/International_Court_of_Justice>, 7.12.22)
+
+
+
+### Refs Introduction
+
+##### Gambia v. Myanmar on Genocide
+APPLICATION OF THE CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF GENOCIDE (THE GAMBIA v. MYANMAR) REQUEST FOR THE INDICATION OF PROVISIONAL MEASURES ORDER OF 23 JANUARY 2020, <https://www.icj-cij.org/public/files/case-related/178/178-20200123-ORD-01-00-EN.pdf>
+
+
+
+
 
 ## Law and Covenants for States
 
@@ -59,7 +99,7 @@ Convention:
 ### UN Charter
 <https://www.un.org/en/about-us/un-charter/>
 
-###  Vienna Convention 
+###  Vienna Convention on the Law of Treaties
 Vienna Convention on the Law of Treaties art. 2, May 23 1969, 1155 U.N.T.S. 331. // Covers treaties between states.
 
 <!-- ?mv to disarmament/security paragraph
@@ -149,5 +189,6 @@ Reasons are:
  * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
     > In Europe, Switzerland managed to stay out of both world wars. While neutrality was a factor, likely the shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped.
 * *Peace.*
+
 
 
