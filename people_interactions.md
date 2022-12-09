@@ -158,7 +158,9 @@ The population living in a certain area belongs to a country. The decision struc
 
 > Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant mistakes usually happen, especially in unforeseen situations.
 
-> Having multiple persons deciding usually makes the decision processes more stable and less influenced by specific situations for example by moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. <!--// with age the number of neuronal connections increase. The speed is faster at young age. to cite -->
+> Having multiple persons deciding usually makes the decision processes more stable and less influenced by specific situations for example by moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. 
+
+<!--// with increasing age the number of neuronal connections increases which correlates to the things known and being able to consider. The speed is faster at young age and in some sense sharper/more precise on specific tasks. to cite -->
 
 Examples with broad decision processes:
 * When parliaments/assemblies are involved, especially in decisions with legislative character.
@@ -177,7 +179,7 @@ The structure in companies is usually hierarchically as follows: A board of dire
 Social organizations: E.g. sport clubs, political parties, scouts.
 
 #### Religions
-Religions are highly divers reaching from explanations of schools of life to concrete laws and how to behave to various forms of ideologies.
+Religions are highly divers. Religions historically often united the spiritual world, science and society rules. Today the scope of religions varies hugely. Religions may cover traditions, the spiritual world, schools of life, concrete laws and how to behave, ideals how to live, and defining communities of people interactions.
 
 
 
