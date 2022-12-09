@@ -619,13 +619,14 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 
 
 > General thoughts on [territorial rights](../jurisprudence/universal_rights_and_rules.md#territorial-rights).
+>
 
 ###### Trading Some Territorial Rights
 > Thoughts about the status of Crimea: An option could be that some territorial rights on Crimea are part of a trade. Possibly about 10 trillion UAH ~= 20 trillion Rubel ~= 350 billion $ though that's depending on many parameters such as the exact size and the rights sold.  
 > <!-- Assuming an area to buy of 27'000km2 = 27 * 10^9 m2 with a price of 300UAH=600Rubel=10$ per square meter about  8000 billion UAH = 16'000 billion Rubel = 270 billion $.--> 
 > * Possibly (part of) the price could be paid with natural resources. // Many options by volume, absolute/relative throughput, limited/unlimited duration, different plans for the type of resource. 
 > * Possibly only security/military rights could be Russian while some/all of the economic rights such as farming or natural resources are governed by Ukraine. <!-- Russia has enough other (and better) gas fields.-->
-> * Taking into account the opinion of the people of the Crimea is considered nice.
+> * Taking into account the [opinion of the people of the Crimea](#opinion-of-the-people-of-crimea) is considered nice.
 
 >> According to public statements and a couple of personal discussions (not representative) Russians tend to be more emotional on the Crimea than Ukrainians. A deal (involving economic topics, territorial and security rights) could have acceptance in both governments and populations.
 
@@ -1018,18 +1019,21 @@ David R. Marples, The Maidan Revolution in Ukraine, <https://www.e-ir.info/2020/
 ##### Katchanovski 2021
 The Maidan Massacre in Ukraine: Revelations from Trials and Investigation, Ivan Katchanovski, School of Political Studies & Conflict Studies and Human Rights Program University of Ottawa, Canada ikatchan@uottawa.ca
 
-> Some conclusions seem at least to have some truth such as "The revelations from the Maidan massacre trials and investigations show that the narratives promoted by the Ukrainian and Western governments and with some notable exceptions the media that the Maidan protesters were massacred by government snipers and/or the Berkut police are false.". While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." For one, here it is considered unclear who actually had the leadership - the right wing? or were they just the thugs confronting the Berkut while the lead was at others? And second, the leadership of the protests - rough since the beginning but not deadly brutal - and those who give the order to shoot can be different people.
+> Some conclusions seem at least to have some truth such as "The revelations from the Maidan massacre trials and investigations show that the narratives promoted by the Ukrainian and Western governments and with some notable exceptions the media that the Maidan protesters were massacred by government snipers and/or the Berkut police are false.". While specific accusations are considered highly speculative such as "Such revelations from the Maidan massacre trials and investigations corroborate findings of the previous academic studies that this massacre was a false flag mass killing with involvement of elements of Maidan leadership and the far right and that it included the massacre of the police." The right wing, were they just the thugs confronting the Berkut while the drivers were others? Was there a well defined leadership at all? If yes who had it? It is considered likely that there was *no* overall leadership, as different groups were not happy with politics in Ukraine: Some didn't like orientation away from the EU, some didn't like repression by the government, some didn't like the reopening of criminal cases from the 90s. Overall, the people [leading] at the protests - which were rough since the beginning but not deadly brutal - and those who give the order to shoot can be different people.
 
 
 
 ##### ECtHR Re Crimea 2021
-Both Ukraine and Russia explain their viewpoints around the change in control of Crimea from Ukraine ('THE APPLICANT GOVERNMENT') to Russia ('THE RESPONDENT GOVERNMENT') to the  European Court of Human Rights in "CASE OF UKRAINE v. RUSSIA (RE CRIMEA) (Applications nos. 20958/14 and 38334/18)" (<https://www.refworld.org/pdfid/60016bb84.pdf>). 
+CASE OF UKRAINE v. RUSSIA (RE CRIMEA) (Applications nos. 20958/14 and 38334/18)" (<https://www.refworld.org/pdfid/60016bb84.pdf>).
+
+> Both Ukraine and Russia explain their viewpoints around the change in control of Crimea from Ukraine ('THE APPLICANT GOVERNMENT') to Russia ('THE RESPONDENT GOVERNMENT') to the  European Court of Human Rights in the "CASE OF UKRAINE v. RUSSIA (RE CRIMEA). The court case itself (possible violations of human rights) is currently not discussed here.
 
 Notes:
 * Russia starts with the revolution itself as argued: """162. The “referendum” and the “reunification” cannot be seen in isolation. They were the direct result of the violent displacement of the constitutional government of Ukraine (see paragraph 147 (vi) above).""".
-* Ukraine focusses on the events in Crimea and argues that Russia took effective control of Crimea already ahead of the Referendum (32. and following). Who had control at which time points is relevant for the responsibility for human right abuses for which the case is brought to the ECtHR by Ukraine.
+* Ukraine focusses on the events in Crimea and argues that Russia took effective control of Crimea already ahead of the Referendum (32. and following). 
+  > Who had control at which time points is relevant for the responsibility for human right abuses for which the case is brought to the ECtHR by Ukraine.
 
-> The court case itself is currently not discussed here.
+
 
 ##### Nitsova 2021
 Silviya Nitsova (2021) Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution, Europe-Asia Studies, 73:10, 1832-1856, DOI: 10.1080/09668136.2021.1912297 <https://doi.org/10.1080/09668136.2021.1912297>
@@ -1056,7 +1060,7 @@ Trade Relations between Ukraine and Russia amidst the Political Turmoil, Iryna B
 
 
 #### Thoughts on Aspects of Stalinism
-> Stalinism seems to have relied much to much on brutality and 'forced alliances', so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as deportations and ignorance of human rights seem to have been handed down the generations and last till today.
+> Stalinism seems to have relied much to much on brutality and 'forced alliances', so the local willingness to cooperate was often missing and the system turned out to be not sustainable. It can even be doubted that the Warsaw Pact would have passed a serious stress test, especially after the crackdowns of protests in Czechoslovakia and Hungary. Adverse feelings from the brutality of Stalinism such as occupations, deportations and ignorance of human rights seem to have been handed down the generations and last till today.
 
 
 #### Refs Background on Russia
@@ -1089,16 +1093,18 @@ Cameron, *After talks in Geneva, at NATO and at the OSCE, Ukraine crisis continu
 #### Lieven 230322
 *The History Behind Putin’s War in Ukraine*, AN INTERVIEW WITH ANATOL LIEVEN, INTERVIEW BY Doug Henwood
 
-> some controversial statements are disagreed. 
+
+> Put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript.
+
+> In many resources not all statements are agreed. For this, it is pointed out that some subjective statements are disagreed. 
+
 <!--
 > * For example there are comments from preventing Russia from doing further similar military campaigns or a government change, though *not* the  disintegration of Russia - though there is some risk for it when the war would escalate [further].
 > * The Russia government is likely aware that military presence is required in occupied areas, but this possibly is considered worth it [for security reasons]. // whether occupied areas actually increase security is a different question.-->
-
-> put here because of the background/history remarks (it cites from [A Fateful Error](#kennan-97) by G Kennan) and the opting for negotiations. Other remarks are of varying degrees subjective. Originally an oral interview in early March i.e. about a week after the start of the invasion - which was a shocking moment for many. Written down and edited by D Henwood. Unclear whether A Lieven read/corrected the transcript. 
 >
 >> Who hasn't spoken with some essence of truth, but exaggerated and would formulate more fine-tuned in written form? 
 >
->> Spoken word tends to be more direct than written up to exaggeration. Additionally, without dialog misunderstanding is more likely and mistakes happen more.
+>> Spoken word tends to be more direct than written up to exaggeration. Additionally when reproduced without dialog, misunderstanding is more likely.
 >
 >> Comments on this page, are often like spoken word.
 
@@ -1130,8 +1136,6 @@ ANATOL LIEVEN, *A New Iron Curtain*, The Atlantic
 #### Forsberg 05
 Tuomas Forsberg (2005) Russia's relationship with NATO: A qualitative change or old wine in new bottles?, Journal of Communist Studies and Transition Politics, 21:3, 332-353, <https://doi.org/10.1080/13523270500183488>
 
-
-##### Summary Forsberg 05
 Analysis of the NATO - Russia relation from 1991 to 2005. Selected statements:
 * "NATO and Russia have several times declared the Cold War ended. The first occasion the Cold War was buried between the former enemies was in 1991, when NATO changed its strategic assessment and the Soviet Union joined the newly established North Atlantic Co-operation Council (NAC-C). It was also buried in 1997 when NATO and Russia signed a Founding Act of their mutual relations and decided to establish a NATO–Russia Permanent Joint Council (PJC). The last time they attended a Cold War funeral was in May 2002, when the parties decided to set up a NATO–Russia Council (NRC) that replaced the old PJC."
 * "A New Start
@@ -1171,11 +1175,11 @@ Notes:
 
 Selected Statements:
 * Guterres: 
-  * “The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter). Peace in line with international law.” (<https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered>).
-  * “The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”. 
-* DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.
-* Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.
-* Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.”
+  * '“The people of Ukraine and beyond need peace and they need peace now, ... Peace in line with the UN Charter (https://www.un.org/en/about-us/un-charter). Peace in line with international law.” (<https://www.un.org/sg/en/content/sg/statement/2022-08-24/secretary-generals-remarks-the-security-council-ukraine-delivered>).'
+  * '“The warning lights are flashing,” ... “Any actions that might endanger the physical integrity, safety or security of the nuclear plant are simply unacceptable.  Any further escalation of the situation could lead to self-destruction”.'
+* 'DiCarlo stated the war is having another impact beyond the tragic human and material toll in Ukraine, and the consequences in other parts of the world. “In deepening global divisions and exacerbating mistrust in our institutions, the war is weakening the foundations of our international system," she said. “The consequences of a breakdown in how the world manages questions of peace and security are frightening to contemplate. This war is not only senseless, but exceedingly dangerous, and it touches all of us. It must end”.'
+* 'Zelenskyy warned that “Russia has put the world on the brink of radiation catastrophe”, referring to the situation at the Zaporizhzhia Nuclear Power Plant.'
+* 'Nebenzya said while no one is arguing that it is ‘difficult” today for Ukrainians, “the responsibility for this lies with the Kyiv regime which came to power in 2014 as a result of an anti-constitutional coup carried out with the help of a number of Western states.”'
 
 
 
@@ -1213,8 +1217,9 @@ Business support: We need maximum support for small and medium-sized businesses,
 Democracy, the further development of democratic institutions and a powerful middle class: These elements are key to a market-based, socially oriented economy, along with the transition from a parliamentary-presidential system to a purely parliamentary republic;
 Reform: Completion of decentralization reform with the appropriate transfer of financial resources to localities; preservation of a rigid system of management in conditions of war; and the creation of a fair judicial system.
 """
+-->
 
-
+<!--
 #### Yukhnovskyi on the Invasion
 Ihor Yukhnovskyi, «Every state consolidated its independence in war,»
 <https://tvoemisto.tv/en/exclusive/every_state_consolidated_its_independence_in_war__ihor_yukhnovskyi_136387.html>
@@ -1238,14 +1243,14 @@ Selected statements:
 * "The incumbent authorities in Ukraine like to refer to Western experience, seeing it as a model to follow. Just have a look at how Austria and Germany, the USA and Canada live next to each other. Close in ethnic composition, culture, in fact sharing one language, they remain sovereign states with their own interests, with their own foreign policy. But this does not prevent them from the closest integration or allied relations. They have very conditional, transparent borders. And when crossing them the citizens feel at home. They create families, study, work, do business. Incidentally, so do millions of those born in Ukraine who now live in Russia. We see them as our own close people." // Transparent borders are supported here and discussed in [fluent borders](#fluent-european-borders) which are in essence described above - in such a situation Ukraine could help to build bridges between between North and South and between East and West.
 
 
-> If the bombing of Ukraine continues [much longer] - regardless whether soldiers defending their homeland or civilian infrastructure are hit - the unity of Russians and Ukrainians will become historical in the sense that it becomes a thing related to the past (<https://www.oxfordlearnersdictionaries.com/definition/english/historical?q=historical>). // The other way round too, in the case of Donbas and Crimea [if bombs fall there].
+> If the bombing of Ukraine continues [much longer] - regardless whether soldiers defending their homeland or civilian infrastructure are hit - the unity of Russians and Ukrainians will become historical in the sense that it becomes a thing of the past (<https://www.oxfordlearnersdictionaries.com/definition/english/historical?q=historical>). The other way round too, in the case of Donbas and Crimea [if [more] bombs fall there].
 
 
 
 #### Considerations by Mikhail Gorbachev
 
 ##### GORBACHEV on Perestroika and New Thinking 2021
-MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: https://globalaffairs.ru/articles/ponyat-perestrojku/.")
+MIKHAIL S. GORBACHEV, Perestroika and New Thinking: A Retrospective Opinions, 09.08.2021, <https://eng.globalaffairs.ru/articles/perestroika-and-new-thinking/>   // Translated by Pavel Palazhchenko ("Editor’s Note: This article is a translation of a Russian-language text by Mikhail S. Gorbachev previously published in Russia in Global Affairs. The original is available at: <https://globalaffairs.ru/articles/ponyat-perestrojku/>")
 
 > *Highly recommended.*
 
@@ -1321,14 +1326,9 @@ Article 2, Paragraph 4: "All Members shall refrain in their international relati
 #### Legal Considerations for Crimea
 [in work]
 
-> Self determination and consequences for the legality of secession is discussed on the page [Universal Rights](../jurisprudence/universal_rights.md) [as of early November 2022 in work].
-
-> No judgement currently stated here whether the secession of Crimea is lawful, except that the current situation is considered unsatisfactory and a bilateral agreement through negotiations should be reached. Possibly by [trading some rights](./../jurisprudence/universal_rights.md#trade-in-territory), possibly as part of an [overall peace](#paths-to-peace). // Occupying territories or targeting infrastructure from Ukraine to get concessions from 3rd countries (NATO countries) - lets say - is considered not nice towards Ukraine.
-
-
+> No judgement currently stated here whether the secession of Crimea is lawful, except that the current situation is considered unsatisfactory and a bilateral agreement through negotiations should be reached and unilateral territorial changes could set a 2022 precedent causing (increased) instability in the world. In the section [speculations on Crimea](#speculations-on-crimea) in the chapter [paths to peace](#considerations-on-paths-to-peace) some options such as trading some rights are listed.
 
 > The literature below often contradicts each other and the arguments in the sparse literature differ a lot. A clearer legal framework self-determination and secession would help as for example stated in the recommended paper [Saul 2011](../jurisprudence/universal_rights.md#saul-2011) which is cited on the [Universal Rights page](../jurisprudence/universal_rights.md). On the [Universal Rights Page](../jurisprudence/universal_rights_and_rules.md) the topic of self determination is further discussed (respectively in consideration as of December 22).
-
 
 
 ##### Oerebech 2021 Part 1
@@ -1348,9 +1348,6 @@ Peter, Örebech., INTERNATIONAL LAW AND CRIMEAN SECESSION FROM UKRAINE (part 2)
 Selected Statements:
 * "Breaching the constitution and rejecting legitimate, legal power, i.e. the President to function according to basic laws of Ukraine, extra-parliamentary and undemocratic powers, ignored the people’s will expressed by the electorate. Direct power of people is the highest authority and thus in charge of the “People’s right to self-determination and self-government are part of its “residual rights”. Peoples sovereignty — residual rights — are applicable, as it happened in Norway 1814." // What if a region or some villages in Norway with a lot of oil and gas fields want secession?
 * "Territorial integrity is a constitutional law principle effecting national states and its peoples’ inter pares or, as an International law principle, addressing two or more national states. There is no International law principle of territorial integrity that prohibits minority groups’ from orchestrating referenda and hereunder initiating and implementing the declaration of independence." 
-
-
-
 
 
 
@@ -1826,7 +1823,7 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
   EUvsDisinfo <https://euvsdisinfo.eu> // "EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood." from <https://euvsdisinfo.eu/about/>, 9.2022
 
 #### Resources UK
-* Guardian <https://www.theguardian.com/international> (main resource of information) // freedom to write seems large especially in the opinion section
+* Guardian <https://www.theguardian.com/international> // freedom to write seems large especially in the opinion section, often well informed, frequently consulted
 * BBC <https://www.bbc.com> // owned by the UK government
 * Reuters <https://www.reuters.com/>
   
@@ -1896,6 +1893,7 @@ Newspapers from Switzerland (in German, sometimes read as printed version, as av
 ### Opinion on the Conflict
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of Ukraine are seriously violated. *War should never happen.*
 > * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter) is violated. That other military conflicts (including military conflicts in 90s and 00s) were started not in agreement with international law, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *neither* seen as a justification.
+> * Occupying territories or targeting infrastructure from Ukraine to get concessions from other parties (NATO [countries]) - lets say - is considered not nice towards Ukraine.
 > * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless.
     >> So fare *no systematic* targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death violates the personal integrity of a person and causes pain to the victim and the people associated.
     
