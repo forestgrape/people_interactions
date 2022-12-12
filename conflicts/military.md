@@ -14,24 +14,23 @@
 For offense at some point one needs to move towards the opponent. This requires moving and usually at some point also moving while exposed to the opponent/enemy [fire]. In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. Such static defense structures usually provide a very high protection which is usually much higher than any protection achievable by mobile armor.
 
 #### Hallmarks of Offensive Weapons
-* *Capability for Movement and Movement while exposed to the Enemy.* [Movement while Enemy Exposed](#solutions-for-movement-while-enemy-exposed).
-* *Capability to Take Out Defensive Structures.* Well built defensive structures are difficult to take out (for example fortified concrete or below the ground).
+* *Capability for Movement and Movement while exposed to the Enemy.* [Solutions for Movement while Enemy Exposed](#solutions-for-movement-while-enemy-exposed).
+* *Capability to Take Out Defensive Structures.* Well built defensive structures are difficult to take out (for example fortified concrete and/or below the ground).
 
 <!--possibly do as table with examples-->
 #### Hallmarks of Defensive Weapons
 * *Capability to take out Moving or Shooting Targets:*  Recognize, hit & render unusable.  
-   * *Armor Piercing:* As offensive units usually need to move, their armor has trade-off between moveability and protection. This induces often some weak points in the armor which can be exploited. <!-- add Javelins or NLAW examples-->
+   * *Armor Piercing:* As offensive units usually need to move, their armor has trade-off between moveability and protection. Often then weak points in the armor which can be exploited. <!-- add Javelins or NLAW examples-->
    * *Counter Fire:* Detect & hit units firing.
 * *Useable from Fortified Positions/fixed Installation.* Matching between equipment and fortification type helps, also when the fortifications have communication and surveillance tools.
 
 #### Solutions for Movement while Enemy Exposed
 * Avoid being targeted (e.g. by short exposure and/or reduce detection for example by stealth)
 * Sustain a lot of damage (e.g. by heavy armor)
-* Ignore destruction: unmanned and disposable equipment (e.g. rockets or loitering munition)
-* Avoid movement: Long range which avoids/reduces the movement necessary (e.g. rocket launchers, artillery). For example rocket launchers themselves even though they are part of an offensive system do not have to move much, though the rockets/bullets have to move in open field.
-* Reduce exposure. For example by moving in terrain which provides cover or moving underground/water.
-
-In practice often a combination of protection is taken: Highly mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense or defense. Though for offense some additional protection is usually wanted such as stealth or armor.
+* Ignore destruction: unmanned and disposable equipment (e.g. rockets or attack drones/loitering munition)
+* Avoid movement: Long range which avoids/reduces the movement necessary. For example artillery/rocket launchers themselves do not have to move much, though the rockets/bullets have to move in open field.
+* Reduce exposure: For example by moving in terrain which provides cover or moving underground/water.
+* Combined protections: While most mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense. For optimal offense, often some additional protection is added such as stealth or armor.
 
 
 ### Classifying into Offensive and Defensive
@@ -40,9 +39,9 @@ In practice often a combination of protection is taken: Highly mobile equipment 
 By the hallmarks above equipment can be classified into offensive, defensive or mixed equipment. 
 
 The classification just gives a tendency in usage but does not restrict it:
-* Offensive Equipment able to destroy fixed structures can be used for defense purposes for example to target the opponent supply routes. // Ukraine used HIMARS launched rockets in this respect effectively in the [2022 invasion of Russia into Ukraine](ru_ukr_conflict.md).
+* Offensive Equipment able to destroy fixed structures can be used for defense purposes for example to target the opponent supply routes. // Ukraine used HIMARS launched rockets in this respect effectively to defend itself in the [2022 invasion of Russia](ru_ukr_conflict.md).
 * Armored offensive equipment can be used in defense, though it usually is not a resource efficient usage.
-* When carrying out offenses, offensive equipment often needs to be protected, for this defensive or mixed equipment is needed.
+* When carrying out conquests, offensive equipment often needs to be protected, for this defensive or mixed equipment is needed.
 
 => For offensive actions nearly always at least some offensive equipment is required and a flexible offensive force includes defensive or mixed equipment. For defense, defensive equipment is best suited.
  
