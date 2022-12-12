@@ -29,7 +29,7 @@
 *Terminology, legal specifications and practice:* The term sanctions is mostly used to denote restrictions taken by a state or a group of state on another state often as coercive measures. In international law (including the UN Charter), sanctions are not well specified.
 
 *Motivations/Goals:* 
-Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly government). Sanctions then sometimes are coercive (encourage/enforce the [state] actor to change its behavior) or punishment measures which has a deterring effect on others doing the same.
+Sanctions are motivated by different goals such as justice-system-like (e.g. break of international law), capability control (e.g. prevent proliferation of nuclear weapons) or political (e.g. restrict an unfriendly/unwanted government). Sanctions then sometimes are coercive (encourage/enforce the [state] actor to change its behavior), punishment (which has a deterring effect on others doing the same) or restrictive (hinder a government/country to achieve certain goals. For example to produce nuclear weapons.).
 
 *Implementations:* 
 Depending on the goal of a sanction, different implementations are possible. Frequently used implementations are economic, technological or travel restrictions.
@@ -40,7 +40,9 @@ Depending on the goal of a sanction, different implementations are possible. Fre
 ## Notes
 * The notes below list goals and methods of sanctions, mostly *without judgement*, though an [opinion on some principles](#opinion-on-principles) is given.
 
-* This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine - although this conflict[s] motivates the current publishing. Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict are on the [page on the conflict](../conflicts/ru_ukr_conflict.md#sanctions).
+* This page is *general and not specifically* about the invasion of Russia into the Ukraine which is part of a complex conflict between Russia, the EU, the NATO and different fractions within the Ukraine (although this conflict situation motivates it). Accordingly some statements do apply and some do not apply. Considerations on sanctions for the invasion as part the complex conflict are on the [page on the conflict](../conflicts/ru_ukr_conflict.md#sanctions).
+
+
 
 
 
@@ -161,6 +163,9 @@ In other words, sanctions stricto sensu do not include, in the first place, such
   * 'Sanction' by the US legislation: """As for autonomous measures, the autonomous and other measures taken by the United States are called “sanctions” in the title of the relevant legislation. For instance, its legislation imposing certain measures on Iran is designated as the “Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010.”14 """
   * 'Sanction' by the EU: """By contrast, within the framework of the EU, autonomous measures, as well as measures implementing UN resolutions, are all referred to as “restrictive measures” in its official documents. This is because Article 215 of the Treaty on the Functioning of the European Union (TFEU), which is the legal basis for the relevant EU regulations, refers to the measures for the interruption or reduction of economic and financial relations with third countries as “restrictive measures.” This does not, however, mean that the EU has never used the term “sanctions.” Rather, it sometimes uses this term in tandem with the term “restrictive measures,” as in the 2004 Council document entitled, “Basic Principles on the Use of Restrictive Measures (Sanctions).”15"""
   * """Thus, “sanctions” has been used as a term broadly covering coercive measures taken against the will of a target State or entity. We will examine such broadly defined, but non-military, “sanctions” in this and other chapters in principle."""
+
+
+
 
 
 
