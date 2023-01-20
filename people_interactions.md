@@ -44,7 +44,8 @@ When viewing countries as organizations, the above reads: With many interactions
   > Borders between states seem to some extent necessary to enable a local/own governance & responsibility and solidary societies (in view of the current inequalities and taxation schemes). // Though the system should be such that every region/society/country has a fair chance to develop as it wants.
 
 
-  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament/assembly members are considered helpful. Parliaments member often are in office for quite long and additionally they are many members, so a parliament can have friend around the world and especially with all neighboring countries. To have friendships between leadership groups is higher when the groups are larger.
+  > When the decision makers are friends, hostile actions are rare. => Meetings of parliament/assembly members are considered helpful. 
+  >> Members of the parliament often stay long and additionally they are many members, so a parliament can have friend around the world and especially with all neighboring countries. To have friendships between leadership groups is higher when the groups are larger.
 
 
 
