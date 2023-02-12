@@ -5,23 +5,25 @@
 * [Introduction and Overview](#introduction-and-overview)
   * [Refs Overview](#refs-overview)
 * [Legal Considerations and the different Actors](#legal-considerations-and-the-different-actors)
-* [Repulsive Warfare](#repulsive-warfare)
 * [Conflicts per Region](#conflicts-per-region)
   * [Conflict regarding Croatia](#conflict-regarding-croatia)
   * [Conflict regarding Kosovo](#conflict-regarding-kosovo)
   * [Conflict regarding Bosnia](#conflict-regarding-bosnia)
 * [Summaries of References](#summaries-of-references)
-  * [Considerations on the Constitution of S.F.R. of Yugoslavia](#considerations-on-the-constitution-of-sfr-of-yugoslavia)
+  * [Summaries and Comments Legal Considerations and Actors](#summaries-and-comments-legal-considerations-and-actors)
   * [Summaries Conflict regarding Kosovo](#summaries-conflict-regarding-kosovo)
+* [Appendix](#appendix)
+  * [Looking Forward](#looking-forward)
+
+
+
 
 ## Introduction and Overview
 
 ### Refs Overview
 * <https://www.icty.org/en/about/what-former-yugoslavia/conflicts>
 * <https://en.wikipedia.org/wiki/Yugoslav_Wars>
-
-
-
+* <https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia>
 
 
 
@@ -39,9 +41,7 @@ Multilateralism Matters but How?
 The Impact of Multilateralism on Great Power Policy Towards the Break-up of Yugoslavia *
 PETER VIGGO JAKOBSEN
 
-## Repulsive Warfare
-##### UN Press Release
-NATO CONFIRMS TO UNITED NATIONS USE OF DEPLETED URANIUM DURING KOSOVO CONFLICT, 22 March 2000, Press Release HAB/163 UNEP/67
+
 
 
 ## Conflicts per Region
@@ -57,9 +57,11 @@ Refs War regarding Croatia:
 
 #### Kosovo War
 * THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
+
+
+##### Usage of Depleted Uranium
 * Marlise Simons, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
-
-
+* NATO CONFIRMS TO UNITED NATIONS USE OF DEPLETED URANIUM DURING KOSOVO CONFLICT, 22 March 2000, Press Release HAB/163 UNEP/67, <https://press.un.org/en/2000/20000322.hab163.doc.html#:~:text=NATO%20CONFIRMS%20TO%20UNITED%20NATIONS%20USE%20OF%20DEPLETED%20URANIUM%20DURING%20KOSOVO%20CONFLICT,-20000322&text=GENEVA%2C%2021%20March%20(UNEP%2F,used%20during%20the%20Kosovo%20conflict.>
 
 
 
@@ -78,9 +80,15 @@ Selected references are summarized respectively key statements are cited. The us
 
 
 
-### Considerations on the Constitution of S.F.R. of Yugoslavia
+### Summaries and Comments Legal Considerations and Actors
+##### Summary Jakobsen
+*EUROPEAN UNIVERSITY INSTITUTE, FLORENCE ROBERT SCHUMAN CENTRE*
+
+* """The German government remained almost indifferent to the crisis until domestic pressure had built up during the spring of 1991, and once the pressure had weakened due to the recognition in December, the government again adopted a low profile vis-à-vis Yugoslavia.27"""
+   > Possibly this was theatre: The domestic pressure was built up by affiliated media (not necessarily limited to the German government) and the recognition has always been intended.
+
 ##### Summary Bagwell
-*YUGOSLAVIAN CONSTITUTIONAL QUESTIONS: SELF- DETERMINATION AND SECESSION OF MEMBER REPUBLICS*
+*YUGOSLAVIAN CONSTITUTIONAL QUESTIONS: SELF-DETERMINATION AND SECESSION OF MEMBER REPUBLICS*
 
 
 43: In 1990, after suppressing several uprisings in Kosovo, Serbia annexed that province and the autonomous province of Vojvodina, thereby violating the Yugoslav Constitution. Bohlen, Serbian Voting, supra note 32, at A22. Many feel these extra- constitutional exploits by the Serbian government to forcibly integrate Kosovo and Vojvodina into Serbia started the disintegration of Yugoslavia. Aleksandra Kornhauser, ...
@@ -131,7 +139,8 @@ The paper has three chapters A. Background, B. Declaration of Independence and C
 """It is true for many international disputes that where one stands today depends from where one starts. This proposition has a particular salience in the Balkans. It is not possible in this short note on the events relating to Kosovo to start ‘at the beginning’, even if a beginning could be agreed upon;1 but one has to start somewhere. Since this is a cursory account and appraisal of the context of Kosovo’s Declaration of Independence,2 and because some States at least have called it the last act in the disintegration of the Federal Socialist Republic of Yugoslavia, I shall start with the beginning of that process and place the date simply somewhere in 1991. It is, though, necessary to say something about the present: Kosovo has been a part of what is now the State of Serbia. Its population of about 2 million people is ethnically distinct from that of the Serb majority in the State as a whole, being about 90 per cent ethnic- Albanian. The Serb population of Kosovo, about 200,000 people (5 per cent), has several locations in Kosovo but it is mainly concentrated in the north-east, north of the Ibar river and based on the city of Mitrovica. Kosovo is a place of great cultural significance to Serbia, in particular because of the location of sites of importance to the Serbian Orthodox Church in Kosovo."""
 
 ###### On the Opinion of the Badinter Commission by the European Union
-"""Among the entities which sought the Commission’s endorsement were Kosovo and the Serb Krajina in Croatia. The Commission would not entertain their applications, regarding a version of the rule of uti possidetis as binding its hands: these two were excluded because they were not Federal States of the Socialist Federal Republic of Yugoslavia (SFRY)." // the Badinter Commission on the status of Kosovo and Krajina - Krajina, is were ethnic cleansing started in the Yugoslavian wars and was carried out by Croatia and NATO (led by the US)."""
+"""Among the entities which sought the Commission’s endorsement were Kosovo and the Serb Krajina in Croatia. The Commission would not entertain their applications, regarding a version of the rule of uti possidetis as binding its hands: these two were excluded because they were not Federal States of the Socialist Federal Republic of Yugoslavia (SFRY).""" 
+> Krajina is a region in Croatia, is were widespread ethnic cleansing started in the Yugoslavian wars (carried out by Croatia under advise from NATO/US.
 
 ###### On the Resolution 1244
 """
@@ -154,3 +163,14 @@ A difficult and demanding process is now being started to build a Kosovan State 
 
 ###### C. Assessment
 The assessment starts with "A common, though not universal, feature of the acts of recognition of the Republic of Kosovo was to say that Kosovo was ‘unique’ or ‘sui generis’, that its attainment of Statehood was not to be taken as a precedent which could be relied upon by any other ethnic group in a discrete territory which wished to secede from the State under the sovereignty of which it currently was and to have its own State. If it were to be a precedent (whatever that means),28 then the Statehood of the Republic of Kosovo could have a destabilizing effect on many States." and is closed with "It would be convenient and very helpful if the international system had a legislative device to deal with anomalous cases, to be able to amend the general rules to accommodate them or to provide an expressly exceptional solution; but it does not, at least not in the absence of a Chapter VII Security Council resolution. All the invocation of the authority of ‘the international community’ cannot hide what is an attempt by some States, for what they see as very good reasons, to make a world which does justice to the Kosovars (and furthers their own interests in Balkan stability) even if that cannot be done without depriving Serbia of some of its rights. Nonetheless, international lawyers know only too well that the facts can make the law — and the facts in Kosovo will eventually establish whether or not Serbian authority is to continue or a new State has conclusively emerged — but at the moment, we are still waiting on the facts to be established. The law does not seem to have much to do with that."
+
+
+
+## Appendix
+### Looking Forward
+European integration in the long run and possibly Open Balkans Project as a bridge seem a viable path onwards. 
+
+> Some reason for Open Balkans [as a bridge]:
+> * Deeper integration with the EU seems more likely with a single well organized group instead of many small states. A better cooperation is important as the EU surrounds the Balkan and a full membership may take time as the accession of many small states seems unlikely as long as the EU has not reformed its decision processes and such a reform is not immediate.
+> * The economies can develope within a larger market which usually increases efficiency and competitiveness and [thereby] prepares the economies for the European and world-wide markets.
+> * Benefits for people such as free movement and student exchanges.
