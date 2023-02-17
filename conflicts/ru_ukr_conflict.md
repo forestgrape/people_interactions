@@ -135,9 +135,9 @@ A stop of all military actions are help to reduce the ongoing tragedies includin
 #### Reasons for a Truce
 With the daily tragedies occurring and military analyses and decision required during a war, it can be hard to focus essential topics such as:
 * Overall goals: Increasing security, good and peaceful relations with neighbors. Serving [the wishes of] all the people.
-* Strengthen global security and make the world more peaceful - stopping military actions is a first step towards peace.
-* Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists.
-  > Self-determination including [regional] autonomy is ideally [clearer] specified (further considerations on the [Page on Universal Rights&Rules](../jurisprudence/governance_and_self_determination.md)). Then autonomy questions for regions such as Scotland (how the UK allows Scotland to decide itself is considered exemplary.), Taiwan, Donbas, Kosovo, Basque County, Quebec, regions where natives live in the US, Canada, Australia and so on can be handled according to specified principles (the situations for named regions differ hugely, so possibly a set of principles is needed). In some cases a possible solution could be the right for a self determined local government with certain economic freedoms and possibly independent 'regional' sport teams e.g. for football (if wished, the UK shows it works. Though the gain of local identification and the chance to play seems to come at some cost in competitiveness).
+* Strengthen global security and make the world more peaceful - stopping military actions is a first step.
+* Tackling the fundamental question of international law such as under which circumstances a region has the right for which degree of autonomy or even joining another country or alliance if such a right exists (further notes on the page [Governance and Self Determination](../jurisprudence/governance_and_self_determination.md)).
+  
 
 > Here, the focus is on [searching paths to] peace and *not* on military topics. <!-- tactical/military discussions are challenging anyways to keep neutrality (unless [considered] useful for both)-->
 
@@ -240,13 +240,11 @@ Racism threatens global peace, weakens social ties, and renders countries more v
 “Education and science are critical to tearing down the blinding stereotypes behind racism,” he argued, adding that “diverse ideas inspire creativity and drive innovation” – the source of our strength.
 He urged everyone to “end racism and discrimination in all its forms, once and for all”. 
 '''  
-> Here any kind of classification and accompanied systematically treatment by any kind of features or culture is considered misappropriate (unless directly relevant). 
-> * Regardless whether done by majorities or minorities - it is acknowledged though, that effects can be especially bad when done by a majority. 
-> * Features can be anything from skin or hair color, size, culture or even age - it is acknowledged that skin color and religion are two features which have have a very bad record. // During the Corona pandemics, the Kanton Uri, a local government in Switzerland wanted to classify society according to age and put stay at home orders for the seniors. Rightly they were whistled back by the federal government even though age has been proven a major risk factor throughout the corona pandemics.
+> Here any kind of classification and accompanied systematically treatment by any kind of features or culture is considered misappropriate (unless directly relevant - for example for a language teacher being native in a language can be relevant). 
 >
-> Fairness for everybody and tackling systemic problems are seen as the paths to go. 
-> 
->> *We are individuals and everybody has his own weaknesses and strengths.*
+> Fairness for everybody and providing a system with appealable paths and opportunities for everyone across the world is seen as the path to go. // In such settings, stereotypes and violence are excepted to fade.
+>
+>> Seeing individuals instead of stereotypes with unique characters and peculiarities.
 
 
 
