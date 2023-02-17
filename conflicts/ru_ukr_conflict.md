@@ -1653,7 +1653,7 @@ Iraq War <https://en.wikipedia.org/wiki/Iraq_War>
 ### Yugoslavian Breakup and Conflicts
 Selected similarities and selected differences regarding the conflict in Ukraine are discussed in this section.
 
-> The conflicts around the dissolution of Yugoslavia are discussed on the page [Yugoslavia Breakup](yugoslavia_breakup.md)
+> The conflicts around the dissolution of Yugoslavia are discussed on the page [Yugoslavia Breakup](yugoslavia_breakup.md). Reasons for the special treatment are: Offensive military involvement of US/NATO, violation of Helsinki accords, both were not liked or even opposed in/by Russia (and China), for example noted in [Forsberg 2005](#forsberg-05).
 
 
 
@@ -1702,10 +1702,7 @@ Similarities:
 Notes and Differences:
 In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosnian. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission (from the European Union) while it opted for disintegration of Yugoslavia into the republics, it advised to leave the republics intact i.e. the serbs in Croatia were not allowed to secede.
   
-> Legal consideration are in the essay of [Saul 2011](../jurisprudence/governance_and_self_determination.md#saul-2011) on the Self Determination page which contains general remarks about secession and self-determination.
-
-> With European integration, especially EU membership (possibly EWR and/or Open Balkan as intermediate steps) the exact status in international [geo]politics (i.e. the status at the UN) possibly becomes less important.
-
+> With European integration, especially EU membership as economical and political sovereign member (possibly EWR and/or Open Balkan as intermediate steps), the exact status in international [geo]politics (i.e. the status at the UN) possibly becomes less relevance.
 
 
 
