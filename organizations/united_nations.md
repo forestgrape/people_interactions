@@ -13,7 +13,7 @@
 
 
 ## Overview
-The UN has 6 principal organs which have subsidiary organs and additionally there are specialized agencies such as the WHO and WTO.
+The UN has 6 principal organs which in turn have subsidiary organs. The entire UN system which, in addition to the UN itself, comprises funds, programmes and specialized agencies. The Specialized Agencies coordinate their work with the UN, though they are independent  organizations with their own budget.
 
 An overview including the central role of the permanent 5 security council members (US, China, Russia, France, UK) is visualized by "historicair, via [Wikimedia Commons UN Institutions](https://commons.wikimedia.org/wiki/File:UN_Institutions.svg)": 
 <a title="historicair, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:UN_Institutions.svg"><img width="512" alt="UN Institutions" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/UN_Institutions.svg/512px-UN_Institutions.svg.png"></a>
