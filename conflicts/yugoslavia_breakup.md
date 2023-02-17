@@ -11,8 +11,8 @@
 * [Legal Considerations and the different Actors](#legal-considerations-and-the-different-actors)
 * [Conflicts per Region](#conflicts-per-region)
   * [Conflict regarding Croatia](#conflict-regarding-croatia)
-  * [Conflict regarding Kosovo](#conflict-regarding-kosovo)
   * [Conflict regarding Bosnia](#conflict-regarding-bosnia)
+  * [Conflict regarding Kosovo](#conflict-regarding-kosovo)
 * [Summaries and Citations](#summaries-and-citations)
   * [Summaries and Comments Legal Considerations and Actors](#summaries-and-comments-legal-considerations-and-actors)
   * [Summaries Conflict regarding Kosovo](#summaries-conflict-regarding-kosovo)
@@ -54,6 +54,12 @@ Refs War regarding Croatia:
 
 
 
+
+### Conflict regarding Bosnia
+> currently not discussed. Complex and brutal war.
+
+
+
 ### Conflict regarding Kosovo
 
 #### Background and legal Considerations
@@ -76,10 +82,6 @@ Colin Warbrick (2008). I. KOSOVO: THE DECLARATION OF INDEPENDENCE. International
 > Key statements in [Summary Warbrick](#summary-warbrick).
 
 
-
-
-### Conflict regarding Bosnia
-> currently not discussed. Complex and brutal war.
 
 
 
@@ -166,8 +168,7 @@ Both Russia and China emphasized the commitment to Yugoslavia’s territorial in
 * The final words of the declaration are cited "... We declare publicly that all States are entitled to rely upon this Declaration, and appeal to them to extend us their support and friendship." and commented with "A remarkable document, then—a unilateral declaration, erga omnes."
 
 ###### Euro-Atlantic Comments on the State Building in Kosovo
-* Extract from Sweden recognition statement: "[It] recognizes the Republic of Kosovo as an independent State whose independence is supervised for the time being by the international community . . .
-A difficult and demanding process is now being started to build a Kosovan State that meets international requirements.45"
+* Extract from Sweden recognition statement: "[It] recognizes the Republic of Kosovo as an independent State whose independence is supervised for the time being by the international community ... A difficult and demanding process is now being started to build a Kosovan State that meets international requirements.45" // As of 2023, Kosovo has come a long way back since 2008
 * The US Under Secretary of State for Political Affairs said on several occasions in a press conference that NATO troops were needed in the Republic of Kosovo to help it establish itself, pp 2 and 4, <www.state.gov/p/us/rm/2008/100976.htm> (18 February 2008). 
 
 ###### C. Assessment
