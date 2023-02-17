@@ -6,12 +6,29 @@
 
 * [Offensive and Defensive Equipment](#offensive-and-defensive-equipment)
   * [Principles of Offense and Defense](#principles-of-offense-and-defense)
-  * [Classifying into Offensive and Defensive](#classifying-into-offensive-and-defensive)
+  * [Classifying Equipment](#classifying-equipment)
+
+
+
 
 
 ## Offensive and Defensive Equipment
+
 ### Principles of Offense and Defense
 For offense at some point one needs to move towards the opponent. This requires moving and usually at some point also moving while exposed to the opponent/enemy [fire]. In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. Such static defense structures usually provide a very high protection which is usually much higher than any protection achievable by mobile armor.
+
+#### Solutions for Movement while Enemy Exposed
+* Avoid being targeted (e.g. by short exposure and/or reduce detection for example by stealth)
+* Sustain a lot of damage (e.g. by heavy armor)
+* Ignore destruction: unmanned and disposable equipment (e.g. rockets or attack drones/loitering munition)
+* Avoid movement: Long range which avoids/reduces the movement necessary for the launchers the rockets though still need to move. For example artillery/rocket launchers themselves do not have to move much, though the rockets/bullets have to move in open field.
+* Reduce exposure: For example by moving in terrain which provides cover or moving underground/water.
+* Combined protections: While most mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense. For optimal offense, often some additional protection is added such as stealth or armor.
+
+
+
+### Classifying Equipment
+> in work
 
 #### Hallmarks of Offensive Weapons
 * *Capability for Movement and Movement while exposed to the Enemy.* [Solutions for Movement while Enemy Exposed](#solutions-for-movement-while-enemy-exposed).
@@ -24,26 +41,13 @@ For offense at some point one needs to move towards the opponent. This requires 
    * *Counter Fire:* Detect & hit units firing.
 * *Useable from Fortified Positions/fixed Installation.* Matching between equipment and fortification type helps, also when the fortifications have communication and surveillance tools.
 
-#### Solutions for Movement while Enemy Exposed
-* Avoid being targeted (e.g. by short exposure and/or reduce detection for example by stealth)
-* Sustain a lot of damage (e.g. by heavy armor)
-* Ignore destruction: unmanned and disposable equipment (e.g. rockets or attack drones/loitering munition)
-* Avoid movement: Long range which avoids/reduces the movement necessary. For example artillery/rocket launchers themselves do not have to move much, though the rockets/bullets have to move in open field.
-* Reduce exposure: For example by moving in terrain which provides cover or moving underground/water.
-* Combined protections: While most mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense. For optimal offense, often some additional protection is added such as stealth or armor.
-
-
-### Classifying into Offensive and Defensive
-> in work
-
-By the hallmarks above equipment can be classified into offensive, defensive or mixed equipment. 
-
-The classification just gives a tendency in usage but does not restrict it:
+#### Remark
+The hallmarks above, can be used to classify equipment into offensive, defensive or mixed equipment. However, the resulting classification just gives a tendency in usage but does not restrict it:
 * Offensive Equipment able to destroy fixed structures can be used for defense purposes for example to target the opponent supply routes. // Ukraine used HIMARS launched rockets in this respect effectively to defend itself in the [2022 invasion of Russia](ru_ukr_conflict.md).
 * Armored offensive equipment can be used in defense, though it usually is not a resource efficient usage.
 * When carrying out conquests, offensive equipment often needs to be protected, for this defensive or mixed equipment is needed.
 
-=> For offensive actions nearly always at least some offensive equipment is required and a flexible offensive force includes defensive or mixed equipment. For defense, defensive equipment is best suited.
+=> For offensive actions nearly always at least some offensive equipment is required but a flexible offensive force includes defensive or mixed equipment. For defense, defensive equipment is usually best suited.
  
 
 #### Examples of Offensive Equipment
@@ -57,8 +61,8 @@ The classification just gives a tendency in usage but does not restrict it:
 
 #### Mixed (offense/defense) equipment
 ##### Artillery
-* *Self propelled (=fixed mounting to a moveable vehicle). Use case: Hit and run offense, quick reinforcement for defense. Well suited for terrain where its moveability is good (for many vehicles lots of path tracks mean good & flexible movement).
-* *Not-propelled:* Use from fortified positions and thus strong for defense or 2nd line offense in rather static front-lines.
+* *Self propelled (=fixed mounting to a moveable vehicle). Use case: Hit and run offense or defense, quick reinforcement for defense. Well suited for terrain where its moveability is good (for many vehicles a good road network, respectively path network).
+* *Not-propelled:* Use from fortified positions and thus strong for defense or 2nd line offense in settings with rather static front-lines.
 
 ##### Infantry
 * For offense: usually more heavily armored while maintaining the ability to move including the ability to move in settings with provide some stealth and/or cover. For example moving in wild terrain and/or at night, camouflage for different situations and terrains.
