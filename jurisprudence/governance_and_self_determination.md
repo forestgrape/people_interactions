@@ -3,7 +3,7 @@
 
 * [Updates](#updates)
 * [Introduction](#introduction)
-* [Self Determination and its Interpretations](#self-determination-and-its-interpretations)
+* [Self Determination in International Law](#self-determination-in-international-law)
   * [Refs Self Determination and its Interpretations](#refs-self-determination-and-its-interpretations)
 * [Collective Ownership](#collective-ownership)
   * [Refs on Collective Ownership](#refs-on-collective-ownership)
@@ -18,17 +18,21 @@
 ## Introduction
 Whether and if yes under which circumstances a people have the right to secede from a parent country and against the will of the latter is a controversial topic in international law. In  [*The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*](#saul-2011) by Matthew Saul considers different viewpoints by states and scholars.
 
-> The opinion advocated here ([Advocated Path for Self Determination](#advocated-path-for-self-determination):
-> * is to establish autonomy including self determined government.
+> The opinion advocated here:
+> * autonomy including self determined government.
 > * keeping local people out of geopolitics.
-> * no forceful measures against the local people.
-> * clearer specification of self determination in international law.
+> * no forceful measures
+> 
+> -> [Advocated Path for Self Determination](#advocated-path-for-self-determination).
+>
+> * clearer specification of self determination in international law. -> [Self Determination in International Law](#self-determination-in-international-law)
 
-> Self-determination including [regional] autonomy and the right for secession is ideally [clearer] specified. Then autonomy questions for regions all across the world can be handled according to specified principles. How the UK allows Scotland to decide itself is considered exemplary, however it is acknowledged that the situation is more complex in other settings when a more central part wants to secede (for example in Switzerland in 1848, some of the central Cantons wanted to form a 'Sonderbund', which was then prevented by the other cantons). In many cases a solution could be the right for a self determined local government with large economic and political freedom and possibly independent 'regional' sport teams e.g. for football if wished, the UK shows it works. // Though the gain of local identification and the chances to play can come at some cost in competitiveness.
 
 
 
-## Self Determination and its Interpretations
+## Self Determination in International Law
+
+> Self-determination including [regional] autonomy and the right for secession is ideally [clearer] specified. Then autonomy questions for regions all across the world can be handled according to specified principles. How the UK allows Scotland to decide itself is considered exemplary, however it is acknowledged that the situation is more complex in other settings when a more central/connecting part wants to secede (for example in Switzerland in 1848, some of the central Cantons wanted to form a 'Sonderbund', which was then prevented by the other cantons).
 
 ### Refs Self Determination and its Interpretations
 ##### Saul 2011
@@ -66,7 +70,7 @@ Borja Martinovic, Collective psychological ownership and intergroup relations
 Forcible methods of any kind against [the will of] the local population by *any* party are not considered adequate.
 
 ### Local Self Determination
-Here to achieve self-determination and living in a setting which takes local peculiarities into account, a federalist government structure is advocated: Local autonomy including a local government determined by the local people, fair participation in the senior state and respect for the local culture and language.
+Here to achieve self-determination and living in a setting which takes local peculiarities into account, a federalist government structure is advocated: Local autonomy including a local government determined by the local people, fair participation in the senior state and respect for the local culture and language. Possibly independent 'regional' sport teams e.g. for football if wished, it works in the UK.
 
 Reasons for autonomy based paths: 
 * The world moves closer together:
@@ -77,9 +81,9 @@ Reasons for autonomy based paths:
     > * This does *not* mean a uniform society is bad when it developed like this, however it is also not wish-worthy to achieve or to keep when history flows different. // What is a uniform, is relative and depends on the features considered anyways. Kenya and the US can be both considered as homogenous and divers countries, Kenya in languages and the US with people having their ancestors all across the world. <!--Once artificial life is alive or aliens turn up, what is considered divers likely changes.-->
     > * This only works, when there is respect [for one another]. // When subgroups (whether small or large) put group membership above respect, society or even human rights and team up to against non-group members, society may break [into pieces].
     > * Law and lawful behavior is advocated here, this includes migration. When there is need for illegal migration, laws can and should be adapted. // Laws should be designed to protect those who need it most, be reasonable and encourage 'wanted' behavior.
-    >> Both humanitarian and voluntary migration are supported in a reasonable and ordered way. <!--The current situation is considered fare from ideal: People  paying large amount of money to smugglers to go on dangerous and even life threatening journeys, money which is usually borrowed from smuggler associates and then has to be paid back several fold from money in high income countries. This may even encourage human right abuses in the originating countries, as regimes often profit or even are involved in human trafficking and additionally networks are required to pressurize people to pay back the money, these networks can also be used for other [illegal] purposes. -->
-    >> * Humanitarian Migration: Ideally safe, legal and affordable pathways to secure places are available for example by handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps. // For most Ukrainian women and children safe passage and legal stay is fortunately the case, they can take refuge in many European countries. // Depending how the war evolves some European countries may not stay safe.
-    >> * Voluntary Migration: Legal pathways with mutual benefits for all concerned. // Works in general well within Europe. Between Africa and Europe, both continents likely could benefit from work and education exchanges.
+    >> Both humanitarian and voluntary migration are supported in a reasonable and ordered way. 
+    >> * Humanitarian Migration: Ideally safe, legal and affordable pathways to secure places ideally close by and if needed handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps. // In the last decades often worked within Europe. For example most Ukrainian women and children fortunately have safe passage to and legal stay in many European countries (depending how the war evolves some European countries may not stay safe.). For places fare away, e.g. cross continent humanitarian migration the rules were not primarily designed and often not work as intended.
+    >> * Voluntary Migration: Legal pathways with mutual benefits for all concerned. In Europe, voluntary migration works in general well within the European Union and associated countries. Regionally and even between all continents - Africa, Asia, Australia, Asia and Americas - increased legal possibilities for work, training and education exchanges are considered beneficial.
    * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
     > In Europe, Switzerland managed to stay out of both world wars. While neutrality may have been a factor, likely the shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped.
 * *Peace.*
