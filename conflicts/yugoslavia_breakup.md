@@ -2,9 +2,11 @@
 
 > In early work, currently mainly online to move content from the [Conflict in Ukraine page](ru_ukr_conflict.md).
 
-> Given a special page as considered relevant:
+> Given a special page since:
 > * Violations of the Helsinki Accords.
 > * NATO involved in offensive military actions.
+> * Highly relevant for the recent history and todays situation.
+> * The first war with its brutality in Europe since the 2nd World War. // This pages focus on Europe.
 
 * [Introduction and Overview](#introduction-and-overview)
   * [Refs Overview](#refs-overview)
@@ -132,7 +134,7 @@ republic of Slovenia from the S.F.R. of Yugoslavia . . . is an anti-constitution
 
 120: The FEC considers unilateral decisions of any kind on altering the external or internal borders of Yugoslavia to run counter to the peaceful and democratic solution of the crisis, and such acts are considered illegal and illegitimate. Furthermore, unilateral acts of secession would lead to the negation of democracy in the seceding areas through the use of coercive force. Id.
 
-Secession as a unilateral act, the FEC maintains, would mean a violent change of current Yugoslav constitutional guarantees. [120] The FEC holds that if dissociation occurs as a simultaneous event, new relations between the remaining republics and the newly created nations must begin with the new modern multinational communities, such as those under way in Europe.[121] // text for the reference 120 at pages 510/511.
+Secession as a unilateral act, the FEC maintains, would mean a violent change of current Yugoslav constitutional guarantees. [120] The FEC holds that if dissociation occurs as a simultaneous event, new relations between the remaining republics and the newly created nations must begin with the new modern multinational communities, such as those under way in Europe.[121] // text for the notes 120 and 121 on the pages 511 and 512.
 
 
 
@@ -151,7 +153,7 @@ The paper has three chapters [A. Background](#a-background), [B. Declaration of 
 ###### On the Opinion of the Badinter Commission by the European Union
 """Among the entities which sought the Commission’s endorsement were Kosovo and the Serb Krajina in Croatia. The Commission would not entertain their applications, regarding a version of the rule of uti possidetis as binding its hands: these two were excluded because they were not Federal States of the Socialist Federal Republic of Yugoslavia (SFRY).""" 
 
-> Krajina, a region in Croatia, is were widespread ethnic cleansing started in the Yugoslavian wars (carried out by troupes associated to Croatia [which were trained and usually advised by the US, though unclear how much].
+> Krajina, a region in Croatia, is were widespread ethnic cleansing started in the Yugoslavian wars (carried out by troupes associated to Croatia [which were trained, supported and usually advised by the US/NATO, though unknown here who had the lead at those operations].
 
 ###### On the Resolution 1244
 """
@@ -174,7 +176,7 @@ Both Russia and China emphasized the commitment to Yugoslavia’s territorial in
 ###### C. Assessment
 The assessment starts:
 "A common, though not universal, feature of the acts of recognition of the Republic of Kosovo was to say that Kosovo was ‘unique’ or ‘sui generis’, that its attainment of Statehood was not to be taken as a precedent which could be relied upon by any other ethnic group in a discrete territory which wished to secede from the State under the sovereignty of which it currently was and to have its own State. If it were to be a precedent (whatever that means),28 then the Statehood of the Republic of Kosovo could have a destabilizing effect on many States." 
-and is closed:
+and is closes:
 "It would be convenient and very helpful if the international system had a legislative device to deal with anomalous cases, to be able to amend the general rules to accommodate them or to provide an expressly exceptional solution; but it does not, at least not in the absence of a Chapter VII Security Council resolution. All the invocation of the authority of ‘the international community’ cannot hide what is an attempt by some States, for what they see as very good reasons, to make a world which does justice to the Kosovars (and furthers their own interests in Balkan stability) even if that cannot be done without depriving Serbia of some of its rights. Nonetheless, international lawyers know only too well that the facts can make the law — and the facts in Kosovo will eventually establish whether or not Serbian authority is to continue or a new State has conclusively emerged — but at the moment, we are still waiting on the facts to be established. The law does not seem to have much to do with that."
 
 
