@@ -642,7 +642,7 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 * Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
 
 > Here, from a Swiss perspective, the current language situation/policy in Ukraine is considered - let's say - odd. 
->> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>)).
+>> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. -> [Languages in Switzerland](../jurisprudence/governance_and_self_determination.md#refs-languages-in-switzerland) on the [Governance and Self Determination page](../jurisprudence/governance_and_self_determination.md).
 
 
 
