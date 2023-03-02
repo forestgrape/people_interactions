@@ -1,8 +1,8 @@
 # Organizations of States
 
-> **In early work, content frequently missing.** Currently mainly online to give space to content moved content from the [Conflict in Ukraine page](ru_ukr_conflict.md).
+> *In early work, content frequently missing.* Currently mainly online to give space to content moved content from the [Conflict in Ukraine page](ru_ukr_conflict.md).
 
-Organizations with states as members are discussed such as UN, EU, NAFTA, EEU, Shanghai Cooperation or the BRICS. 
+Organizations with states as members are discussed such as UN, EU, NAFTA, EEU, Shanghai Cooperation or BRICS. 
 
 > 'Organizations of states' denotes here a subset of international organizations as the latter contain also organizations with non-state organizations as members. Examples of international organizations with non state members are WWF, Greenpeace, FIFA or the IOC. 
 
@@ -59,7 +59,7 @@ ADDRESS BY THE PRESIDENT OF THE REPUBLIC AT THE CONFERENCE ON THE FUTURE OF EURO
 
 
 ### EFTA
-EFTA: <https://www.efta.int>
+Webpage: <https://www.efta.int>
 
 
 
@@ -68,29 +68,37 @@ EFTA: <https://www.efta.int>
 
 
 ### Eurasian Economic Union
-Eurasian Economic Union (EAEU or EEU): <http://www.eaeunion.org/?lang=en>
+Eurasian Economic Union (EAEU or EEU)
+Webpage: <http://www.eaeunion.org/?lang=en>
+Members:  Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia
+Comparison to [CIS](#cis):
+* all members are also members of CIS
+* tighter economic integration than CIS
+
+#### Refs Eurasian Economic Union
+##### Schimmelfennig et al on CIS and EEU
+Schimmelfennig, Frank and others, 'The Commonwealth of Independent States and the Eurasian Economic Union', The Rise of International Parliaments: Strategic Legitimation in International Organizations, Transformations In Governance (Oxford, 2020; online edn, Oxford Academic, 21 Jan. 2021), <https://doi.org/10.1093/oso/9780198864974.003.0008>, accessed 2 Mar. 2023.
 
 
 ### CIS
+Members: Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekistan,  Turkmenistan (associate state)
 
-
-
+> see also [Eurasian Economic Union](#eurasian-economic-union)
 
 
 ## Political and Economic Groups
 
 ### African Union
-African Union: <https://au.int>
+Webpage: <https://au.int>
 
 ### Shanghai Cooperation Organisation
-Shanghai Cooperation Organisation: <http://eng.sectsco.org>
+Webpage: <http://eng.sectsco.org>
 
 ### BRICS
-BRICS = Brazil-Russia-India-China-South Africa
-"BRICS is an informal group of states comprising the Federative Republic of Brazil, the Russian Federation, the Republic of India, the People’s Republic of China and the Republic of South Africa." from <http://infobrics.org/page/history-of-brics/>
-
-* <https://en.wikipedia.org/wiki/BRICS>
-* <http://infobrics.org/>
+Name: BRICS = Brazil-Russia-India-China-South Africa
+Description: "BRICS is an informal group of states comprising the Federative Republic of Brazil, the Russian Federation, the Republic of India, the People’s Republic of China and the Republic of South Africa." from <http://infobrics.org/page/history-of-brics/>
+Wikipedia: <https://en.wikipedia.org/wiki/BRICS>
+Webpage: <http://infobrics.org/>
 
 
 ## Security and Military Organizations
