@@ -59,7 +59,7 @@
   * [Second Iraq War](#second-iraq-war)
   * [Yugoslavian Breakup and Conflicts](#yugoslavian-breakup-and-conflicts)
   * [Falkland War](#falkland-war)
-  * [Soviet/Warsaw Pact Invasions](#sovietwarsaw-pact-invasions)
+  * [Soviet/Warsaw Pact Military Operations and Invasions](#sovietwarsaw-pact-military-operations-and-invasions)
   * [Taiwan Territorial Situation](#taiwan-territorial-situation)
   * [Winter War](#winter-war)
 * [Resources](#resources)
@@ -641,9 +641,8 @@ Political and economical importance for Ukraine. Possibly, no offensive and/or [
 * Wikipedia on the language policy in Ukraine <https://en.wikipedia.org/wiki/Language_policy_in_Ukraine>
 * Parliament passes Ukrainian language bill <https://www.kyivpost.com/ukraine-politics/parliament-passes-ukrainian-language-bill.html>
 
-> Here, from a Swiss perspective, the current language situation/policy in Ukraine is considered - let's say - odd. 
->> In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%. -> [Languages in Switzerland](../jurisprudence/governance_and_self_determination.md#refs-languages-in-switzerland) on the [Governance and Self Determination page](../jurisprudence/governance_and_self_determination.md).
-
+> Here, from a Swiss perspective, the current language situation/policy in Ukraine is considered - let's say - odd ([Languages in Switzerland](../jurisprudence/governance_and_self_determination.md#languages-in-switzerland) on the [Governance and Self Determination page](../jurisprudence/governance_and_self_determination.md).
+).
 
 
 
@@ -1674,20 +1673,8 @@ Differences
 
 Similar as the [conflict regarding Slovenia](#conflict-regarding-slovenia). Additionally a peace-treaty was (ab)used to arm Croatian forces, which then conquered Serbian settlements within the republic of Croatia which opted to remain with Yugoslavia. The Croatian forces focused on conquering the territory by military force instead of convincing the local population of a common future.
 
+> The conflict itself is discussed in [Conflict regarding Croatia](yugoslavia_breakup.md#conflict-regarding-croatia) on the page [Breakup of Yugoslavia](yugoslavia_breakup.md)
 
-
-##### Refs Conflict in Croatia
-
-###### Rupert 95
-By James Rupert August 9, 1995, The Washington Post, CROATIA ACCUSED OF ETHNIC CLEANSING'
-
-Selected Statements:
-
-"""
-"And they're failing to do the things" that would persuade any substantial proportion of the Serb population to stay, the official said. "We have seen a Croatian plan to reintegrate {Serb} territory into the country -- but not {Serb} people." The official asked not to be named, saying, "I'm not supposed to be criticizing the Croatian government."
-
-The government of Croatian President Franjo Tudjman "expresses all the right things" about building a democracy, safeguarding the rights of minorities and keeping a multi-ethnic state, a European diplomat said. "But they aren't implementing them. . . . Effectively, it's ethnic cleansing," he said.
-"""
 
 #### Conflict regarding Bosnia
 > currently not considered
@@ -1698,11 +1685,8 @@ Similarities:
 * Interests (e.g. languages) and feelings  of regions with distinct cultural characteristics were not respected by the main government and [thus] seceded/secessionist tendencies gained ground.
 * Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement here on the argumentation themselves
 
+> The conflict itself is discussed in [Conflict regarding Kosovo](yugoslavia_breakup.md#conflict-regarding-kosovo) on the page [Breakup of Yugoslavia](yugoslavia_breakup.md).
 
-Notes and Differences:
-In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosnian. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission (from the European Union) while it opted for disintegration of Yugoslavia into the republics, it advised to leave the republics intact i.e. the serbs in Croatia were not allowed to secede.
-  
-> With European integration, especially EU membership in accord with Serbia, [if feasibly/agreed by all sides] with economical and political sovereignty (possibly EWR and/or Open Balkan as intermediate steps), the exact status in international [geo]politics (i.e. the status at the UN) possibly becomes less relevance.
 
 
 
@@ -1717,9 +1701,9 @@ Refs:
 
 
 
-### Soviet/Warsaw Pact Invasions
+### Soviet/Warsaw Pact Military Operations and Invasions
 
-#### Warsaw Pact invasion of Czechoslovakia
+#### Czechoslovakia’s Prague Spring
 
 Refs:
 * Czechoslovakia’s Prague Spring of 1968 and Russia’s War against Ukraine, By Raymond Johnston. Published Aug. 27 at 10:53 am <https://www.kyivpost.com/article/opinion/op-ed/czechoslovakias-prague-spring-of-1968-and-russias-war-against-ukraine.html>
@@ -1731,6 +1715,13 @@ Refs:
 * <https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956>
 
 
+#### Soviets in Afghanistan
+> in work
+
+##### Sheikh
+Sheikh, A. T. (1990). Not the Whole Truth: Soviet and Western Media Coverage of the Afghan Conflict. Journal of Conflict Studies, 10(4). <https://journals.lib.unb.ca/index.php/JCS/article/download/14919/15988)>
+
+> Highly recommended article.
 
 
 ### Taiwan Territorial Situation
