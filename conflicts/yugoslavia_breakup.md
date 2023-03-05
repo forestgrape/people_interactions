@@ -51,9 +51,20 @@ Multilateralism Matters but How? The Impact of Multilateralism on Great Power Po
 
 ## Conflicts per Region
 ### Conflict regarding Croatia
-Refs War regarding Croatia:
-* CROATIA ACCUSED OF ETHNIC CLEANSING', By James Rupert August 9, 1995
 
+
+#### Refs Conflict in Croatia
+
+###### Rupert 95
+By James Rupert August 9, 1995, The Washington Post, CROATIA ACCUSED OF ETHNIC CLEANSING'
+
+Selected Statements:
+
+"""
+"And they're failing to do the things" that would persuade any substantial proportion of the Serb population to stay, the official said. "We have seen a Croatian plan to reintegrate {Serb} territory into the country -- but not {Serb} people." The official asked not to be named, saying, "I'm not supposed to be criticizing the Croatian government."
+
+The government of Croatian President Franjo Tudjman "expresses all the right things" about building a democracy, safeguarding the rights of minorities and keeping a multi-ethnic state, a European diplomat said. "But they aren't implementing them. . . . Effectively, it's ethnic cleansing," he said.
+"""
 
 
 
@@ -65,23 +76,31 @@ Refs War regarding Croatia:
 ### Conflict regarding Kosovo
 
 #### Background and legal Considerations
-* [Warbrick](#warbrick) looks at the background as part of a discussion of the declaration of independence.
+* [Warbrick](#summary-warbrick) looks at the background as part of a discussion of the declaration of independence.
 * [Bagwell](#summary-bagwell) states: """In 1990, after suppressing several uprisings in Kosovo, Serbia annexed that province and the autonomous province of Vojvodina, thereby violating the Yugoslav Constitution. Bohlen, Serbian Voting, supra note 32, at A22."""
 * [Saul](../jurisprudence/governance_and_self_determination.md#saul-2011) discusses the independence in the paper "The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?" // The reference is given on the [page about self determination](../jurisprudence/governance_and_self_determination.md).
 
+
+> In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosniak. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission (from the European Union) while it opted for disintegration of Yugoslavia into the republics, it advised to leave the republics intact i.e. the serbs in Croatia were not allowed to secede.
+
+
+
+
+
 #### War regarding Kosovo
+
+##### Goldgeier
+THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
+
 ##### Usage of Depleted Uranium
 * Marlise Simons, *New York Times*, Jan. 9, 2001, 1999 U.S. Document Warned of Depleted Uranium in Kosovo <https://www.nytimes.com/2001/01/09/world/1999-us-document-warned-of-depleted-uranium-in-kosovo.html>
 * NATO CONFIRMS TO UNITED NATIONS USE OF DEPLETED URANIUM DURING KOSOVO CONFLICT, 22 March 2000, Press Release HAB/163 UNEP/67, <https://press.un.org/en/2000/20000322.hab163.doc.html#:~:text=NATO%20CONFIRMS%20TO%20UNITED%20NATIONS%20USE%20OF%20DEPLETED%20URANIUM%20DURING%20KOSOVO%20CONFLICT,-20000322&text=GENEVA%2C%2021%20March%20(UNEP%2F,used%20during%20the%20Kosovo%20conflict.>
 
 
-#### Literature Kosovo Conflict
-##### Goldgeier
-THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <https://warontherocks.com/2019/03/the-kosovo-war-in-retrospect/>
 
-##### Warbrick
-Colin Warbrick (2008). I. KOSOVO: THE DECLARATION OF INDEPENDENCE. International and Comparative Law Quarterly, 57, pp 675-690 doi:10.1017/S002058930800047X
-> Key statements in [Summary Warbrick](#summary-warbrick).
+
+#### Path Onwards
+> With European integration, especially EU membership in accord with Serbia, [if feasibly/agreed by all sides] with economical and political sovereignty (possibly EWR and/or Open Balkan as intermediate steps), the exact status in international [geo]politics (i.e. the status at the UN) possibly becomes less relevance.
 
 
 
@@ -183,9 +202,9 @@ and is closes:
 
 ## Appendix
 ### Looking Forward
-European integration in the long run and possibly Open Balkans Project as a bridge seem a viable path onwards. 
+European integration in the long run and possibly EWR and the Open Balkans Project as bridges seem a viable path onwards. 
 
 > Some reason for Open Balkans [as a bridge]:
-> * Deeper integration with the EU seems more likely with a single well organized group instead of many small states. A better cooperation is important as the EU surrounds the Balkan and a full membership may take time as the accession of many small states seems unlikely as long as the EU has not reformed its decision processes and such a reform is not immediate.
+> * A well organized group facilitates a deeper integration with EU. // A better cooperation is important as the EU surrounds the Balkan and a full membership may take time as the accession of many small states seems unlikely as long as the EU has not reformed its decision processes and such a reform is not immediate.
 > * The economies can develope within a larger market which usually increases efficiency and competitiveness and [thereby] prepares the economies for the European and world-wide markets.
 > * Benefits for people such as free movement and student exchanges.
