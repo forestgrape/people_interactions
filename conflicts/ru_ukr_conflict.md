@@ -161,7 +161,7 @@ With the daily tragedies occurring and military analyses and decision required d
 
 After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality, damage, losses and risks: 
 * The military personal at the front from all sides - many of whom had until last year, a normal civilian life and never thought or wanted to be part of a war with extremely intense warfare - has a very high risk of getting wounded and even of death.
-* Ordinarily civilians are at risk to become victims for example when foreign controlled cities are subject to conquest. 
+* Ordinarily civilians are at risk due to drone and rockets attacks. The risk of civilian causalities increases when cities come closer to the front or even part of. 
 * Regional or even world-wide disasters are possible due to risks of further escalation and/or risks of nuclear catastrophes - for example the situation at Europe's largest nuclear plant is almost constantly fragile.
 
 [the section below needs to be updated. For example the Russian defenses are strong and well built in most parts along the front-line, as the Ukrainian defenses. Even strong defenses are not impenetrable though with the right equipment, but - as warefare in cities - such offensive operations are usually associated to very high numbers of causalities, especially when the equipment is not optimal.]
