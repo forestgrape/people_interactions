@@ -159,15 +159,18 @@ With the daily tragedies occurring and military analyses and decision required d
 ### Perspectives in Ongoing War
 *Considerations on Perspectives on military, diplomatic, economical and scientific Perspectives for Russia and Ukraine.*
 
-After several months of war, further warfare may not improve negotiation positions of either site but cause unnecessary brutality, damage, losses and risks: 
+A truce, at least for a few months, seems to be in the interest both of Ukraine and Russia to stop further brutality including people getting killed, risks associated to war, to enable meaningful and honest negotiations and to enable domestic discussions what are the goals and how to achieve these best. 
+
+> For example it is not understood here, how occupying a nuclear plant increases the security of Russia. It is not understood, why people west of Donbass hardly discuss the right for self determination of the people of Donbass - not only territoriality (including possibilities for shared territories) but also autonomy including language rights, ...  
+
+Brutality, damage, losses and risks: 
 * The military personal at the front from all sides - many of whom had until last year, a normal civilian life and never thought or wanted to be part of a war with extremely intense warfare - has a very high risk of getting wounded and even of death.
 * Ordinarily civilians are at risk due to drone and rockets attacks. The risk of civilian causalities increases when cities come closer to the front or even part of. 
 * Regional or even world-wide disasters are possible due to risks of further escalation and/or risks of nuclear catastrophes - for example the situation at Europe's largest nuclear plant is almost constantly fragile.
 
-[the section below needs to be updated. For example the Russian defenses are strong and well built in most parts along the front-line, as the Ukrainian defenses. Even strong defenses are not impenetrable though with the right equipment, but - as warefare in cities - such offensive operations are usually associated to very high numbers of causalities, especially when the equipment is not optimal.]
 
-
-[in rework]
+[in rework, 
+For example the Russian defenses are effective and well built in most parts along the front-line - especially considering the fortifications were built in a short time and during wartime. Additionally Russia produces effective anti-armor weapons and the Russian forces do credible decentralized defense. Nevertheless Ukraine has currently the initiative in many locations along the long front-line and has demonstrated to be able to breach even strong defenses thanks to courage, skill and sophisticated equipment and tactics. The ability for offense and especially to reduce losses is likely to (further) increases with new equipment such as modern(ised) and integrated multirole aircrafts (F16) and other equipment (such as unmanned demining vehicles) in about half a year.]
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses (some hastily built and improvised) have  weak points respectively sides (which are spotted by world-class intelligences) and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve the negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
 Broad Russian advances are less likely since the Ukrainian defenses are strong: 3) Fortified positions and the light modern weapons are very well suited to defend fortified positions, 2) The Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and 1) they fight for and in their homeland which is a huge boost.
 
