@@ -1,5 +1,18 @@
+# Governance in View of People's Rights and Territorial Rights
 
-# Governance, Territorial Rights and Self Determination
+> Who's Land is It and who governs it, to which extent and which aspects and who can benefit? 
+
+
+> __23.9.23: in work - to clarify, to correct and to improve:__
+> * _Currently many sections are just a bag for references._
+> * _Some sections are considered not good and also biased. These will be improved or commented out._
+> * _Overall very fare away from a carefully thought through & written coverage of the topic._
+
+
+> Countries have rights and obligations specified in the UN Charter (e.g. Territorial Rights).
+> A people have rights specified in the domestic constitutions and rights defined in various covenants such as the covenants on Civil and Political rights and on Economic, Social and Cultural Rights. // Here, as a People are considered governable communities from the size of villages to countries.
+> Individual have rights granted by covenants and the Declaration of Human rights (most parts of which are considered customary international law). 
+
 
 * [Updates](#updates)
 * [Introduction](#introduction)
@@ -10,14 +23,17 @@
 * [Language Rights and Policies](#language-rights-and-policies)
   * [Languages in Kenya](#languages-in-kenya)
   * [Languages in Switzerland](#languages-in-switzerland)
-* [Appendix](#appendix)
-  * [Notes on Migration](#notes-on-migration)
-  * [Advocated Path for Self Determination](#advocated-path-for-self-determination)
+  * [Languages in Belgium](#languages-in-belgium)
+  * [Languages in Russia](#languages-in-russia)
+* [Autonomy and Separatism](#autonomy-and-separatism)
+  * [Refs on Autonomy and Separatism](#refs-on-autonomy-and-separatism)
+* [Advocated Path for Self Determination](#advocated-path-for-self-determination)
 
 
 
 ## Updates
-> in early work, changes frequent.
+23.9.23: Started some new sections such as Languages in Belgium and Connection between Separatism and Federalism.
+23.9.23: corrections and clarifications. Not fitting/not good content commented out.
 
 
 ## Introduction
@@ -36,6 +52,8 @@ Whether and if yes under which circumstances a people have the right to secede f
 
 
 ## Self Determination in International Law
+[in work]
+Both the UN charter and the covenants on Civil & Political Rights and on Economic and Cultural state a people have the right for self determination. A people is not specified however. 
 
 > Self-determination including [regional] autonomy and the right for secession is ideally [clearer] specified. Then autonomy questions for regions all across the world can be handled according to specified principles. How the UK allows Scotland to decide itself is considered exemplary, however it is acknowledged that the situation is more complex in other settings when a more central/connecting part wants to secede (for example in Switzerland in 1848, some of the central Cantons wanted to form a 'Sonderbund', which was then prevented by the other cantons).
 
@@ -49,7 +67,9 @@ Matthew Saul, *The Normative Status of Self-Determination in International Law: 
 Steven R. Fisher, Towards "Never Again": Searching for a Right to Remedial Secession under Extant International Law, 22 Buff. Hum. Rts. L. Rev. 261 (2016).
 <https://digitalcommons.law.buffalo.edu/bhrlr/vol22/iss1/7>
 
-> Some interesting points though not all consideration are agreed here. One is when formulating laws for secession, it can prevent or endanger a path of [granting] autonomy. Another is to determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#advocated-path-for-self-determination)).
+> Interesting article. Here sometimes a different focus is taken, for example: 
+> * When formulating laws for secession one needs to be careful not to discourage regional self governing and [granting] autonomy. 
+> * To determine the right of secession, instead of a backward looking approach (i.e. was the right for self determination violated and were there human right violations?), here a forward looking approach is preferred: How a peaceful and feasible future (for which events in the past may have to be taken into account) in agreement with human rights and self determination is achieved ([Preferred Path for Self Determination](#advocated-path-for-self-determination)).
 
 ##### Wikipedia on Self-Determination
 Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
@@ -57,10 +77,13 @@ Self-determination, Wikipedia <https://en.wikipedia.org/wiki/Self-determination>
 
 
 ## Collective Ownership
+
 > in work
 ### Refs on Collective Ownership
 ##### Martinovic on Collective Ownership
 Borja Martinovic, Collective psychological ownership and intergroup relations
+
+> recommended read.
 
 
 <!--
@@ -69,6 +92,7 @@ Borja Martinovic, Collective psychological ownership and intergroup relations
 
 
 ## Language Rights and Policies
+
 ### Languages in Kenya
 #### Refs Languages in Kenya
 ##### OGECHI
@@ -80,28 +104,95 @@ Ogechi, Nathan Oyori. "On language rights in Kenya." Nordic Journal of African S
 ##### Temelkova for Milestoneloc on Languages in Kenya
 <https://www.milestoneloc.com/official-languages-of-kenya/>
 
+
 ### Languages in Switzerland
 In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%.
 
 #### Refs Languages in Switzerland
-Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>))
+Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>
 
 
-## Appendix
-### Notes on Migration
-> early work, possibly to be moved to a separate page.
+### Languages in Belgium
+In Belgium there two main languages: French and Dutch (called Flemish in Belgium).
 
+Refs Languages in Belgium:
+###### Blommaert 2011
+Blommaert J. The long language-ideological debate in Belgium. Journal of Multicultural Discourses. 2011 Nov 1;6(3):241-56.
+
+<!--
+interesting how languages were handled in the soviet union
+
+### Languages in the former Soviet Union
+The wikipedia article on languages of the gives an overview of the languages spoken and the flavor of the current language policies: <https://en.wikipedia.org/wiki/Languages_of_Russia>
+-->
+
+### Languages in Russia
+The wikipedia article on languages of Russia gives an overview of the languages spoken and the flavor of the current language policies: <https://en.wikipedia.org/wiki/Languages_of_Russia>, 23.9.23
+
+
+
+
+
+
+> ## Thoughts on Migration
+> *23.9.23: unfinished and in work. possibly to be moved to a separate page, possibly to be commented out as it is currently not a primary focus of this page. Currently online as [considered] an improvement to a prior version.*
+>
 > Both humanitarian and voluntary migration are supported in a reasonable and ordered way. 
-> * Humanitarian Migration: Ideally safe, legal and affordable pathways to secure places ideally close by and if needed handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps. // In the last decades often worked within Europe. For example most Ukrainian women and children fortunately have safe passage to and legal stay in many European countries (if the war in Ukraine escalates not all in countries, both west and east of Ukraine, safety is guaranteed, thus in this case it is understandable and not unreasonable if people go further for safety reasons.). But in general, for migration to places fare away such as cross continent migration often humanitarian and voluntary migration are mixed, for this cases the rules were not primarily designed and often not work as intended.
-> * Voluntary Migration: Legal pathways with mutual benefits for all concerned. In Europe, voluntary migration works in general well within the European Union and associated countries. Regionally and even between all continents - Africa, Asia, Australia, Asia and Americas - increased legal possibilities for work, training and education exchanges are considered beneficial. For example, between Europe and Africa both continents could benefit especially in science, craftsmanship and culture. Between EU/EFTA countries and CIS countries increased interactions of many people (and not just interactions of the establishment level or a mere transfer of goods such as gas, oil and cars as it has been done) could help to understand each other other.
+>
+> #### Humanitarian Migration
+> Ideally safe, legal and affordable pathways to secure and adequate places, ideally close, and if needed handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps.  
+>
+<!--
+> >In the last decades regional humanitarian migration often worked within Europe. For example most Ukrainian women and children fortunately have safe passage to and legal stay in many European countries.
+>> * If the war in Ukraine escalates not all in countries, both west and east of Ukraine, safety is guaranteed, thus in this case it is understandable and not unreasonable if people go further for safety reasons. Despite men have mandatory conscription of men in Ukraine, there should be a discussion whether men are get asylum too - especially in the view of offensive operation and into regions where the local population may not want offensive operations. 
+-->
+> For migration to places fare away such as cross continent migration often humanitarian and voluntary (often economic reasons) migration are mixed, for this cases the rules were not primarily designed and often not work as intended.
+>> Law and lawful behavior is advocated here. When circumventing law is widespread, law can and should be adapted: Law, especially humanitarian law, should be designed to protect those who need it most, be reasonable and encourage 'wanted' behavior. 
+<!--
+* When some earning a lot of money from humanitarian migration (smugglers and especially money lenders who finance smugglers fees) then there is a risk of increasing prolonging or even encouraging human right abuses, conflicts and wars.
+-->
+>
+>
+> #### Voluntary Migration
+> Legal pathways, especially regional, for migration and work, training & education exchanges are considered beneficial. 
+>> Within the European Union and associated countries, voluntary migration is frequent and embedded in a legal framework with free movement agreements - generally it seems to work well though some downsides are observed such as emigration including brain-drain from countries with less competitive salaries whereas countries with high salaries and low taxes have a high inflow migration (especially if there is a low language-barrier as it was the case for UK). 
+>
+> For example, between Europe and Africa both continents could benefit especially in science, craftsmanship and culture. Between EU/EFTA countries and CIS countries increased interactions of people (and not just interactions at the establishment level or a mere transfer of goods such as gas, oil and cars as it has been done) could help to understand each other other and thereby help to prevent future conflicts.
 
 
 
 
-### Advocated Path for Self Determination
+
+## Autonomy and Separatism
+
+### Refs on Autonomy and Separatism
+
+
+###### Siroky & Cuffe 2015
+Siroky, David S., and John Cuffe. "Lost Autonomy, Nationalism and Separatism." Comparative Political Studies 48.1 (2015): 3-34.
+
+> """In his Second Treatise, John Locke observed that men are unlikely to cause
+revolutions for trivial reasons. This analysis shows that a tangible loss of
+autonomy is a nontrivial issue, and is robustly associated with separatism."""
+
+
+###### Cederman 2015
+Cederman LE, Hug S, Schädel A, Wucherpfennig J. Territorial autonomy in the shadow of conflict: Too little, too late?. American Political Science Review. 2015 May;109(2):354-70.
+
+
+###### Germann & Sambanis 2021
+Germann M, Sambanis N. Political exclusion, lost autonomy, and escalating conflict over self-determination. International Organization. 2021 Jan;75(1):178-203.
+
+
+
+
+
+## Advocated Path for Self Determination
 
 #### No Force
-Forcible methods of any kind against [the will of] the local population by *any* party are not considered adequate. Only peaceful forms of protest [if self determination is not granted].
+Forcible methods of any kind against [the will of] the local population by *any* party are not considered adequate. Only peaceful forms of protest [if self determination is not granted]. Especially no force before a clear perspective in
+
+<!--[add: not to used force is mostly customary international law, few exceptions (c in sre, s in k,u in don, az in ka)]-->
 
 #### Local Self Determination
 Here to achieve self-determination and living in a setting which takes local peculiarities into account, a federalist government structure is advocated: Local autonomy including a local government determined by the local people, fair participation in the senior state and respect for the local culture and language. Possibly independent 'regional' sport teams e.g. for football if wished, it works in the UK.
@@ -110,14 +201,18 @@ Reasons for autonomy based paths:
 * The world moves closer together:
   * Driven by improvements in communication and transportation, the cooperation and in between states increases. In support borders are becoming less strict. 
   * Technologies are more and more so powerful, world-wide effects are possible - solutions of such challenges and risks or usage of the chances often benefit from a world-wide cooperations and agreements.
-* Multicultural countries have many benefits:
-   * More efficient as the strengths of different cultures can be combined.
-    > * This does *not* mean a uniform society is bad when it developed like this, however it is also not wish-worthy to achieve or to keep when history flows different. // What is uniform, is relative and depends on the features considered: For example Kenya is very divers in languages ([Languages in Kenya](#refs-languages-in-kenya)) and the North America is diverse in the origin of the last generations of ancestors which are from most parts of the world. // Everybody likely has ancestors who once lived in the lands of todays Kenya if going back fare enough (wikipedia on migrations in prehistoric times: <https://en.wikipedia.org/wiki/Early_human_migrations>, genetic evidence for example in López, S. et al. (2016). Human Dispersal Out of Africa: A Lasting Debate. <https://doi.org/10.4137/EBO.S33489> and archeological findings are e.g. described in <https://humanorigins.si.edu/research/east-african-research-projects/olorgesailie-kenya>).
-    > * This only works, when there is respect [for one another]. // When [part of] subgroups (whether small or large) put group membership above respect, society or even human rights and team up to against non-group members, society may break [into pieces]. Additionally significant parts of subgroups using group membership against others may damage the reputation of the entire subgroup. Just no teaming up *against* others - keeping up cultures, customs and friendships is considered positive.
-    > * Law and lawful behavior is advocated here, this includes [migration](#notes-on-migration). When there is need for widespread behavior against the current law, law can and should be adapted. // Law should be designed to protect those who need it most, be reasonable and encourage 'wanted' behavior.
-   * Cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships.
-    > In Europe, Switzerland managed to stay out of both world wars. While neutrality may have been a factor, likely the shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped.
+* Different cultures in a country have benefits and done right. For example, different cultures complement each other by combining different aptitudes. Furthermore, cultural spaces across countries increase interstate interactions and can help understanding & interstate friendships which is good for economics including trade and importantly for peace.
+  > * Respect for each other and common base values such as human rights are considered important. From a governmental perspective, it possibly helps to enable and encourage regional interactions and participation (for example free language courses or participation options for regional policy)
+  > <!-- notes below are commented out as not fitting here. Additionally content/formulations are unclear and overall just not good. currently biased due to reoccurring personal experiences which do not generalize. it was stupid to write this here with a wrong timing. Sorry. Possibly sometimes a corrected/rewritten version will be published on the people interactions site, where group interactions are considered.
+    >> * This only works, when there is respect [for one another]. // When [part of] subgroups (whether small or large) put group membership above respect, society or even human rights and team up to against non-group members, society may break [into pieces]. Additionally significant parts of subgroups using group membership against others may damage the reputation of the entire subgroup. Just no teaming up *against* others - keeping up cultures, customs and friendships is considered positive.-->
+  >
+  > * Highlighting benefits of multiculti countries, is an argument *not* to consider a uniform society as wish-worthy to achieve or to keep when history flows different - however it does not mean a uniform society is considered bad when it is like this - cultures tend to spread anyways due to people interactions; which are advocated here and driven by advances in transportation and communication. // What is uniform, is relative and depends on the features considered: For example Kenya diverse in languages ([Languages in Kenya](#refs-languages-in-kenya)) and the North America is diverse in the origin of the last generations of ancestors which are from most parts of the world. // Everybody likely has ancestors who once migrated from the lands of todays Kenya if going back fare enough (wikipedia on migrations in prehistoric times: <https://en.wikipedia.org/wiki/Early_human_migrations>, genetic evidence for example in López, S. et al. (2016). Human Dispersal Out of Africa: A Lasting Debate. <https://doi.org/10.4137/EBO.S33489> and archeological findings are e.g. described in <https://humanorigins.si.edu/research/east-african-research-projects/olorgesailie-kenya>). 
+  >
+  > * In Europe, Switzerland managed to stay out of both world wars. Likely shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped to stay neutral and helped not to be drawn into.
 * *Peace.*
+
+
+
 
 
 
