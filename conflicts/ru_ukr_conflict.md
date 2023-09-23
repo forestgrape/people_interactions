@@ -7,7 +7,8 @@
 
 > Reminder: Mistakes of any form are likely. This includes misses to write factual due to biases based on personal experiences which tend to be not representative. -> [Notes on Reading](#notes-on-reading)
 
-> 10.9.2023: The page hasn't been updated for nearly half a year and thus many sections are out of date. Updates in work. 
+> 10.9.2023: The page hasn't been updated for nearly half a year and thus many sections are out of date. 
+> 23.9.2023: Some updates published 23.9.23. Many updates still in work, mistakes and short comings of any form especially likely.
 
 
 
