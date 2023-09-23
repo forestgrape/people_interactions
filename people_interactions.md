@@ -10,9 +10,9 @@
 * [Groups, Teams and Organizations](#groups-teams-and-organizations)
 * [Individual and Team Interactions](#individual-and-team-interactions)
   * [Relations and Interactions between Groups](#relations-and-interactions-between-groups)
-* [Examples](#examples)
-  * [Ancient Times](#ancient-times)
-  * [Modern World](#modern-world)
+* [Interactions in Ancient Times](#interactions-in-ancient-times)
+* [Interactions in Todays World](#interactions-in-todays-world)
+  * [Countries](#countries)
 
 
 ## Tweet Summary
@@ -37,8 +37,9 @@ When viewing countries as organizations, the above reads: With many interactions
 * When forming unions of countries, organizations with open membership and fluent borders are best at ensuring peace.
   > The United Nations is an open organization and in agreement it has a good track record at providing peace.
 
-* Inside countries when the society is 'fair' and fluent (not fractioned into different classes), there is few space for class struggles.
+* Inside countries when the society is 'fair' and fluent (not fractioned into different classes), there is few space for group struggles.
   > Revolutions happened mainly in situations where a segregated and a small class controlled most of the wealth.
+
 * Between countries, when there are lots of interactions especially at the 'decision making'/leadership level, the chances for friendship is higher and thus the chances for tensions, hostile actions and especially war are lower.
 
   > Borders between states seem to some extent necessary to enable a local/own governance & responsibility and solidary societies (in view of the current inequalities and taxation schemes). // Though the system should be such that every region/society/country has a fair chance to develop as it wants.
@@ -51,7 +52,8 @@ When viewing countries as organizations, the above reads: With many interactions
 
 
 ## Relevance
-International Relations: How to design and promote. Whether or not to cut ties in conflicts.
+* International Relations: How to design and promote. Whether or not to cut ties in conflicts.
+* Domestic policies: Laws that promote friendly interactions and open groups. 
 
 
 
@@ -136,9 +138,7 @@ Teams can compete or cooperate in various ways or have no connection. Here consi
 
 
 
-## Examples
-
-### Ancient Times
+## Interactions in Ancient Times
 * Prehistorical Times
   In prehistorical times, people groups lived in tribes. For tribes one is/was usually member of only one tribe.
 
@@ -149,17 +149,17 @@ Teams can compete or cooperate in various ways or have no connection. Here consi
 
 => In ancient times, the people were often only part of only one team holding power namely the feudal lord and the ruling monarch. Violent conflicts were frequent at those times, though often limited in scale.
 
-### Modern World
+## Interactions in Todays World
 In modern times one is usually part of different teams/organizations which hold power and property: The country of living, company(ies) associated (work, ownership), social organizations and religion.
 
-#### Countries
-##### Summary Countries
+### Countries
+#### Decision Making in Countries
 The population living in a certain area belongs to a country. The decision structure in countries is usually highly organized and hierarchically. In democracies the top members are determined by elections. In direct democracies the decision process itself is also subject to votes. Countries are often subdivided in administrative districts enabling decentralization. Regarding peace and war, countries are the most important organizational unit since the military command is usually per country. 
 > Often the larger the population part that takes part in a country's decision process, the less likely the country will start a war. At the start of a war, a broad support in the population is/was rare. [todo statistics]
 
 > Many countries have a single leader, often with large power. Being perfect, every day, for years is nearly impossibly i.e. even if brilliant mistakes usually happen, especially in unforeseen situations.
 
-> Having multiple persons deciding usually makes the decision processes more stable and less influenced by specific situations for example by moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit of young to mid age, experience and broad consideration with age. 
+> Having multiple persons deciding usually makes the decision processes more stable and less influenced by specific situations for example by moods (we all are humans). Additionally when having a group of leaders, different talents and experiences can improve the decision process: For example the wit peaks at young to mid age while experience and broad consideration growths with age. 
 
 <!--// with increasing age the number of neuronal connections increases which correlates to the things known and being able to consider. The speed is faster at young age and in some sense sharper/more precise on specific tasks. to cite -->
 
