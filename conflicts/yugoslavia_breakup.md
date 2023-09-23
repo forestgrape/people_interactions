@@ -6,7 +6,7 @@
 > * Violations of the Helsinki Accords.
 > * NATO involved in offensive military actions.
 > * Highly relevant for the recent history and todays situation.
-> * The first war with its brutality in Europe since the 2nd World War. // This pages focus on Europe.
+> * The first war with its brutality in Europe since the 2nd World War. // The focus of this project is on Europe.
 
 * [Introduction and Overview](#introduction-and-overview)
   * [Refs Overview](#refs-overview)
@@ -81,7 +81,7 @@ The government of Croatian President Franjo Tudjman "expresses all the right thi
 * [Saul](../jurisprudence/governance_and_self_determination.md#saul-2011) discusses the independence in the paper "The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?" // The reference is given on the [page about self determination](../jurisprudence/governance_and_self_determination.md).
 
 
-> In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosniak. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission (from the European Union) while it opted for disintegration of Yugoslavia into the republics, it advised to leave the republics intact i.e. the serbs in Croatia were not allowed to secede.
+> In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosniak. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission, while it opted for disintegration of Yugoslavia into the republics, it advised to leave the republics intact i.e. the serbs in Croatia were not allowed to secede.
 
 
 
@@ -100,7 +100,7 @@ THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <
 
 
 #### Path Onwards
-> With European integration, especially EU membership in accord with Serbia, [if feasibly/agreed by all sides] with economical and political sovereignty (possibly EWR and/or Open Balkan as intermediate steps), the exact status in international [geo]politics (i.e. the status at the UN) possibly becomes less relevance.
+> Important seem regional and European integration (long-term likely EU, possibly EWR/EFTA and/or Open Balkan as intermediate steps) in accord with Serbia and  formalized and increased economical and [domestic] political sovereignty. In this context, the exact status in international [geo]politics, namely the status at the UN, seems to become less relevant (it seems possible that topics on Security can be specified with the accession to European institutions).
 
 
 
