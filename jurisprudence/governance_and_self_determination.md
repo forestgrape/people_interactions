@@ -21,10 +21,10 @@
 * [Collective Ownership](#collective-ownership)
   * [Refs on Collective Ownership](#refs-on-collective-ownership)
 * [Language Rights and Policies](#language-rights-and-policies)
-  * [Languages in Kenya](#languages-in-kenya)
-  * [Languages in Switzerland](#languages-in-switzerland)
   * [Languages in Belgium](#languages-in-belgium)
+  * [Languages in Kenya](#languages-in-kenya)
   * [Languages in Russia](#languages-in-russia)
+  * [Languages in Switzerland](#languages-in-switzerland)
 * [Autonomy and Separatism](#autonomy-and-separatism)
   * [Refs on Autonomy and Separatism](#refs-on-autonomy-and-separatism)
 * [Advocated Path for Self Determination](#advocated-path-for-self-determination)
@@ -93,6 +93,14 @@ Borja Martinovic, Collective psychological ownership and intergroup relations
 
 ## Language Rights and Policies
 
+### Languages in Belgium
+In Belgium there two main languages: French and Dutch (called Flemish in Belgium).
+
+Refs Languages in Belgium:
+###### Blommaert 2011
+Blommaert J. The long language-ideological debate in Belgium. Journal of Multicultural Discourses. 2011 Nov 1;6(3):241-56.
+
+
 ### Languages in Kenya
 #### Refs Languages in Kenya
 ##### OGECHI
@@ -105,19 +113,10 @@ Ogechi, Nathan Oyori. "On language rights in Kenya." Nordic Journal of African S
 <https://www.milestoneloc.com/official-languages-of-kenya/>
 
 
-### Languages in Switzerland
-In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%.
 
-#### Refs Languages in Switzerland
-Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>
+### Languages in Russia
+The wikipedia article on languages of Russia gives an overview of the languages spoken and the flavor of the current language policies: <https://en.wikipedia.org/wiki/Languages_of_Russia>, 23.9.23
 
-
-### Languages in Belgium
-In Belgium there two main languages: French and Dutch (called Flemish in Belgium).
-
-Refs Languages in Belgium:
-###### Blommaert 2011
-Blommaert J. The long language-ideological debate in Belgium. Journal of Multicultural Discourses. 2011 Nov 1;6(3):241-56.
 
 <!--
 interesting how languages were handled in the soviet union
@@ -126,8 +125,15 @@ interesting how languages were handled in the soviet union
 The wikipedia article on languages of the gives an overview of the languages spoken and the flavor of the current language policies: <https://en.wikipedia.org/wiki/Languages_of_Russia>
 -->
 
-### Languages in Russia
-The wikipedia article on languages of Russia gives an overview of the languages spoken and the flavor of the current language policies: <https://en.wikipedia.org/wiki/Languages_of_Russia>, 23.9.23
+
+### Languages in Switzerland
+In Switzerland there are three main languages, namely Italian (native speakers about 10%), French (native about 20%) and German (about 60%, though learned first and spoken is mainly a local alemannic dialect, collectively referred as Swiss German). Additionally Romansh is an official language and spoken by about 0.5%.
+
+#### Refs Languages in Switzerland
+Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/sprachen.html>, Expatica: <https://www.expatica.com/ch/education/language-learning/languages-in-switzerland-107845/>, Wikipedia: <https://en.wikipedia.org/wiki/Languages_of_Switzerland>
+
+
+
 
 
 
@@ -149,7 +155,7 @@ The wikipedia article on languages of Russia gives an overview of the languages 
 > For migration to places fare away such as cross continent migration often humanitarian and voluntary (often economic reasons) migration are mixed, for this cases the rules were not primarily designed and often not work as intended.
 >> Law and lawful behavior is advocated here. When circumventing law is widespread, law can and should be adapted: Law, especially humanitarian law, should be designed to protect those who need it most, be reasonable and encourage 'wanted' behavior. 
 <!--
-* When some earning a lot of money from humanitarian migration (smugglers and especially money lenders who finance smugglers fees) then there is a risk of increasing prolonging or even encouraging human right abuses, conflicts and wars.
+* When some earning a lot of money from humanitarian migration (for example smugglers and money lenders who finance smugglers fees) then there is a risk of prolonging or even encouraging human right abuses, conflicts and wars.
 -->
 >
 >
@@ -169,19 +175,17 @@ The wikipedia article on languages of Russia gives an overview of the languages 
 
 
 ###### Siroky & Cuffe 2015
-Siroky, David S., and John Cuffe. "Lost Autonomy, Nationalism and Separatism." Comparative Political Studies 48.1 (2015): 3-34.
+Siroky, David S., and John Cuffe. *Lost Autonomy, Nationalism and Separatism.* Comparative Political Studies 48.1 (2015): 3-34.
 
-> """In his Second Treatise, John Locke observed that men are unlikely to cause
-revolutions for trivial reasons. This analysis shows that a tangible loss of
-autonomy is a nontrivial issue, and is robustly associated with separatism."""
+> """In his Second Treatise, John Locke observed that men are unlikely to cause revolutions for trivial reasons. This analysis shows that a tangible loss of autonomy is a nontrivial issue, and is robustly associated with separatism."""
 
 
 ###### Cederman 2015
-Cederman LE, Hug S, Schädel A, Wucherpfennig J. Territorial autonomy in the shadow of conflict: Too little, too late?. American Political Science Review. 2015 May;109(2):354-70.
+Cederman LE, Hug S, Schädel A, Wucherpfennig J. *Territorial autonomy in the shadow of conflict: Too little, too late?.* American Political Science Review. 2015 May;109(2):354-70.
 
 
 ###### Germann & Sambanis 2021
-Germann M, Sambanis N. Political exclusion, lost autonomy, and escalating conflict over self-determination. International Organization. 2021 Jan;75(1):178-203.
+Germann M, Sambanis N. *Political exclusion, lost autonomy, and escalating conflict over self-determination.* International Organization. 2021 Jan;75(1):178-203.
 
 
 
@@ -192,7 +196,7 @@ Germann M, Sambanis N. Political exclusion, lost autonomy, and escalating confli
 #### No Force
 Forcible methods of any kind against [the will of] the local population by *any* party are not considered adequate. Only peaceful forms of protest [if self determination is not granted]. Especially no force before a clear perspective in
 
-<!--[add: not to used force is mostly customary international law, few exceptions (c in sre, s in k,u in don, az in ka)]-->
+<!--[add: not to used force is mostly customary international law, few exceptions]-->
 
 #### Local Self Determination
 Here to achieve self-determination and living in a setting which takes local peculiarities into account, a federalist government structure is advocated: Local autonomy including a local government determined by the local people, fair participation in the senior state and respect for the local culture and language. Possibly independent 'regional' sport teams e.g. for football if wished, it works in the UK.
@@ -206,7 +210,7 @@ Reasons for autonomy based paths:
   > <!-- notes below are commented out as not fitting here. Additionally content/formulations are unclear and overall just not good. currently biased due to reoccurring personal experiences which do not generalize. it was stupid to write this here with a wrong timing. Sorry. Possibly sometimes a corrected/rewritten version will be published on the people interactions site, where group interactions are considered.
     >> * This only works, when there is respect [for one another]. // When [part of] subgroups (whether small or large) put group membership above respect, society or even human rights and team up to against non-group members, society may break [into pieces]. Additionally significant parts of subgroups using group membership against others may damage the reputation of the entire subgroup. Just no teaming up *against* others - keeping up cultures, customs and friendships is considered positive.-->
   >
-  > * Highlighting benefits of multiculti countries, is an argument *not* to consider a uniform society as wish-worthy to achieve or to keep when history flows different - however it does not mean a uniform society is considered bad when it is like this - cultures tend to spread anyways due to people interactions; which are advocated here and driven by advances in transportation and communication. // What is uniform, is relative and depends on the features considered: For example Kenya diverse in languages ([Languages in Kenya](#refs-languages-in-kenya)) and the North America is diverse in the origin of the last generations of ancestors which are from most parts of the world. // Everybody likely has ancestors who once migrated from the lands of todays Kenya if going back fare enough (wikipedia on migrations in prehistoric times: <https://en.wikipedia.org/wiki/Early_human_migrations>, genetic evidence for example in López, S. et al. (2016). Human Dispersal Out of Africa: A Lasting Debate. <https://doi.org/10.4137/EBO.S33489> and archeological findings are e.g. described in <https://humanorigins.si.edu/research/east-african-research-projects/olorgesailie-kenya>). 
+  > * Highlighting benefits of multiculti countries, is an argument *not* to consider a uniform society as wish-worthy to achieve or to trying to preserve when history flows different - however it does not mean a uniform society is considered bad when it is like this - cultures tend to spread anyways due to people interactions; which are advocated here and driven by advances in transportation and communication. // What is uniform, is relative and depends on the features considered: For example Kenya diverse in languages ([Languages in Kenya](#refs-languages-in-kenya)) and the North America is diverse in the origin of the last generations of ancestors which are from most parts of the world. // Everybody likely has ancestors who once migrated from the lands of todays Kenya if going back fare enough (wikipedia on migrations in prehistoric times: <https://en.wikipedia.org/wiki/Early_human_migrations>, genetic evidence for example in López, S. et al. (2016). Human Dispersal Out of Africa: A Lasting Debate. <https://doi.org/10.4137/EBO.S33489> and archeological findings are e.g. described in <https://humanorigins.si.edu/research/east-african-research-projects/olorgesailie-kenya>). 
   >
   > * In Europe, Switzerland managed to stay out of both world wars. Likely shared cultural space with all neighbors, namely France, Germany, Austria, Liechtenstein and Italy helped to stay neutral and helped not to be drawn into.
 * *Peace.*
