@@ -8,7 +8,7 @@
   * [Principles of Offense and Defense](#principles-of-offense-and-defense)
   * [Equipment by Defense and Offense](#equipment-by-defense-and-offense)
 * [Types of Equipment](#types-of-equipment)
-  * [Equipment by Staffed and Unstaffed](#equipment-by-staffed-and-unstaffed)
+  * [Equipment by Manned and Unmanned](#equipment-by-manned-and-unmanned)
   * [Equipment by Purpose](#equipment-by-purpose)
 
 
@@ -18,20 +18,10 @@
 
 ### Principles of Offense and Defense
 Offense: 
-For offense at some point one needs to move towards the opponent and usually in the opponent territory. This requires 1) movement, 2) movement in enemy territory and 3) usually at some point also actions (movement, shooting, demine, ...) while exposed to opponent/enemy attacks. The forces on the offense decide where and when to attack and thus where and when battles take place (whereby the opponent defenses constraints the locations). To find a good attack spot and time reconnaissance is important.
+For offense at some point one needs to move towards the opponent and usually in the opponent territory. This requires 1) movement, 2) movement in enemy territory and 3) usually at some point also actions (movement, shooting, demine, ...) while exposed to opponent/enemy attacks. The forces on the offense decide where and when to attack and thus where and when battles take place (the opponent defensive positions put constraints on the locations). To find a good attack spot and time, reconnaissance is crucial.
 
 Defense: 
-In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. Such static defense structures usually provide a very high protection which is usually much higher than any protection achievable by mobile armor. In defense continuous surveillance enables to prepare for and react early to possible attacks and thereby take away surprise-effect advantage of the attacker.
-
-#### Solutions for Opponent Exposure
-* Mobility: Reduce the probability of being detected, targeted and/or hit (e.g. by short exposure and/or fast/irregular movement)
-* Sustain Damage: Sustain a lot of damage (e.g. by heavy armor, stable construction)
-  <!--there's usually a tradeoff between functionality and stability which puts limits on the stability given by the functionality. //One way to construct unstaffed demining vehicles should be to put the focus on stability. -->
-* Disposable: Ignore destruction for example unmanned and disposable equipment such  as rockets or attack drones/loitering munition.
-* Long Range: Long range which avoids/reduces the movement necessary/target closeness for the launchers, though the rockets still need to move to reach the target. For example artillery/rocket launchers themselves can be kept in at safe places and only the rockets/bullets have to move in open field.
-* Cover providing Paths: Paths in terrain which provides cover or moving underground/water which reduces the probability for detection or hit.
-* Camouflage: Classical camouflage for visible light or EM absorbing for radar stealth.
-* Combined protections: While most mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense, a against a good defense usually some additional protection is added such as stealth or armor.
+In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. Such static structures usually provide a protection which is usually much higher than protections achievable by mobile armor. In defense continuous surveillance enables to prepare for and react early to possible attacks and thereby take away the 'surprise-effect' advantage of the attacker.
 
 
 
@@ -39,7 +29,7 @@ In defense, fixed defensive structures such as fortifications and natural struct
 > in work
 
 #### Hallmarks of Offensive Equipment
-* *Capability for Movement, Movement in enemy territory and Movement while exposed to the Enemy .* [Solutions for Movement while Enemy Exposed](#solutions-for-opponent-exposure).
+* *Capability for Movement including Movement in enemy territory and Movement while exposed to the Enemy.* [Solutions for Movement while Enemy Exposed](#solutions-for-opponent-exposure).
 * *Capability to Take Out Defensive Structures.* Well built defensive structures are difficult to take out (for example fortified concrete and/or below the ground).
 * *Reconnaissance.* Do reconnaissance or carry out actions based on it.
 
@@ -62,6 +52,19 @@ The hallmarks above, can be used to classify equipment into offensive, defensive
 
 In conclusion, for offensive actions nearly always at least some offensive capabilities are required but a flexible offensive force includes equipment with defensive capabilities. For defense, defensive equipment is usually best suited.
  
+
+#### Solutions for Opponent Exposure
+* Mobility: Reduce the probability of being detected, targeted and/or hit (e.g. by short exposure and/or fast/irregular movement)
+* Sustain Damage: Sustain a lot of damage (e.g. by heavy armor, stable construction)
+  <!--there's usually a tradeoff between functionality and stability which puts limits on the stability due to constraints to reach a certain functionality. For certain functionalities such as de-mining, a robust construction can be providing (at least part of) the functionality, in this case it should be possible to put the focus on stability. -->
+* Disposable: Ignore destruction for example unmanned and disposable equipment such  as rockets or attack drones/loitering munition.
+* Long Range: Long range which avoids/reduces the movement necessary/target closeness for the launchers, though the rockets still need to move to reach the target. For example artillery/rocket launchers themselves can be kept in at safe places and only the rockets/bullets have to move in open field.
+* Cover providing Paths: Paths in terrain which provides cover or moving underground/water which reduces the probability for detection or hit.
+* Camouflage: Classical camouflage for visible light or EM absorbing for radar stealth.
+* Combined protections: While most mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense, a against a good defense usually some additional protection is added such as stealth or armor.
+
+
+
 
 #### Equipment for Offense
 * Heavily armored tanks and self propelled artillery. Such equipment can sustain a lot of damage but are not well suited for use from fortified positions.
@@ -105,7 +108,7 @@ Usage: for surveillance, reconnaissance, engineer or damage
 Control Type: remote controlled or autonomous
 Reusable: Onetime, Reusable
 
-> Often damage equipment is remote controlled and *not* autonomous unless the target is predefined (e.g. the case for rockets) as one don't want machines to decide about damage especially lethal damage (mines and cluster mines are notable exceptions of autonomous remote damage equipment which have been around for decades with often devastating effects including for uninvolved people)<!--some drones in used in the Ukraine-Russo war are reported/seem to have target acquire capabilities by AI. td: cite-->.
+> Often damage equipment is remote controlled and *not* autonomous unless the target is predefined (e.g. the case for rockets) as one don't want machines to decide about damage especially lethal damage (mines and cluster mines are notable exceptions of autonomous remote damage equipment which have been around for decades with often devastating effects, including for uninvolved people)<!--some drones in used in the Ukraine-Russo war are reported/seem to have target acquire capabilities based on AI. td: cite-->.
 > Often surveillance equipment has the ability for remote control as at least a one way data transmission has to be in place anyways and from a one way to two way transmission is mostly no [big] constraint.
 
 
@@ -145,10 +148,19 @@ Physical Waves:
 
 #### Damage
 Destroy or damage some opponent equipment.
-[in work]
+[in consideration]
 
 
-#### Obstacles
+#### Sheltering Structures
+##### Obstacles
 * electric obstacles (for example by electronic warfare devices)
 * physical obstacles/barriers: walls, trenches, moats, ...
+
+##### Concealment Structures
+
+##### Protective Structures
+Protect civilians and military personal & equipment.
+For example bunkers, castles.
+
+
 
