@@ -3,12 +3,16 @@
 
 > The goal of this page is to advocate human rights and to contribute to peace.
 
-> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia. Though the war and the underlying conflicts and reasons for them are manyfold.
+> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!--on the order of President Putin (likely with the intention to (re)install Yanukovych as President)-->. The war in Donbas started back in 2014 <!--when separatists took arms in Donbas and a Ukraine first started the Anti-Terrorist Operation transformed to JSO (Joint Force Operation) in  2017 when the separatist were closely cooperated to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west oriented policy. Additional conflicts and interests seem to have played a role for the current war-->.
 
-> Reminder: Mistakes of any form are likely. This includes misses to write factual due to biases based on personal experiences which tend to be not representative. -> [Notes on Reading](#notes-on-reading)
+> Reminder: Mistakes and shortcomings of any form are likely. -> [Notes on Reading](#notes-on-reading)
+
+
+> 23.9.2023: Some updates published. Many parts still in work, mistakes and shortcomings of any form especially likely. // 25.9. The focus is intended to be put on more general topics such as government forms and technologies (such as resource independence) which correlate to having the UN covenants on Economic, Social and Cultural Rights
+and on Civil and Political Rights guaranteed for everyone.
 
 > 10.9.2023: The page hasn't been updated for nearly half a year and thus many sections are out of date. 
-> 23.9.2023: Some updates published 23.9.23. Many updates still in work, mistakes and short comings of any form especially likely.
+
 
 
 
@@ -96,7 +100,9 @@
 
 ## New Content and Updates
 
-
+* 23./24.:
+  * Section on the Conflict in Georgia
+  * Section on the Soviet Intervention in Afghanistan
 
 
 * Updates across the pages (12.2.23 pushed online) <!--commits on 20.1.23 and 12.2. -->. A rework of the section [Comparison to other Conflicts](#comparison-to-other-conflicts) is in progress.
