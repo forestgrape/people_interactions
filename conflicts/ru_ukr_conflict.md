@@ -8,8 +8,9 @@
 > Reminder: Mistakes and shortcomings of any form are likely. -> [Notes on Reading](#notes-on-reading)
 
 
-> 23.9.2023: Some updates published. Many parts still in work, mistakes and shortcomings of any form especially likely. // 25.9. The focus is intended to be put on more general topics such as government forms and technologies (such as resource independence) which correlate to having the UN covenants on Economic, Social and Cultural Rights
-and on Civil and Political Rights guaranteed for everyone.
+> 25./28.9. The focus is going to be more on general topics such as government forms and technologies which correlate to having the UN covenants on Economic, Social and Cultural Rights and on Civil and Political Rights guaranteed for everyone. For example techs which enable resource independence.
+
+> 23.9.2023: Some updates published. Many parts still in work, mistakes and shortcomings of any form especially likely. // 
 
 > 10.9.2023: The page hasn't been updated for nearly half a year and thus many sections are out of date. 
 
@@ -406,6 +407,7 @@ R. E. Hamilton, 26.9.2019, Hamilton, Ph.D., is an Associate Professor of Eurasia
 
 
 ### Nuclear Risks of War
+
 #### Des Browne 1403
 Statement by the Euro-Atlantic Security Leadership Group (EASLG) Co-Conveners Ukraine and Reducing Nuclear Risks, <https://www.europeanleadershipnetwork.org/group-statement/statement-by-the-euro-atlantic-security-leadership-group-easlg-co-conveners-ukraine-and-reducing-nuclear-risks/>
 
@@ -467,12 +469,6 @@ Erdogan Warns of 'Another Chernobyl' After Talks in Ukraine, <https://www.themos
 
 
 
-
-
-
-
-
-
 ## Exploring Paths to Peace
 
 Considering and searching for possible pathways to lasting peace.
@@ -480,7 +476,8 @@ Considering and searching for possible pathways to lasting peace.
 ### Security for Ukraine
 * General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to Ukraine as the largest country entirely within Europe.
 * A good army backed by a strong technology and defense industry in Ukraine by international cooperation and support.
-* A neutral status for Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have not been enough). // officially in discussion
+* A neutral status for Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have been useless). // officially in discussion 
+  > Many countries likely would be willing to give binding and clearcut guarantees as it is in most countries interest to have a friendly and independent Ukraine. // Security guarantees without NATO membership have the advantage for Ukraine, not to take independent decisions whether to join hypothetical future conflicts of NATO countries. As bordering country the risk is higher to ba at the front.
 
 
 
@@ -1761,9 +1758,9 @@ JB Straubel, CTO December 22, 2008, *Roadster Efficiency and Range*, <https://ww
 > Support of Ukraine to *defend* itself is *not* considered a reason for sanctions. 
 > > This should not be read as an advocation for a large numbers of offensive weapons. This page is pro peace and accordingly [offensive military](#military) [equipment] is in general (in the entire world) not advocated - best would be if offensive weapons are reduced world wide] ([Worldwide Security](#security-in-europe-and-the-world)). Borders are advocated here to be redrawn, if at all, peacefully or if considered adequate with non-military measures, this even when the borders are considered unjust or against laws. // Some rare exceptions when military methods are not strictly opposed: 
 >>    * preventing further almost sure or already ongoing offensive warfare i.e. when the territories are 'clearly' illegally occupied and they are prepared or already as springboard for [ongoing] offensive warfare by the opponent.
->>    * preventing ongoing [systematic] violations of human right [on illegal occupied territories] // There are violations of Human Rights in some occupied territories though they are *not* considered here to justify an extremely brutal and bloody reconquest <!-- nor the use of depleted uranium or cluster munitions for offensive warfare-->.
+>>    * preventing ongoing [systematic] violations of human right [on illegal occupied territories] 
 >>
->> but even in the exceptions above everything should be done to find a peaceful solution for example through diplomacy.
+>> but even in the exceptions above everything should be done to find a solution without a military reconquest for example through diplomacy. // Diplomacy (including steps to strengthen minority rights to convince the people to join back) and sanctions still have space and are considered preferred to a brutal and extremely bloody reconquest. The use of some weapons such as depleted uranium or cluster munitions for offensive warfare may destroy the land and result in uninhabitable areas. 
 
 
 
@@ -1843,21 +1840,19 @@ Differences
 #### Conflict in Croatia
 [in consideration]
 
-Similar as the [conflict regarding Slovenia](#conflict-regarding-slovenia). Additionally a peace-treaty was (ab)used to  provide offensive capabilities to Croatian forces of the separatist government, which then conquered Serbian settlements within the republic of Croatia which opted to remain with Yugoslavia. The forces focused on conquering the territory by military force instead of convincing the local population of a common future.
+Similar as the [conflict regarding Slovenia](#conflict-regarding-slovenia). Additionally a peace-treaty was (ab)used to  provide offensive capabilities to Croatian forces of the separatist government, which then conquered Serbian settlements within the republic of Croatia which opted to remain with Yugoslavia. The focus seems to have been on conquering the territory by military force instead of convincing the local population of a common future.
 
 > Defensive capabilities Croatia had for long, Tito being himself Croatian and Slovenian looked that local self determination was backed by self defense forces [to cite].
 
 > The conflict itself is discussed in [Conflict regarding Croatia](yugoslavia_breakup.md#conflict-regarding-croatia) on the page [Breakup of Yugoslavia](yugoslavia_breakup.md)
 
 
-#### Conflict regarding Bosnia
-> currently not discussed.
 
 
 #### Conflict regarding Kosovo
 Similarities: 
 * Interests (e.g. languages) and feelings  of regions with distinct cultural characteristics were not respected by the main government and [thus] seceded/secessionist tendencies gained ground.
-* Similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement here on the argumentation themselves
+* Partly similar argumentation of the NATO [to bomb Serbia] as Russia argued to invade Ukraine. // no judgement here on the argumentations themselves
 
 > The conflict itself is discussed in [Conflict regarding Kosovo](yugoslavia_breakup.md#conflict-regarding-kosovo) on the page [Breakup of Yugoslavia](yugoslavia_breakup.md).
 
@@ -1897,7 +1892,16 @@ Refs:
 ##### Sheikh
 Sheikh, A. T. (1990). Not the Whole Truth: Soviet and Western Media Coverage of the Afghan Conflict. Journal of Conflict Studies, 10(4). <https://journals.lib.unb.ca/index.php/JCS/article/download/14919/15988)>
 
-> Highly recommended article.
+> Selected cites below, though it is highly recommended to read the entire article.
+
+On the media coverage:
+* '''Decades of media-government research have shown that media are inextricably linked to the interests of the state.[2] It has been argued that the Western press is sensitive to government pressure and that a convergence emerges between press reporting and government policy. [3] The relations and activities of media and government are especially important since, it has been suggested, no wars have been covered without bias and censorship. [4] If truth is the first casualty of war reporting, then the Afghan conflict has been the best example of a fragmented and inconsistent presentation in the Soviet and mainstream Western news media.'''
+* '''The Soviet media's coverage of foreign affairs, particularly that of the Afghan war, expanded within the scope of glasnost. Given the communist party's continued 'leading role' in Soviet society and given the fact that until very recently Gorbachev's own pronouncements have not been open to direct public challenge, it is important to emphasize that the Soviet media did not provide the lead for the new leadership to change its policy on Afghanistan. On the contrary, Gorbachev's policies outlined how the Soviet media could cover the Afghan war, generally, within the vaguely defined boundaries of glasnost. Consequently, the coverage of the Afghan war evolved out of heroic anecdotes of selfless internationalism to self-criticism and cynicism. [37]'''
+* '''At the 19th Conference of the CPSU, he [Gorbachev] made the following points: foreign policy issues should be the subject of constant scientific and public discussion; the quality of information on international issues should be substantially improved; in reforming its political system, the USSR must create a mechanism with full constitutional powers for the discussion of international political issues; commissions of the central committee should be established to address foreign policy issues; and glasnost means pluralism of opinion on any question of domestic and foreign policy.[45] Soon after, Foreign Minister Sheverdnadze added that when key issues of foreign and domestic policy are under discussion, "the appearance of different, perhaps diametrically opposite, views is a natural phenomenon."[46]'''
+* '''... Such efforts were coupled with changes in the Soviet lexicon: instead of referring to the resistance as bandits and mercenaries, they were now referred to as the "misguided" Afghans. Gorbachev himself, in his speech at Vladivostock, labelled them as "patriots living on the other side of the border." Artyem Borovik later highlighted the irony: "Now, even in our press, we do not call the Mujahideen enemies. Simply, 'the armed opposition'. What kind of war is it where there is no enemy ?"[76]'''
+* '''Ironically, Soviet and Western media coverage have been, in some respects, mirror images of each other. Just as the Western media did not entertain any claims of consolidation by the Kabul regime, Soviet media publicists routinely dismissed everything that the Mujahideen claimed. The Western media perceived the Karmal regime as Moscow's puppet brought to power on Russian tanks. Moscow characterized the Zia regime as serving American interests in Southwest Asia and kept in power by generous American aid. Islamabad and Washington refused to negotiate with Kabul about the future political settlement of the crisis. Likewise, Moscow refused to speak with Islamabad, saying that the crisis was a problem "around Afghanistan" to be resolved directly with Afghanistan and Pakistan. '''
+
+
 
 
 ### Taiwan Territorial Situation
