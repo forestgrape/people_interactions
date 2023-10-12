@@ -3,10 +3,14 @@
 
 > The goal of this page is to advocate human rights and to contribute to peace.
 
-> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!--on the order of President Putin (likely with the intention to (re)install Yanukovych as President)-->. The war in Donbas started back in 2014 <!--when separatists took arms in Donbas and a Ukraine first started the Anti-Terrorist Operation transformed to JSO (Joint Force Operation) in  2017 when the separatist were closely cooperated to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west oriented policy. Additional conflicts and interests seem to have played a role for the current war-->.
+> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!--on the order of President Putin (likely with the intention to (re)install Yanukovych as President)-->. The war in Donbas started back in 2014 <!--when separatists and other groups took arms in Donbas and the temporary government of Ukraine  responded by what was named ATO (Anti-Terrorist Operation) which was renamed as JSO (Joint Force Operation) in  2017 at a time when the separatist were closely cooperated to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west oriented policy. Also, additional conflicts and interests seem relevant for the current war-->.
 
 > Reminder: Mistakes and shortcomings of any form are likely. -> [Notes on Reading](#notes-on-reading)
+>
 
+> 12.10.23: The escalation of violence in Israel/Palestine is shocking and worrisome. The pictures and stories from the atrocious attacks by Hamas (which initiated the current escalation) are extremely appalling and distressful. No less appalling and distressful are the pictures and stories from Gaza due to attacks which flatten entire neighborhoods. 
+> * Here the statements from UN Secretary-General Guterres are agreed/shared: to end "the vicious cycle of bloodshed, hatred and polarization." (Middle East crisis: Guterres appeals for end to ‘vicious cycle of bloodshed, hatred and polarization’,<https://news.un.org/en/story/2023/10/1142082>). 
+> * A cessation of violence to reduce the risk of further escalation, to prevent ongoing tragedies, to find acceptable paths to peace and to avoid increasing the risk for future violence (e.g. Song, L. Y., Singer, M. I., & Anglin, T. M. (1998). Violence exposure and emotional trauma as contributors to adolescents' violent behaviors. Archives of pediatrics & adolescent medicine, 152(6), 531-536). There has been much violence already for a long time with so many victims.
 
 > 25./28.9. The focus is going to be more on general topics such as government forms and technologies which correlate to having the UN covenants on Economic, Social and Cultural Rights and on Civil and Political Rights guaranteed for everyone. For example techs which enable resource independence.
 
@@ -27,9 +31,13 @@
   * [Perspectives in Ongoing War](#perspectives-in-ongoing-war)
   * [Considerations on the Plebiscites](#considerations-on-the-plebiscites)
 * [Notes on Reading](#notes-on-reading)
-* [Effects of War and Significance of Peace](#effects-of-war-and-significance-of-peace)
-  * [Direct Effects of War](#direct-effects-of-war)
-  * [Indirect Effects of War](#indirect-effects-of-war)
+* [Significance of Peace](#significance-of-peace)
+  * [Gorbachev on War](#gorbachev-on-war)
+  * [UN on the International Day of Peace](#un-on-the-international-day-of-peace)
+* [Effects of War](#effects-of-war)
+  * [Causalities](#causalities)
+  * [Psychological Effects of War](#psychological-effects-of-war)
+  * [Dividing People and changing Attitudes](#dividing-people-and-changing-attitudes)
   * [Ecological Effects of War](#ecological-effects-of-war)
   * [Nuclear Risks of War](#nuclear-risks-of-war)
 * [Exploring Paths to Peace](#exploring-paths-to-peace)
@@ -255,19 +263,19 @@ Varia:
 
 
 
-## Effects of War and Significance of Peace
+## Significance of Peace
 *Significance of Peace and Effects and Dangers of War*
 
-* Prevent losses and suffering. Prevent [direct](#direct-effects-of-war) and [indirect](#indirect-effects-of-war) effects of war. // War is brutal and human rights are violated.
-* War can divide people and it usually does.
+* Prevent losses and suffering. Prevent [effects of war](#effects-of-war) such as causalities, destruction and destruction of land. War is brutal and human rights are violated.
+* War can divide people.
 * War has many adverse effects and risks associated and can escalate.
 
 
-> ### Gorbachev on War
+### Gorbachev on War
 > "... When I became General Secretary of the Soviet Communist Party, I traveled to towns and villages across the country to meet people, to introduce myself and to talk. And there was one thing everyone talked about. They said to me: 'Mikhail Sergeyevich, whatever problems we may have, whatever food shortages, don't worry, we'll have enough food. We'll grow it. We'll manage. Just make sure there's no war.' I was stunned. That's how the people were. That's how much they had suffered in the last war. ..." from a [2019 BBC Interview](#gorbachev-bbc-interview-2019), translated by BBC.
 
 
-##### UN on the International Day of Peace
+### UN on the International Day of Peace
 *Beware the ‘poison of war’ says Guterres, championing a ‘call for peace’*
 <https://news.un.org/en/story/2022/09/1126821>
 
@@ -294,9 +302,9 @@ He urged everyone to “end racism and discrimination in all its forms, once and
 
 
 
+## Effects of War
 
-
-### Direct Effects of War
+### Causalities
 
 
 ##### Causalities after 18 Months of War
@@ -329,9 +337,9 @@ BBC, 29.8.23,  'Dying by the dozens every day' - Ukraine losses climb,
 """There has been a dramatic rise in Ukraine's number of dead, according to new estimates by unnamed US officials. The BBC's Quentin Sommerville has been on the front line in the east, where the grim task of counting the dead has become a daily reality."""
 
 
-### Indirect Effects of War
 
-#### Psychological Effects of War
+
+### Psychological Effects of War
 
 ##### Ukrainian PSYCHOTHERAPIST on Effects of War
 *«EVEN IF THE WAR STOPS TOMORROW, IT WON’T END FOR THOSE WHO GOT HURT,» – A PSYCHOTHERAPIST ABOUT THE FUTURE NATIONAL REHABILITATION CENTRE*, 
@@ -355,8 +363,8 @@ Interfax Ukraine, 12:53 07.08.2023, *Project of Ukrainian, Danish Red Cross Soci
 
 
 
-#### Dividing People
-Often when affected by [direct effects](#direct-effects-of-war) such as losses of close people or [psychological effects of war](#psychological-effects-of-war), though not limited to these cases.
+### Dividing People and changing Attitudes
+Often when affected by [causalities](#causalities) such as losses of close people or [psychological effects of war](#psychological-effects-of-war), though not limited to these cases.
 
 
 ##### Freedland
@@ -366,6 +374,14 @@ Often when affected by [direct effects](#direct-effects-of-war) such as losses o
 
 ##### The Moscow Times on Anti Russian Effects
 ‘Everything Russian Must Go’: Ukraine’s Kharkiv Renames Streets, By Patrick Fort for AFP Updated: May 24, 2022, <https://www.themoscowtimes.com/2022/05/24/everything-russian-must-go-ukraines-kharkiv-renames-streets-a77792> <!--confirm-->
+
+
+##### Teaching of the Russian language in Ukraine
+Attitude towards the teaching of the Russian language in Ukrainian-language schools: the results of a telephone survey conducted on February 14-22, 2023
+The press release was prepared by the Executive Director of KIIS, Anton Hrushetskyi
+<https://www.kiis.com.ua/?lang=eng&cat=reports&id=1202&page=1&t=10>
+
+
 
 
 
