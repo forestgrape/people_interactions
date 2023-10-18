@@ -3,18 +3,22 @@
 
 > The goal of this page is to advocate human rights and to contribute to peace.
 
-> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!--on the order of President Putin (likely with the intention to (re)install Yanukovych as President)-->. The war in Donbas started back in 2014 <!--when separatists and other groups took arms in Donbas and the temporary government of Ukraine  responded by what was named ATO (Anti-Terrorist Operation) which was renamed as JSO (Joint Force Operation) in  2017 at a time when the separatist were closely cooperated to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west oriented policy. Also, additional conflicts and interests seem relevant for the current war-->.
+> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!--on the order of President Putin (likely with the intention to (re)install Yanukovych as President)-->. The war in Donbas started back in 2014 <!--when separatists and other groups took arms in Donbas and the temporary government of Ukraine  responded by what was named ATO (Anti-Terrorist Operation) which was renamed as JSO (Joint Force Operation) in  2017 at a time when the separatist were closely linked to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west oriented policy. Additional conflicts and interests seem relevant for the current war-->.
 
 > Reminder: Mistakes and shortcomings of any form are likely. -> [Notes on Reading](#notes-on-reading)
->
 
-> 12.10.23: The escalation of violence in Israel/Palestine is shocking and worrisome. The pictures and stories from the atrocious attacks by Hamas (which initiated the current escalation) are extremely appalling and distressful. No less appalling and distressful are the pictures and stories from Gaza due to attacks which flatten entire neighborhoods. 
+
+> 12.10.23: The escalation of violence in Israel/Palestine is shocking and worrisome. The pictures and stories about the atrocious attacks by Hamas (which initiated the current escalation) are extremely appalling and distressful. No less appalling and distressful are the pictures and stories from Gaza due to attacks which flatten entire neighborhoods.
+> 
 > * Here the statements from UN Secretary-General Guterres are agreed/shared: to end "the vicious cycle of bloodshed, hatred and polarization." (Middle East crisis: Guterres appeals for end to ‘vicious cycle of bloodshed, hatred and polarization’,<https://news.un.org/en/story/2023/10/1142082>). 
-> * A cessation of violence to reduce the risk of further escalation, to prevent ongoing tragedies, to find acceptable paths to peace and to avoid increasing the risk for future violence (e.g. Song, L. Y., Singer, M. I., & Anglin, T. M. (1998). Violence exposure and emotional trauma as contributors to adolescents' violent behaviors. Archives of pediatrics & adolescent medicine, 152(6), 531-536). There has been much violence already for a long time with so many victims.
+>
+> * A cessation of violence is hoped for - to reduce the risk of further escalation, to prevent ongoing tragedies, to ensure good or at least acceptable conditions for help, to analyse what happened, how & why it happened, to search & find paths for peace and to avoid increasing the risk for future violence (e.g. Song, L. Y., Singer, M. I., & Anglin, T. M. (1998). Violence exposure and emotional trauma as contributors to adolescents' violent behaviors. Archives of pediatrics & adolescent medicine, 152(6), 531-536). 
+>       
+> > There has been much violence already for a long time with so many victims in the region [not possible to reference it in full. Selected references are 1) Laor N, Wolmer L, Mayes LC, et al. Israeli Preschoolers Under Scud Missile Attacks: A Developmental Perspective on Risk-Modifying Factors. Arch Gen Psychiatry. 1996;53(5):416–423. <https://jamanetwork.com/journals/jamapsychiatry/article-abstract/497577>, 2) Hein, F. A., Qouta, S., Thabet, A., & el Sarraj, E. (1993). Trauma and mental health of children in Gaza. BMJ (Clinical research ed.), 306(6885), 1130–1131. <https://doi.org/10.1136/bmj.306.6885.1130-c>].
 
-> 25./28.9. The focus is going to be more on general topics such as government forms and technologies which correlate to having the UN covenants on Economic, Social and Cultural Rights and on Civil and Political Rights guaranteed for everyone. For example techs which enable resource independence.
+> 25./28.9.2023, The focus is going to be shifted towards general topics such as government forms and technologies which correlate to having the UN covenants on Economic, Social and Cultural Rights and on Civil and Political Rights guaranteed for everyone. For example techs which support/enable resource independence.
 
-> 23.9.2023: Some updates published. Many parts still in work, mistakes and shortcomings of any form especially likely. // 
+> 23.9.2023: Some updates published. Many parts still in work, mistakes and shortcomings of any form especially likely.
 
 > 10.9.2023: The page hasn't been updated for nearly half a year and thus many sections are out of date. 
 
@@ -109,7 +113,7 @@
 
 ## New Content and Updates
 
-* 23./24.:
+* 23./24.9:
   * Section on the Conflict in Georgia
   * Section on the Soviet Intervention in Afghanistan
 
@@ -123,10 +127,6 @@
   > The considerations/references are now more comprehensive and balanced (hopefully).
 
 * Clarifications and corrected mistakes across the page. For example in [Sanctions (Economic Restrictions)](#sanctions).
-
-
-
-
 
 
 
@@ -387,10 +387,10 @@ The press release was prepared by the Executive Director of KIIS, Anton Hrushets
 
 
 ### Ecological Effects of War
-> Not acute in comparison to human losses, though environmental damage can yield [long-term] future suffering. // Chernobyl is a local example of short and long-term damage.
+> Not acute in comparison to human losses, though environmental damage can yield [long-term] future suffering. // Chernobyl is an example of environmental pollution causing short and long-term damage.
 
-##### Nickel for Japan Times on Poisoning of Ukrainian Soils
-ROD NICKEL for Japan Times, Mar 2, 2023, How Putin's war is poisoning Ukraine's breadbasket, <https://www.japantimes.co.jp/news/2023/03/02/world/ukraine-breadbasket-toxic-legacy/>
+##### Nickel, Japan Times on Poisoning of Ukrainian Soils
+ROD NICKEL, Japan Times, Mar 2, 2023, How Putin's war is poisoning Ukraine's breadbasket, <https://www.japantimes.co.jp/news/2023/03/02/world/ukraine-breadbasket-toxic-legacy/>
 
 ##### KievPost on the Environmental Damage 
 Environmental Damage Caused by Russian Invasion Estimated at $10 Billion, <https://www.kyivpost.com/russias-war/environmental-damage-caused-by-russian-invasion-estimated-at-10-billion.html>
@@ -518,10 +518,10 @@ Redesign of security architectures and designing/strengthening partnerships/coop
 Demilitarized or at least no offensive weapons 
 * In striking distance of population centers.
   > Taken strictly this involves disarming strategic weapons.
-* Alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as for the both countries their security is key.
+* Alongside the borders of countries. // A natural such zone would be Russian-Ukrainian border as both countries highly value their security.
 
 ##### Control and Reduction of Offensive Weapons
-Increasing the Security by Limiting (offensive) Military.
+Increasing the Security by Limiting the offensive military [capabilities].
 
 > As discussed in the [Military chapter](military.md): Weapons preferably used in offense are usually mobile and/or heavily armored/stealth and/or have a long range. Examples are armored vehicles (including tanks and armored self propelled artillery), long-range (combat)drones, rockets (including hypersonic rockets) and airplanes (especially stealth airplanes and long-range bombers).
 
@@ -559,7 +559,7 @@ To increase the international trust respectively reduce distrust in NATO there a
 
 
 #### NATO Rename/Refound/Replacement
-Already a renaming would emphasize reorientation and reduce cold war associations. Other options are a re-founding by a new or a fusion with OSCE.
+Already a renaming would emphasize reorientation and reduce cold war associations. Other options are a re-founding from scratch. // As of 2023 the organization of the world is complex and ideally the focus is on cooperation and common security instead of confrontation. 
 
 > It is to acknowledge that the Cold War ended peacefully and cooperatively. Havel stated: “It is a question of prestige. This is the reason why I talked about the new European security system without mentioning NATO. Because, if it grew out of NATO, it would have to be named something else, if only because of the element of prestige. ... But if NATO can transform itself – perhaps in conjunction with the Helsinki process – it would look like a peaceful process of change, not defeat.” from Document 12-2 in [Savranskaya and Blaton](#savranskaya-and-blanton-2017).
 
