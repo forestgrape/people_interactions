@@ -1,6 +1,11 @@
 # Governance in View of People's Rights and Territorial Rights
 
-> Who's Land is It and who governs it, to which extent and which aspects and who can benefit? 
+> Countries have rights and obligations specified in the UN Charter (e.g. Territorial Rights).
+> A people have rights specified in the domestic constitutions and rights defined in various covenants such as the covenants on Civil and Political rights and on Economic, Social and Cultural Rights. // Here, as a People are considered governable communities from the size of villages to countries.
+> Individual have rights granted by covenants and the Declaration of Human rights (most parts of which are considered customary international law).
+
+
+> Questions [to be] considered are: Who's Land is It (community, countries, private, ...), who governs it (to which extent and which aspects) and who can benefit (from resources, from accumulated wealth, ...) ? 
 
 
 > __23.9.23: in work - to clarify, to correct and to improve:__
@@ -9,9 +14,6 @@
 > * _Overall very fare away from a carefully thought through & written coverage of the topic._
 
 
-> Countries have rights and obligations specified in the UN Charter (e.g. Territorial Rights).
-> A people have rights specified in the domestic constitutions and rights defined in various covenants such as the covenants on Civil and Political rights and on Economic, Social and Cultural Rights. // Here, as a People are considered governable communities from the size of villages to countries.
-> Individual have rights granted by covenants and the Declaration of Human rights (most parts of which are considered customary international law). 
 
 
 * [Updates](#updates)
@@ -143,7 +145,11 @@ Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gese
 > ## Thoughts on Migration
 > *23.9.23: unfinished and in work. possibly to be moved to a separate page, possibly to be commented out as it is currently not a primary focus of this page. Currently online as [considered] an improvement to a prior version.*
 >
-> Both humanitarian and voluntary migration are advocated in a reasonable and ordered way. 
+> Both humanitarian and voluntary migration are advocated in a reasonable and ordered way.
+>
+<!--
+> The approach here (in general and for migration) is forward looking. The opinion here is, those who lived for several years in a region should be allowed to stay and integrated into the country and its legal framework - 'amnesty' like legalization/integration could be an option. Especially as in many regions including Europe stays without permit have been 'customary law'/accepted for long. In general, deportations are strongly opposed here - a rare exception is when convicted for serious crimes for which a change of country helps from a security perspective. Also, a repatriation timely after arrival when there is no legal basis to stay is considered different from a deportation of someone who stayed for several years.
+> -->
 >
 > #### Humanitarian Migration
 > Ideally safe, legal and affordable pathways to secure and adequate places, ideally close, and if needed handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps.  
@@ -155,7 +161,7 @@ Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gese
 > For migration to places fare away such as cross continent migration often humanitarian and voluntary (often economic reasons) migration are mixed, for this cases the rules were not primarily designed and often not work as intended.
 >> Law and lawful behavior is advocated here. When circumventing law is widespread, law can and should be adapted: Law, especially humanitarian law, should be designed to protect those who need it most, be reasonable and encourage 'wanted' behavior. 
 <!--
-* When some earning a lot of money from humanitarian migration (for example smugglers and money lenders who finance smugglers fees) then there is a risk of prolonging or even encouraging human right abuses, conflicts and wars.
+* When some earning a lot of money from 'humanitarian' migration (for example smugglers and money lenders who finance smugglers fees) then there is a risk of prolonging or even encouraging human right abuses, conflicts and wars.
 -->
 >
 >
