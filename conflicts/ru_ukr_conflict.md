@@ -12,9 +12,11 @@
 > 
 > * Here the statements from UN Secretary-General Guterres are agreed/shared: to end "the vicious cycle of bloodshed, hatred and polarization." (Middle East crisis: Guterres appeals for end to ‘vicious cycle of bloodshed, hatred and polarization’,<https://news.un.org/en/story/2023/10/1142082>). 
 >
-> * A cessation of violence is hoped for - to reduce the risk of further escalation, to prevent ongoing tragedies, to ensure good or at least acceptable conditions for help, to analyse what happened, how & why it happened, to search & find paths for peace and to avoid increasing the risk for future violence (e.g. Song, L. Y., Singer, M. I., & Anglin, T. M. (1998). Violence exposure and emotional trauma as contributors to adolescents' violent behaviors. Archives of pediatrics & adolescent medicine, 152(6), 531-536). 
+> * A cessation of violence is hoped for - to reduce the risk of further escalation, to prevent ongoing tragedies (to provide safety for the people on both sides including the hostages which should be let go home in everyone's interest), to ensure good or at least acceptable conditions for help, to analyse what happened, how & why it happened,  to search & find paths for peace and to avoid increasing the risk for future violence (e.g. Song, L. Y., Singer, M. I., & Anglin, T. M. (1998). Violence exposure and emotional trauma as contributors to adolescents' violent behaviors. Archives of pediatrics & adolescent medicine, 152(6), 531-536). 
 >       
 > > So many people in the region, so many innocent people from Palestine and Israel, have been exposed themselves or their nearest to so much violence already for a long time and/or for horrible kinds of violence with so many victims [not possible to reference it in full. Selected references [in work]: 1) Laor N, Wolmer L, Mayes LC, et al. Israeli Preschoolers Under Scud Missile Attacks: A Developmental Perspective on Risk-Modifying Factors. Arch Gen Psychiatry. 1996;53(5):416–423. <https://jamanetwork.com/journals/jamapsychiatry/article-abstract/497577>, 2) Hein, F. A., Qouta, S., Thabet, A., & el Sarraj, E. (1993). Trauma and mental health of children in Gaza. BMJ (Clinical research ed.), 306(6885), 1130–1131. <https://doi.org/10.1136/bmj.306.6885.1130-c>].
+
+
 
 > 25./28.9.2023, The focus is going to be shifted towards general topics such as government forms and technologies which correlate to having the UN covenants on Economic, Social and Cultural Rights and on Civil and Political Rights guaranteed for everyone. For example techs which support/enable resource independence.
 
@@ -193,9 +195,9 @@ With the daily tragedies occurring and military analyses and decision required d
 ### Perspectives in Ongoing War
 *Considerations on Perspectives on military, diplomatic, economical and scientific Perspectives for Russia and Ukraine.*
 
-A truce, at least for a few months, seems to be in the interest both of Ukraine and Russia to stop further brutality including people getting killed, risks associated to war, to enable meaningful and honest negotiations and to enable domestic discussions what are the goals and how to achieve these best. 
+A truce, at least for a few months, seems to be in the interest both of Ukraine and Russia to stop further destruction and brutality including people getting killed, risks associated to war, to enable meaningful and honest negotiations and to enable domestic discussions what are the goals and how to achieve these best. 
 
-> For example it is not understood here, how occupying a nuclear plant increases the security of Russia. It is not understood, why people west of Donbass hardly discuss the right for self determination of the people of Donbass - not only territoriality (including possibilities for shared territories) but also autonomy including language rights, ...  
+> For example it is not understood here, how occupying a nuclear plant increases the security of Russia. It is not understood, why people west of Donbass hardly discuss the right for self determination of the people of Donbass - territoriality (including possibilities for shared territories, territory trade) but also autonomy including language rights, ...  
 
 Brutality, damage, losses and risks: 
 * The military personal at the front from all sides - many of whom had until last year, a normal civilian life and never thought or wanted to be part of a war with extremely intense warfare - has a very high risk of getting wounded and even of death.
@@ -203,15 +205,16 @@ Brutality, damage, losses and risks:
 * Regional or even world-wide disasters are possible due to risks of further escalation and/or risks of nuclear catastrophes - for example the situation at Europe's largest nuclear plant is almost constantly fragile.
 
 
-[to update:
-For example the Russian defenses are effective and well built in most parts along the front-line - especially considering the fortifications were built in a short time and during wartime. Additionally Russia produces effective anti-armor weapons and the Russian forces do credible decentralized defense. Nevertheless Ukraine has currently the initiative in many locations along the long front-line and has demonstrated to be able to breach even strong defenses thanks to courage, skill and sophisticated equipment and tactics. The ability for offense and especially to reduce losses is likely to (further) increases with new equipment such as modern(ised) and integrated multirole aircrafts (F16) and other equipment (such as unmanned demining vehicles) in about half a year.]
+> Updates Situation September/October 2023:
+> The Russian defenses are effective and well built in most parts along the front-line - especially considering the fortifications were built in a short time and during wartime. Additionally Russia produces effective anti-armor weapons and the Russian forces do credible decentralized defense. But so have the Ukraine: effective anti armor weapons and very good defenses (strong since early on and further improved by lessons from the war).  Ukraine has demonstrated to be able to breach even strong defenses thanks to courage, skill and sophisticated equipment and tactics. The ability for offense and especially to reduce losses is likely to (further) increase with continued support (more NATO standard equipment) and new capabilities such as modern(ised) and integrated multirole aircrafts (F16) and other equipment (such as unmanned demining vehicles) in about half a year - continued support for Ukraine is considered to be guaranteed as European countries and the US have many interests for support and additionally the US have a 700++ billion $ defense budged.
 
+(note updates above - rewriting planned)
 From a military perspective, the Ukrainian defenders seem able to reconquer some territory. One reason is that in recently occupied territory the Russian defenses (some hastily built and improvised) have  weak points respectively sides (which are spotted by world-class intelligences) and the support from the local population is low, not there or adverse. However, how much actual territorial regains improve the negotiation position is unclear since both sides likely are aware of this capability and other points such as lessening of current and prevention of further sanctions, the overall security framework and restoration of relations with Ukraine and others (such as the US and European countries) are likely more important for Russia than territory.
 Broad Russian advances are less likely since the Ukrainian defenses are strong: 3) Fortified positions and the light modern weapons are very well suited to defend fortified positions, 2) The Ukrainian soldiers are able to use them efficiently, which is not at all a matter of course: skill, courage, tactical cleverness and organization are necessary - and 1) they fight for and in their homeland which is a huge boost.
 
 > Bloody battles can be spared for computer/console titles.
 
-From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent (people tend to settle with time) exodus of skilled workers and the young generation is a risk - with likely impeding their scientific and economic capabilities (and thereby also the military capabilities). Though when people are motivated to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
+From prosperity and development perspective a stop of war seems crucial for both Ukraine and for Russia: if the war escalates or continues much longer an increased and possibly permanent destruction and an exodus of skilled workers and the young generation is a risk (people tend to settle with time) - with likely impeding their scientific and economic capabilities (and thereby also the military capabilities). Though when people are motivated to come back (i.e. such that there is no large population/brain drain) and keep friendships there are also chances.
 
 
 
@@ -266,7 +269,7 @@ Varia:
 ## Significance of Peace
 *Significance of Peace and Effects and Dangers of War*
 
-* Prevent losses and suffering. Prevent [effects of war](#effects-of-war) such as causalities, destruction and destruction of land. War is brutal and human rights are violated.
+* Prevent losses and suffering. Prevent [effects of war](#effects-of-war) such as causalities, destruction both of buildings and land. War is brutal and human rights are violated.
 * War can divide people.
 * War has many adverse effects and risks associated and can escalate.
 
