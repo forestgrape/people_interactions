@@ -5,7 +5,7 @@
 > Individual have rights granted by covenants and the Declaration of Human rights (most parts of which are considered customary international law).
 
 
-> Questions [to be] considered are: Who's Land is It (community, countries, private, ...), who governs it (to which extent and which aspects) and who can benefit (from resources, from accumulated wealth, ...) ? 
+> Questions [to be] considered are: Who's Land is It, who governs it (to which extent and which aspects) and who can benefit (from resources, from accumulated wealth, ...) - whereby possible options for who are private persons, private companies, communities, countries, people of the world, intelligent beings ... ? 
 
 
 > __23.9.23: in work - to clarify, to correct and to improve:__
@@ -39,7 +39,7 @@
 
 
 ## Introduction
-Whether and if yes under which circumstances a people have the right to secede from a parent country and against the will of the latter is a controversial topic in international law. In  [*The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*](#saul-2011) by Matthew Saul considers different viewpoints by states and scholars.
+Whether and if yes under which circumstances a people have the right to secede from a parent country and against the will of the latter is a controversial topic in international law. [*The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?*](#saul-2011) considers different viewpoints by states and scholars.
 
 > The opinion advocated here:
 > * autonomy including self determined government.
@@ -57,7 +57,7 @@ Whether and if yes under which circumstances a people have the right to secede f
 [in work]
 Both the UN charter and the covenants on Civil & Political Rights and on Economic and Cultural state a people have the right for self determination. A people is not specified however. 
 
-> Self-determination including [regional] autonomy and the right for secession is ideally [clearer] specified. Then autonomy questions for regions all across the world can be handled according to specified principles. How the UK allows Scotland to decide itself is considered exemplary, however it is acknowledged that the situation is more complex in other settings when a more central/connecting part wants to secede (for example in Switzerland in 1848, some of the central Cantons wanted to form a 'Sonderbund', which was then prevented by the other cantons).
+> Self-determination including [regional] autonomy and the right for secession is ideally [clearer] specified. Then autonomy questions for regions all across the world can be handled according to specified principles. How the UK allows Scotland to decide itself is considered exemplary, however it is acknowledged that the situation is more complex in other settings when a more central/connecting part wants to secede (for example in Switzerland in 1848, some of the central Cantons wanted to form a 'Sonderbund', which was then prevented by the other cantons.
 
 ### Refs Self Determination and its Interpretations
 ##### Saul 2011
@@ -147,12 +147,19 @@ Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gese
 >
 > Both humanitarian and voluntary migration are advocated in a reasonable and ordered way.
 >
-<!--
-> The approach here (in general and for migration) is forward looking. The opinion here is, those who lived for several years in a region should be allowed to stay and integrated into the country and its legal framework - 'amnesty' like legalization/integration could be an option, but possibly combined with somewhat increased taxes/reduced social support and/or mandatory language courses and/or some time civil service. Especially as in many regions including Europe stays without permit have been 'customary law'/accepted for long. In general, deportations are strongly opposed here - a rare exception is when convicted for serious crimes for which a change of country helps from a security perspective. Also, a repatriation timely after arrival when there is no legal basis to stay is considered different from a deportation of someone who stayed for several years.
-> -->
+
+
+> The approach here (in general and for migration) is forward looking. In this sense it is opted for 
+> * All people who lived for several years in a region should be allowed to stay and integrated into the country and its legal and social [support] frameworks - 'amnesty' like residence permits could be an option, possibly in exchange with somewhat increased taxes/reduced social support and/or mandatory language courses and/or some time civil service. // Especially as in many regions including Europe stays without 'official' permit have been 'customary law'/accepted for long. 
+> * People shouldn't have to take dangerous and/or expensive journeys to find refuge/migrate. 
+>   * *Refuge places with human rights guaranteed should be available for everybody anytime.* A possibility are UN governed centers spread across the world.
+>   * To migrate locally handed permits/visas for work/asylum/study are advocated.
+> 
+> Forced or pushed migration (including deportations) are opposed. Regarding deportations as rare exceptions are considered when convicted for serious crimes and a change of country increases or at least not decreases security. Also, a repatriation timely after arrival when there is no legal basis to stay is considered different from a deportation of someone who stayed for several years.
+> 
 >
-> #### Humanitarian Migration
-> Ideally safe, legal and affordable pathways to secure and adequate places, ideally close, and if needed handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps.  
+#### Humanitarian Migration
+Ideally everyone has safe, legal and affordable pathways to secure and adequate places. If needed handing out visas and travel tickets at embassies in the country itself or neighboring countries/refuge camps.
 >
 <!--
 > >In the last decades regional humanitarian migration often worked within Europe. For example most Ukrainian women and children fortunately have safe passage to and legal stay in many European countries. // Men while eligible for asylum, have no safe passage as they are not allowed to leave Ukraine as the government wants them to be available for conscription [the topic is considered worth a discussion]. 
@@ -164,8 +171,9 @@ Official notes from EDA: <https://www.eda.admin.ch/aboutswitzerland/en/home/gese
 * When some earning a lot of money from 'humanitarian' migration (for example smugglers and money lenders who finance smugglers fees) then there is a risk of prolonging or even encouraging human right abuses, conflicts and wars.
 -->
 >
->
-> #### Voluntary Migration
+
+
+#### Voluntary Migration
 > Legal pathways, especially regional, for migration and work, training & education exchanges are considered beneficial. 
 >> Within the European Union and associated countries, voluntary migration is frequent and embedded in a legal framework with free movement agreements - generally it seems to work well though some downsides are observed such as emigration including brain-drain from countries with less competitive salaries whereas countries with high salaries and low taxes have a high inflow migration (especially if there is a low language-barrier as it was the case for UK). 
 >
