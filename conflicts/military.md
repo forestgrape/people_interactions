@@ -4,6 +4,7 @@
 
 > Simplified and may not reflect the situation on a real battlefield.
 
+* [Updates:](#updates)
 * [Offense and Defense](#offense-and-defense)
   * [Principles of Offense and Defense](#principles-of-offense-and-defense)
   * [Equipment by Defense and Offense](#equipment-by-defense-and-offense)
@@ -12,46 +13,76 @@
   * [Equipment by Purpose](#equipment-by-purpose)
 
 
+## Updates: 
+8.11.: Some clarifications and notes for example highlighting advantages of defenders in warfare ([Principles of Offense and Defense](#principles-of-offense-and-defense)).
+
 
 
 ## Offense and Defense
 
 ### Principles of Offense and Defense
 Offense: 
-For offense at some point one needs to move towards the opponent and usually in the opponent territory. This requires 1) movement, 2) movement in enemy territory and 3) usually at some point also actions (movement, shooting, demine, ...) while exposed to opponent/enemy attacks. The forces on the offense decide where and when to attack and thus where and when battles take place (the opponent defensive positions put constraints on the locations). To find a good attack spot and time, reconnaissance is crucial.
+* For offense at some point one needs to move towards the opponent and usually in the opponent territory. This requires 1) movement, 2) movement in enemy territory and 3) usually at some point also actions (movement, shooting, demine, ...) while exposed to opponent/enemy attacks. 
+* The forces on the offense decide where and when to attack and thus when and the location along the border/front-line where battles take place. 
+* To find a good attack spot and time, reconnaissance is crucial.
 
 Defense: 
-In defense, fixed defensive structures such as fortifications and natural structures can be used as protection. Such static structures usually provide a protection which is usually much higher than protections achievable by mobile armor. In defense continuous surveillance enables to prepare for and react early to possible attacks and thereby take away the 'surprise-effect' advantage of the attacker.
+* In defense, prepared/preinstalled structures can be used for protection, supervision, supply, communication, camouflage and damage. Being able to use fixed installed structures offers advantages: For example prebuilt shelters can offer protection  not achievable by mobile armor, similarly preinstalled supervision tools and prebuilt supply lines (e.g. tunnels) provide capabilities not available for forces moving forward.
+* The defender positions determine at which 'depth' along the border/front-line battles take place and thereby can take advantage of the local terrain.
+* Continuous surveillance enables to prepare for and react early to possible attacks and so reduce the 'surprise-effect' advantage of the attacker.
 
+Conclusion:
+The advantages when in offense are to choose when and where along the border/frontline battles take place and possibly taking an opponent by surprise on the wrong foot <!--The surprise effect exits in defense too: letting an opponent believe its easy to attack - though this is a risky strategy-->. Surveillance enables a defender to prepare. If prepared, a defender can make use of prebuilt defensive structures which provide capabilities not available when in offense and therefore defending tends to be  associated to much fewer losses both in personal and equipment than when in offense (losses also depend on equipment, tactics, technology, ...).
+
+> Being prepared for different situations (i.e. scenarios) and adapt early on (i.e. tactical decisions) is important both for offense and defense. For example an ordered retreat is better than a chaotic retreat or being trapped to unfavorable positions (such as [near] encirclements, though the defender advantage can sometimes make up for unfavorable positions <!-- * cities sometimes withstood sieges despite being encircled. * Support is important for retreating forces, as retreating forces move and thereby likely get exposed and responding to attacks from behind is difficult.--> 
+> 
+>> It's considered important: 
+>> * All [tactical] decisions & actions to be taken in agreement with the big picture including the strategy and international law. 
+>> * To have a strategy, to communicate it and to have good both local and broad support for it. 
+>> * For the strategy to respect other actors and respect cornerstones of [international law](../jurisprudence/universal_rights_and_rules.md) such as UN charter and key conventions by United Nations. // unfortunately human rights are nearly always violated in war, at least civilians should be protected.
+
+> 
+<!-- possibly new chapter Fortifications throughout History
+* With the increasing importance of technics, the advantage of defenders tend to increase (though differences in technology levels also increase[d] and a technological advantage can make up disadvantages). 
+* Defenders withstood attacks from more powerful adversaries: todo add examples such as/starting with Athens versus Persia [in work]. 
+-->
 
 
 ### Equipment by Defense and Offense
 > in work
 
-#### Hallmarks of Offensive Equipment
-* *Capability for Movement including Movement in enemy territory and Movement while exposed to the Enemy.* [Solutions for Movement while Enemy Exposed](#solutions-for-opponent-exposure).
+#### Capabilities for Offense and Defense
+##### Hallmarks of Offensive Equipment
+* *Capability for Movement including Movement in enemy territory, terrain independent movement and Movement while exposed to the Enemy.* [Solutions for Movement while Enemy Exposed](#solutions-for-opponent-exposure).
 * *Capability to Take Out Defensive Structures.* Well built defensive structures are difficult to take out (for example fortified concrete and/or below the ground).
-* *Reconnaissance.* Do reconnaissance or carry out actions based on it.
+* *Reconnaissance.* Do reconnaissance and/or carry out actions based on it. 
 
 <!--possibly do as table with examples-->
-#### Hallmarks of Defensive Equipment
+##### Hallmarks of Defensive Equipment
 * *Capability to take out Moving or Shooting Targets:*  Recognize, hit & render unusable.  
    * *Armor Piercing:* As offensive units usually need to move, their armor has trade-off between moveability and protection. 
-   * *Target Achilles Heels: Often some not-so-strong spots remain which can be exploited by anti armor weapons. 
-  <!-- for example Javelins or NLAW used by the Ukrainian forces, lancet drones and Vikhr missiles used by the Russian forces -->
-
+   * *Target Achilles Heels: Often for offensive equipment there are trade offs between protection and capabilities and therefore some not-so-strong spots remain which can be exploited by anti armor weapons.
    * *Counter Fire:* Detect & hit units firing.
-* *Useable from Fortified Positions/fixed Installation.* Matching between equipment and fortification type helps, also when the fortifications have communication and surveillance tools.
-* *Surveillance.* Surveil and/or respond to surveillance.
+* *Useable from Fortified Positions/fixed Installation.* Ideally equipment and corresponding fortifications are designed with compatibility in mind, possibly integrating communication, control and surveillance tools.
+* *Surveillance.* Surveil and/or respond to surveillance. // Surveillance in a defensive sense is limited in scope e.g. limited to larger equipment built ups, limited to border region: 1. to respect other actors (does not interfere/not provoke/ not harm) 2. for practical reasons (resource efficiency).  
 
-#### Remark
-The hallmarks above, can be used to classify equipment into offensive, defensive or mixed equipment. However, the resulting classification just gives a tendency in usage but does not restrict it:
-* Offensive Equipment able to destroy fixed structures can be used for defense purposes for example to target the opponents supply lines. // Ukraine used HIMARS launched rockets in 2022 to limit the offensive potential of the Russian forces when invaded in 2022.
-* Armored offensive equipment can be used in defense, though it is usually not a resource efficient usage.
-* When carrying out conquests and hold the positions, equipment with defensive capabilities is needed.
 
-In conclusion, for offensive actions nearly always at least some offensive capabilities are required but a flexible offensive force includes equipment with defensive capabilities. For defense, defensive equipment is usually best suited.
- 
+#### Classifying Equipment
+The hallmarks above, can be used to coarsely classify equipment into offensive, defensive or mixed equipment. 
+
+The resulting classification just gives a tendency in usage but does not restrict it.
+
+Offensive Capabilities in Defense:
+* Offensive Equipment able to destroy fixed structures can be used for defense purposes for example to target supply lines. // Ukraine used HIMARS launched rockets and storm shadow rockets to target Russian supply and command centers to reduce both offensive and defensive capabilities of the Russian forces.
+* Armored and/or fast moving equipment is useful or even necessary in defense for *reinforcement* especially when there is a breach. For a prepared defense, equipment designed to be used for defense is better suited including more resource efficient.
+
+Defensive Capabilities in Offense:
+* When carrying out longer lasting offensive operations or conquests, to hold positions, equipment with defensive capabilities (e.g. to target opponent vehicles) is needed.
+* When the opponents defence relies 'offensive equipment', defensive equipment can be useful as counter e.g. anti armor against armored units used in defence. <!--at least promotes defensive equipment...-->
+
+In conclusion, for offensive operations nearly always at least some equipment with offensive capabilities is required but a flexible offensive force includes equipment with defensive capabilities. For defense, defensive equipment is usually best suited, though for reinforcements protected and fast moving vehicles are useful.
+
+
 
 #### Solutions for Opponent Exposure
 * Mobility: Reduce the probability of being detected, targeted and/or hit (e.g. by short exposure and/or fast/irregular movement)
@@ -62,6 +93,7 @@ In conclusion, for offensive actions nearly always at least some offensive capab
 * Cover providing Paths: Paths in terrain which provides cover or moving underground/water which reduces the probability for detection or hit.
 * Camouflage: Classical camouflage for visible light or EM absorbing for radar stealth.
 * Combined protections: While most mobile equipment (such as airplanes or self propelled artillery on fast vehicles) can be used for offense, a against a good defense usually some additional protection is added such as stealth or armor.
+
 
 
 
@@ -94,8 +126,14 @@ Features:
 
 #### Equipment for Defense
 [in work]
-* [Remote Equipment](#remote-equipment) is well suited for defense as it can be preinstalled and is ideal for surveillance.
+As noted [defensive hallmarks](#hallmarks-of-defensive-equipment) are: Hitting moving targets (anti armor, target achilles heels), surveillance, useable from fortifications.
 
+<!-- todo table with examples and capabilities-->
+
+<!--
+* [Remote Equipment](#remote-equipment) is well suited for defense as it can be preinstalled and is ideal for surveillance.
+* Anti armor weapons: for example Javelins or NLAW used by the Ukrainian forces, lancet drones and Vikhr missiles used by the Russian forces.
+-->
 
 
 
