@@ -34,16 +34,16 @@ Defense:
 Conclusion:
 The advantages when in offense are to choose when and where along the border/frontline battles take place and possibly taking an opponent by surprise on the wrong foot <!--The surprise effect exits in defense too: letting an opponent believe its easy to attack - though this is a risky-->. Surveillance enables a defender to prepare. If prepared, a defender can make use of prebuilt defensive structures which provide capabilities not available when in offense and therefore defending tends to be  associated to much fewer losses both in personal and equipment than when in offense (losses also depend on equipment, tactics, technology, ...).
 
-> Being prepared for different situations (i.e. scenarios) and adapt early on (i.e. tactical decisions) is important both for offense and defense. For example an ordered retreat is better than a chaotic retreat or being trapped to unfavorable positions (such as [near] encirclements, though the defender advantage can sometimes make up for unfavorable positions <!-- * cities sometimes withstood sieges despite being encircled. * Support is important for retreating forces, as retreating forces move and thereby likely get exposed and responding to attacks from behind is difficult.--> 
+> Being prepared for different situations (scenarios) and adapt early on is important both for offense and defense. For example an ordered retreat is better than a chaotic retreat or being trapped to unfavorable positions (such as [near] encirclements, though the defender advantage can sometimes make up for unfavorable positions <!-- * cities sometimes withstood sieges despite being encircled. * Support is important for retreating forces, as retreating forces move and thereby likely get exposed and responding to attacks from behind is difficult.--> 
 > 
 >> It's considered important: 
->> * All [tactical] decisions & actions to be taken in agreement with the big picture and international law. 
->> * To have a long term plan, to communicate it and to have good both local and broad support for it.
->> * The long term plan respects other actors and respect cornerstones of [international law](../jurisprudence/universal_rights_and_rules.md) such as International Humanitarian Law, the UN charter and key conventions by United Nations. // unfortunately human rights are nearly always violated in war, to protect civilians especially children is considered paramount.
+>> * All decisions & actions to be taken in agreement with the big picture & long term plan and international law. 
+>> * To have a long term vision & plan, to communicate them and to have good both local and broad support.
+>> * The long term plan respects other actors and respect cornerstones of [international law](../jurisprudence/universal_rights_and_rules.md) such as International Humanitarian Law, the UN charter and key conventions by United Nations. // unfortunately human rights are nearly always violated in war, to protect civilians especially children is paramount.
 
 > 
-<!-- possibly new chapter Fortifications throughout History
-* With the increasing importance of technics, the advantage of defenders tend to increase (though differences in technology levels also increase[d] and a technological advantage can make up disadvantages). 
+<!-- possibly new chapter Fortifications & Technologies throughout History
+* With the increasing importance of technics, the advantage of defenders tend to increase (though differences in technology levels also increase[d] and a technological advantage can make up disadvantages).
 * Defenders withstood attacks from more powerful adversaries [at least for some time]. todo list of battles/wars/sieges and eval/analyze the defenders advantage: Siege of Troja, Athens versus Persia, Battle of Morgarten, Siege of Constantinople, ..., Crimean Wars,..., 1st World War, ..., Winter War, ..., Siege of St. Petersburg, Battle of Stalingrad, ... [in work]. 
 -->
 
