@@ -3,7 +3,7 @@
 
 > The goal of this page is to advocate human rights and to contribute to peace.
 
-> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!--on the order of President Putin (likely with the intention to (re)install Yanukovych as President)-->. The war in Donbas started back in 2014 <!--when separatists and other groups took arms in Donbas and the temporary government of Ukraine  responded by what was named ATO (Anti-Terrorist Operation) which was renamed as JSO (Joint Force Operation) in  2017 at a time when the separatist were closely linked to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west oriented policy. Additional conflicts and interests seem relevant for the current war-->.
+> The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!-- likely with the intention to (re)install Yanukovych as President-->. The war in Donbas started back in 2014 <!--when separatists and other groups took arms in Donbas and the temporary government of Ukraine  responded by what was named ATO (Anti-Terrorist Operation) which was renamed as JSO (Joint Force Operation) in  2017 at a time when the separatist were closely linked to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west (both domestic and international) oriented policy. Additional conflicts and interests seem relevant for the current war-->.
 
 > Reminder: Mistakes and shortcomings of any form are likely. -> [Notes on Reading](#notes-on-reading)
 
@@ -2006,11 +2006,16 @@ Ownership, key people and the mission are often stated [in work as of 27.7.]. Th
 ### Resources Ukraine
 
 // News Sites
-* KievIndependent <https://kyivindependent.com/>
-* KievPost <https://www.kyivpost.com>
-* Tvoe Misto <https://tvoemisto.tv/en/news/> // "Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
 * Ukrinform - Ukrainian multimedia platform for broadcasting - <https://www.ukrinform.net>
+
+* KievIndependent <https://kyivindependent.com> 
+
+* KievPost <https://www.kyivpost.com>
+
+* Tvoe Misto <https://tvoemisto.tv/en/news/> // "Tvoe Misto Media-Hub is now offering English-language stories and reporting from Lviv, population 724,000, the cultural capital of Ukraine and a city where tradition and innovation cooperate." from <https://tvoemisto.tv/en/about/>, accessed 15.7.
+
 * Interfax-Ukraine <https://en.interfax.com.ua>
+
 * Pravda <https://www.pravda.com.ua/eng/> 
   * Owned since May 2021 by Dragon Capital (Dragon capital: founded and headquartered in Kyiv, issues war bonds for Ukraine according to <https://en.wikipedia.org/wiki/Dragon_Capital_(company)>)
   * "Ukrainska Pravda (Ukrainian: Українська правда, lit. 'Ukrainian Truth') is a Ukrainian online newspaper founded by Georgiy Gongadze on 16 April 2000 (the day of the Ukrainian constitutional referendum).[2]" from <https://en.wikipedia.org/wiki/Ukrainska_Pravda>, 4.8.23
@@ -2188,7 +2193,7 @@ https://en.wikipedia.org/wiki/Doomsday_Clock
 
 ### Opinion on the Conflict
 > * Serious violations of human rights occur in most wars. This invasion is no exception: The human rights of the people of Ukraine are seriously violated. *War should never happen.*
-> * The military actions and the following invasion are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter) is violated. That other military conflicts (including military conflicts in 90s and 00s) violated international law including the mentioned article 2, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *not* seen as a justification for a full scale invasion or government overthrow attempt.
+> * The military built up in 2021 and the following invasion by Russia are *not* in agreement with the UN charter, namely article 2 paragraph 4 of the [UN Charter](#un-charter) is violated. That other military conflicts (including military conflicts in 90s and 00s) violated international law including the mentioned article 2, does not justify another break. Tensions between Russia and the NATO/EU are acknowledged but these are *not* seen as a justification for a full scale invasion or government overthrow attempt.
 > * Occupying territories or targeting infrastructure from Ukraine to get concessions from other parties (NATO [countries]) - lets say - is considered not nice towards the people of Ukraine.
 > * Brutality including bombing of specified civilian areas/hospitals or if civilians are hindered escaping is considered heartless.
     >> So fare *no systematic* targeting of civilians seems to occur. Tough civilians got hit on many occasions. Each hit and death violates the personal integrity of a person and causes pain to the victim and the people associated.
