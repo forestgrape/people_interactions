@@ -74,7 +74,7 @@ The resulting classification just gives a tendency in usage but does not restric
 
 Offensive Capabilities in Defense:
 * Offensive Equipment able to destroy fixed structures can be used for defense purposes for example to target supply lines. // Ukraine used HIMARS launched rockets and storm shadow rockets to target Russian supply and command centers to reduce both offensive and defensive capabilities of the Russian forces.
-* Armored and/or fast moving equipment is useful or even necessary in defense for *reinforcement* especially when there is a breach. For a prepared defense, equipment designed to be used for defense is better suited including more resource efficient.
+* Resilient and/or fast moving equipment can be useful or even best suited in defense for *reinforcement* especially when there is a breach. // Though for a prepared defense, equipment designed to be used for defense tends to be better suited such as more resource efficient and better integrable into defenses.
 
 Defensive Capabilities in Offense:
 * When carrying out longer lasting offensive operations or conquests, to hold positions, equipment with defensive capabilities (e.g. to target opponent vehicles) is needed.
