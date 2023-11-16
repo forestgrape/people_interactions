@@ -81,7 +81,7 @@ The government of Croatian President Franjo Tudjman "expresses all the right thi
 * [Saul](../jurisprudence/governance_and_self_determination.md#saul-2011) discusses the independence in the paper "The Normative Status of Self-Determination in International Law: A Formula for Uncertainty in the Scope and Content of the Right?" // The reference is given on the [page about self determination](../jurisprudence/governance_and_self_determination.md).
 
 
-> In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosniak. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission, while it opted for disintegration of Yugoslavia into the republics, it advised to leave the republics intact i.e. the serbs in Croatia were not allowed to secede.
+> In former Yugoslavia, the Kosovo Albanians were the most unique group in terms of language and culture while at the same time they had fewer self determination rights than the Slovenes, the Croats or the Bosniak. Thus of all people in former Yugoslavia, the Kosovo Albanians had the most right to form their own state by the principle self determination. However the Badinter mediation commission, while it opted for disintegration of Yugoslavia into republics, advised to leave the republics themselves intact, for example the serbs in Croatia were not allowed to secede.
 
 
 
@@ -101,10 +101,6 @@ THE KOSOVO WAR IN RETROSPECT, JAMES GOLDGEIER AND GORANA GRGIĆMARCH 24, 2019, <
 
 #### Path Onwards
 > Important seem regional and European integration (long-term likely EU, possibly EWR/EFTA and/or Open Balkan as intermediate steps) in accord with Serbia and  formalized and increased economical and [domestic] political sovereignty. In this context, the exact status in international [geo]politics, namely the status at the UN, seems to become less relevant (it seems possible that topics on Security can be specified with the accession to European institutions).
-
-
-
-
 
 
 
@@ -177,6 +173,7 @@ The paper has three chapters [A. Background](#a-background), [B. Declaration of 
 ###### On the Resolution 1244
 """
 In its preamble, Resolution 1244 specifically reaffirmed: ‘The commitment of all Member States to the sovereignty and territorial integrity of the Federal Republic of Yugoslavia and the other States in the region, as set out in the Helsinki Final Act and Annex 2.’[16]
+
 The substance of the long-term status of Kosovo was not addressed in Resolution 1244. Instead, among the functions of UNMIK were:
 * (e) facilitating a political process designed to determine Kosovo’s future status, taking into account the Rambouillet Accords . . .
 * (f) in a final stage, overseeing the transfer of authority from Kosovo’s provisional institutions to institutions established under a political settlement.
@@ -202,9 +199,12 @@ and is closes:
 
 ## Appendix
 ### Looking Forward
-European integration in the long run and possibly EWR and the Open Balkans Project as bridges seem a viable path onwards. 
+European integration in the long run and possibly EWR and/or the Open Balkans Project as bridges seem a viable path onwards. 
 
-> Some reason for Open Balkans [as a bridge]:
+> Selected reason for Regional Integration [as a bridge to European Integration]:
 > * A well organized group facilitates a deeper integration with EU. // A better cooperation is important as the EU surrounds the Balkan and a full membership may take time as the accession of many small states seems unlikely as long as the EU has not reformed its decision processes and such a reform is not immediate.
 > * The economies can develope within a larger market which usually increases efficiency and competitiveness and [thereby] prepares the economies for the European and world-wide markets.
+>
+> Selected Reasons for Regional and European Integration:
 > * Benefits for people such as free movement and student exchanges.
+> * When people are friends, tensions tend to lessen and can be discussed. Overall conflicts and especially violent conflicts are much less likely.
