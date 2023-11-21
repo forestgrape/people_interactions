@@ -322,6 +322,13 @@ The Russian invasion forces have already killed 503 children in Ukraine and inju
 -->
 
 
+
+##### Zaluzhnyi, cited by Ukrinform, a month long of Assaults on Avdiivka cost Russia 10'000
+*Russian army lost about 10,000 troops, 100 tanks over month of assaults on Avdiivka - Zaluzhnyi*, <https://www.ukrinform.net/rubric-ato/3785351-russian-army-lost-about-10000-troops-100-tanks-in-a-month-of-storming-avdiivka-zaluzhnyi.html#:~:text=Over%20a%20month%20of%20active,post%20on%20Facebook%2C%20Ukrinform%20reports.>
+
+
+
+
 ##### BBC on Soldiers Dying by Dozens a Day
 BBC, 29.8.23,  'Dying by the dozens every day' - Ukraine losses climb, 
 <https://www.bbc.com/news/world-europe-66581217>
@@ -483,7 +490,8 @@ Considering and searching for possible pathways to lasting peace.
 
 ### Security for Ukraine
 * General [security considerations for Europe and the world](#security-in-europe-and-the-world) apply also to Ukraine as the largest country entirely within Europe.
-* A good army backed by a strong technology and defense industry in Ukraine by international cooperation and support.
+* A good army backed by a strong technology and defense industry in Ukraine with international cooperation and support.
+  > Dual purpose industries seem the way to go. For example different types of unstaffed vehicles can have synergies or even dual usages for civil and military applications. For example (_civil usage_ <-> _military usage_): transportation vehicles (agriculture, mining, production<-> logistics and personal transport), aerial/ground surveillance vehicles (detect necessity/carry out pesticide application, <-> surveillance & scouting, explosives), ground surveillance vehicles (agri as aerial, )...
 * A neutral status for Ukraine combined with (legally binding) security guarantees (the guarantees from the Budapest memorandum have been useless). // officially in discussion 
   > Many countries likely would be willing to give binding and clearcut guarantees as it is in most countries interest to have a friendly and independent Ukraine. // Security guarantees without NATO membership have the advantage for Ukraine, not to take independent decisions whether to join hypothetical future conflicts of NATO countries. As bordering country the risk is higher to ba at the front.
 
