@@ -2,9 +2,11 @@
 
 # Palestine and Israel in Conflict
 
+> 21.11.23: The intention of this page is to contribute to fair peace finding in the Levant in agreement with international law such as Human Rights and key conventions of United Nations. Topics regarding and relevant for the current situation in Israel and Palestine  are discussed.
+
 ## Board and Updates
 
-> 12.10.23 (12.-24.10. adapted, originally published on the page [Ukr_Ru_in_Conflict](../ukr_ru_in_conflict/ukr_ru_in_conflict.md)): 
+12.10.23 (12.-24.10. adapted, originally published on the page [Ukr_Ru_in_Conflict](../ukr_ru_in_conflict/ukr_ru_in_conflict.md)): 
 > The escalation of violence in Israel/Palestine is shocking and worrisome. The pictures and stories about the atrocious attacks by Hamas (which initiated the current escalation) are extremely appalling and distressful. No less appalling and distressful are the pictures and stories from Gaza due to attacks which flatten entire neighborhoods.
 > 
 > The statements from UN Secretary-General Guterres are agreed/shared: to end "the vicious cycle of bloodshed, hatred and polarization." (Middle East crisis: Guterres appeals for end to ‘vicious cycle of bloodshed, hatred and polarization’,<https://news.un.org/en/story/2023/10/1142082>). 
