@@ -1,15 +1,15 @@
 
 # Ukraine and Russia in Conflict and Russia's Invasion
 
-> The goal of this page is to advocate human rights and to contribute to peace.
+> The goal of this page is to advocate human rights and [thus] contribute to peace.
+
+> Moved content regarding the violent conflict in Palestine/Israel to [Palestine and Israel in Conflict](../conflicts_in_the_levant/palestine_israel_in_conflict.md).
 
 > The page is named 'Ukraine and Russia in conflict' because the warfare happens mainly in Ukraine and Russia.  // The current war with a front-line along the entire South Eastern Ukraine, is due to the invasion by Russia in February 2022 <!-- likely with the intention to (re)install Yanukovych as President-->. The war in Donbas started back in 2014 <!--when separatists and other groups took arms in Donbas and the temporary government of Ukraine  responded by what was named ATO (Anti-Terrorist Operation) which was renamed as JSO (Joint Force Operation) in  2017 at a time when the separatist were closely linked to Russia. Separatism started after Yanukovych was ousted as President and the interim government reduced autonomy and started a west (both domestic and international) oriented policy. Additional conflicts and interests seem relevant for the current war-->.
 
 > Reminder: Mistakes and shortcomings of any form are likely. -> [Notes on Reading](#notes-on-reading)
 
 > 25./28.9.2023, The focus is going to be shifted towards general topics such as government forms and technologies which correlate to having the UN covenants on Economic, Social and Cultural Rights and on Civil and Political Rights guaranteed for everyone. For example techs which support/enable resource independence.
-
-> 23.9.2023: Some updates published. Many parts still in work, mistakes and shortcomings of any form especially likely.
 
 > 10.9.2023: The page hasn't been updated for nearly half a year and thus many sections are out of date. 
 
@@ -184,9 +184,9 @@ With the daily tragedies occurring and military analyses and decision required d
 ### Perspectives in Ongoing War
 *Considerations on Perspectives on military, diplomatic, economical and scientific Perspectives for Russia and Ukraine.*
 
-A truce, at least for a few months, seems to be in the interest both of Ukraine and Russia to stop further destruction and brutality including people getting killed, risks associated to war, to enable meaningful and honest negotiations and to enable domestic discussions what are the goals and how to achieve these best. 
+*A truce, at least for a few months, seems to be in the interest both of Ukraine and Russia to stop further destruction and brutality including people getting killed, risks associated to war, to enable meaningful and honest negotiations and to enable domestic discussions what are the goals and how to achieve these best.*
 
-> For example it is not understood here, how occupying a nuclear plant increases the security of Russia. It is not understood, why people west of Donbass hardly discuss the right for self determination of the people of Donbass - territoriality (including possibilities for shared territories, territory trade) but also autonomy including language rights, ...  
+> For example it is not understood here, how occupying a nuclear plant increases the security of Russia. It is not understood, why people west of Donbass hardly discuss the right for self determination for Donbass - self determination in terms of choosing any (!) regional language, political rights and territoriality (including possibilities for shared territories, territory trade), ...  
 
 Brutality, damage, losses and risks: 
 * The military personal at the front from all sides - many of whom had until last year, a normal civilian life and never thought or wanted to be part of a war with extremely intense warfare - has a very high risk of getting wounded and even of death.
