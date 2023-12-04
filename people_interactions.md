@@ -59,18 +59,18 @@ When viewing countries as organizations, the above reads: With many interactions
 
 
 > ## Opinion on Interactions
-> *Opinion on Pairwise Interactions*
+> ##### *On Pairwise Interactions*
 > * Interactions are advocated, as they form the basis of friendship building and the more interactions there are, the more likely any two people in the world have common friends.
 > * Here the opinion is, to keep open communication channels even/especially in conflicts.
 >
-> *Opinion on Teams*
-> Ideally we act as ONE team or as teams cooperating friendly or at least as teams competing fair & peacefully - with the goal to tackle together the many challenges we face to improve the life of every-body step by step while keeping the world in a good state.
+> ##### *On Teams*
+> Ideally we act as (ONE) team or as teams cooperating friendly or at least as teams competing fair & peacefully - with the goal to tackle together the many challenges we face to improve the life of every-body step by step while keeping the world in a good state.
 >
 >> As an important task is considered getting AI (Artificial Intelligence) and AL (Artificial Life) right and especially not wrong. 
->> Life here, denotes a thing with environment interactions which is able to produce rough copies of itself. 
+>> Life here, denotes a thing with environment interactions and the ability for survival of its kind - for example with producing rough copies of itself. 
 >> [Before] we know we [may] turn out to be life creators: 
->> * An instance of an Artificial Intelligence in the Internet is possibly able to transform to AIL (Artificial Intelligent Life) if it is capable enough and has survival instincts.
->> * With synthetically assembling RNA/DNA sequences, life forms which are not possible (or at least very unlikely) to arise naturally can be created. Such life forms are considered artificial life here. Just modifying single nucleotides or rearranging/combining existing life forms is considered here as at the border between artificial life and modified natural life, as such life forms can arise naturally.  <!--// Self amplifying RNAs (RNA which encodes proteins to replicate itself) could possibly give rise to such life forms if they infect immortal cell lines. // While containing synthetic RNAs the Covid vaccines from Moderna and Biontech are *not* self amplifying i.e. these RNA do not encode proteins to replicate themselves.-->
+>> * An instance of an AI can give rise to AIL (Artificial Intelligent Life) if designed that why or is capable enough & has a survival instinct or will.
+>> * With synthetically assembled RNA/DNA sequences, life forms which are not possible (or at least very unlikely) to arise naturally can be created. Such life forms are considered artificial life here. // Just modifying single nucleotides or rearranging/combining existing life forms is considered here as at the border between artificial life and modified natural life, as such life forms can arise naturally.  <!--// Self amplifying RNAs (RNA which encodes proteins to replicate itself) could possibly give rise to such life forms if they infect immortal cell lines. // While containing synthetic RNAs the Covid vaccines from Moderna and Biontech are *not* self amplifying i.e. these RNA do not encode proteins to replicate themselves.-->
 
 
 
@@ -180,8 +180,4 @@ The structure in companies is usually hierarchically as follows: A board of dire
 Social organizations: E.g. sport clubs, political parties, scouts.
 
 #### Religions
-Religions are highly divers. Religions historically often united the spiritual world, science and society rules. Today the scope of religions varies hugely. Religions may cover traditions, the spiritual world, schools of life, concrete laws and how to behave, ideals how to live, and defining communities of people interactions.
-
-
-
-
+Religions are highly divers. Religions historically often united the spiritual world, science and society rules. Today the scope of religions is broad. Religions can cover traditions, the spirituality, schools of life, how to life (from concrete laws to guides how to behave to ideals how to live) and defining communities.
