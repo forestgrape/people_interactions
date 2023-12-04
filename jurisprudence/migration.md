@@ -12,10 +12,12 @@
 
 
 > The approach here in general and to move towards a more reasonable and ordered migration scheme is forward looking. In this sense it is opted for 
-> * All people who lived for several years in a region should be allowed to stay and integrated into the country and its legal and social [support] frameworks (Especially as in many regions including Europe stays without 'official' permit have been 'customary law'/accepted for long.) - 'amnesty' like residence permits could be an option, possibly in exchange with somewhat increased taxes/reduced social support and/or mandatory language courses and/or some time civil service (increased taxes & civil services are already common in many countries for exemptions from mandatory military services).
-> * People shouldn't have to take dangerous and/or expensive journeys to find refuge/migrate. 
+> * Everyone should have a secure and good place to live. No one should be expelled or have to take dangerous and/or expensive journeys to find refuge/migrate.
+>   * Peace should be a priority. Laws and systems should promote peace.
 >   * *Refuge places with human rights guaranteed should be available for everybody anytime.* A possibility are UN governed centers spread across the world.
->   * To migrate locally handed permits/visas for work/asylum/study are advocated.
+>   * To migrate long distances locally handed permits/visas for work/asylum/study are advocated.
+> * All people who lived for several years in a region should be allowed to stay and integrated into the country and its legal and social [support] frameworks (Especially as in many regions including Europe stays without 'official' permit have been 'customary law'/accepted for long.) - 'amnesty' like residence permits could be an option, possibly in exchange with somewhat increased taxes/reduced social support and/or mandatory language courses and/or some time civil service (increased taxes & civil services are already common in many countries for exemptions from mandatory military services).
+
 > 
 > Forced or pushed migration (including deportations) are opposed. Regarding deportations as rare exceptions are considered when convicted for serious crimes and a change of country increases or at least not decreases security. Also, a repatriation timely after arrival when there is no legal basis to stay is considered different from a deportation of someone who stayed for several years.
 
@@ -41,3 +43,18 @@ Ideally everyone has safe, legal and affordable pathways to secure and adequate 
 >
 > For example, between Europe and Africa both continents could benefit especially in science, craftsmanship and culture. Between EU/EFTA countries and CIS countries increased interactions of people (and not just interactions at the establishment level or a mere transfer of goods such as gas, oil and cars as it has been done) could help to understand each other other and thereby help to prevent future conflicts.
 
+
+## Resources
+> in work
+
+Observatory on Smuggling of Migrants <https://www.unodc.org/res/som/index.html>
+
+Overall figures of immigrants in European society <https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/statistics-migration-europe_en>
+
+
+
+
+### Refugee Rights
+
+* <https://www.unhcr.org/about-unhcr/who-we-are/1951-refugee-convention>
+* <https://www.unhcr.org/about-unhcr/overview/history-unhcr>
