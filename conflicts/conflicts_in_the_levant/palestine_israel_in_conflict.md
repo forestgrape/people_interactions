@@ -3,18 +3,19 @@
 
 This page is about the escalation of violence triggered by attacks led by Hamas against Israel on 7.10.2023. Namely the attacks out of Gaza by Hamas and other groups against Israel, Israel's repulsion of the attacks and Israel's Invasion into Gaza.
 
-<!-- 3.12.23: Not much content currently planned. Mainly citations of valuable resources.-->
+
+> Selected topics considered relevant for the current situation in Israel and Palestine  are listed/discussed.
+
+> 3.12.23: Not much content currently planned. Mainly [subjective] citations from resources of extraordinary value.
 
 <!--
 > Goals are 
 > * Analyze in view of causes for conflicts and paths to fair and acceptable peace.
 > * Advocate international law such as Human Rights and key conventions of United Nations for all actions & plans.
 >
->> Peace is a basis for human rights.
+>> Peace is a basis for human rights - almost sure necessary.
 >
 -->
-
-> Selected topics considered relevant for the current situation in Israel and Palestine  are listed/discussed.
 
 
 * [Board and Updates](#board-and-updates)
@@ -68,7 +69,7 @@ A cessation of violence is hoped for:
 
 ## Opinions and Articles
 
-> Selected statements of the articles are cited with """<cites>""".
+> Selected statements of the articles are cited with """<cites>""". Emphasis added as *cursive*.
 
 > [Some] reasons articles themselves and statements thereof are selected are: Well reasoned, elucidative regarding the conflict including the opinion by actors/observers, paths to peace.
 
@@ -101,7 +102,7 @@ brothers, and to preserve the capabilities of the Palestinian people and to ensu
 
 
 ##### Interviews Rania Al Abdullah of Jordan
-Two interviews with Rania Al Abdullah of Jordan are referenced both published at CNN. One dates to the 24.10.2023 and one to the 6.11.2023.
+Two interviews with Rania Al Abdullah of Jordan are referenced both published at CNN. One dates to 24.10.2023 and one to 6.11.2023.
 
 ###### CNN Interview with Rania of Jordan 24102023
 Queen Rania of Jordan accuses West of ‘glaring double standard’ as the death toll rises in besieged Gaza, By Sana Noor Haq and Claire Calzonetti, 
@@ -116,11 +117,11 @@ Updated 10:12 AM EDT, Wed October 25, 2023
 ###### Interview with Rania of Jordan 06112023
 Jordan’s Queen Rania says being pro-Palestinian does not equal being ‘antisemitic’ <https://edition.cnn.com/2023/11/06/middleeast/queen-rania-jordan-israel-gaza-interview-intl-hnk/index.html>. The interview is also cited on the personal website of Rania of Jordan: <https://www.queenrania.jo/en/media/press-releases/queen-rania-says-massive-palestinian-casualties-cannot-be-dismissed-human>
 
-* """“Let me be very, very clear. Being pro-Palestinian is not being antisemitic, being pro-Palestinian does not mean you’re pro-Hamas or pro-terrorism,” Rania told CNN’s Becky Anderson on Sunday.""" (text from CNN site)
+* '*“Let me be very, very clear. Being pro-Palestinian is not being antisemitic, being pro-Palestinian does not mean you’re pro-Hamas or pro-terrorism,”* Rania told CNN’s Becky Anderson on Sunday.' (text from CNN site)
 * "If you manage to eliminate all of Hamas what next? The root cause of this conflict is an illegal occupation, it is routine human right abuses, illegal settlements, disregard to UN resolutions and international law. If we do not address these root causes, then you can kill the combatants but you cannot kill the cause." (transcribed from CNN video)
-* "When it comes to human shields, i think we need to defer to international law. Of course the use of human shields is criminal. But even if one side puts a civilian in harms way, that civilian is still entitled to full protection under international humanitarian law. That is the global standard and no nation is exempt."  (transcribed from CNN video)
-* “In a place like Jabaliya, which is one of the most crowded corners of Gaza – and Gaza being one of the most densely populated spots on Earth – civilian death is not incidental, it is not accidental. It is a foregone conclusion.” (transcribed from CNN video)
-* '“We have had a long history of peaceful coexistence. So this is not about religion. It is about politics,” she said.' (Queen Rania official website)
+* *"When it comes to human shields, I think we need to defer to international law. Of course the use of human shields is criminal. But even if one side puts a civilian in harms way, that civilian is still entitled to full protection under international humanitarian law. That is the global standard and no nation is exempt."*  (transcribed from CNN video)
+* “In a place like Jabaliya, which is one of the most crowded corners of Gaza – and Gaza being one of the most densely populated spots on Earth – civilian death is not incidental, it is not accidental. It is a foregone conclusion.” (Rania Al Abdullah official website, CNN video)
+* '“We have had a long history of peaceful coexistence. So this is not about religion. It is about politics,” she said.' (Rania Al Abdullah official website)
 
 
 
@@ -159,24 +160,8 @@ Greek Prime Minister Kyriakos Mitsotakis, Menelaos Myrillas/SOOC, NOVEMBER 9, 20
 
 
 ### Opinions from Jewish Communities
-> Jewish Community means here people [who consider themselves as] part of the Jewish Cultural Space whether in Israel or anywhere else.
+> Jewish Communities means here people [who consider themselves as] part of the Jewish Cultural Space whether in Israel or anywhere else.
 
-
-
-###### Harari on the World's Job
-The World's Job During the War on Hamas: Save the Space For Peace, Ideas, October 16, 2023, 
-<https://time.com/6324254/israel-hamas-war-peace-yuval-noah-harari/>
-
-
-"""
-Hamas’s crimes cannot be justified by blaming them on past Israeli conduct. Two wrongs don’t make a right. There is much to criticize Israel for holding millions of Palestinians for decades under occupation, and for abandoning in recent years any serious attempt to make peace with the Palestinian people.
-"""
-
-"""
-... Most Israelis are psychologically incapable at this moment of empathizing with the Palestinians. The mind is filled to the brim with our own pain, and no space is left to even acknowledge the pain of others. Many of the people who tried to hold such a space—like the Kutz family—are dead or deeply traumatized. Most Palestinians are in an analogous situation—their minds too are so filled with pain, they cannot see our pain.
-  
-But outsiders who are not themselves immersed in pain should make an effort to empathize with all suffering humans, rather than lazily seeing only part of the terrible reality. It is the job of outsiders to help maintain a space for peace. We deposit this peaceful space with you, because we cannot hold it right now. Take good care of it for us, so that one day, when the pain begins to heal, both Israelis and Palestinians might inhabit that space.
-"""
 
 
 
@@ -186,9 +171,9 @@ OPINION LOCAL VOICE, Jews who protest against Israel are not your enemies, BY MA
 Selected statements (emphasis added):
 
 """
-*The idea that the State of Israel represents all Jews. It does not. More Jews live in diaspora than in the State of Israel, and there have been anti-Zionist Jews for as long as Zionism itself has existed. The idea that Israel represents all Jews in fact makes Jews everywhere less safe — as we have already seen recently when people conflate the actions of Israel with the actions of theJewish people. And antisemites, most of them white nationalists, use this association to attack Jews who have nothing to do with the State of Israel.*
+The idea that the State of Israel represents all Jews. It does not. More Jews live in diaspora than in the State of Israel, and there have been anti-Zionist Jews for as long as Zionism itself has existed. The idea that Israel represents all Jews in fact makes Jews everywhere less safe — as we have already seen recently when people conflate the actions of Israel with the actions of theJewish people. And antisemites, most of them white nationalists, use this association to attack Jews who have nothing to do with the State of Israel.
 
-*The idea that Hamas represents all Palestinians. It does not. Even leaving aside the West Bank, where Hamas does not operate, there have been no elections in Gaza since 2006. Half the population of Gaza is children, most of whom weren’t even born in 2006. This idea also justifies horrific treatment of Palestinians, leading to the bombing of refugee camps and assaults on hospitals.*
+The idea that Hamas represents all Palestinians. It does not. Even leaving aside the West Bank, where Hamas does not operate, there have been no elections in Gaza since 2006. Half the population of Gaza is children, most of whom weren’t even born in 2006. This idea also [is used to] justifies horrific treatment of Palestinians, leading to the bombing of refugee camps and assaults on hospitals.
 
 *The idea that only one group — Palestinians or Jews — can be free in the land of Israel/Palestine. Freedom for one does not necessitate the removal of the other. Both peoples have reasons to fear genocide — but it is an inevitability for neither. It is possible for Palestinians and Jewish Israelis to live side by side in peace, as many peace organizations in the region have demonstrated over and over.*
 
@@ -197,4 +182,21 @@ Selected statements (emphasis added):
 
 """
 *We do not have to choose between grief for Israelis and grief for Palestinians. We can feel for and honor both. Nor do we have to choose between our Jewish faith and our belief in the inherent worthiness of all human life. As Hillel said, “What is hateful to you, do not do to your fellow. This is the whole entire Torah; the rest is commentary. Go and learn.”*
+"""
+
+
+
+
+###### Harari on the World's Job
+The World's Job During the War on Hamas: Save the Space For Peace, Ideas, October 16, 2023, 
+<https://time.com/6324254/israel-hamas-war-peace-yuval-noah-harari/>
+
+"""
+Hamas’s crimes cannot be justified by blaming them on past Israeli conduct. Two wrongs don’t make a right. There is much to criticize Israel for holding millions of Palestinians for decades under occupation, and for abandoning in recent years any serious attempt to make peace with the Palestinian people.
+"""
+
+"""
+... Most Israelis are psychologically incapable at this moment of empathizing with the Palestinians. The mind is filled to the brim with our own pain, and no space is left to even acknowledge the pain of others. Many of the people who tried to hold such a space—like the Kutz family—are dead or deeply traumatized. Most Palestinians are in an analogous situation—their minds too are so filled with pain, they cannot see our pain.
+  
+*But outsiders who are not themselves immersed in pain should make an effort to empathize with all suffering humans, rather than lazily seeing only part of the terrible reality. It is the job of outsiders to help maintain a space for peace. We deposit this peaceful space with you, because we cannot hold it right now. Take good care of it for us, so that one day, when the pain begins to heal, both Israelis and Palestinians might inhabit that space.*
 """
