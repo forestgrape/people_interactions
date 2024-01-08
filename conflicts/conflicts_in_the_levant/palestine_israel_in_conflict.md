@@ -39,7 +39,7 @@ This page is about the escalation of violence triggered by attacks led by Hamas 
 
 ## Board and Updates
 
-* A new section [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict) published as early online work. [Safety for Civilians](#safety-for-civilians) should be provided, if a ceasefire is not possible evacuation options can be provided, however one should make sure free pass to continue warfare, nobody should be forced and also it should be ensured that people can return.
+* A new section [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict) published as early online work. [Safety for Civilians](#safety-for-civilians) should be provided, if a ceasefire is not possible evacuation options can be provided. However one should make sure Israel reduces warfare and nobody should be forced and also it should be ensured that people can return.
 
 * [Opinions and Articles](#opinions-and-articles) chapter, which contains mainly articles with a focus to understand the situation and/or advocate for peace. (3.12.2023 online)
 * moved [notes on the escalation of violence](#notes-on-the-escalation-of-violence) to this page, which were originally published on page ['Ukraine and Russia in Conflict'](../ukr_ru_in_conflict/ukr_ru_in_conflict.md).
