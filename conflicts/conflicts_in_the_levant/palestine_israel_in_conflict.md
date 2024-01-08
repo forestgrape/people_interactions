@@ -1,12 +1,12 @@
 
 # Palestine and Israel in Conflict 2023
 
-This page is about the escalation of violence triggered by attacks led by Hamas against Israel on 7.10.2023. Namely the attacks out of Gaza by Hamas and other groups against Israel, Israel's repulsion of the attacks and Israel's Invasion into Gaza.
+This page is about the escalation of violence triggered by attacks led by Hamas against Israel on 7.10.2023. Namely the attacks out of Gaza by Hamas and other groups against Israel, Israel's repulsion of the attacks and Israel's Invasion into Gaza and violence in the West Bank.
 
 
 > Selected topics considered relevant for the current situation in Israel and Palestine  are listed/discussed.
 
-> 3.12.23: Not much content currently planned. Mainly [subjective] citations from resources of extraordinary value.
+> 3.12.23: Not much content currently planned. Mainly a [subjective] selection of citations of resources of extraordinary value.
 
 <!--
 > Goals are 
@@ -20,58 +20,187 @@ This page is about the escalation of violence triggered by attacks led by Hamas 
 
 * [Board and Updates](#board-and-updates)
 * [Considerations and Thoughts](#considerations-and-thoughts)
+  * [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict)
+  * [Notes on Escalation of Violence](#notes-on-escalation-of-violence)
+* [Events](#events)
+  * [Events and Situation Gaza](#events-and-situation-gaza)
+  * [Events and Situation in the West Bank](#events-and-situation-in-the-west-bank)
+  * [Events in International Governance](#events-in-international-governance)
+* [Legal Considerations](#legal-considerations)
+  * [South Africa Application before the ICJ](#south-africa-application-before-the-icj)
+  * [International Law in Similar Situations](#international-law-in-similar-situations)
 * [Opinions and Articles](#opinions-and-articles)
   * [Opinions from the Region](#opinions-from-the-region)
   * [Opinions from Eastern Asia](#opinions-from-eastern-asia)
+  * [Opinions International Organizations](#opinions-international-organizations)
   * [Opinions from Jewish Communities](#opinions-from-jewish-communities)
 
 
 
 ## Board and Updates
 
-* 3.12.2023 published as early online work.
+* A new section [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict) published as early online work. [Safety for Civilians](#safety-for-civilians) should be provided, if a ceasefire is not possible evacuation options can be provided, however one should make sure free pass to continue warfare, nobody should be forced and also it should be ensured that people can return.
 
 * [Opinions and Articles](#opinions-and-articles) chapter, which contains mainly articles with a focus to understand the situation and/or advocate for peace. (3.12.2023 online)
 * moved [notes on the escalation of violence](#notes-on-the-escalation-of-violence) to this page, which were originally published on page ['Ukraine and Russia in Conflict'](../ukr_ru_in_conflict/ukr_ru_in_conflict.md).
 
-
+* 3.12.2023 published as early online work.
 
 
 
 
 
 ## Considerations and Thoughts
-##### Notes on the Escalation of Violence
+
+### Opinion on Solutions of the Conflict
+Three pillars for a resolution:
+1. Safety and no more suffering for all civilians on all sides. If necessary provision of evacuation options.
+2. Paths to Peace which take into account the interest both by the people from Palestine and Israel.
+3. Judgement of all relevant events/occurrences under domestic and international law.
+
+> A stepwise approach is considered most promising. Starting with safety for civilians, ideally a truce, elaboration of plan for a lasting peace. The peace plan by Egypt outlines the first steps.
+
+
+#### Safety for Civilians
+A lasting ceasefire would be best, if that's not achievable providing evacuation options should be provided as *nobody* is reported *nowhere* safe in Gaza ([Situation Gaza]).
+
+> It should be made sure that warfare calms down and not gets worse when there is evacuation.
+
+> Evacuation, even if that results in forced migration, is considered much better than being stuck in danger & in near unliveable places. 
+> > For cases like this refugee rights once were created.
+<!--
+> * Cruise ships and possibly in some instances summer resorts could help to provide temporary accommodation. For example around the mediterranean sea or in central Europe.
+> -->
+
+> Sanctions can be used to guarantee a return.
+
+
+
+#### Path that led to Peace
+A perspective for both the people from Gaza and Israel to live in a peaceful setting with everyone's Human Rights fully guaranteed.
+
+
+
+#### Legal Judgement of Events
+
+Both the actions by Hamas and the response of Israel can be put forward to courts.
+
+Legal considerations including the application of South Africa before the ICJ are discussed in the section [Legal Considerations](#legal-considerations).
+
+
+
+### Notes on Escalation of Violence
 12.10.23 (12.-24.10. adapted, originally published on the page [Ukr_Ru_in_Conflict](../ukr_ru_in_conflict/ukr_ru_in_conflict.md)): 
 The escalation of violence in Israel/Palestine is shocking and worrisome. The pictures and stories about the atrocious attacks by Hamas (which initiated the current escalation) are extremely appalling and distressful. No less appalling and distressful are the pictures and stories from Gaza due to attacks which flatten entire neighborhoods.
 
 The statements from UN Secretary-General Guterres are shared: to end "the vicious cycle of bloodshed, hatred and polarization." (Middle East crisis: Guterres appeals for end to ‘vicious cycle of bloodshed, hatred and polarization’,<https://news.un.org/en/story/2023/10/1142082>). 
 
-
 A cessation of violence is hoped for:
 * to reduce the risk of further escalation, 
-* to prevent ongoing tragedies - to provide safety for the people on both sides: the hostages should be let go home in everyone's interest, all civilians - especially all children - should have safe places and not be targets.
+* to prevent ongoing tragedies - to provide safety for the people on both sides: the hostages should be let go home in everyone's interest. All civilians both people taking hostage and all inhabitants of Palestine - especially all children - should have safe places to go and not be targets.
 * to ensure good or at least acceptable conditions for help, 
-* to analyse what happened, how & why it happened
+* to analyze what happened, how & why it happened
 * to search & find near and midterm solutions for safety.
 * to search & find paths to lasting peace.
-* to avoid increasing the risk for future violence (e.g. Song, L. Y., Singer, M. I., & Anglin, T. M. (1998). Violence exposure and emotional trauma as contributors to adolescents' violent behaviors. Archives of pediatrics & adolescent medicine, 152(6), 531-536). 
+* to avoid increasing the risk for future violence. For example [Song et al](./references_palestine_israel_in_conflict.md#song-98) "Violence exposure and emotional trauma as contributors to adolescents' violent behaviors". 
       
-> So many people in the region, so many innocent people from Palestine and Israel, have been exposed themselves or their nearest to so much violence already for a long time and/or for horrible kinds of violence with so many victims [not possible to reference it in full. Selected references [in work]:  
-> * Laor N, Wolmer L, Mayes LC, et al. Israeli Preschoolers Under Scud Missile Attacks: A Developmental Perspective on Risk-Modifying Factors. Arch Gen Psychiatry. 1996;53(5):416–423. <https://jamanetwork.com/journals/jamapsychiatry/article-abstract/497577>, 
-> * Hein, F. A., Qouta, S., Thabet, A., & el Sarraj, E. (1993). Trauma and mental health of children in Gaza. BMJ (Clinical research ed.), 306(6885), 1130–1131. <https://doi.org/10.1136/bmj.306.6885.1130-c>].
+> So many people in the region, so many innocent people from Palestine and Israel, have been exposed themselves or their nearest to so much violence already for a long time and/or for horrible kinds of violence with so many victims [not possible to reference it in full].:  
+> * [Laor et al.](./references_palestine_israel_in_conflict.md#laor-96) in "Israeli Preschoolers Under Scud Missile Attacks: A Developmental Perspective on Risk-Modifying Factors." investigated the effects of Scud Missile attack threat, close by hits and damaged building on children. They find 6 months during the war all 3 groups of children showed discernible behavior, six months after only children who were displaced because of damaged houses showed discernible behavior such as aggression and stress. For 3 and 4 year-old displaced children symptomatic behavior was associated to the mothers symptoms and to family cohesion.
+> * [Hein et al](./references_palestine_israel_in_conflict.md#hein-93) in 1993 report a community survey on the violence exposure and trauma. Large proportions of children in Gaza had been exposed to violence. Likely as effect, many children felt nervousness, fears or restlessness and showed aggressive behavior and reduced concentration in school.
+> * []
+
+> It is important to figure out the right coping strategies. Coping which prevent violence and ideally led to or at least don't hinder peace and true friendship.
 
 
 
 
+## Events
+
+### Events and Situation Gaza 
+* There are reported *no* truly safe places in Gaza.
+* There living circumstances are reported in many places to be intolerable.
+
+
+###### UNRWA Situation Report
+UNRWA SITUATION REPORT #61 ON THE SITUATION IN THE GAZA STRIP AND THE WEST BANK, INCLUDING EAST JERUSALEM, Sunday, January 7, 2024, <https://www.unrwa.org/resources/reports/unrwa-situation-report-61-situation-gaza-strip-and-west-bank-including-east-Jerusalem>
+
+
+
+###### WHO on the Situation in Gaza
+Lethal combination of hunger and disease to lead to more deaths in Gaza
+21 December 2023 Statement Geneva
+<https://www.who.int/news/item/21-12-2023-lethal-combination-of-hunger-and-disease-to-lead-to-more-deaths-in-gaza>
+
+
+###### Time Magazine on Situation in Gaza
+Gaza Is Being Made Unlivable, BY JAN EGELANDDECEMBER 20, 2023 12:59 PM EST
+Jan Egeland is the secretary general of the Norwegian Refugee Council.
+<https://time.com/6549448/gaza-shelter-unlivable/>
+
+
+How Experts Believe Starvation Is Being Utilized in Gaza, BY MALLORY MOENCHJANUARY 6, 2024 11:40 AM EST
+<https://time.com/6552740/gaza-israel-starvation-hunger/>
+
+
+###### IDF usage of Unguided Bombs 
+Military experts discuss Israel’s use of unguided bombs and harm to civilians in Gaza
+Dec 15, 2023 6:55 PM EST, <https://www.pbs.org/newshour/show/military-experts-discuss-israels-use-of-unguided-bombs-and-harm-to-civilians-in-gaza>
+
+"""Well, I certainly agree that unguided weapons can be used in an accurate way in certain circumstances. But we're talking here about 10,000 to 15,000 unguided bombs being dropped in one of the most densely populated parts of the Earth. And this is incredibly dangerous. Now, looking at the weapons transfers that are put publicly out by the Defense Security Cooperation Agency, we can see that over 35,000 guided weapons have been provided to Israel in recent years."""
+
+
+
+### Events and Situation in the West Bank 
+
+###### European Countries on Violence in the West Bank
+Joint statement on settler violence on the West Bank
+Published 15 December 2023, Australia, Belgium, Canada, Denmark, the European Union, Finland, France, Ireland, Luxembourg, the Netherlands, Norway, Spain, Sweden, Switzerland, and the United Kingdom call on Israel to take immediate and concrete steps to tackle record high settler violence in the occupied West Bank.
+<https://www.government.se/statements/2023/12/joint-statement-on-settler-violence-on-the-west-bank/>
+
+###### Yesh Din on the Situation in the West Bank
+Israeli settler violence against Palestinians in the West Bank under the guise of war
+28.11.2023, <https://www.yesh-din.org/en/israeli-settler-violence-against-palestinians-in-the-west-bank-under-the-guise-of-war/>
+
+### Events in International Governance
+
+[in work]
+
+
+
+
+
+## Legal Considerations
+
+> Conflicts and possible unlawful behavior to be subject to jurisprudence is supported here. 
+
+> Courts can scrutinize and judge all possible unlawful actions by actors from both Israel and Gaza/Hamas. In this respect, it is considered positive that South Africa brings the case to the ICJ.
+
+
+### South Africa Application before the ICJ
+
+###### Media Statement by South Africa
+South Africa approaches the International Court of Justice under the Genocide Convention with respect to acts committed by Israel in the context of its attacks on Gaza
+Media Statement, 29 December 2023
+<https://www.dirco.gov.za/south-africa-approaches-the-international-court-of-justice-under-the-genocide-convention-with-respect-to-acts-committed-by-israel-in-the-context-of-its-attacks-on-gaza/>
+
+###### ICJ Case 192
+Document Number 192-20231228-APP-01-00-EN
+Document Type application
+Case 192 - Proceedings instituted by South Africa against the State of Israel on 29 December 2023
+<https://www.icj-cij.org/node/203394>
+
+
+### International Law in Similar Situations
+###### UN on Attacks on Medical Units
+Attacks on Medical Units in International Humanitarian and Human Rights Law, September 2016
 
 
 
 ## Opinions and Articles
 
-> Selected statements of the articles are cited with """<cites>""". Emphasis added as *cursive*.
+> Selected statements of the articles are cited as "cite",'cite' or """cites""". Emphasis added as *cursive*.
 
-> [Some] reasons articles themselves and statements thereof are selected are: Well reasoned, elucidative regarding the conflict including the opinion by actors/observers, paths to peace.
+> Reasons articles themselves and statements thereof are selected are: Well reasoned, elucidative regarding the conflict including the opinion by actors/observers, advocation for peace.
 
 
 
@@ -108,20 +237,19 @@ Two interviews with Rania Al Abdullah of Jordan are referenced both published at
 Queen Rania of Jordan accuses West of ‘glaring double standard’ as the death toll rises in besieged Gaza, By Sana Noor Haq and Claire Calzonetti, 
 Updated 10:12 AM EDT, Wed October 25, 2023
 <https://edition.cnn.com/2023/10/24/middleeast/queen-rania-jordan-amanpour-interview-intl> <!--also cited in The Guardian:<https://www.theguardian.com/world/2023/oct/25/queen-rania-of-jordan-condemns-wests-silence-over-israeli-bombing-of-gaza>-->
-* 'Rania said, “The people all around the Middle East, including in Jordan, we are just shocked and disappointed by the world’s reaction to this catastrophe that is unfolding. In the last couple of weeks, we have seen a glaring double standard in the world.”'
+* “The people all around the Middle East, including in Jordan, we are just shocked and disappointed by the world’s reaction to this catastrophe that is unfolding. In the last couple of weeks, we have seen a glaring double standard in the world.”
 * '“Are we being told that it is wrong to kill a family, an entire family, at gunpoint, but it’s OK to shell them to death? I mean, there is a glaring double standard here,” she said. “It is just shocking to the Arab world.”'
-* '''“Most networks are covering the story under the title of ‘Israel at war.’ But for many Palestinians on the other side of the separation wall, on the other side of the barbed wire, war has never left,” she said. 
-“This is a 75-year-old story, a story of overwhelming death and displacement to the Palestinian people. It is a story of an occupation under apartheid regime, that occupies lands, that demolishes houses, confiscates lands, military incursions, night raids.”'''
+* “Most networks are covering the story under the title of ‘Israel at war.’ But for many Palestinians on the other side of the separation wall, on the other side of the barbed wire, war has never left,” “This is a 75-year-old story, a story of overwhelming death and displacement to the Palestinian people. It is a story of an occupation under apartheid regime, that occupies lands, that demolishes houses, confiscates lands, military incursions, night raids."
 
 
 ###### Interview with Rania of Jordan 06112023
 Jordan’s Queen Rania says being pro-Palestinian does not equal being ‘antisemitic’ <https://edition.cnn.com/2023/11/06/middleeast/queen-rania-jordan-israel-gaza-interview-intl-hnk/index.html>. The interview is also cited on the personal website of Rania of Jordan: <https://www.queenrania.jo/en/media/press-releases/queen-rania-says-massive-palestinian-casualties-cannot-be-dismissed-human>
 
 * '*“Let me be very, very clear. Being pro-Palestinian is not being antisemitic, being pro-Palestinian does not mean you’re pro-Hamas or pro-terrorism,”* Rania told CNN’s Becky Anderson on Sunday.' (text from CNN site)
-* "If you manage to eliminate all of Hamas what next? The root cause of this conflict is an illegal occupation, it is routine human right abuses, illegal settlements, disregard to UN resolutions and international law. If we do not address these root causes, then you can kill the combatants but you cannot kill the cause." (transcribed from CNN video)
-* *"When it comes to human shields, I think we need to defer to international law. Of course the use of human shields is criminal. But even if one side puts a civilian in harms way, that civilian is still entitled to full protection under international humanitarian law. That is the global standard and no nation is exempt."*  (transcribed from CNN video)
+* *"If you manage to eliminate all of Hamas what next? The root cause of this conflict is an illegal occupation, it is routine human right abuses, illegal settlements, disregard to UN resolutions and international law. If we do not address these root causes, then you can kill the combatants but you cannot kill the cause."* (transcribed from CNN video)
+* *"When it comes to human shields, I think we need to refer to international law. Of course the use of human shields is criminal. But even if one side puts a civilian in harms way, that civilian is still entitled to full protection under international humanitarian law. That is the global standard and no nation is exempt."*  (transcribed from CNN video)
 * “In a place like Jabaliya, which is one of the most crowded corners of Gaza – and Gaza being one of the most densely populated spots on Earth – civilian death is not incidental, it is not accidental. It is a foregone conclusion.” (Rania Al Abdullah official website, CNN video)
-* '“We have had a long history of peaceful coexistence. So this is not about religion. It is about politics,” she said.' (Rania Al Abdullah official website)
+* “We have had a long history of peaceful coexistence. So this is not about religion. It is about politics,” (Rania Al Abdullah official website)
 
 
 
@@ -135,9 +263,10 @@ Saudi Arabia rejects forced displacement of Palestinian, calls for lifting Gaza 
 
 
 ##### Mitsotakis on Israel's Gaza Assault via Politico
-Greek Prime Minister Kyriakos Mitsotakis, Menelaos Myrillas/SOOC, NOVEMBER 9, 2023 5:05 AM CET
+Greek Prime Minister Kyriakos Mitsotakis, Menelaos Myrillas/SOOC,Israel’s friends must give it ‘hard truths’ over Gaza assault, says Greek PM, NOVEMBER 9, 2023 5:05 AM CET
 
-"""Israel’s friends must give it ‘hard truths’ over Gaza assault, says Greek PM ‘There will be an increased concern about the proportionality of the Israeli response,’ Kyriakos Mitsotakis tells POLITICO."""
+'''Greek Prime Minister Kyriakos Mitsotakis said Israel’s allies must speak “hard truths” about its “aggressive” military response against Hamas, as European countries show increasing concern over the “proportionality” of its retaliation in Gaza.'''
+
 
 
 
@@ -151,10 +280,19 @@ Greek Prime Minister Kyriakos Mitsotakis, Menelaos Myrillas/SOOC, NOVEMBER 9, 20
 
 """Beijing – Israel's actions in Gaza have gone "beyond the scope of self-defense" and the Israeli government must "cease its collective punishment of the people of Gaza," China's Foreign Minister Wang Yi said in remarks published Sunday."""
 
+### Opinions International Organizations
 
+###### Guterres appeals to end Vicious Cycle
+Middle East crisis: Guterres appeals for end to ‘vicious cycle of bloodshed, hatred and polarization’,<https://news.un.org/en/story/2023/10/1142082>). 
 
+* "It’s time to end the vicious circle of bloodshed, hatred & polarization in the Middle East.<br>
+Israel must see its legitimate needs for security materialized, and Palestinians
+must see a clear perspective for the establishment of their own state realized." (via Twitter @antonioguterres, 7:28 PM, 9.10.23)
 
+* “I recognize the legitimate grievances of the Palestinian people. But nothing can justify these acts of terror and the killing, maiming and abduction of civilians, I reiterate my call to
+immediately cease these attacks and release all hostages."
 
+* “While I recognize Israel’s legitimate security concerns, I also remind Israel that military operations must be conducted in strict accordance with international humanitarian law."
 
 
 
@@ -175,7 +313,7 @@ The idea that the State of Israel represents all Jews. It does not. More Jews li
 
 The idea that Hamas represents all Palestinians. It does not. Even leaving aside the West Bank, where Hamas does not operate, there have been no elections in Gaza since 2006. Half the population of Gaza is children, most of whom weren’t even born in 2006. This idea also [is used to] justifies horrific treatment of Palestinians, leading to the bombing of refugee camps and assaults on hospitals.
 
-*The idea that only one group — Palestinians or Jews — can be free in the land of Israel/Palestine. Freedom for one does not necessitate the removal of the other. Both peoples have reasons to fear genocide — but it is an inevitability for neither. It is possible for Palestinians and Jewish Israelis to live side by side in peace, as many peace organizations in the region have demonstrated over and over.*
+The idea that only one group — Palestinians or Jews — can be free in the land of Israel/Palestine. Freedom for one does not necessitate the removal of the other. Both peoples have reasons to fear genocide — but it is an inevitability for neither. It is possible for Palestinians and Jewish Israelis to live side by side in peace, as many peace organizations in the region have demonstrated over and over.
 
 *The idea that violence will solve this problem. It will not. If bombing Gaza could stop Hamas, it would already have worked in the Israel Defense Forces’ campaigns in 2008 or 2014. If killing Israelis is meant to end the occupation and persecution of Palestinians, it would already have worked after the first or second intifada. The idea that violence will solve this problem hardens our hearts to the human pain and suffering that is at the root of all violence.*
 """ 
@@ -192,7 +330,7 @@ The World's Job During the War on Hamas: Save the Space For Peace, Ideas, Octobe
 <https://time.com/6324254/israel-hamas-war-peace-yuval-noah-harari/>
 
 """
-Hamas’s crimes cannot be justified by blaming them on past Israeli conduct. Two wrongs don’t make a right. There is much to criticize Israel for holding millions of Palestinians for decades under occupation, and for abandoning in recent years any serious attempt to make peace with the Palestinian people.
+*Hamas’s crimes cannot be justified by blaming them on past Israeli conduct. Two wrongs don’t make a right. There is much to criticize Israel for holding millions of Palestinians for decades under occupation, and for abandoning in recent years any serious attempt to make peace with the Palestinian people.*
 """
 
 """
