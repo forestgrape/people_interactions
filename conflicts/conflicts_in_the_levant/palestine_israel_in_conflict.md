@@ -22,10 +22,9 @@ This page is about the escalation of violence triggered by attacks led by Hamas 
 * [Considerations and Thoughts](#considerations-and-thoughts)
   * [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict)
   * [Notes on Escalation of Violence](#notes-on-escalation-of-violence)
-* [Events](#events)
+* [Events and Situation](#events-and-situation)
   * [Events and Situation Gaza](#events-and-situation-gaza)
   * [Events and Situation in the West Bank](#events-and-situation-in-the-west-bank)
-  * [Events in International Governance](#events-in-international-governance)
 * [Legal Considerations](#legal-considerations)
   * [South Africa Application before the ICJ](#south-africa-application-before-the-icj)
   * [International Law in Similar Situations](#international-law-in-similar-situations)
@@ -54,20 +53,19 @@ This page is about the escalation of violence triggered by attacks led by Hamas 
 
 ### Opinion on Solutions of the Conflict
 Three pillars for a resolution:
-1. Safety and no more suffering for all civilians on all sides. If necessary provision of evacuation options.
+1. Safety and no more suffering for all civilians on all sides (both residents and hostages). Safety/ability to move to safe places means letting the hostages go and provision of truly safe locations for the residents of Gaza, if necessary by evacuation options. 
 2. Paths to Peace which take into account the interest both by the people from Palestine and Israel.
 3. Judgement of all relevant events/occurrences under domestic and international law.
 
-> A stepwise approach is considered most promising. Starting with safety for civilians, ideally a truce, elaboration of plan for a lasting peace. The peace plan by Egypt outlines the first steps.
+> A stepwise approach is considered most promising. Starting with safety for civilians, ideally a truce, elaboration of plan for a lasting peace. For example, the peace plan by Egypt outlines first steps.
 
 
 #### Safety for Civilians
-A lasting ceasefire would be best, if that's not achievable providing evacuation options should be provided as *nobody* is reported *nowhere* safe in Gaza ([Situation Gaza]).
+*Nobody* is reported [*nowhere* safe in Gaza](#events-and-situation-gaza)). A lasting ceasefire would be best. If that's not achievable evacuation options can be provided.
 
-> It should be made sure that warfare calms down and not gets worse when there is evacuation.
-
-> Evacuation, even if that results in forced migration, is considered much better than being stuck in danger & in near unliveable places. 
-> > For cases like this refugee rights once were created.
+> 1. It should be made sure that warfare calms down and not gets worse  regardless of evacuation options.
+> 2. Evacuation, even if that results in pushed migration, is considered better than being stuck in danger & in near unliveable places.
+> > Refugee rights were created, people are able to seek refuge.
 <!--
 > * Cruise ships and possibly in some instances summer resorts could help to provide temporary accommodation. For example around the mediterranean sea or in central Europe.
 > -->
@@ -79,11 +77,13 @@ A lasting ceasefire would be best, if that's not achievable providing evacuation
 #### Path that led to Peace
 A perspective for both the people from Gaza and Israel to live in a peaceful setting with everyone's Human Rights fully guaranteed.
 
+<!--Interests people from Israel, Interests people from Palestine-->
+
 
 
 #### Legal Judgement of Events
 
-Both the actions by Hamas and the response of Israel can be put forward to courts.
+Both the actions by Hamas and the actions by Israel can be put forward to courts.
 
 Legal considerations including the application of South Africa before the ICJ are discussed in the section [Legal Considerations](#legal-considerations).
 
@@ -114,7 +114,7 @@ A cessation of violence is hoped for:
 
 
 
-## Events
+## Events and Situation
 
 ### Events and Situation Gaza 
 * There are reported *no* truly safe places in Gaza.
@@ -136,7 +136,6 @@ Lethal combination of hunger and disease to lead to more deaths in Gaza
 Gaza Is Being Made Unlivable, BY JAN EGELANDDECEMBER 20, 2023 12:59 PM EST
 Jan Egeland is the secretary general of the Norwegian Refugee Council.
 <https://time.com/6549448/gaza-shelter-unlivable/>
-
 
 How Experts Believe Starvation Is Being Utilized in Gaza, BY MALLORY MOENCHJANUARY 6, 2024 11:40 AM EST
 <https://time.com/6552740/gaza-israel-starvation-hunger/>
@@ -161,11 +160,6 @@ Published 15 December 2023, Australia, Belgium, Canada, Denmark, the European Un
 Israeli settler violence against Palestinians in the West Bank under the guise of war
 28.11.2023, <https://www.yesh-din.org/en/israeli-settler-violence-against-palestinians-in-the-west-bank-under-the-guise-of-war/>
 
-### Events in International Governance
-
-[in work]
-
-
 
 
 
@@ -173,7 +167,9 @@ Israeli settler violence against Palestinians in the West Bank under the guise o
 
 > Conflicts and possible unlawful behavior to be subject to jurisprudence is supported here. 
 
-> Courts can scrutinize and judge all possible unlawful actions by actors from both Israel and Gaza/Hamas. In this respect, it is considered positive that South Africa brings the case to the ICJ.
+> Courts can scrutinize and judge all possible unlawful actions by actors from both Israel and Gaza/Hamas. 
+
+> In this respect, it is considered right that South Africa brings the case to the ICJ.
 
 
 ### South Africa Application before the ICJ
@@ -193,6 +189,8 @@ Case 192 - Proceedings instituted by South Africa against the State of Israel on
 ### International Law in Similar Situations
 ###### UN on Attacks on Medical Units
 Attacks on Medical Units in International Humanitarian and Human Rights Law, September 2016
+
+
 
 
 
