@@ -1,7 +1,8 @@
 
 # Palestine and Israel in Conflict 2023
 
-This page is about the escalation of violence triggered by attacks led by Hamas against Israel on 7.10.2023. Namely the attacks out of Gaza by Hamas and other groups against Israel, Israel's repulsion of the attacks and Israel's Invasion into Gaza and violence in the West Bank.
+Topics on the escalation of violence triggered by attacks led by Hamas against Israel on 7.10.2023 are considered. 
+> The escalation of violence has three phases: the attacks out of Gaza by Hamas and other groups against Israel, Israel's repulsion of the attacks and Israel's Invasion into Gaza and violence in the West Bank.
 
 
 > Selected topics considered relevant for the current situation in Israel and Palestine  are listed/discussed.
@@ -38,12 +39,12 @@ This page is about the escalation of violence triggered by attacks led by Hamas 
 
 ## Board and Updates
 
-* A new section [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict) published as early online work. [Safety for Civilians](#safety-for-civilians) should be provided, if a ceasefire is not possible evacuation options can be provided. However one should make sure Israel reduces warfare and nobody should be forced and also it should be ensured that people can return.
+* 8.-10.1.24 (crucial corrections&clarifications on 10.1.): A new section [Opinion on Solutions of the Conflict](#opinion-on-solutions-of-the-conflict) started. Safety for Civilians, Perspectives for Peace and applying Jurisprudence.
 
-* [Opinions and Articles](#opinions-and-articles) chapter, which contains mainly articles with a focus to understand the situation and/or advocate for peace. (3.12.2023 online)
-* moved [notes on the escalation of violence](#notes-on-the-escalation-of-violence) to this page, which were originally published on page ['Ukraine and Russia in Conflict'](../ukr_ru_in_conflict/ukr_ru_in_conflict.md).
+* 3.12.2023: [Opinions and Articles](#opinions-and-articles) chapter, which contains mainly articles with a focus to understand the situation and/or advocate for peace.
+* 3.12.2023: started page and moved [notes on the escalation of violence](#notes-on-the-escalation-of-violence) here, which were originally published on page ['Ukraine and Russia in Conflict'](../ukr_ru_in_conflict/ukr_ru_in_conflict.md).
 
-* 3.12.2023 published as early online work.
+
 
 
 
@@ -53,28 +54,33 @@ This page is about the escalation of violence triggered by attacks led by Hamas 
 
 ### Opinion on Solutions of the Conflict
 Three pillars for a resolution:
-1. Safety and no more suffering for all civilians on all sides (both residents and hostages). Safety/ability to move to safe places means letting the hostages go and provision of truly safe locations for the residents of Gaza, if necessary by evacuation options. 
-2. Paths to Peace which take into account the interest both by the people from Palestine and Israel.
-3. Judgement of all relevant events/occurrences under domestic and international law.
+1. [Safety for civilians](#safety-for-civilians) on all sides (both residents and hostages). For safety of civilians a ceasefire is best. As a fall back is considered the ability to move to safe places, which means letting the hostages go and provision of truly safe locations for the residents of Gaza, if necessary providing options for temporary evacuation. 
+   > If evacuation is necessary, sanctions against the IDF and its supporter are so too.
+2. Elaborating [Perspectives for Peace](#perspectives-for-peace) which take into account the interest both by the people from Palestine and Israel.
+   > A stepwise approach is considered most promising. Starting with safety for civilians, ideally a truce, elaboration of plan for a lasting peace. For example, the peace plan by Egypt outlines first steps.
+3. [Legal judgement](#legal-judgement-of-events) of all relevant events/occurrences under domestic and international law.
 
-> A stepwise approach is considered most promising. Starting with safety for civilians, ideally a truce, elaboration of plan for a lasting peace. For example, the peace plan by Egypt outlines first steps.
+
 
 
 #### Safety for Civilians
 *Nobody* is reported [*nowhere* safe in Gaza](#events-and-situation-gaza)). A lasting ceasefire would be best. If that's not achievable evacuation options can be provided.
+> * Temporary evacuation options are just meant to prevent people from being stuck in near unliveable places. // It's about preventing uninvolved/innocent people especially children suffering from other's war.
+> * Regardless of evacuation options, respect for humanitarian international law - including the respect of local civilian areas i.e. there are local safe places - is imperative.
+> * If the IDF warfare is that reckless that evacuation options are necessary at least a weapon embargo and stopping cooperation with the IDF and its military supporters is adequate.
 
-> 1. It should be made sure that warfare calms down and not gets worse  regardless of evacuation options.
-> 2. Evacuation, even if that results in pushed migration, is considered better than being stuck in danger & in near unliveable places.
-> > Refugee rights were created, people are able to seek refuge.
+
+> Refugee rights were created, people are able to seek refuge.
+
 <!--
-> * Cruise ships and possibly in some instances summer resorts could help to provide temporary accommodation. For example around the mediterranean sea or in central Europe.
+> Cruise ships and suitable summer resorts could provide temporary accommodation. For example in the mediterranean area or in central Europe.
 > -->
 
-> Sanctions can be used to guarantee a return.
+> Sanctions can be used both to guarantee a return and to discourage/penalize warfare against international standards.
 
 
 
-#### Path that led to Peace
+#### Perspectives for Peace
 A perspective for both the people from Gaza and Israel to live in a peaceful setting with everyone's Human Rights fully guaranteed.
 
 <!--Interests people from Israel, Interests people from Palestine-->
@@ -109,7 +115,7 @@ A cessation of violence is hoped for:
 > * [Hein et al](./references_palestine_israel_in_conflict.md#hein-93) in 1993 report a community survey on the violence exposure and trauma. Large proportions of children in Gaza had been exposed to violence. Likely as effect, many children felt nervousness, fears or restlessness and showed aggressive behavior and reduced concentration in school.
 > * []
 
-> It is important to figure out the right coping strategies. Coping which prevent violence and ideally led to or at least don't hinder peace and true friendship.
+> It is important to figure out the right coping strategies. Coping which prevent violence and ideally led to or at least don't hinder honest peace and friendship.
 
 
 
@@ -145,7 +151,15 @@ How Experts Believe Starvation Is Being Utilized in Gaza, BY MALLORY MOENCHJANUA
 Military experts discuss Israel’s use of unguided bombs and harm to civilians in Gaza
 Dec 15, 2023 6:55 PM EST, <https://www.pbs.org/newshour/show/military-experts-discuss-israels-use-of-unguided-bombs-and-harm-to-civilians-in-gaza>
 
-"""Well, I certainly agree that unguided weapons can be used in an accurate way in certain circumstances. But we're talking here about 10,000 to 15,000 unguided bombs being dropped in one of the most densely populated parts of the Earth. And this is incredibly dangerous. Now, looking at the weapons transfers that are put publicly out by the Defense Security Cooperation Agency, we can see that over 35,000 guided weapons have been provided to Israel in recent years."""
+<!--According to reports from CNN and The Washington Post, the U.S. intelligence community believes that up to 45 percent of the
+bombs Israel has dropped in Gaza were unguided, a tactic that Israel’s military has defended. Geoff Bennett discusses those
+weapons with retired Air Force Lt. Gen. David Deptula and Marc Garlasco, former chief of high value targeting at the Defense
+Intelligence Agency.-->
+
+"""
+Marc Garlasco: 
+Well, I certainly agree that unguided weapons can be used in an accurate way in certain circumstances. But we're talking here about 10,000 to 15,000 unguided bombs being dropped in one of the most densely populated parts of the Earth. And this is incredibly dangerous. Now, looking at the weapons transfers that are put publicly out by the Defense Security Cooperation Agency, we can see that over 35,000 guided weapons have been provided to Israel in recent years.
+"""
 
 
 
