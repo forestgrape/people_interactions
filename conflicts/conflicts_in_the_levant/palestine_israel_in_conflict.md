@@ -64,10 +64,10 @@ Three pillars for a resolution:
 
 
 #### Safety for Civilians
-*Nobody* is reported [*nowhere* safe in Gaza](#events-and-situation-gaza)). A lasting ceasefire would be best. If that's not achievable evacuation options can be provided.
+*Nobody is reported [nowhere safe in Gaza](#events-and-situation-gaza)*. A lasting ceasefire would be best. If that's not achievable evacuation options can be provided.
 > * Temporary evacuation options are just meant to prevent people from being stuck in near unliveable places. // It's about preventing uninvolved/innocent people especially children suffering from other's war.
-> * Regardless of evacuation options, respect for humanitarian international law - including the respect of local civilian areas i.e. there are local safe places - is imperative.
-> * If the IDF warfare is that reckless that evacuation options are necessary at least a weapon embargo and stopping cooperation with the IDF and its military supporters is adequate.
+> * Respect for humanitarian international law - including the respect of civilian areas is crucial regardless whether there are evacuation options.
+> * If the IDF warfare is that reckless, that evacuation options are necessary, a weapon embargo and stopping cooperation with the IDF and its military supporters is adequate.
 
 
 > Refugee rights were created, people are able to seek refuge.
@@ -120,11 +120,11 @@ A cessation of violence is hoped for:
 
 
 
-## Events and Situation
+## Events and Situation 7.10. onwards
 
 ### Events and Situation Gaza 
 * There are reported *no* truly safe places in Gaza.
-* There living circumstances are reported in many places to be intolerable.
+* The living circumstances are reported in many places to be intolerable.
 
 
 ###### UNRWA Situation Report
